@@ -1,5 +1,5 @@
-﻿#bItem Upgrading#nb
+﻿#bAmélioration d’objet#nb
 
-Upgrading an item raises its base stats an enhances its overall power and/or defenses.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Améliorer un objet augmente ses statistiques de base et renforce sa puissance globale et/ou sa défense.
+#cffff0000L’utilisation d’un parchemin de protection garantit que votre objet ne pourra pas être détruit lors du processus.
+Le parchemins Bas Sprotect, diminue l'attribut au lieu de détruire l'équipement lors de l'amélioration
