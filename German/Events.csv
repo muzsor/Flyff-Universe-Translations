@@ -32,20 +32,20 @@ UI_EVENT_UPGRADING,Upgrading!,Aufwerten!
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Glücksauslosung
 UI_EVENT_LUCKYCAPSULE_DESC,Earn coins by defeating monsters or completing quests for the Gacha Machine NPC and receive exceptional rewards!,"Verdiene Münzen, indem du Monster besiegst oder Quests für den Gacha Maschine NPC erledigst, und erhalte außergewöhnliche Belohnungen!"
 UI_EVENT_DROPBOOST,Drop Boost!,Drop Boost!
-UI_EVENT_SUITPIERCING,Suit Piercing!,Anzug Sockeln!
+UI_EVENT_SUITPIERCING,Suit Piercing!,Oberteil Sockeln!
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff Musik Festival!
 UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them to NPC Bach,Sammle Musiknoten und Notenrollen von Monstern und tausche sie bei NPC Bach ein.
 UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,+30% Erfahrung!
 UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,+30% Gruppen-Erfahrung!
 UI_EVENT_SECRETBOOST,Secret boost!,Geheimer Boost!
 UI_EVENT_RESCUE,Rescue Private Leo!,Rette den Gefreiten Löwe!
-UI_EVENT_STONERAIN,Stone Rain!,Steinschlag!
+UI_EVENT_STONERAIN,Stone Rain!,Steinregen!
 UI_EVENT_STONERAIN_DESC,Drop upgrade stones pieces!,Drop Upgrade Steinteile!
 UI_EVENT_LUCKYRPS,Lucky RPS Event,Lucky RPS Event
 UI_EVENT_SERVICEMIGRATION,September Connect,September Connect
 UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,Spieler-Umfrage! Gewinne besondere Belohnungen!
 UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,Besuche https://linktr.ee/flyffuniverse
-UI_EVENT_OKTOBERFEST,Oktoberfest!,September Connect
+UI_EVENT_OKTOBERFEST,Oktoberfest!,Oktoberfest!
 UI_EVENT_TIME_TO_HUNT,Time to Hunt,Die Stunde der Jagd
 UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?","Es war ein rekordverdächtiges Jahr, also gibt es eine Menge Monster, die es auf die Ernte abgesehen haben.\nEs ist Zeit, sie zur Strecke zu bringen! Kannst du dabei helfen?"
 UI_EVENT_TRICKORTREAT,Trick or Treat,Süßes oder Saures
@@ -64,52 +64,52 @@ UI_EVENT_LETTER_COLLECTION_PT100,100 points,100 Punkte
 UI_EVENT_LETTER_COLLECTION_PT150,150 points,150 Punkte
 UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 Punkte
 UI_EVENT_CANDYEVENT,Candy Event,Candy Event
-UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Spring 2024 Event
-UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Attack of the Hungry Monsters
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Daily Connection
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Let's celebrate for 2nd anniversary of Flyff Universe!
-UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2nd Anniversary!
-UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!
-UI_EVENT_ANNIVERSARY2_CAKE,Cake,Cake
-UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Couple Ring from the Legend
+UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Frühlings 2024 Event
+UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Angriff er hungrigen Monster
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Tägliche Verbindung
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Lasst uns das 2. Jubiläum von Flyff Universe feiern!
+UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2 Jahres Jubiläum!
+UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 2 Jahre alt! Ein riesiges Dankeschön an alle Spieler, die diesen Meilenstein möglich gemacht haben!"
+UI_EVENT_ANNIVERSARY2_CAKE,Cake,Kuchen
+UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Ehering der Legende
 UI_EVENT_EXPBOOST_DESC_100,Experience x2!,Experience x2!
 UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,Drop Chance x2!
-UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Instance Dungeon Cooldown
+UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Instanz Dungeon Cooldown
 UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Upgrade Boost!
 UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Upgrade Chance x2!
 UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
-UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon and own a permanent costume!,Obtain EXP and event items in the dungeon and own a permanent costume!
-UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Roll your Lucky Dice!
-UI_EVENT_ROLL_DICE_DESC,Complete Daily Quests to earn an opportunity to roll the dice for rewards!,Complete Daily Quests to earn an opportunity to roll the dice for rewards!
-UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyff's 20th Anniversary
-UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th anniversary!,Celebrate Flyff's 20th anniversary!
-UI_EVENT_PIRATESHIP,Plunder the treasure from the Pirate Ship!,Plunder the treasure from the Pirate Ship!
+UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon and own a permanent costume!,Sammle EXP und Event-Gegenstände im Dungeon und sichere dir ein dauerhaftes Kostüm!
+UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Rolle deine Glückswürfel!
+UI_EVENT_ROLL_DICE_DESC,Complete Daily Quests to earn an opportunity to roll the dice for rewards!,"Schließe die täglichen Quests ab, um die Chance zu erhalten, die Würfel für Belohnungen zu rollen!"
+UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,20. Jubiläum von Flyff
+UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th anniversary!,Feiere das 20. Jubiläum von Flyff!
+UI_EVENT_PIRATESHIP,Plunder the treasure from the Pirate Ship!,Plündere den Schatz vom Piratenschiff!
 UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
-UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1 Update Celebration
+UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Feier zum 1.4.1-Update
 UI_EVENT_145_ATTENDANCE,Login Event,Login Event
-UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Login each day for 30 minutes and receive rewards!
-UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Mastery Event
-UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Increase your life gathering mastery gain by 20%!
-UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Mastery Event
-UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Increase your life production mastery gain by 20%!
+UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Logge dich jeden Tag 30 Minuten ein und erhalte Belohnungen!
+UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Meisterschafts-Event
+UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Erhöht deine life sammel mastery um 20%!
+UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Meisterschafts-Event
+UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,erhöht deine life herstellungs mastery um 20%!
 UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
-UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Increase your whole life mastery gain by 20%!
+UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Erhöht deine ganze life mastery Erfahrung um 20%!
 UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Increase your life gathering speed by 20%!
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Erhöht deine life Sammel-Geschwindingkeit um 20%!
 UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
-UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Increase your life production speed by 20%!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Life Gathering Durability Cost Reduction Event!
-UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces by 1 the durability cost when gathering!,Reduces by 1 the durability cost when gathering!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Marchant Renewal Event!,Life Wandering Marchant Renewal Event!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The wandering merchant's renewal will occur 30 minutes earlier during the event!,The wandering merchant's renewal will occur 30 minutes earlier during the event!
-UI_EVENT_LIFEGATHERINGSPAWN,Increased Life Gathering Spawn Event!,Increased Life Gathering Spawn Event!
-UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,Increase gathering objects spawn count by 20%!,Increase gathering objects spawn count by 20%!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Items!,Life Wandering Merchant Items!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!
-UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3rd Anniversary Field Boss Event
-UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Prediction Event
-UI_EVENT_FWC_PREDICTION_DESC,FWC Championship Prediction Event!,FWC Championship Prediction Event!
-UI_EVENT_TIMETOUPGRADE,It's time to Upgrade!,It's time to Upgrade!
-UI_EVENT_TIMETOUPGRADE_DESC,"Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box.","Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box."
-UI_EVENT_PTS,Public Test Server,Public Test Server
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information.","Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information."
+UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Erhöht deine life Herstellungs-Geschwindigkeit um 20%!
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Event zur Reduzierung der Haltbarkeitskosten beim life sammeln!
+UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces by 1 the durability cost when gathering!,Verringert die Haltbarkeitskosten beim Sammeln um 1!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Marchant Renewal Event!,Event zur Erneuerung des Warenbestandes des wandernden Händlers
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The wandering merchant's renewal will occur 30 minutes earlier during the event!,Die Erneuerung des Sortiments des wandernden Händlers erfolgt während des Events 30 Minuten früher!
+UI_EVENT_LIFEGATHERINGSPAWN,Increased Life Gathering Spawn Event!,Erhöhtes Life Sammel Spawn Event!
+UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,Increase gathering objects spawn count by 20%!,Erhöhe die Anzahl der Sammelobjekte um 20 %!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Items!,Items des wandernden Händlers!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!,Die maximale Anzahl an Gegenständen im Laden des wandernden Händlers wurde während des Events um 2 erhöht!
+UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3. Jubiläums-Event: Field Boss
+UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Vorhersage Event
+UI_EVENT_FWC_PREDICTION_DESC,FWC Championship Prediction Event!,FWC-Meisterschaft Vorhersage-Event!
+UI_EVENT_TIMETOUPGRADE,It's time to Upgrade!,Es ist Zeit zum Aufwerten!
+UI_EVENT_TIMETOUPGRADE_DESC,"Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box.","Erreiche während des Events einmal jede Aufwertungsstufe von 1 bis 10, um Belohnungen zu erhalten. Wenn du alle 10 Stufen abgeschlossen hast, erhältst du eine Auswahlbox für ein Ultimatives Accessoire."
+UI_EVENT_PTS,Public Test Server,Öffentlicher Testserver
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information.","Die Raten sind erhöht, die Dungeon-Abklingzeiten sind reduziert und vieles mehr! Für weitere Informationen besuche den Discord."
