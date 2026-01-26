@@ -128,59 +128,59 @@ MMI_1065,Rainbow Race,Regenbogenrennen
 MMI_1066,Create Ultimate Weapon,Upgrade zur ultimativen Waffe
 MMI_1069,Open Guest Book,Gästebuch öffnen
 MMI_1070,Orphanage Keeper Shop,Waisenhauswächter Shop
-MMI_1071,Kalgas Assault Registration,Kalgas Assault Registration
-MMI_1072,Kalgas Assault Enter,Kalgas Assault Enter
-MMI_1073,Kalgas Assault Rank,Kalgas Assault Rank
-MMI_1074,Kalgas Assault Info,Kalgas Assault Info
+MMI_1071,Kalgas Assault Registration,Kalgas Angriff Registrierung
+MMI_1072,Kalgas Assault Enter,Kalgas Angriff betreten
+MMI_1073,Kalgas Assault Rank,Kalgas Angriff Rangliste
+MMI_1074,Kalgas Assault Info,Kalgas Angriff Information
 MMI_1075,Kalgas Chip Shop,Kalgas Chip Shop
-MMI_1076,Couple's Storage,Couple's Storage
-MMI_1077,Create Ultimate Jewel,Create Ultimate Jewel
-MMI_1078,Fuse Ultimate Jewel,Fuse Ultimate Jewel
+MMI_1076,Couple's Storage,Partnerlager
+MMI_1077,Create Ultimate Jewel,Ultimativen Juwel herstellen
+MMI_1078,Fuse Ultimate Jewel,Ultimativen Juwel verschmelzen
 MMI_1079,Teleport,Teleport
-MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
-MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
-MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
+MMI_1080,Sea Shell Upgrading,Sea Shell Verbesserung
+MMI_1081,Fuse Rainbow Jewel,Regenbogen Juwel verschmelzen
+MMI_1082,Dismantle Rainbow Jewel,Regenbogen Juwel zerlegen
 MMI_1083,Pet Training,Pet Training
 MMI_1084,Teleport,Teleport
-MMI_1085,Individual Race (Item),Individual Race (Item)
-MMI_1086,Individual Race (Speed),Individual Race (Speed)
-MMI_1087,Duo Team Race (Item),Duo Team Race (Item)
-MMI_1088,Duo Team Race (Speed),Duo Team Race (Speed)
-MMI_1089,Sit,Sit
-MMI_1090,Sleep,Sleep
-MMI_1091,Yellow Chip Shop,Yellow Chip Shop
-MMI_1092,Madrigal Tournament Registration,Madrigal Tournament Registration
-MMI_1093,Enter Madrigal Tournament,Enter Madrigal Tournament
-MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
-MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
-MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-MMI_1097,Remove Ultimate Jewel,Remove Ultimate Jewel
-MMI_1098,Customize,Customize
-MMI_1099,Enter Couple House,Enter Couple House
-MMI_1100,Select Couple House Template,Select Couple House Template
+MMI_1085,Individual Race (Item),Individuelles Rennen (Item)
+MMI_1086,Individual Race (Speed),Individuelles Rennen (Speed)
+MMI_1087,Duo Team Race (Item),Duo Team Rennen (Item)
+MMI_1088,Duo Team Race (Speed),Duo Team Rennen (Speed)
+MMI_1089,Sit,Sitzen
+MMI_1090,Sleep,Schlafen
+MMI_1091,Yellow Chip Shop,Gelber Chip Shop
+MMI_1092,Madrigal Tournament Registration,Madrigal-Turnier Registrierung
+MMI_1093,Enter Madrigal Tournament,Madrigal-Turnier betreten
+MMI_1094,Madrigal Tournament Ranking,Madrigal-Turnier  Rangliste
+MMI_1095,Madrigal Tournament Reward,Madrigal-Turnier Belohnung
+MMI_1096,Madrigal Tournament Bidding,Madrigal-Turnier Bieten
+MMI_1097,Remove Ultimate Jewel,Ultimativen Juwel entfernen
+MMI_1098,Customize,Anpassen
+MMI_1099,Enter Couple House,Partnerhaus betreten
+MMI_1100,Select Couple House Template,Partnerhaus Template auswählen
 MMI_1101,Wandering Shop,Wandering Shop
-MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemy
-MMI_1103,Product Upgrade,Product Upgrade
-MMI_1104,Life Mastery Ranking,Life Mastery Ranking
-MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranking Reward
-MMI_1106,Alchemy,Alchemy
-MMI_1107,Cooking,Cooking
-MMI_1108,Carpentry,Carpentry
-MMI_1109,Smithing,Smithing
-MMI_1110,Enter Race,Enter Race
-MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Cooking
-MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Carpentry
-MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Smithing
-MMI_1115,Join Boss Raid,Join Boss Raid
-MMI_1120,3rd Anniversary Egg Upgrade Event,3rd Anniversary Egg Upgrade Event
-MMI_1121,Champion Coin Exchange,Champion Coin Exchange
-MMI_1116,Synthesize Ultimate Jewel,Synthesize Ultimate Jewel
-MMI_1117,Convert Ultimate Jewel,Convert Ultimate Jewel
-MMI_2025,PTS Exchange (Equipment),PTS Exchange (Equipment)
-MMI_2026,Give Feedback,Give Feedback
-MMI_2027,PTS Exchange (Materials),PTS Exchange (Materials)
-MMI_2028,PTS Exchange (Essentials),PTS Exchange (Essentials)
-MMI_2029,PTS Exchange (Jewelry),PTS Exchange (Jewelry)
-MMI_2030,PTS Exchange (Other Equipment),PTS Exchange (Other Equipment)
-MMI_2031,Reset Cooldowns,Reset Cooldowns
-MMI_2032,PTS Exchange (New Equipment),PTS Exchange (New Equipment)
+MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemie
+MMI_1103,Product Upgrade,Product Verbesserung
+MMI_1104,Life Mastery Ranking,Life Mastery Rangliste
+MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranglistenbelohnung
+MMI_1106,Alchemy,Alchemie
+MMI_1107,Cooking,Kochen
+MMI_1108,Carpentry,Schreinerei
+MMI_1109,Smithing,Schmiedekunst
+MMI_1110,Enter Race,Rennen beitreten
+MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Kochen
+MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Schreinerei
+MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Schmiedekunst
+MMI_1115,Join Boss Raid,Boss Raid beitreten
+MMI_1120,3rd Anniversary Egg Upgrade Event,3. Jubiläums-Event: Ei-Aufwertung
+MMI_1121,Champion Coin Exchange,Champion-Münzen tauschen
+MMI_1116,Synthesize Ultimate Jewel,Ultimativen Juwel kombinieren
+MMI_1117,Convert Ultimate Jewel,Ultimativen Juwel umwandeln
+MMI_2025,PTS Exchange (Equipment),PTS Austausch (Equipment)
+MMI_2026,Give Feedback,Feedback geben
+MMI_2027,PTS Exchange (Materials),PTS Austausch (Materials)
+MMI_2028,PTS Exchange (Essentials),PTS Austausch (Essentials)
+MMI_2029,PTS Exchange (Jewelry),PTS Austausch (Jewelry)
+MMI_2030,PTS Exchange (Other Equipment),PTS Austausch (Other Equipment)
+MMI_2031,Reset Cooldowns,Cooldowns zurücksetzen
+MMI_2032,PTS Exchange (New Equipment),PTS Austausch (New Equipment)
