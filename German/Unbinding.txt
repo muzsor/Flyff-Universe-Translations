@@ -1,5 +1,5 @@
-﻿The cost of unbinding is 100,000 Penya per item.
-#cffff0000Unbinding will remove #ball upgrades, bonuses, element and piercings#nb.
-You cannot cancel the operation once it is done.#nc
-The item will be tradable again. If you want to keep all improvements, please use a Scroll of Unbinding instead of this menu.
-Only works on Soul-Bound items and #bnot Soul-Linked items#nb.
+Die Kosten für das Entbinden betragen 100.000 Penya pro Gegenstand.  
+#cffff0000Das Entbinden entfernt #balle Aufwertungen, Boni, Elemente und Piercings#nb.  
+Die Aktion kann nach Durchführung nicht abgebrochen werden.#nc  
+Der Gegenstand wird wieder handelbar. Wenn du alle Verbesserungen behalten möchtest, verwende bitte eine Entbindungs-Schriftrolle statt dieses Menüs.  
+Funktioniert nur bei Seelengebundenen Gegenständen und #bnicht Seelenverbundenen Gegenständen#nb.
