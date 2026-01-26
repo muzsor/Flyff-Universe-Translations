@@ -1,17 +1,20 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff* Récompense#nb#nc
+#b#cff0000ff* Récompense Jetons Rouges#nb#nc
+- Guilde gagnante : 34 x nombre de guildes participantes
+- Deuxième guilde : 24 x nombre de guildes participantes
+- Troisième guilde : 14 x nombre de guildes participantes
+- Quatrième guilde : 8 x nombre de guildes participantes
+- Cinquième guilde : 4 x nombre de guildes participantes
+
+#b#cff0000ff* Récompense Argent#nb#nc
+- Guilde gagnante : 35 % de l’argent total mis en jeu
+- Meilleur joueur : 15 % de l’argent total mis en jeu
+
+#b#cff0000ff* Récompense Objet#nb#nc
+- 1 victoire : Cape du Dragon de l’Initié, Toutes stats +5
+- 2 victoires consécutives : Cape du Dragon de l’Adepte, Toutes stats +6, PV MAX +100
+- 3 victoires consécutives : Cape du Dragon du Maître, Toutes stats +7, PV MAX +100
+- 4 victoires consécutives : Cape du Dragon du Héros, Toutes stats +8, PV MAX +100
+
+#b#cffff0000* Un bouton apparaît pour créer librement la Cape du Dragon dans la banque de guilde.#nb#nc
+* La Cape du Dragon ne peut être équipée qu’avant le début du prochain Combat de Guilde.
