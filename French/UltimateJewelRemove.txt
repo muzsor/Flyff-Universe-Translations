@@ -1,2 +1,2 @@
-﻿#b#cff0000ffUltimate Jewel Removal#nb#nc
-Remove any of the applied ultimate jewels. Clicking Remove will confirm removal and destroy the jewel. The cost is 5,000,000 penya per removal.
+﻿#b#cff0000ffSuppression de Joyau Ultime#nb#nc
+Supprimez n’importe quel joyau ultime appliqué. En cliquant sur Supprimer, vous confirmez la suppression et le joyau sera détruit. Le coût est de 5 000 000 de Penya par suppression.
