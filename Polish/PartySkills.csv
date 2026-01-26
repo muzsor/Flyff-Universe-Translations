@@ -6,7 +6,7 @@ PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a targe
 PROPTROUPESKILL_TXT_000004,Retreat,Odwrót
 PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Dowódca Drużyny nakazuje wszystkim odwrót.
 PROPTROUPESKILL_TXT_000008,Precision,Precyzja
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,"Zwiększa szansę krytyczną następnego ataku wszystkich członków drużyny wokół lidera o 0,5% x Liczba członków drużyny."
 PROPTROUPESKILL_TXT_000010,Linked Attack,Atak Łączony
 PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Każdy członek w zasięgu lidera dodaje mu bonus 5% do zadawanych obrażeń.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Szczęśliwy Traf

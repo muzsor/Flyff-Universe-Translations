@@ -1,4 +1,4 @@
-﻿#bItem Piercing#nb
+﻿#bPrzebijanie przedmiotu#nb
 
-Piercing an item will unlock slots for piercing cards that can greatly enhance the item's capabilities and power.
-#cffff0000Using a G-Protect scroll guarantees that your item cannot be destroyed in the process.#nc
+Przebijanie przedmiotu odblokuje gniazda dla kart przebijających, które mogą znacznie ulepszyć możliwości i moc przedmiotu.
+#cffff0000Użycie zwoju G-Protect gwarantuje, że twój przedmiot nie może być zniszczony w procesie.#nc

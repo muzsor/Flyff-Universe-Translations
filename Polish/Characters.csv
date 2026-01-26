@@ -18,7 +18,7 @@ CHARACTER_INC_000068,Iske,Iske
 CHARACTER_INC_000070,Ispim,Ispim
 CHARACTER_INC_000072,Isruel,Isruel
 CHARACTER_INC_000075,Ismeralda,Ismeralda
-CHARACTER_INC_000083,Flaris Pang,Flaris Pang
+CHARACTER_INC_000083,Flaris Pang,Pang Flaris
 CHARACTER_INC_000091,Jeff,Jeff
 CHARACTER_INC_000099,[High-Dwarpet] Tucani,[Wysoki-Krasnolud] Tucani
 CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
@@ -40,7 +40,7 @@ CHARACTER_INC_000153,Bozman,Bozman
 CHARACTER_INC_000159,Colack,Colack
 CHARACTER_INC_000165,Karin,Karin
 CHARACTER_INC_000171,Leann,Leann
-CHARACTER_INC_000172,Accessories,Accessories
+CHARACTER_INC_000172,Accessories,Akcesoria
 CHARACTER_INC_000174,Ann,Ann
 CHARACTER_INC_000176,Herth,Herth
 CHARACTER_INC_000178,Janne,Janne
@@ -48,7 +48,7 @@ CHARACTER_INC_000180,Kimberley,Kimberley
 CHARACTER_INC_000186,Saint Pang,Saint Pang
 CHARACTER_INC_000200,[MagicBox] Ancimys,[MagicBox] Ancimys
 CHARACTER_INC_000226,Lurif,Lurif
-CHARACTER_INC_000228,Darkon Pang,Darkon Pang
+CHARACTER_INC_000228,Darkon Pang,Pang Darkona
 CHARACTER_INC_000230,Stima,Stima
 CHARACTER_INC_000231,Mercenary,Najemnik
 CHARACTER_INC_000232,Assist,Asystent
@@ -57,19 +57,19 @@ CHARACTER_INC_000234,Magician,Mag
 CHARACTER_INC_000236,Phacham,Phacham
 CHARACTER_INC_000260,Achaben,Achaben
 CHARACTER_INC_000261,Collector,Pochłaniacz
-CHARACTER_INC_000262,Poster,Poster
-CHARACTER_INC_000263,Magic Tools,Magic Tools
-CHARACTER_INC_000264,Arrow,Arrow
+CHARACTER_INC_000262,Poster,Plakat
+CHARACTER_INC_000263,Magic Tools,Magiczne Narzędzia
+CHARACTER_INC_000264,Arrow,Strzały
 CHARACTER_INC_000266,Almani,Almani
 CHARACTER_INC_000267,Broom,Miotła
-CHARACTER_INC_000268,Board,Board
+CHARACTER_INC_000268,Board,Tablica
 CHARACTER_INC_000272,Bolpor,Bolpor
 CHARACTER_INC_000273,Food,Jedzenie
 CHARACTER_INC_000280,Eshylop,Eshylop
 CHARACTER_INC_000284,Haven,Haven
-CHARACTER_INC_000285,Wand,Wand
-CHARACTER_INC_000286,Staff,Staff
-CHARACTER_INC_000288,Robe,Robe
+CHARACTER_INC_000285,Wand,Różdżka
+CHARACTER_INC_000286,Staff,Personel
+CHARACTER_INC_000288,Robe,Szata
 CHARACTER_INC_000290,Ollien,Ollien
 CHARACTER_INC_000292,Roocky,Roocky
 CHARACTER_INC_000298,Remine,Remine
@@ -78,13 +78,13 @@ CHARACTER_INC_000305,Shields,Tarcze
 CHARACTER_INC_000310,Dr. Est,Dr. Est
 CHARACTER_INC_000312,Dr. Estly,Dr. Estly
 CHARACTER_INC_000314,Dr. Estern,Dr. Estern
-CHARACTER_INC_000316,Darkon Pang II,Darkon Pang II
+CHARACTER_INC_000316,Darkon Pang II,Pang Darkona II
 CHARACTER_INC_000318,Kablloc,Kablloc
 CHARACTER_INC_000324,Chenbing,Chenbing
 CHARACTER_INC_000330,Jinitte,Jinitte
 CHARACTER_INC_000336,Tandy,Tandy
-CHARACTER_INC_000338,Blinkwing,Blinkwing
-CHARACTER_INC_000339,Class Goods,Class Goods
+CHARACTER_INC_000338,Blinkwing,Błyskające Skrzydła
+CHARACTER_INC_000339,Class Goods,Przedmioty Klasy
 CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[Instruktor Akrobatów] Hent
 CHARACTER_INC_000344,[Acrobat Master] Pyre,[Acrobat Master] Pyre
 CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[Acrobat Instructor] Tailer
@@ -98,7 +98,7 @@ CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[Ranger Guardian] Kailreard
 CHARACTER_INC_000362,Santa,Św. Mikołaj
 CHARACTER_INC_000364,Priest,Kapłan
 CHARACTER_INC_000366,Hans,Hans
-CHARACTER_INC_000368,Guardian Master,Guardian Master
+CHARACTER_INC_000368,Guardian Master,Mistrz Strażników
 CHARACTER_INC_000372,Shun,Shun
 CHARACTER_INC_000378,Rocbin,Rocbin
 CHARACTER_INC_000382,Shield,Tarcza
@@ -114,8 +114,8 @@ CHARACTER_INC_000408,Bernard,Bernard
 CHARACTER_INC_000410,Kazen,Kazen
 CHARACTER_INC_000412,Andre,Andre
 CHARACTER_INC_000414,Nein,Nein
-CHARACTER_INC_000418,Banker Pang,Banker Pang
-CHARACTER_INC_000420,Guild Siege Merchant,Guild Siege Merchant
+CHARACTER_INC_000418,Banker Pang,Pang Bankier
+CHARACTER_INC_000420,Guild Siege Merchant,Sprzedawca Oblężenia Gildii
 CHARACTER_INC_000430,Furan,Furan
 CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Guild Siege Manager] Frankie
 CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Guild Siege Manager] Donaris
@@ -148,11 +148,11 @@ CHARACTER_INC_000498,[Magician Master] Hee,[Magician Master] Hee
 CHARACTER_INC_000500,[Magician Instructor] Lopaze,[Magician Instructor] Lopaze
 CHARACTER_INC_000502,Helgar,Helgar
 CHARACTER_INC_000504,Heltung,Heltung
-CHARACTER_INC_000506,Strange Collector,Strange Collector
+CHARACTER_INC_000506,Strange Collector,Dziwny Kolekcjoner
 CHARACTER_INC_000508,[BowlMerchant] Bowler,[BowlMerchant] Bowler
 CHARACTER_INC_000510,JeongHwa,JeongHwa
 CHARACTER_INC_000512,Porgo,Porgo
-CHARACTER_INC_000514,[Mayor of Saint City],[Mayor of Saint City]
+CHARACTER_INC_000514,[Mayor of Saint City],[Burmistrz Miasta Świętych]
 CHARACTER_INC_000516,[Chairman of History Society] Gothante,[Chairman of History Society] Gothante
 CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[Manager of Ancient Document] Rovanett
 CHARACTER_INC_000520,Colar,Colar
@@ -197,7 +197,7 @@ CHARACTER_INC_000596,Tomba,Tomba
 CHARACTER_INC_000598,Eoners,Eoners
 CHARACTER_INC_000600,Ghalade,Ghalade
 CHARACTER_INC_000602,Phoho,Phoho
-CHARACTER_INC_000604,[Darken Mayor],[Darken Mayor]
+CHARACTER_INC_000604,[Darken Mayor],[Burmistrz Darkenu]
 CHARACTER_INC_000606,Darz,Darz
 CHARACTER_INC_000608,Ivil Tobby,Ivil Tobby
 CHARACTER_INC_000610,Ivil Dorry,Ivil Dorry
@@ -209,14 +209,14 @@ CHARACTER_INC_000623,Persdryad,Persdryad
 CHARACTER_INC_000625,Peardryad,Peardryad
 CHARACTER_INC_000627,Pinedryad,Pinedryad
 CHARACTER_INC_000628,Hair Designer,Fryzjer
-CHARACTER_INC_000629,Makeup Artist,Makeup Artist
+CHARACTER_INC_000629,Makeup Artist,Makijażystka
 CHARACTER_INC_000633,Post Box,Skrzynka pocztowa
-CHARACTER_INC_000671,[Pet Tamer],[Pet Tamer]
-CHARACTER_INC_000704,Buff Pang,Buff Pang
+CHARACTER_INC_000671,[Pet Tamer],[Tamer Zwierząt]
+CHARACTER_INC_000704,Buff Pang,Pang Buff
 CHARACTER_INC_000706,[Arena Manager] Harold,[Arena Manager] Harold
 CHARACTER_INC_000708,[Arena Store] Deek,[Arena Store] Deek
 CHARACTER_INC_000712,[Arena Manager] Lay,[Arena Manager] Lay
-CHARACTER_INC_000738,Card Master,Card Master
+CHARACTER_INC_000738,Card Master,Mistrz Kart
 CHARACTER_INC_000742,[Jewel Manager] Peach,[Menedżer Klejnotów] Peach
 CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,[Rock Scissor Paper NPC] Demian
 CHARACTER_INC_000847,[Mentor] Inisis,[Mentor] Inisis
@@ -238,65 +238,65 @@ CHARACTER_INC_100003,Nemra,Nemra
 CHARACTER_INC_100004,YaoRin,YaoRin
 CHARACTER_INC_100005,Zaoma,Zaoma
 CHARACTER_INC_100008,Dekane,Dekane
-CHARACTER_INC_100009,Launch Buff Pang,Launch Buff Pang
+CHARACTER_INC_100009,Launch Buff Pang,Pang Buff Startu
 CHARACTER_INC_100010,Gigaka,Gigaka
 CHARACTER_INC_100011,Miriun,Miriun
 CHARACTER_INC_100012,Auxilior,Auxilior
 CHARACTER_INC_100013,Mawrang,Mawrang
 CHARACTER_INC_100014,Buur,Buur
-CHARACTER_INC_100015,Gloves,Gloves
+CHARACTER_INC_100015,Gloves,Rękawice
 CHARACTER_INC_100016,Kumah,Kumah
 CHARACTER_INC_100017,Obnis,Obnis
 CHARACTER_INC_100018,Airon,Airon
 CHARACTER_INC_100019,Haom,Haom
-CHARACTER_INC_100020,Mysterious Robed Girl,Mysterious Robed Girl
+CHARACTER_INC_100020,Mysterious Robed Girl,Tajemnicza Dziewczyna w Szatach
 CHARACTER_INC_000697,[Chip Merchant] Waforu,[Chip Merchant] Waforu
 CHARACTER_INC_100021,Azria Pang,Azria Pang
-CHARACTER_INC_001260,Lifeguard Jennifer,Lifeguard Jennifer
+CHARACTER_INC_001260,Lifeguard Jennifer,Ratowniczka Jennifer
 CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 Guild Siege Manager] Atlas
 CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 Guild Siege Manager] Olivia
 CHARACTER_INC_100024,Polar Bear,Miś Polarny
 CHARACTER_INC_100025,Fu Lion King,Fu Lion King
 CHARACTER_INC_100026,Cupid,Cupid
 CHARACTER_INC_100027,[Master Quests] Leila,[Master Quests] Leila
-CHARACTER_INC_000722,Secret Room Manager,Secret Room Manager
-CHARACTER_INC_000723,Leren Chasm Guard,Leren Chasm Guard
-CHARACTER_INC_000724,Rhisis Catacombs Guard,Rhisis Catacombs Guard
-CHARACTER_INC_000725,Envy Depths Guard,Envy Depths Guard
-CHARACTER_INC_000726,Guardiane Sanctuary Guard,Guardiane Sanctuary Guard
-CHARACTER_INC_000727,Storm Peak Guard,Storm Peak Guard
+CHARACTER_INC_000722,Secret Room Manager,Kierownik Tajnego Pokoju
+CHARACTER_INC_000723,Leren Chasm Guard,Strażnik Przepaści Leren
+CHARACTER_INC_000724,Rhisis Catacombs Guard,Strażnik Katakumb Rhisis
+CHARACTER_INC_000725,Envy Depths Guard,Strażnik Głębin Zawiści
+CHARACTER_INC_000726,Guardiane Sanctuary Guard,Strażnik Świątyni Guardiane
+CHARACTER_INC_000727,Storm Peak Guard,Strażnik Szczytu Burzy
 CHARACTER_INC_000728,Rankashin,Rankashin
 CHARACTER_INC_100028,Kebaras Pang,Kebaras Pang
-CHARACTER_INC_100029,Pink Easter Bunny,Pink Easter Bunny
-CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
-CHARACTER_INC_100031,Birthday Baker,Birthday Baker
+CHARACTER_INC_100029,Pink Easter Bunny,Różowy Króliczek Wielkanocny
+CHARACTER_INC_100030,Galaxy Scout,Scout Galaktyki
+CHARACTER_INC_100031,Birthday Baker,Piekarz Urodzinowy
 CHARACTER_INC_100032,[FWC Manager] Ava,[FWC Manager] Ava
-CHARACTER_INC_100033,Gacha Machine,Gacha Machine
+CHARACTER_INC_100033,Gacha Machine,Maszyna Gacha
 CHARACTER_INC_100034,Bach,Bach
 CHARACTER_INC_100035,Private Leo,Private Leo
 CHARACTER_INC_100036,Noah,Noah
 CHARACTER_INC_100037,Conch,Conch
-CHARACTER_INC_100038,Traveling Merchant,Traveling Merchant
+CHARACTER_INC_100038,Traveling Merchant,Wędrujący Kupiec
 CHARACTER_INC_400000,[Token Merchant] Andrew,[Token Merchant] Andrew
 CHARACTER_INC_100039,Molu,Molu
-CHARACTER_INC_100040,Costume Box,Costume Box
+CHARACTER_INC_100040,Costume Box,Pudełko Kostiumów
 CHARACTER_INC_100041,Pragas,Pragas
 CHARACTER_INC_100042,Beltung,Beltung
 CHARACTER_INC_100043,Gujane,Gujane
-CHARACTER_INC_000729,The Wilds Guard,The Wilds Guard
-CHARACTER_INC_000730,Rainbow Race Officer,Rainbow Race Officer
-CHARACTER_INC_002000,Mysterious Islander,Mysterious Islander
+CHARACTER_INC_000729,The Wilds Guard,Strażnik Dzikiego Terenu
+CHARACTER_INC_000730,Rainbow Race Officer,Oficer Wyścigu Tęczy
+CHARACTER_INC_002000,Mysterious Islander,Tajemniczy Wyspiarz
 CHARACTER_INC_002001,Pau Pau,Pau Pau
 CHARACTER_INC_002002,Kammie,Kammie
 CHARACTER_INC_002003,BoBu,BoBu
 CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,Inventor Remi
-CHARACTER_INC_002006,Sunny Pang,Sunny Pang
+CHARACTER_INC_002006,Sunny Pang,Pang Słoneczny
 CHARACTER_INC_000771,Charlie,Charlie
 CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Guild House Manager] Lousiana
 CHARACTER_INC_000773,Santa,Św. Mikołaj
 CHARACTER_INC_100044,Diosa,Diosa
-CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
+CHARACTER_INC_100200,Kalgas Assault Manager,Kierownik Szturmu Kalgas
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[Personal House NPC] Casanova
 CHARACTER_INC_003201,[Personal House NPC] Misun,[Personal House NPC] Misun
 CHARACTER_INC_003202,[Personal House NPC] Punk,[Personal House NPC] Punk
@@ -344,19 +344,19 @@ CHARACTER_INC_003243,[Guild House NPC] Alyn,[Guild House NPC] Alyn
 CHARACTER_INC_003244,[Guild House NPC] Lane,[Guild House NPC] Lane
 CHARACTER_INC_003245,[Guild House NPC] Runni,[Guild House NPC] Runni
 CHARACTER_INC_003246,[Guild House NPC] Pang,[Guild House NPC] Pang
-CHARACTER_INC_000774,Orphanage Keeper,Orphanage Keeper
-CHARACTER_INC_003247,Guest Book,Guest Book
+CHARACTER_INC_000774,Orphanage Keeper,Opiekun Sierocińca
+CHARACTER_INC_003247,Guest Book,Księga Gości
 CHARACTER_INC_003248,Bomida,Bomida
 CHARACTER_INC_003249,Negie,Negie
-CHARACTER_INC_100100,Templates,Templates
-CHARACTER_INC_100101,Props,Props
-CHARACTER_INC_100102,NPCs,NPCs
+CHARACTER_INC_100100,Templates,Szablony
+CHARACTER_INC_100101,Props,Rekwizyty
+CHARACTER_INC_100102,NPCs,NPC-owie
 CHARACTER_INC_000775,Chonjang,Chonjang
 CHARACTER_INC_000776,[Event] Chonjang,[Event] Chonjang
 CHARACTER_INC_000777,Defconn,Defconn
 CHARACTER_INC_000778,Anna,Anna
 CHARACTER_INC_000779,Sea Shell,Sea Shell
-CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
+CHARACTER_INC_000780,Mr. Flyff,Pan FlyFF
 CHARACTER_INC_000781,[Event] Roger,[Event] Roger
 CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
 CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
@@ -366,14 +366,14 @@ CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac
 CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
 CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
 CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
+CHARACTER_INC_140000,Couple Rings,Pierścienie Pary
 CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
+CHARACTER_INC_100105,Gathering Tool,Narzędzie Zbierania
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
 CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
+CHARACTER_INC_100110,Wounded Revolutionary,Ranny Rewolucjonista
 CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
 CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
 CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
@@ -420,9 +420,9 @@ CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
 CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
 CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
+CHARACTER_INC_150046,Asylum Guard,Strażnik Azylu
+CHARACTER_INC_150047,Mysterious Adventurer,Tajemniczy Poszukiwacz Przygód
+CHARACTER_INC_150048,Jarl (Dying),Jarl (Umierający)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
 CHARACTER_INC_150051,[Post Office] Cheirang,[Post Office] Cheirang

@@ -271,7 +271,7 @@ PROPCTRL_TXT_000291,Colosseum Floor,Colosseum Floor
 PROPCTRL_TXT_000292,Dungeon Floor,Dungeon Floor
 PROPCTRL_TXT_000293,Bright Wooden Floor,Bright Wooden Floor
 PROPCTRL_TXT_000294,Honey Wooden Floor,Honey Wooden Floor
-PROPCTRL_TXT_000295,Ancient Floor,Ancient Floor
+PROPCTRL_TXT_000295,Ancient Floor,Starożytna Podłoga
 PROPCTRL_TXT_000296,Pier Floor,Pier Floor
 PROPCTRL_TXT_000297,Dark Stacked Wooden Floor,Dark Stacked Wooden Floor
 PROPCTRL_TXT_000298,Light Stacked Wooden Floor,Light Stacked Wooden Floor
@@ -326,7 +326,7 @@ PROPCTRL_TXT_000346,Colosseum Ceiling,Colosseum Ceiling
 PROPCTRL_TXT_000347,Dungeon Ceiling,Dungeon Ceiling
 PROPCTRL_TXT_000348,Bright Wooden Ceiling,Bright Wooden Ceiling
 PROPCTRL_TXT_000349,Honey Wooden Ceiling,Honey Wooden Ceiling
-PROPCTRL_TXT_000350,Ancient Ceiling,Ancient Ceiling
+PROPCTRL_TXT_000350,Ancient Ceiling,Starożytny Sufit
 PROPCTRL_TXT_000351,Pier Ceiling,Pier Ceiling
 PROPCTRL_TXT_000352,Dark Stacked Wooden Ceiling,Dark Stacked Wooden Ceiling
 PROPCTRL_TXT_000353,Light Stacked Wooden Ceiling,Light Stacked Wooden Ceiling
@@ -537,15 +537,15 @@ PROPCTRL_TXT_000557,Flaris Fence 3,Flaris Fence 3
 PROPCTRL_TXT_000558,Flaris Fence 4,Flaris Fence 4
 PROPCTRL_TXT_000559,Flaris Fence 5,Flaris Fence 5
 PROPCTRL_TXT_000560,Flaris Fence 6,Flaris Fence 6
-PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,1st Anniversary Flaris Cake
-PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,1st Anniversary Saint Morning Cake
-PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,1st Anniversary Darkon Cake
-PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,2nd Anniversary Flaris Cake
-PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,2nd Anniversary Saint Morning Cake
-PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,2nd Anniversary Darkon Cake
-PROPCTRL_TXT_000567,2nd Anniversary Presents 1,2nd Anniversary Presents 1
-PROPCTRL_TXT_000568,2nd Anniversary Presents 2,2nd Anniversary Presents 2
-PROPCTRL_TXT_000569,2nd Anniversary Arch 1,2nd Anniversary Arch 1
+PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,Tort Flaris 1. Rocznicy
+PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,Tort Saint Morning 1. Rocznicy
+PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,Tort Darkon 1. Rocznicy
+PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,Tort Flaris 2. Rocznicy
+PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,Tort Saint Morning 2. Rocznicy
+PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,Tort Darkon 2. Rocznicy
+PROPCTRL_TXT_000567,2nd Anniversary Presents 1,Prezenty 2. Rocznicy 1
+PROPCTRL_TXT_000568,2nd Anniversary Presents 2,Prezenty 2. Rocznicy 2
+PROPCTRL_TXT_000569,2nd Anniversary Arch 1,Łuk 2. Rocznicy 1
 PROPCTRL_TXT_000570,Luxury Chandelier,Luxury Chandelier
 PROPCTRL_TXT_000571,Luxury Table,Luxury Table
 PROPCTRL_TXT_000572,Luxury Dressing Table,Luxury Dressing Table
@@ -570,7 +570,7 @@ PROPCTRL_TXT_000590,Regular Ore,Regular Ore
 PROPCTRL_TXT_000591,Unique Ore,Unique Ore
 PROPCTRL_TXT_000592,Rare Ore,Rare Ore
 PROPCTRL_TXT_000593,Legendary Ore,Legendary Ore
-PROPCTRL_TXT_000594,Alchemy Desk,Alchemy Desk
+PROPCTRL_TXT_000594,Alchemy Desk,Biurko Alchemika
 PROPCTRL_TXT_000595,Hearth,Hearth
 PROPCTRL_TXT_000596,Carpentry Workspace,Carpentry Workspace
 PROPCTRL_TXT_000597,Smithing Workspace,Smithing Workspace
@@ -712,7 +712,7 @@ PROPCTRL_TXT_000735,Pastel Nightstand,Pastel Nightstand
 PROPCTRL_TXT_000736,Pastel Bathtub,Pastel Bathtub
 PROPCTRL_TXT_000737,[Event] Chroma Ore,[Event] Chroma Ore
 PROPCTRL_TXT_000738,Statue Base,Statue Base
-PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3rd Anniversary Flaris Cake
-PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3rd Anniversary Saint Morning Cake
-PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3rd Anniversary Darkon Cake
+PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,Tort Flaris 3. Rocznicy
+PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,Tort Saint Morning 3. Rocznicy
+PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,Tort Darkon 3. Rocznicy
 PROPCTRL_TXT_000742,Dungeon Warp 07,Dungeon Warp 07

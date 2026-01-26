@@ -1,7 +1,7 @@
-﻿#b#cff0000ff Necessary gem for each level #nb#nc
+﻿#b#cff0000ff Niezbędny klejnot dla każdego poziomu #nb#nc
   60~70 : Topaz
-  71~85 : Ruby
- 86~100 : Sapphire
-101~119 : Emerald
-120~140 : Diamond
-141~160 : Amethyst, Brilliant Amethyst
+  71~85 : Rubin
+ 86~100 : Szafir
+101~119 : Szmaragd
+120~140 : Diament
+141~160 : Ametyst, Błyszczący ametyst

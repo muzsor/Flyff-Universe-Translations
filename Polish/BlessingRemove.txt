@@ -1,1 +1,1 @@
-﻿Cancel the Blessing of an item here. Once the Blessing is removed it cannot be returned.
+﻿Anuluj Błogosławieństwo przedmiotu. Po usunięciu Błogosławieństwa nie można go przywrócić.

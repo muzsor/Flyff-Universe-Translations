@@ -97,31 +97,31 @@ CLIENT_HELP_INC_000094,Options Tab,Zakładka Opcji
 CLIENT_HELP_INC_000095,This window configures the basic details and options for the Game and can be found in the Start Tab. There are many settings here and they have been separated into two Tabs: Video and Game / Audio.,To okno konfiguruje podstawowe szczegóły i opcje gry i może być znalezione w zakładce startowej. Jest tam wiele ustawień i są one podzielone na dwie zakładki: Wideo i Gra / Audio.
 CLIENT_HELP_INC_000096,Video,Wideo
 CLIENT_HELP_INC_000097,This window is for video settings. If you set the options to their highest settings you may encounter some additional lag. You will also see other settings for various visual elements.,"To okno jest przeznaczone do ustawień wideo. Jeśli ustawisz opcję na poziom najwyższy, twoja gra może się zacinać. Zobaczysz też inne ustawienia różnych elementów wizualnych."
-CLIENT_HELP_INC_000098,Game / Audio,Game / Audio
+CLIENT_HELP_INC_000098,Game / Audio,Gra / Audio
 CLIENT_HELP_INC_000099,"From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music.","From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music."
-CLIENT_HELP_INC_000100,Helper Tab,Helper Tab
+CLIENT_HELP_INC_000100,Helper Tab,Karta Pomocnika
 CLIENT_HELP_INC_000101,Selecting the Help Tab from the Start Menu will open various help texts. You can find all forms of helpful things in this area.,Selecting the Help Tab from the Start Menu will open various help texts. You can find all forms of helpful things in this area.
 CLIENT_HELP_INC_000102,Help,Pomoc
 CLIENT_HELP_INC_000103,This selection includes the Helper Tree you are currently looking at. There are numerous topics here that are described in detail to help give you a better understanding of the game.,This selection includes the Helper Tree you are currently looking at. There are numerous topics here that are described in detail to help give you a better understanding of the game.
 CLIENT_HELP_INC_000104,Tips,Wskazówki
-CLIENT_HELP_INC_000105,This selection contains tips that help with game play and other things that are easily overlooked.,This selection contains tips that help with game play and other things that are easily overlooked.
+CLIENT_HELP_INC_000105,This selection contains tips that help with game play and other things that are easily overlooked.,"Ten wybór zawiera wskazówki, które pomagają w rozgrywce i inne łatwo pomijane rzeczy."
 CLIENT_HELP_INC_000106,FAQ,Pytania i Odpowiedzi
 CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you should start here as there are numerous answers to various questions.,This is the FAQ window. When you have questions you should start here as there are numerous answers to various questions.
-CLIENT_HELP_INC_000108,Information Tab,Information Tab
+CLIENT_HELP_INC_000108,Information Tab,Karta Informacji
 CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.
-CLIENT_HELP_INC_000110,Revive Menu,Revive Menu
+CLIENT_HELP_INC_000110,Revive Menu,Menu Wskrzeszenia
 CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.","This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu."
-CLIENT_HELP_INC_000112,Trade Menu,Trade Menu
+CLIENT_HELP_INC_000112,Trade Menu,Menu Handlu
 CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.","If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed."
-CLIENT_HELP_INC_000114,Bank Menu,Bank Menu
+CLIENT_HELP_INC_000114,Bank Menu,Menu Banku
 CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.
-CLIENT_HELP_INC_000116,Task Bar,Task Bar
+CLIENT_HELP_INC_000116,Task Bar,Pasek Zadań
 CLIENT_HELP_INC_000117,"This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots.","This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots."
-CLIENT_HELP_INC_000118,Start Menu,Start Menu
+CLIENT_HELP_INC_000118,Start Menu,Menu Start
 CLIENT_HELP_INC_000119,This Menu allows the user to access all of the game options and various game play functions. Many of the Hot Keyed Menus can be accessed through the Start Menu.,This Menu allows the user to access all of the game options and various game play functions. Many of the Hot Keyed Menus can be accessed through the Start Menu.
-CLIENT_HELP_INC_000120,System Slots,System Slots
+CLIENT_HELP_INC_000120,System Slots,Sloty Systemowe
 CLIENT_HELP_INC_000121,"This refers to the slots to the right of the Start Menu. These slots are used so that users can quickly access skills, save text strings, or other various tasks they want to repeat.","This refers to the slots to the right of the Start Menu. These slots are used so that users can quickly access skills, save text strings, or other various tasks they want to repeat."
-CLIENT_HELP_INC_000122,Hot Keys,Hot Keys
+CLIENT_HELP_INC_000122,Hot Keys,Klawisze Skrótów
 CLIENT_HELP_INC_000123,This refers to the nine slots in the middle of the bottom bar labeled F1-F9. These slots are linked to the corresponding Function keys and can be triggered accordingly. Reserve these for your most important funtions!,This refers to the nine slots in the middle of the bottom bar labeled F1-F9. These slots are linked to the corresponding Function keys and can be triggered accordingly. Reserve these for your most important funtions!
 CLIENT_HELP_INC_000124,Action Slot,Okno Kombinacji
 CLIENT_HELP_INC_000125,The Action Slot is located in the lower right corner of the screen.,"Okno Kombinacji znajduje się w prawym, dolnym rogu ekranu."
@@ -129,7 +129,7 @@ CLIENT_HELP_INC_000126,What is the Action Slot,Czym jest Okno Kombinacji
 CLIENT_HELP_INC_000127,The Action Slot allows you to trigger a pre-determined set of skills. You can place skills in the Action Slot from the Skills Menu.,"Okno kombinacji pozwala Ci umieścić wybrane umiejętności w ustalonej kolejności, a potem użyć ich jedno za drugim."
 CLIENT_HELP_INC_000128,Using the Action Slot,Używanie Kombinacji
 CLIENT_HELP_INC_000129,"To actually use the Action Slot you will need to select a target and press ""C"". This can be done repeatedly.","By użyć ustalonej kombinacji, musisz wybrać cel ataku i nacisnąć klawisz ""C"". Można to wykonać wielokrotnie."
-CLIENT_HELP_INC_000130,Order of the Action Slot,Order of the Action Slot
+CLIENT_HELP_INC_000130,Order of the Action Slot,Porządek Slotu Akcji
 CLIENT_HELP_INC_000131,Skills can be used in a succession as long as you follow the order of the different types of skills. The order is; Step > Circle > Finish. You can only use the action icons if the skills are in order.,Skills can be used in a succession as long as you follow the order of the different types of skills. The order is; Step > Circle > Finish. You can only use the action icons if the skills are in order.
 CLIENT_HELP_INC_000132,Action Slot Cooldown,Action Slot Cooldown
 CLIENT_HELP_INC_000133,There is a Cooldown for the Action Slot. As you cast you will notice a shadow the will begin covering the Action Slot. You will not be able to uses Skills that are covered in shadow. Simply wait and the shadow will vanish.,There is a Cooldown for the Action Slot. As you cast you will notice a shadow the will begin covering the Action Slot. You will not be able to uses Skills that are covered in shadow. Simply wait and the shadow will vanish.

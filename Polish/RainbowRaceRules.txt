@@ -1,17 +1,19 @@
-﻿#b Race Rules #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+﻿#b Zasady wyścigu #nb
+1. Tylko gracze, którzy zgłosili się do wejścia
+do Wyścigu Tęczy, mogą uczestniczyć.
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. Celem wyścigu jest podążanie wyznaczoną
+ścieżką i przechodzenie przez Okręgi punktów
+w celu zdobycia punktów i ukończenia wyścigu
+tak szybko jak to możliwe.
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. Podczas Wyścigu Tęczy, jeśli przejdziesz
+przez Okrąg punktów, który ma pudełka
+przedmiotów, możesz uzyskać przedmioty,
+które mogą atakować innych lub chronić
+ciebie.
+(Wszystkie przedmioty w twoim inwentarzu
+nie są dostępne do użytku podczas wyścigu)
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. Tylko postacie, które są online na początku
+Wyścigu Tęczy, mogą uczestniczyć w wyścigu.

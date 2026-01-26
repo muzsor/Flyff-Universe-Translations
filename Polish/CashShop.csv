@@ -1,41 +1,41 @@
 ﻿Key,English,Polish
-CS_LIMITED_OFFER,Limited Offer,Limited Offer
-CS_NEW_COSTUME,New Costume,New Costume
-CS_NEW_PICKUP_PET,New Pickup Pet,New Pickup Pet
-CS_FASHION,Fashion,Fashion
-CS_FASHION_SETS,Fashion Sets,Fashion Sets
-CS_FASHION_PIECES,Fashion Pieces,Fashion Pieces
-CS_CLOAKS,Cloaks,Cloaks
-CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,Masks & Glasses & Hair
-CS_PICKUP_PETS,Pickup Pets,Pickup Pets
+CS_LIMITED_OFFER,Limited Offer,Ograniczona Oferta
+CS_NEW_COSTUME,New Costume,Nowy Kostium
+CS_NEW_PICKUP_PET,New Pickup Pet,Nowy Ulubieniec
+CS_FASHION,Fashion,Moda
+CS_FASHION_SETS,Fashion Sets,Zestawy Mody
+CS_FASHION_PIECES,Fashion Pieces,Elementy Mody
+CS_CLOAKS,Cloaks,Płaszcze
+CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,"Maski, Okulary i Włosy"
+CS_PICKUP_PETS,Pickup Pets,Ulubieniey
 CS_FLYING,Flying,Latanie
 CS_CONSUMABLES,Consumables,Zużywalne
-CS_RECOVERY,Recovery,Recovery
-CS_SCROLL,Scroll,Scroll
+CS_RECOVERY,Recovery,Regeneracja
+CS_SCROLL,Scroll,Zwój
 CS_BUFF,Buff,Buff
-CS_BLINKWING,Blink Wing,Blink Wing
-CS_TRANS,Trans,Trans
-CS_MATERIAL,Material,Material
+CS_BLINKWING,Blink Wing,Błyskające Skrzydła
+CS_TRANS,Trans,Transformacja
+CS_MATERIAL,Material,Materiał
 CS_PROTECTION,Protection,Ochrona
-CS_AWAKES,Awakes,Awakes
+CS_AWAKES,Awakes,Przebudzenia
 CS_UPGRADE,Upgrade,Ulepszenie
 CS_RANDOM,Random,Losowo
-CS_STONE,Stone,Stone
+CS_STONE,Stone,Kamień
 CS_VENDOR_SHOP,Vendor Shop,Sklep Sprzedawcy
-CS_FLASK_POTION,Flask & Potion,Flask & Potion
-CS_MISC,Misc,Misc
-CS_EFFECT,Effect,Effect
+CS_FLASK_POTION,Flask & Potion,Flaszki i Mikstury
+CS_MISC,Misc,Różne
+CS_EFFECT,Effect,Efekt
 CS_PENYA,Penya,Penya
-CS_DISCOUNT,Discount,Discount
-CS_SPECIAL_PACKAGE,Special Package,Special Package
-CS_BLACK_FRIDAY,Black Friday,Black Friday
-CS_REBORN_SALES,Reborn Sales,Reborn Sales
+CS_DISCOUNT,Discount,Rabat
+CS_SPECIAL_PACKAGE,Special Package,Specjalny Pakiet
+CS_BLACK_FRIDAY,Black Friday,Czarny Piątek
+CS_REBORN_SALES,Reborn Sales,Sprzedaż Reborn
 CS_FWC,FWC,FWC
-CS_HOUSING,Housing,Housing
+CS_HOUSING,Housing,Mieszkanie
 CS_EVENT,Event,Event
-CS_WORLD_TEMPLATE,World Template,World Template
-CS_WORLD_THEME_PACK,Theme Pack,Theme Pack
-CS_WORLD_BUNDLE_PACK,Bundle Pack,Bundle Pack
-CS_WORLD_SINGLE_PACK,Single Pack,Single Pack
+CS_WORLD_TEMPLATE,World Template,Szablon Świata
+CS_WORLD_THEME_PACK,Theme Pack,Pakiet Tematu
+CS_WORLD_BUNDLE_PACK,Bundle Pack,Pakiet Zbiorczy
+CS_WORLD_SINGLE_PACK,Single Pack,Pakiet Pojedynczy
 CS_NPC,NPC,NPC
-CS_COUPLE,Couple,Couple
+CS_COUPLE,Couple,Para

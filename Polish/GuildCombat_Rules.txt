@@ -1,10 +1,10 @@
-﻿#b#cff0000ff* Basic Rules#nb#nc
-- Every party and buff are canceled after the entry.
-- Item trading is banned from 5 minutes before the combat.
-- Combat progresses for 10 minutes.
-- 5 members of advance party join first. 
-- The next character joins after a character died. 
-- The dead character becomes the last in the list.
-- A character has 3 chances of revival.
-* Guild Master: Gets bonus point when defeating the enemy.
-* Defender(except for Guild Master): Gives bonus point to the enemy when dying.
+﻿#b#cff0000ff* Podstawowe zasady#nb#nc
+- Każda drużyna i buff są anulowane po wejściu.
+- Handel przedmiotami jest zabroniony od 5 minut przed bitwą.
+- Bitwa trwa 10 minut.
+- Najpierw przystępuje 5 członków drużyny awansu.
+- Następny postać przystępuje po śmierci postaci.
+- Martwa postać staje się ostatnia na liście.
+- Postać ma 3 szanse odrodzenia.
+* Mistrz Gildii: Otrzymuje punkt bonusowy za pokonanie wroga.
+* Obrońca (z wyjątkiem Mistrza Gildii): Daje punkt bonusowy wrogowi podczas umierania.

@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Shining Power Dice Creation #nb#nc
-#bShining Power Dice 4#nb is created by merging 5x Power Dice 4 and 5x Power Dice 8.
-#bShining Power Dice 6#nb is created by merging 5x Power Dice 6 and 5x Power Dice 8.
-#bShining Power Dice 12#nb is created by using Power Dice 12 or Power Dice 10 in the process.
+﻿#b#cff0000ff Tworzenie błyszczącej kostki mocy #nb#nc
+#bBłyszcząca kość mocy 4#nb jest tworzona przez połączenie 5x Kostki mocy 4 i 5x Kostki mocy 8.
+#bBłyszcząca kość mocy 6#nb jest tworzona przez połączenie 5x Kostki mocy 6 i 5x Kostki mocy 8.
+#bBłyszcząca kość mocy 12#nb jest tworzona poprzez użycie Kostki mocy 12 lub Kostki mocy 10 w procesie.

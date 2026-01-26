@@ -1,7 +1,7 @@
-﻿#b#cff0000ff Recipes #nb#nc
- #b25x Cloudberry#nb = 1x Pet Candy (F)#nc
- #b50x Cloudberry + 1x Pet Candy (F)#nb = 1x Pet Candy (E)#nc
- #b50x Lightberry + 1x Pet Candy (E)#nb = 1x Pet Candy (D)#nc
- #b50x Lightberry + 1x Pet Candy (D)#nb = 1x Pet Candy (C)#nc
- #b50x Lightberry + 1x Pet Candy (C)#nb = 1x Pet Candy (B)#nc
- #b100x Exoberry + 1x Pet Candy (B)#nb = 1x Pet Candy (A)#nc
+﻿#b#cff0000ff Przepisy #nb#nc
+ #b25x Chmurniczka#nb = 1x Cukierek dla zwierzęcia (F)#nc
+ #b50x Chmurniczka + 1x Cukierek dla zwierzęcia (F)#nb = 1x Cukierek dla zwierzęcia (E)#nc
+ #b50x Jasna jagoda + 1x Cukierek dla zwierzęcia (E)#nb = 1x Cukierek dla zwierzęcia (D)#nc
+ #b50x Jasna jagoda + 1x Cukierek dla zwierzęcia (D)#nb = 1x Cukierek dla zwierzęcia (C)#nc
+ #b50x Jasna jagoda + 1x Cukierek dla zwierzęcia (C)#nb = 1x Cukierek dla zwierzęcia (B)#nc
+ #b100x Egzotyczna jagoda + 1x Cukierek dla zwierzęcia (B)#nb = 1x Cukierek dla zwierzęcia (A)#nc

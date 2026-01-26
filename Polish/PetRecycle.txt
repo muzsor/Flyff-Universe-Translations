@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Sacrificing #nb#nc
-You can #bchange the level#nb of your current pet's tier by sacrificing another pet with the #bsame tier or higher#nb.
-#cffff0000The pet that you input below will be permanently destroyed.#nc
-The higher the tier of the pet you destroy, the better the chance to get a good level.
+﻿#b#cff0000ff Poświęcenie zwierzęcia #nb#nc
+Możesz #bzmienić poziom#nb tieru twojego obecnego zwierzęcia, poświęcając inne zwierzę z #btym samym tierm lub wyższym#nb.
+#cffff0000Zwierzę, które wprowadzisz poniżej, zostanie na stałe zniszczone.#nc
+Im wyższy tier zniszczonego zwierzęcia, tym większa szansa na uzyskanie dobrego poziomu.

@@ -1,11 +1,11 @@
-﻿#b Race Information #nb
-Rainbow Race is an opportunity for all players to compete in an interactive and intense flying race. Players must use their own flying mount during the race.
+﻿#b Informacje o wyścigu #nb
+Wyścig Tęczy to okazja dla wszystkich graczy, aby rywalizować w interaktywnym i intensywnym wyścigu latającym. Gracze muszą używać własnego latającego powozu podczas wyścigu.
 
-#iNote: The application fee cannot be refunded. Each player is responsible for providing themselves with a flying mount.#ni
+#iUwaga: Opłata rejestracyjna nie podlega zwrotowi. Każdy gracz jest odpowiedzialny za zapewnienie sobie latającego powozu.#ni
 
-Rewards:
-First Place: Title, Mount, and Rainbow Race First Place Box.
-Second Place: Rainbow Race Second Place Box.
-Third Place: Rainbow Race Third Place Box.
-Fourth to Tenth Place: Rainbow Race Honorable Box.
-The Rest: Participation Reward.
+Nagrody:
+Pierwsze miejsce: Tytuł, Pojazd i Pudełko Wyścigu Tęczy na pierwsze miejsce.
+Drugie miejsce: Pudełko Wyścigu Tęczy na drugie miejsce.
+Trzecie miejsce: Pudełko Wyścigu Tęczy na trzecie miejsce.
+Czwarte do dziesiątego miejsca: Pudełko Wyścigu Tęczy Honorowe.
+Reszta: Nagroda za uczestnictwo.

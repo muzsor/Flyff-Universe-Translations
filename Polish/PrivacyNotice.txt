@@ -1,20 +1,20 @@
-﻿Welcome to #b#cffffdd66Flyff Universe#nc#nb!
+﻿Witajcie w #b#cffffdd66Wszechświecie Flyff#nc#nb!
 
-Please note that the game translations are managed by the community and may contain inaccuracies. As of today only the #bEnglish version of the game shall be used as a reference#nb regarding item descriptions.
+Zapamietaj, że tłumaczenia gier są zarządzane przez społeczność i mogą zawierać niedokładności. Od dzisiaj tylko #bangielska wersja gry będzie używana jako odniesienie#nb dotyczące opisów przedmiotów.
 
-#bPrivacy Policy#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=privacy-policy
+#bPolityka prywatności#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=privacy-policy
 
-#bTerms of Service#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=terms-of-service
+#bWarunki usługi#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=terms-of-service
 
-You can find a link to these terms using the "Support" button in game.
+Link do tych warunków można znaleźć za pomocą przycisku "Wsparcie" w grze.
 
-This program #bcollects users datas#nb for its efficiency and safety.
+Ten program #bzbiera dane użytkowników#nb dla jego wydajności i bezpieczeństwa.
 
-Are collected: your IP address, your login and logout dates, datas linked to your virtual characters (name, location, inventory...). The datas are saved on a secured server under the responsibility of #bGala Lab Corp#nb. In case of any question or request concerning datas' removal, please, use the following address:
+Zbierane są: twój adres IP, daty logowania i wylogowania, dane związane z twoimi wirtualnymi postaciami (nazwa, lokalizacja, inwentarz...). Dane są zapisywane na bezpiecznym serwerze pod odpowiedzialnością #bGala Lab Corp#nb. W przypadku jakichkolwiek pytań lub próśb dotyczących usunięcia danych, użyj następującego adresu:
 #bgala.mobilegame@galaglobal.com#nb.
 
-This website also use the persistent memory of your computer in order to store your session ID and your display preferences. In case you feel the need to, you may delate those datas without any further consequences.
+Ta strona wykorzystuje trwałą pamięć twojego komputera, aby przechowywać identyfikator sesji i preferencje wyświetlania. W razie potrzeby możesz usunąć te dane bez dalszych konsekwencji.
 
-Through this website you may communicate with other users. Any comments not aligned to Korean law, including but not limited to racists, homophobic, harassment and discriminatory comments are strictly forbidden. In case of non-respect of those rules, moderators take the right of immediate removal or block of your character, and even to forbid the access to the server from your IP address.
+Przez tę stronę możesz komunikować się z innymi użytkownikami. Wszelkie komentarze niezgodne z prawem koreańskim, w tym między innymi rasistowskie, homofobiczne, nękające i dyskryminacyjne komentarze są ściśle zabronione. W przypadku nieprzestrzegania tych zasad moderatorzy mają prawo do natychmiastowego usunięcia lub zablokowania twojej postaci, a nawet do zakazania dostępu do serwera z twojego adresu IP.
 
-By clicking on the button #cffffdd66Accept#nc you certify you learned of the mentions above and accept it.
+Klikając przycisk #cffffdd66Zaakceptuj#nc, potwierdzasz, że zapoznałeś się z powyższymi wziankami i je akceptujesz.

@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+﻿Witajcie, podróżnicy! #bTryb fabułu#nb lochy mają potwory ze zmniejszonym atakiem, zdrowiem i doświadczeniem w porównaniu z normalną wersją lochu.
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+Gracze mogą używać trudności trybu fabułu do ukończenia zadań z przyjaciółmi lub cieszyć się spokojną przechadzką przez scenariusz w #bniskorizykowym#nb środowisku. Ciesz się!
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- Masquerpets w lochach trybu fabułu nie upuszczają przedmiotów
+- Klatki dla zwierząt i skrzynie skarbów nie pojawiają się w trybie fabułu
+- Gracze nie zyskują kredytu osiągnięć w trybie fabułu

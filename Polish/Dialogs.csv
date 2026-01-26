@@ -1,28 +1,28 @@
 ﻿Key,English,Polish
 NPC_WHOAREYOU,Who are you?,Kim jesteś?
 NPC_GOODBYE,Goodbye!,Żegnaj!
-NPC_CARGO,CARGO,CARGO
-NPC_WHATSGOINGON,What's going on?,What's going on?
-NPC_EXIT,Exit,Exit
-NPC_HOWTOFLY,How to Fly,How to Fly
-NPC_COMBATFLYING,Combat Flying,Combat Flying
-NPC_IDCARD,ID CARD,ID CARD
-NPC_WHATABOUTTHEMINE,What about the mine?,What about the mine?
+NPC_CARGO,CARGO,TOWAR
+NPC_WHATSGOINGON,What's going on?,Co się dzieje?
+NPC_EXIT,Exit,Wyjście
+NPC_HOWTOFLY,How to Fly,Jak latać
+NPC_COMBATFLYING,Combat Flying,Latanie bojowe
+NPC_IDCARD,ID CARD,KARTA TOŻSAMOŚCI
+NPC_WHATABOUTTHEMINE,What about the mine?,A co z kopalnią?
 NPC_MOVE,Move,Przenieś
-NPC_FORHONOR,For Honor!,For Honor!
-NPC_FORFUN,For Fun!,For Fun!
-NPC_MEHJUSTBECAUSE,"Meh, just because?","Meh, just because?"
-NPC_YES_ENTER,Yes_Enter,Yes_Enter
-NPC_NO_ENTER,No_Enter,No_Enter
-NPC_WHEREAMI,Where am I?,Where am I?
-NPC_MAKEANAPPOINTMENT,Make an appointment,Make an appointment
-NPC_FINALIZESTATSELECTION,Finalize Stat selection,Finalize Stat selection
+NPC_FORHONOR,For Honor!,Dla czci!
+NPC_FORFUN,For Fun!,Dla zabawy!
+NPC_MEHJUSTBECAUSE,"Meh, just because?","Eh, po prostu tak?"
+NPC_YES_ENTER,Yes_Enter,Tak_Wejdź
+NPC_NO_ENTER,No_Enter,Nie_Wejdź
+NPC_WHEREAMI,Where am I?,Gdzie jestem?
+NPC_MAKEANAPPOINTMENT,Make an appointment,Umów się
+NPC_FINALIZESTATSELECTION,Finalize Stat selection,Sfinalizuj wybór statystyk
 NPC_DEKANEMINE,Dekane Mine,Kopalnia Dekane
-NPC_CELL,Cell,Cell
-NPC_AZRIAMINE,Azria Mine,Azria Mine
-NPC_CURSEDSYMBOL,Cursed Symbol,Cursed Symbol
-NPC_GIVESYMBOL,Give the Symbol,Give the Symbol
-NPC_HAELLETTER,Hael's Letter,Hael's Letter
+NPC_CELL,Cell,Cela
+NPC_AZRIAMINE,Azria Mine,Kopalnia Azria
+NPC_CURSEDSYMBOL,Cursed Symbol,Przeklęty Symbol
+NPC_GIVESYMBOL,Give the Symbol,Oddaj Symbol
+NPC_HAELLETTER,Hael's Letter,List Haela
 NPC_GIVELETTER,Give Letter,Give Letter
 NPC_TREASURE_BOX,Treasure,Treasure
 NPC_LOSTMEMORIES,Lost Memories,Lost Memories
@@ -292,7 +292,7 @@ NPC_000332,Everything is the Acrobat. The Acrobat is everything. Take a moment t
 NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat.","My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat."
 NPC_000334,Good bye. Never forget the way of the Acrobat. Ha ha ha,Good bye. Never forget the way of the Acrobat. Ha ha ha
 NPC_000335,"No one can stop you from jumping into it, even though you know that it is extremely hot.","No one can stop you from jumping into it, even though you know that it is extremely hot."
-NPC_000336,Cell,Cell
+NPC_000336,Cell,Cela
 NPC_000337,What? What do you want?,What? What do you want?
 NPC_000338,I know you were here before. I believe you have the ability to overcome the dangers.,I know you were here before. I believe you have the ability to overcome the dangers.
 NPC_000339,Speaking to me is already dangerous as it is. What do you want?,Speaking to me is already dangerous as it is. What do you want?
@@ -1037,7 +1037,7 @@ NPC_100091,Within the Storm Peak mountain a great evil is said to lurk.,Within t
 NPC_100092,Go back home before you get frostbite!,Go back home before you get frostbite!
 NPC_100093,"I've watched over the Storm Peak mountain trails for many years, ensuring the safety of all who venture forth.","I've watched over the Storm Peak mountain trails for many years, ensuring the safety of all who venture forth."
 NPC_100094,"One day you will see, that the Frostiae peak ahead holds a dark secret.","One day you will see, that the Frostiae peak ahead holds a dark secret."
-NPC_100095,Azria Mine,Azria Mine
+NPC_100095,Azria Mine,Kopalnia Azria
 NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.","I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria."
 NPC_100097,"My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets.","My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets."
 NPC_100098,My people are all gone.. I am alone here.,My people are all gone.. I am alone here.
@@ -1046,9 +1046,9 @@ NPC_100100,No one should be here.. leave before you are killed.,No one should be
 NPC_100101,"My name is Rankashin.. I have lived here for many years now. Long ago I helped build a powerful weapon, but in the end it was turned against us..","My name is Rankashin.. I have lived here for many years now. Long ago I helped build a powerful weapon, but in the end it was turned against us.."
 NPC_100102,May the Clockworks War never be forgotten!,May the Clockworks War never be forgotten!
 NPC_100103,"Hi I am Kebaras Pang, the strongest of the Pang brothers. We manage the Lodelights.","Hi I am Kebaras Pang, the strongest of the Pang brothers. We manage the Lodelights."
-NPC_100104,Cursed Symbol,Cursed Symbol
+NPC_100104,Cursed Symbol,Przeklęty Symbol
 NPC_100105,"I can feel the dark power radiating from your bag.. you have one of the symbols of corruption, don't you? Hand it to me if you don't mind.","I can feel the dark power radiating from your bag.. you have one of the symbols of corruption, don't you? Hand it to me if you don't mind."
-NPC_100106,Give the Symbol,Give the Symbol
+NPC_100106,Give the Symbol,Oddaj Symbol
 NPC_100107,"The past few years have felt like a blur to me. I wrote this letter to an old friend, but I can't remember who..","The past few years have felt like a blur to me. I wrote this letter to an old friend, but I can't remember who.."
 NPC_100108,IDS_Hael_Letter,IDS_Hael_Letter
 NPC_100109,"Though Hael has gained back some memories of his past, it saddens me that he has forgotten so much. Thank you for bringing me his letter.","Though Hael has gained back some memories of his past, it saddens me that he has forgotten so much. Thank you for bringing me his letter."

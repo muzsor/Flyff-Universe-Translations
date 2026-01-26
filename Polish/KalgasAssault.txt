@@ -1,21 +1,21 @@
-﻿#cff0000ffKalgas Assault#nc
-Two teams shall clash against each other to take control of the mighty boss 'Kalgas'
-Take down the artifacts guarding 'Kalgas' to strike 'Kalgas' even harder to win the Assault!!
-Various rewards are awaiting you!!
+﻿#cff0000ffAtak na Kalgasa#nc
+Dwie drużyny staraj się nawzajem, aby przejąć kontrolę nad potężnym bossem 'Kalgasa'
+Zniszcz artefakty chroniące 'Kalgasa', aby uderzyć w 'Kalgasa' jeszcze mocniej i wygrać Atak!!
+Różne nagrody czekają na Ciebie!!
 
-#cff0000ffRule#nc
-1. Capturing an artifact gives a buff that deals additional damage to Kalgas based on the number of artifacts captured. 
-2. If you spend less than a certain amount of time in the game, you will be excluded from the rewards.
-3. The team that deals more damage to Kalgas and have a higher rate by the end of assault wins.
-However, if one team's rate exceed 80% and they hold that status for a minute, the event ends early and the team wins.
-4. Winning priority : Rate > Number of captured artifacts > PK kills between teams 
-5. Even if Kalgas Assault begins without an opposing team that enters, if no damage is dealt to Kalgas, it will end as a draw.
+#cff0000ffZasada#nc
+1. Przechwycenie artefaktu daje buff, który zadaje dodatkowe obrażenia Kalgasowi na podstawie liczby przechwyconych artefaktów.
+2. Jeśli spędzisz w grze mniej niż określoną ilość czasu, zostaniesz wykluczony z nagród.
+3. Drużyna, która zadaje więcej obrażeń Kalgasowi i ma wyższy wskaźnik na koniec ataku, wygrywa.
+Jednak, jeśli wskaźnik jednej drużyny przekroczy 80% i utrzyma ten status przez minutę, zdarzenie kończy się wcześnie i drużyna wygrywa.
+4. Priorytet zwycięstwa: Wskaźnik > Liczba przechwyconych artefaktów > Zabici PK między drużynami
+5. Nawet jeśli Atak na Kalgasa rozpocznie się bez wchodzącej drużyny przeciwnika, jeśli do Kalgasa nie będzie zadane żadne obrażenia, skończy się to remisem.
 
-#cff0000ffRewards#nc
-Participation rewards  – 5x Kalgas Chip
-Winning Team  – 10x Kalgas Chip
-1st for each category – 30x Kalgas Chip
-2nd for each category – 20x Kalgas Chip
-3rd for each category – 15x Kalgas Chip
+#cff0000ffNagrody#nc
+Nagrody za uczestnictwo – 5x żeton Kalgasa
+Zwycięska drużyna – 10x żeton Kalgasa
+1. miejsce w każdej kategorii – 30x żeton Kalgasa
+2. miejsce w każdej kategorii – 20x żeton Kalgasa
+3. miejsce w każdej kategorii – 15x żeton Kalgasa
 
-※ In the case of draw, only participation rewards and rewards for category ranking will be given, and no winner rewards will be given.
+※ W przypadku remisu będą udzielone tylko nagrody za uczestnictwo i nagrody za miejsce w kategorii, a nie będą udzielone nagrody zwycięzcy.

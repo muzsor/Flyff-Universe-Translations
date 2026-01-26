@@ -8,7 +8,7 @@ PROPQUEST_DUNGEONANDPK_INC_000006,Your quest has been accomplished. Your sins ha
 PROPQUEST_DUNGEONANDPK_INC_000007,"If you are truly unwilling to fight for forgiveness, then there is no hope for you.","Jeśli jesteś naprawdę niechętny żeby walczyć o wybaczenie, nie ma dla ciebie nadziei."
 PROPQUEST_DUNGEONANDPK_INC_000019,Hunting $QUEST_END_KILL_NAME$ will recover your Karma points.,Polowanie na $QUEST_END_KILL_NAME$ pozwoli odzyskać punkty Karmy.
 PROPQUEST_DUNGEONANDPK_INC_000376,Get the Key to escape Kebaras Island,"Znajdź Klucz, aby uciec z wyspy Kebaras"
-PROPQUEST_DUNGEONANDPK_INC_000377,You can warp away from here at the Warp Zone but you need the Key. Are you ready to earn it?,You can warp away from here at the Warp Zone but you need the Key. Are you ready to earn it?
+PROPQUEST_DUNGEONANDPK_INC_000377,You can warp away from here at the Warp Zone but you need the Key. Are you ready to earn it?,"Możesz się teleportować stąd ze Strefy Teleportacji, ale potrzebujesz Klucza. Czy jesteś gotów go zdobyć?"
 PROPQUEST_DUNGEONANDPK_INC_000378,I will give you the Key if you can bring me $QUEST_END_ITEM_COUNT$ Beads of Sin. You can get the beads in the empty lot beside the campsite.,"Dam ci Klucz, jeśli przyniesiesz mi $QUEST_END_ITEM_COUNT$ Beads of Sin. Koraliki możesz zdobyć na pustej parceli obok kempingu."
 PROPQUEST_DUNGEONANDPK_INC_000379,How long until you are ready to leave this place?,Ile potrzebujesz czasu aby być gotowy do opuszczenia tego miejsca?
 PROPQUEST_DUNGEONANDPK_INC_000380,Here is the Key. Now go and never return.,Tutaj masz Klucz. Teraz idź i nigdy nie wracaj
@@ -49,7 +49,7 @@ PROPQUEST_DUNGEONANDPK_INC_000460,"If, by any chance, you want more adventure vi
 PROPQUEST_DUNGEONANDPK_INC_000461,Hrmm… It might not be that dangerous for someone as strong as you.,Hrmm… To może nie być takie niebezpieczne dla kogoś tak silnego jak ty.
 PROPQUEST_DUNGEONANDPK_INC_000462,Bring the seal of the chief and the package that Drian is holding back to Nevil.,"Przynieś pieczęć szefa i paczkę, którą trzyma Drian."
 PROPQUEST_DUNGEONANDPK_INC_000465,"You rescued Nevil, chief of the Keakoon. You can feel the secrets around this place. Maybe you can get some information from Bernard.","Uratowałeś Nevila, wodza Keakoon. Wokół tego miejsca można poczuć tajemnice. Może uzyskasz jakieś informacje od Bernarda."
-PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),Death Mine and Roaches (1)
+PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),Kopalna Śmierci i Karaluchy (1)
 PROPQUEST_DUNGEONANDPK_INC_000468,Hmm… Is that the ring of Nevil around your finger?,Hmm… Czy to pierścień Nevila na twoim palcu?
 PROPQUEST_DUNGEONANDPK_INC_000469,Your strength has been proven then. Would you prove yourself further? The Roach is somehow connected to the death of people in the mine.,Twoja siła została wtedy udowodniona. Udowodniłbyś ją dalej? Roach jest w jakiś sposób związana ze śmiercią ludzi w kopalni.
 PROPQUEST_DUNGEONANDPK_INC_000470,There is a mystery to be unlocked here. Would you bring me the blood of the Roach larva?,Jest tu tajemnica do odkrycia. Czy przyniesiesz mi krew larwy Roach?
@@ -59,7 +59,7 @@ PROPQUEST_DUNGEONANDPK_INC_000473,"Ahh, there is much to be learned from the blo
 PROPQUEST_DUNGEONANDPK_INC_000474,No! No! No! Bring me more information!,Nie! Nie! Nie! Przynieś mi więcej informacji!
 PROPQUEST_DUNGEONANDPK_INC_000475,Bring the blood of Roaches by destroying their eggs and defeating Roach Larva.,"Sprowadź krew Roachów, niszcząc ich jaja."
 PROPQUEST_DUNGEONANDPK_INC_000478,Looks like he still has a need of you.,"Wygląda na to, że nadal cię potrzebuje."
-PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),Death Mine and Roaches (2)
+PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),Kopalna Śmierci i Karaluchy (2)
 PROPQUEST_DUNGEONANDPK_INC_000481,The toxicity of Roaches has poisoned many humans in the mine.,Toksyczność Roachów zatruła wielu ludzi w kopalni.
 PROPQUEST_DUNGEONANDPK_INC_000482,It seems that the Roach Queens are the source of the poison.,"Wygląda na to, że źródłem trucizny są Królowe Roach."
 PROPQUEST_DUNGEONANDPK_INC_000483,Bring me the blood of Pink and Blue Roach Queens so that I can make a vaccine.,"Przynieś mi krew Pinky i Blue Roach Queens, żebym mogła zrobić szczepionkę."
@@ -123,7 +123,7 @@ PROPQUEST_DUNGEONANDPK_INC_000563,Bye bye then! Take care of yourself…,Żegnaj
 PROPQUEST_DUNGEONANDPK_INC_000564,Hmm… Violet Trillipy may be stronger than Watangka.,Hmm… Violet Trillipy może być silniejsza niż Watangka.
 PROPQUEST_DUNGEONANDPK_INC_000565,"Alright, here is the ID card. Just make sure you come out of there alive. I do not need a guilty conscience.","Dobrze, oto karta identyfikacyjna. Tylko upewnij się, że wyjdziesz stamtąd żywy. Nie potrzebuję wyrzutów sumienia."
 PROPQUEST_DUNGEONANDPK_INC_000566,I guess we all get tired sometime?,Chyba wszyscy kiedyś się zmęczymy.?
-PROPQUEST_DUNGEONANDPK_INC_000567,Defeat 30 Captain Watangka and the Lord Watangka.,Defeat 30 Captain Watangka and the Lord Watangka.
+PROPQUEST_DUNGEONANDPK_INC_000567,Defeat 30 Captain Watangka and the Lord Watangka.,Pokonaj 30 Kapitana Watangka i Lorda Watangka.
 PROPQUEST_DUNGEONANDPK_INC_000572,Door of Dark,Drzwi ciemności
 PROPQUEST_DUNGEONANDPK_INC_000573,"Excuse me. If you are not busy, would you please listen to my story? Have you ever heard of the Iblis Temple?","Przepraszam. Jeśli nie jesteś zajęty, czy mógłbyś wysłuchać mojej historii? Czy słyszałeś kiedyś o Świątyni Iblis?"
 PROPQUEST_DUNGEONANDPK_INC_000574,"The Iblis Temple was built by the followers of Iblis, a leader from before the first age of Madrigal.","Świątynia Iblis została zbudowana przez wyznawców Iblisa, przywódcy sprzed pierwszej epoki Madrigal."
@@ -164,8 +164,8 @@ PROPQUEST_DUNGEONANDPK_INC_000611,"Great job, now you can enter the altar. I am 
 PROPQUEST_DUNGEONANDPK_INC_000612,I do not know exactly where Iblis Guardian is. But we have to find it and destroy it.,"Nie wiem dokładnie, gdzie znajduje się Iblis Guardian. Musimy go znaleźć i zniszczyć."
 PROPQUEST_DUNGEONANDPK_INC_000613,Defeat Iblis Guardian and enter the altar.,Pokonaj Iblis Guardian i wejdź do ołtarza.
 PROPQUEST_DUNGEONANDPK_INC_000615,If you can defeat the Iblis Guardian you can enter the altar.,"Jeśli pokonasz Iblis Guardian, będziesz mógł wejść do ołtarza."
-PROPQUEST_DUNGEONANDPK_INC_000625,Dekane Mine,Dekane Mine
-PROPQUEST_DUNGEONANDPK_INC_000626,Iblis Temple,Iblis Temple
+PROPQUEST_DUNGEONANDPK_INC_000625,Dekane Mine,Kopalna Dekane
+PROPQUEST_DUNGEONANDPK_INC_000626,Iblis Temple,Świątynia Iblis
 PROPQUEST_DUNGEONANDPK_INC_000640,Bloody corridor,Krwawy korytarz
 PROPQUEST_DUNGEONANDPK_INC_000641,Well... Not a bad deal... Can you collect 20 Blood Trillipy Shells and defeat a Mutant Keakoon Worker?,Cóż... Niezły interes... Czy zdobędziesz 20 łupów z Hazardous Blood Trilipy i pokonasz Mutant Keakoon Worker?
 PROPQUEST_DUNGEONANDPK_INC_000642,"In that case...Hic, good luck.","W takim razie... Hic, powodzenia."
@@ -175,8 +175,8 @@ PROPQUEST_DUNGEONANDPK_INC_000645,Hmm... Despite your level the Hazardous Blood 
 PROPQUEST_DUNGEONANDPK_INC_000646,Collect $QUEST_END_ITEM_COUNT$ loot from the Bloody Trilipy and kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.,Zbierz $QUEST_END_ITEM_COUNT$ łupów z Bloody Trilipy i zabij $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.
 PROPQUEST_DUNGEONANDPK_INC_000648,The bottom of the mine,Dno kopalni
 PROPQUEST_DUNGEONANDPK_INC_000649,"Hello, if you're here it's because you've defeated all the known monsters in the mine. I'm Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem that lies at the bottom of the mine. In a secret room sleep dragons from ancient times created by Shade ages ago.","Witam, jeśli tu jesteś, to dlatego, że pokonałeś wszystkie znane potwory w kopalni. Jestem Dekane, twórca tej kopalni. Teraz, kiedy już się sprawdziłeś, będę mógł ci powiedzieć, jaki jest prawdziwy problem, który leży na dnie kopalni. W sekretnym pokoju śpią smoki z czasów starożytnych stworzone przez Shade wieki temu."
-PROPQUEST_DUNGEONANDPK_INC_000650,Good luck!,Good luck!
-PROPQUEST_DUNGEONANDPK_INC_000651,It is true that this is not an easy thing for an adventurer. Come and try your luck again when you are ready.,It is true that this is not an easy thing for an adventurer. Come and try your luck again when you are ready.
+PROPQUEST_DUNGEONANDPK_INC_000650,Good luck!,Powodzenia!
+PROPQUEST_DUNGEONANDPK_INC_000651,It is true that this is not an easy thing for an adventurer. Come and try your luck again when you are ready.,"To prawda, że nie jest to łatwe zadanie dla poszukiwacza przygód. Przyjdź i spróbuj ponownie, gdy będziesz gotów."
 PROPQUEST_DUNGEONANDPK_INC_000652,So you really did kill them all... Thank you very much.,Więc naprawdę zabiłeś ich wszystkich... Dziękuję bardzo.
 PROPQUEST_DUNGEONANDPK_INC_000654,Collect 30 Blood Trillipy Shells from the Bloody Trillipy and kill 3 Mutant Keakoon Workers.,Zbierz 30 łupów z Bloody Trilipy i zabij 3 Mutant Keakoon Workers.
 PROPQUEST_DUNGEONANDPK_INC_000656,"To defeat them, you'll need a well-armed team. Ah, but there's one detail I forgot to mention. You'll need 1,000,000 Penya to open the door, but for now, collecting 30 Blood Trillipy Shells and defeating 3 Mutant Keakoon Workers will be enough. Are you ready to accept this challenge?","Aby ich pokonać, potrzebujesz dobrze uzbrojonej drużyny. Ach, ale jest jeden szczegół, o którym zapomniałem wspomnieć: do otwarcia drzwi potrzebujesz 1,000,000 Penyas, ale na razie wystarczy 30 blood Trillipys i 3 Keakoon Mutant Workers. Czy jesteś gotów podjąć to wyzwanie?"

@@ -1,4 +1,4 @@
-﻿#b#cff0000ff* Applying Fee#nb#nc
-- Cancellation: 20% of applying money is deducted.
-- Failure: 2% of applying money is deducted.
-* Please make it sure that the 10 Guilds which succeed to join Guild Combat cannot get back the applying money.
+﻿#b#cff0000ff* Opłata zgłoszenia#nb#nc
+- Anulowanie: odliczane jest 20% pieniędzy zgłoszenia.
+- Niepowodzenie: odliczane jest 2% pieniędzy zgłoszenia.
+* Upewnij się, że 10 Gild, które pomyślnie przystąpiły do Bitwy Gildii, nie mogą odzyskać pieniędzy zgłoszenia.

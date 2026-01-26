@@ -1,11 +1,11 @@
-﻿#cffff0000Welcome in the fabulous world of Flyff!#nc
+﻿#cffff0000Witajcie w fantastycznym świecie Flyff!#nc
 
-Madrigal's continent has known many conflicts…
-but is from now on seeking harmony, mutual support and peace.
+Kontynent Madrigalu przeszedł wiele konfliktów…
+ale od teraz szuka harmonii, wzajemnego wsparcia i pokoju.
 
-As would have wished Rhisis,
-respect and help other citizens of Madrigal.
+Jak byłaby chciała Rhisis,
+szanuj i pomagaj innym obywatelom Madrigalu.
 
-Enjoy the adventure!
+Ciesz się przygodą!
 
-#cffff0000Discover the project on $WEBSITE$!#nc
+#cffff0000Odkryj projekt na $WEBSITE$!#nc

@@ -1,12 +1,12 @@
-﻿#cff0000ffRegistration#nc
-Kalgas Assault Match Time: Every %s %s ~ %s(Max. %d min)
-Level Limit : %d
-Registration Time: Every %s %s ~ %s %s
-Entry Time: %s ~ %s
-Current number of registered players : %d
+﻿#cff0000ffRejestracja#nc
+Czas meczu Ataku na Kalgasa: Co %s %s ~ %s(Maks. %d min)
+Limit poziomu : %d
+Czas rejestracji: Co %s %s ~ %s %s
+Czas wejścia: %s ~ %s
+Aktualna liczba zarejestrowanych graczy : %d
 
-※ Only users who have registered for Kalgas Assault can participate.
-※ You will not be able to enter after the time limit has passed.
-※ Maximum 200 players per an instance (100 vs 100)
-※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.
-※ Teams will be randomly selected. 
+※ Tylko użytkownicy zarejestrowani na Atak na Kalgasa mogą uczestniczyć.
+※ Nie będzie można wejść po upływie limitu czasu.
+※ Maksymalnie 200 graczy na instancję (100 vs 100)
+※ Minimalna liczba graczy do nagrody za ranking to 20 lub więcej, a jeśli jest mniej niż 20 graczy, będzie udzielona tylko nagroda zwycięzcy.
+※ Drużyny będą wybierane losowo. 

@@ -1,18 +1,18 @@
-﻿#b#cff0000ff* Level 80 Guild Siege#nb#nc
-Welcome to the Level 80 Guild Siege! This competition is available to players level 80 and less.
+﻿#b#cff0000ff* Oblężenie Gildii poziomu 80#nb#nc
+Witajcie w Oblężeniu Gildii poziomu 80! Ta konkurencja jest dostępna dla graczy poziomu 80 i poniżej.
 
-Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+Proszę zapytaj [Menedżera Oblężenia Gildii] Donaris o więcej informacji na temat bitwy.
 
-Pets cannot be summoned during this Guild Siege.
+Zwierzęta nie mogą być przywoływane podczas tego Oblężenia Gildii.
 
-#b#cff0000ff* Reward Blue Chips#nb#nc
-- Winning Guild: 17 x number of participating guilds
-- Second Guild: 12 x number of participating guilds
-- Third Guild: 7 x number of participating guilds
-- Fourth Guild: 4 x number of participating guilds
-- Fifth Guild: 2 x number of participating guilds
-- Sixth Guild: 1 x number of participating guilds
-- Seventh Guild: 1 x number of participating guilds
-- Eighth Guild: 1 x number of participating guilds
-- Ninth Guild: 1 x number of participating guilds
-- Tenth Guild: 1 x number of participating guilds
+#b#cff0000ff* Nagroda niebieskie żetony#nb#nc
+- Zwycięska Gilda: 17 x liczba uczestniczących gild
+- Druga Gilda: 12 x liczba uczestniczących gild
+- Trzecia Gilda: 7 x liczba uczestniczących gild
+- Czwarta Gilda: 4 x liczba uczestniczących gild
+- Piąta Gilda: 2 x liczba uczestniczących gild
+- Szósta Gilda: 1 x liczba uczestniczących gild
+- Siódma Gilda: 1 x liczba uczestniczących gild
+- Ósma Gilda: 1 x liczba uczestniczących gild
+- Dziewiąta Gilda: 1 x liczba uczestniczących gild
+- Dziesiąta Gilda: 1 x liczba uczestniczących gild

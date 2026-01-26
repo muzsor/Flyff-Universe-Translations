@@ -1,15 +1,15 @@
-﻿#b#cff0000ff* Participation#nb#nc
-* Application Time: Every Sunday 00:00 to Saturday 13:00 UTC
-* Combat Place: Server Channel 1
-* Conditions
- - Guild Master
- - The level of Guild should be 6 or higher.
- - The level of Guild member should be 30 or higher.
- - Guild Master or Kingpin should join together.
- - Only 8 Guilds can join in order of the amount of applying money (before the end of applification).
-* Schedule
- - 13:00  Entry
- - 13:10  Entry is ended
- - 13:20  Combat begins
- - 13:50  Combat is ended
-#b#cffff0000* Guild Siege will only begin if 2 or more Guilds are accepted.#nb#nc
+﻿#b#cff0000ff* Uczestnictwo#nb#nc
+* Czas zgłoszenia: Co niedzielę 00:00 do soboty 13:00 UTC
+* Miejsce bitwy: Kanał serwera 1
+* Warunki
+ - Mistrz Gildii
+ - Poziom Gildii powinien wynosity 6 lub wyższy.
+ - Poziom członka Gildii powinien wynosity 30 lub wyższy.
+ - Mistrz Gildii lub Kingpin powinni przystąpić razem.
+ - Tylko 10 Gild może przystąpić w kolejności kwoty pieniędzy zgłoszenia (przed końcem zgłoszenia).
+* Harmonogram
+ - 13:00  Wejście
+ - 13:10  Wejście się skończyło
+ - 13:20  Bitwa się zaczyna
+ - 13:50  Bitwa się skończyła
+#b#cffff0000* Oblężenie Gildii będzie miało miejsce tylko jeśli zostanie zaakceptowanych 2 lub więcej Gild.#nb#nc

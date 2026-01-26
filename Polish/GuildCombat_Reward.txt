@@ -1,17 +1,17 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff* Nagroda#nb#nc
+#b#cff0000ff* Nagroda czerwonych żetonów#nb#nc
+- Zwycięska Gilda: 34 x liczba uczestniczących gild
+- Druga Gilda: 24 x liczba uczestniczących gild
+- Trzecia Gilda: 14 x liczba uczestniczących gild
+- Czwarta Gilda: 8 x liczba uczestniczących gild
+- Piąta Gilda: 4 x liczba uczestniczących gild
+#b#cff0000ff* Nagroda pieniężna#nb#nc
+- Zwycięska Gilda: 35% całkowitych pieniędzy zgłoszenia
+- Najlepszy gracz: 15% całkowitych pieniędzy zgłoszenia
+#b#cff0000ff* Nagroda prezent#nb#nc
+- 1 zwycięstwo: Smocza peleryna inicjanta, wszystkie statystyki +5
+- 2 zwycięstwa z rzędu: Smocza peleryna adwersarza, wszystkie statystyki +6, MAX HP+100
+- 3 zwycięstwa z rzędu: Smocza peleryna mistrza, wszystkie statystyki +7, MAX HP+100
+- 4 zwycięstwa z rzędu: Smocza peleryna bohatera, wszystkie statystyki +8, MAX HP+100
+#b#cffff0000* Przycisk jest wyświetlany, za pomocą którego można swobodnie tworzyć Smoczą pelerynę w banku Gildii.#nb#nc
+* Smocza peleryna może być włożona tylko przed rozpoczęciem następnej Bitwy Gildii.

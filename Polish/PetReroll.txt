@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Rerolling #nb#nc
-You can #bchange the level#nb of a selected tier, resulting in a new random level which could be #bhigher or lower#nb than the current level.
-#cffff0000The number of scrolls displayed when selecting a tier will be consumed.#nc
-Once you select a tier to reroll, #bonly that tier will remain eligible for rerolling, disabling all other tiers from rerolling using a reroll scroll#nb.
+﻿#b#cff0000ff Przerzut zwierzęcia #nb#nc
+Możesz #bzmienić poziom#nb wybranego tieru, co daje nowy losowy poziom, który może być #bwyższy lub niższy#nb niż obecny poziom.
+#cffff0000Liczba zwojów wyświetlana podczas wyboru tieru zostanie zużyta.#nc
+Po wybraniu tieru do przerzutu, #btylko ten tier pozostanie uprawniony do przerzutu, wyłączając wszystkie inne tiery z przerzutu przy użyciu zwoju przerzutu#nb.

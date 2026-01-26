@@ -272,21 +272,21 @@ ACHIEVEMENT_KILL_ROCKEPELLER_LVL2,Rockepeller Slayer 2,Pogromca Śmigłowników 
 ACHIEVEMENT_KILL_ROCKEPELLER_LVL3,Rockepeller Slayer 3,Pogromca Śmigłowników 3
 ACHIEVEMENT_KILL_ROCKEPELLER_LVL4,Rockepeller Slayer 4,Pogromca Śmigłowników 4
 ACHIEVEMENT_KILL_ROCKEPELLER_LVL5,Rockepeller Hunter,Łowca Śmigłowników
-ACHIEVEMENT_KILL_WHEELEM_LVL1,Wheelem Slayer 1,Wheelem Slayer 1
-ACHIEVEMENT_KILL_WHEELEM_LVL2,Wheelem Slayer 2,Wheelem Slayer 2
-ACHIEVEMENT_KILL_WHEELEM_LVL3,Wheelem Slayer 3,Wheelem Slayer 3
-ACHIEVEMENT_KILL_WHEELEM_LVL4,Wheelem Slayer 4,Wheelem Slayer 4
-ACHIEVEMENT_KILL_WHEELEM_LVL5,Wheelem Hunter,Wheelem Hunter
-ACHIEVEMENT_KILL_LEYENA_LVL1,Leyena Slayer 1,Leyena Slayer 1
-ACHIEVEMENT_KILL_LEYENA_LVL2,Leyena Slayer 2,Leyena Slayer 2
-ACHIEVEMENT_KILL_LEYENA_LVL3,Leyena Slayer 3,Leyena Slayer 3
-ACHIEVEMENT_KILL_LEYENA_LVL4,Leyena Slayer 4,Leyena Slayer 4
-ACHIEVEMENT_KILL_LEYENA_LVL5,Leyena Hunter,Leyena Hunter
-ACHIEVEMENT_KILL_TRANGFOMA_LVL1,Trangfoma Slayer 1,Trangfoma Slayer 1
-ACHIEVEMENT_KILL_TRANGFOMA_LVL2,Trangfoma Slayer 2,Trangfoma Slayer 2
-ACHIEVEMENT_KILL_TRANGFOMA_LVL3,Trangfoma Slayer 3,Trangfoma Slayer 3
-ACHIEVEMENT_KILL_TRANGFOMA_LVL4,Trangfoma Slayer 4,Trangfoma Slayer 4
-ACHIEVEMENT_KILL_TRANGFOMA_LVL5,Trangfoma Hunter,Trangfoma Hunter
+ACHIEVEMENT_KILL_WHEELEM_LVL1,Wheelem Slayer 1,Pogromca Wheelem 1
+ACHIEVEMENT_KILL_WHEELEM_LVL2,Wheelem Slayer 2,Pogromca Wheelem 2
+ACHIEVEMENT_KILL_WHEELEM_LVL3,Wheelem Slayer 3,Pogromca Wheelem 3
+ACHIEVEMENT_KILL_WHEELEM_LVL4,Wheelem Slayer 4,Pogromca Wheelem 4
+ACHIEVEMENT_KILL_WHEELEM_LVL5,Wheelem Hunter,Łowca Wheelem
+ACHIEVEMENT_KILL_LEYENA_LVL1,Leyena Slayer 1,Pogromca Leyena 1
+ACHIEVEMENT_KILL_LEYENA_LVL2,Leyena Slayer 2,Pogromca Leyena 2
+ACHIEVEMENT_KILL_LEYENA_LVL3,Leyena Slayer 3,Pogromca Leyena 3
+ACHIEVEMENT_KILL_LEYENA_LVL4,Leyena Slayer 4,Pogromca Leyena 4
+ACHIEVEMENT_KILL_LEYENA_LVL5,Leyena Hunter,Łowca Leyena
+ACHIEVEMENT_KILL_TRANGFOMA_LVL1,Trangfoma Slayer 1,Pogromca Trangfoma 1
+ACHIEVEMENT_KILL_TRANGFOMA_LVL2,Trangfoma Slayer 2,Pogromca Trangfoma 2
+ACHIEVEMENT_KILL_TRANGFOMA_LVL3,Trangfoma Slayer 3,Pogromca Trangfoma 3
+ACHIEVEMENT_KILL_TRANGFOMA_LVL4,Trangfoma Slayer 4,Pogromca Trangfoma 4
+ACHIEVEMENT_KILL_TRANGFOMA_LVL5,Trangfoma Hunter,Łowca Trangfoma
 ACHIEVEMENT_KILL_STEAMWALKER_LVL1,Steam Walker Slayer 1,Pogromca Parochodziarzy 1
 ACHIEVEMENT_KILL_STEAMWALKER_LVL2,Steam Walker Slayer 2,Pogromca Parochodziarzy 2
 ACHIEVEMENT_KILL_STEAMWALKER_LVL3,Steam Walker Slayer 3,Pogromca Parochodziarzy 3
@@ -297,176 +297,176 @@ ACHIEVEMENT_KILL_STEELKNIGHT_LVL2,Steel Knight Slayer 2,Pogromca Żelaznego Ryce
 ACHIEVEMENT_KILL_STEELKNIGHT_LVL3,Steel Knight Slayer 3,Pogromca Żelaznego Rycerza 3
 ACHIEVEMENT_KILL_STEELKNIGHT_LVL4,Steel Knight Slayer 4,Pogromca Żelaznego Rycerza 4
 ACHIEVEMENT_KILL_STEELKNIGHT_LVL5,Steel Knight Hunter,Łowca Żelaznego Rycerza
-ACHIEVEMENT_KILL_ZOMBIGER_LVL1,Zombiger Slayer 1,Zombiger Slayer 1
-ACHIEVEMENT_KILL_ZOMBIGER_LVL2,Zombiger Slayer 2,Zombiger Slayer 2
-ACHIEVEMENT_KILL_ZOMBIGER_LVL3,Zombiger Slayer 3,Zombiger Slayer 3
-ACHIEVEMENT_KILL_ZOMBIGER_LVL4,Zombiger Slayer 4,Zombiger Slayer 4
-ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Slayer 1,Zombiger Slayer 1
+ACHIEVEMENT_KILL_ZOMBIGER_LVL1,Zombiger Slayer 1,Pogromca Zombiger 1
+ACHIEVEMENT_KILL_ZOMBIGER_LVL2,Zombiger Slayer 2,Pogromca Zombiger 2
+ACHIEVEMENT_KILL_ZOMBIGER_LVL3,Zombiger Slayer 3,Pogromca Zombiger 3
+ACHIEVEMENT_KILL_ZOMBIGER_LVL4,Zombiger Slayer 4,Pogromca Zombiger 4
+ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Slayer 1,Pogromca Zombiger 1
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL1,Nuttywheel Slayer 1,Pogromca Pokręconego Koła 1
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL2,Nuttywheel Slayer 2,Pogromca Pokręconego Koła 2
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL3,Nuttywheel Slayer 3,Pogromca Pokręconego Koła 3
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL4,Nuttywheel Slayer 4,Pogromca Pokręconego Koła 4
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL5,Nuttywheel Hunter,Łowca Pokręconego Koła 
-ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL1,Nuctuvehicle Slayer 1,Nuctuvehicle Slayer 1
-ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL2,Nuctuvehicle Slayer 2,Nuctuvehicle Slayer 2
-ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL3,Nuctuvehicle Slayer 3,Nuctuvehicle Slayer 3
-ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL4,Nuctuvehicle Slayer 4,Nuctuvehicle Slayer 4
-ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL5,Nuctuvehicle Hunter,Nuctuvehicle Hunter
+ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL1,Nuctuvehicle Slayer 1,Pogromca Nuctuvehicle 1
+ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL2,Nuctuvehicle Slayer 2,Pogromca Nuctuvehicle 2
+ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL3,Nuctuvehicle Slayer 3,Pogromca Nuctuvehicle 3
+ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL4,Nuctuvehicle Slayer 4,Pogromca Nuctuvehicle 4
+ACHIEVEMENT_KILL_NUCTUVEHICLE_LVL5,Nuctuvehicle Hunter,Łowca Nuctuvehicle
 ACHIEVEMENT_KILL_DRILLER_LVL1,Driller Slayer 1,Pogromca Wiertników 1
 ACHIEVEMENT_KILL_DRILLER_LVL2,Driller Slayer 2,Pogromca Wiertników 2
 ACHIEVEMENT_KILL_DRILLER_LVL3,Driller Slayer 3,Pogromca Wiertników 3
 ACHIEVEMENT_KILL_DRILLER_LVL4,Driller Slayer 4,Pogromca Wiertników 4
 ACHIEVEMENT_KILL_DRILLER_LVL5,Driller Hunter,Łowca Wiertników
-ACHIEVEMENT_KILL_RISEM_LVL1,Risem Slayer 1,Risem Slayer 1
-ACHIEVEMENT_KILL_RISEM_LVL2,Risem Slayer 2,Risem Slayer 2
-ACHIEVEMENT_KILL_RISEM_LVL3,Risem Slayer 3,Risem Slayer 3
-ACHIEVEMENT_KILL_RISEM_LVL4,Risem Slayer 4,Risem Slayer 4
-ACHIEVEMENT_KILL_RISEM_LVL5,Risem Hunter,Risem Hunter
-ACHIEVEMENT_KILL_GRRR_LVL1,Grrr Slayer 1,Grrr Slayer 1
-ACHIEVEMENT_KILL_GRRR_LVL2,Grrr Slayer 2,Grrr Slayer 2
-ACHIEVEMENT_KILL_GRRR_LVL3,Grrr Slayer 3,Grrr Slayer 3
-ACHIEVEMENT_KILL_GRRR_LVL4,Grrr Slayer 4,Grrr Slayer 4
-ACHIEVEMENT_KILL_GRRR_LVL5,Grrr Hunter,Grrr Hunter
-ACHIEVEMENT_KILL_VOLT_LVL1,Volt Slayer 1,Volt Slayer 1
-ACHIEVEMENT_KILL_VOLT_LVL2,Volt Slayer 2,Volt Slayer 2
-ACHIEVEMENT_KILL_VOLT_LVL3,Volt Slayer 3,Volt Slayer 3
-ACHIEVEMENT_KILL_VOLT_LVL4,Volt Slayer 4,Volt Slayer 4
-ACHIEVEMENT_KILL_VOLT_LVL5,Volt Hunter,Volt Hunter
+ACHIEVEMENT_KILL_RISEM_LVL1,Risem Slayer 1,Pogromca Risem 1
+ACHIEVEMENT_KILL_RISEM_LVL2,Risem Slayer 2,Pogromca Risem 2
+ACHIEVEMENT_KILL_RISEM_LVL3,Risem Slayer 3,Pogromca Risem 3
+ACHIEVEMENT_KILL_RISEM_LVL4,Risem Slayer 4,Pogromca Risem 4
+ACHIEVEMENT_KILL_RISEM_LVL5,Risem Hunter,Łowca Risem
+ACHIEVEMENT_KILL_GRRR_LVL1,Grrr Slayer 1,Pogromca Grrr 1
+ACHIEVEMENT_KILL_GRRR_LVL2,Grrr Slayer 2,Pogromca Grrr 2
+ACHIEVEMENT_KILL_GRRR_LVL3,Grrr Slayer 3,Pogromca Grrr 3
+ACHIEVEMENT_KILL_GRRR_LVL4,Grrr Slayer 4,Pogromca Grrr 4
+ACHIEVEMENT_KILL_GRRR_LVL5,Grrr Hunter,Łowca Grrr
+ACHIEVEMENT_KILL_VOLT_LVL1,Volt Slayer 1,Pogromca Volt 1
+ACHIEVEMENT_KILL_VOLT_LVL2,Volt Slayer 2,Pogromca Volt 2
+ACHIEVEMENT_KILL_VOLT_LVL3,Volt Slayer 3,Pogromca Volt 3
+ACHIEVEMENT_KILL_VOLT_LVL4,Volt Slayer 4,Pogromca Volt 4
+ACHIEVEMENT_KILL_VOLT_LVL5,Volt Hunter,Łowca Volt
 ACHIEVEMENT_KILL_ELDERGUARD_LVL1,Elderguard Slayer 1,Pogromca Prastrażników 1
 ACHIEVEMENT_KILL_ELDERGUARD_LVL2,Elderguard Slayer 2,Pogromca Prastrażników 2
 ACHIEVEMENT_KILL_ELDERGUARD_LVL3,Elderguard Slayer 3,Pogromca Prastrażników 3
 ACHIEVEMENT_KILL_ELDERGUARD_LVL4,Elderguard Slayer 4,Pogromca Prastrażników 4
 ACHIEVEMENT_KILL_ELDERGUARD_LVL5,Elderguard Hunter,Łowca Prastrażników
-ACHIEVEMENT_KILL_DUMP_LVL1,Dump Slayer 1,Dump Slayer 1
-ACHIEVEMENT_KILL_DUMP_LVL2,Dump Slayer 2,Dump Slayer 2
-ACHIEVEMENT_KILL_DUMP_LVL3,Dump Slayer 3,Dump Slayer 3
-ACHIEVEMENT_KILL_DUMP_LVL4,Dump Slayer 4,Dump Slayer 4
-ACHIEVEMENT_KILL_DUMP_LVL5,Dump Hunter,Dump Hunter
+ACHIEVEMENT_KILL_DUMP_LVL1,Dump Slayer 1,Pogromca Dump 1
+ACHIEVEMENT_KILL_DUMP_LVL2,Dump Slayer 2,Pogromca Dump 2
+ACHIEVEMENT_KILL_DUMP_LVL3,Dump Slayer 3,Pogromca Dump 3
+ACHIEVEMENT_KILL_DUMP_LVL4,Dump Slayer 4,Pogromca Dump 4
+ACHIEVEMENT_KILL_DUMP_LVL5,Dump Hunter,Łowca Dump
 ACHIEVEMENT_KILL_GARBAGEPIDER_LVL1,Garbagespider Slayer 1,Pogromca Pająkoszy 1
 ACHIEVEMENT_KILL_GARBAGEPIDER_LVL2,Garbagespider Slayer 2,Pogromca Pająkoszy 2
 ACHIEVEMENT_KILL_GARBAGEPIDER_LVL3,Garbagespider Slayer 3,Pogromca Pająkoszy 3
 ACHIEVEMENT_KILL_GARBAGEPIDER_LVL4,Garbagespider Slayer 4,Pogromca Pająkoszy 4
 ACHIEVEMENT_KILL_GARBAGEPIDER_LVL5,Garbagespider Hunter,Łowca Pająkoszy
-ACHIEVEMENT_KILL_ZENMA_LVL1,Zenma Slayer 1,Zenma Slayer 1
-ACHIEVEMENT_KILL_ZENMA_LVL2,Zenma Slayer 2,Zenma Slayer 2
-ACHIEVEMENT_KILL_ZENMA_LVL3,Zenma Slayer 3,Zenma Slayer 3
-ACHIEVEMENT_KILL_ZENMA_LVL4,Zenma Slayer 4,Zenma Slayer 4
-ACHIEVEMENT_KILL_ZENMA_LVL5,Zenma Hunter,Zenma Hunter
+ACHIEVEMENT_KILL_ZENMA_LVL1,Zenma Slayer 1,Pogromca Zenma 1
+ACHIEVEMENT_KILL_ZENMA_LVL2,Zenma Slayer 2,Pogromca Zenma 2
+ACHIEVEMENT_KILL_ZENMA_LVL3,Zenma Slayer 3,Pogromca Zenma 3
+ACHIEVEMENT_KILL_ZENMA_LVL4,Zenma Slayer 4,Pogromca Zenma 4
+ACHIEVEMENT_KILL_ZENMA_LVL5,Zenma Hunter,Łowca Zenma
 ACHIEVEMENT_KILL_CRANEMACHINERY_LVL1,Crane Machinery Slayer 1,Pogromca Dźwigów 1
 ACHIEVEMENT_KILL_CRANEMACHINERY_LVL2,Crane Machinery Slayer 2,Pogromca Dźwigów 2
 ACHIEVEMENT_KILL_CRANEMACHINERY_LVL3,Crane Machinery Slayer 3,Pogromca Dźwigów 3
 ACHIEVEMENT_KILL_CRANEMACHINERY_LVL4,Crane Machinery Slayer 4,Pogromca Dźwigów 4
 ACHIEVEMENT_KILL_CRANEMACHINERY_LVL5,Crane Machinery Hunter,Łowca Dźwigów
-ACHIEVEMENT_KILL_NAUTREPY_LVL1,Nautrepy Slayer 1,Nautrepy Slayer 1
-ACHIEVEMENT_KILL_NAUTREPY_LVL2,Nautrepy Slayer 2,Nautrepy Slayer 2
-ACHIEVEMENT_KILL_NAUTREPY_LVL3,Nautrepy Slayer 3,Nautrepy Slayer 3
-ACHIEVEMENT_KILL_NAUTREPY_LVL4,Nautrepy Slayer 4,Nautrepy Slayer 4
-ACHIEVEMENT_KILL_NAUTREPY_LVL5,Nautrepy Hunter,Nautrepy Hunter
-ACHIEVEMENT_KILL_SYLIACA_LVL1,Syliaca Slayer 1,Syliaca Slayer 1
-ACHIEVEMENT_KILL_SYLIACA_LVL2,Syliaca Slayer 2,Syliaca Slayer 2
-ACHIEVEMENT_KILL_SYLIACA_LVL3,Syliaca Slayer 3,Syliaca Slayer 3
-ACHIEVEMENT_KILL_SYLIACA_LVL4,Syliaca Slayer 4,Syliaca Slayer 4
-ACHIEVEMENT_KILL_SYLIACA_LVL5,Syliaca Hunter,Syliaca Hunter
-ACHIEVEMENT_KILL_GREEMONG_LVL1,Greemong Slayer 1,Greemong Slayer 1
-ACHIEVEMENT_KILL_GREEMONG_LVL2,Greemong Slayer 2,Greemong Slayer 2
-ACHIEVEMENT_KILL_GREEMONG_LVL3,Greemong Slayer 3,Greemong Slayer 3
-ACHIEVEMENT_KILL_GREEMONG_LVL4,Greemong Slayer 4,Greemong Slayer 4
-ACHIEVEMENT_KILL_GREEMONG_LVL5,Greemong Hunter,Greemong Hunter
-ACHIEVEMENT_KILL_BOO_LVL1,Boo Slayer 1,Boo Slayer 1
-ACHIEVEMENT_KILL_BOO_LVL2,Boo Slayer 2,Boo Slayer 2
-ACHIEVEMENT_KILL_BOO_LVL3,Boo Slayer 3,Boo Slayer 3
-ACHIEVEMENT_KILL_BOO_LVL4,Boo Slayer 4,Boo Slayer 4
-ACHIEVEMENT_KILL_BOO_LVL5,Boo Hunter,Boo Hunter
-ACHIEVEMENT_KILL_CARRIERBOMB_LVL1,Carrierbomb Slayer 1,Carrierbomb Slayer 1
-ACHIEVEMENT_KILL_CARRIERBOMB_LVL2,Carrierbomb Slayer 2,Carrierbomb Slayer 2
-ACHIEVEMENT_KILL_CARRIERBOMB_LVL3,Carrierbomb Slayer 3,Carrierbomb Slayer 3
-ACHIEVEMENT_KILL_CARRIERBOMB_LVL4,Carrierbomb Slayer 4,Carrierbomb Slayer 4
-ACHIEVEMENT_KILL_CARRIERBOMB_LVL5,Carrierbomb Hunter,Carrierbomb Hunter
-ACHIEVEMENT_KILL_LONGWANG_LVL1,Longwing Slayer 1,Longwing Slayer 1
-ACHIEVEMENT_KILL_LONGWANG_LVL2,Longwing Slayer 2,Longwing Slayer 2
-ACHIEVEMENT_KILL_LONGWANG_LVL3,Longwing Slayer 3,Longwing Slayer 3
-ACHIEVEMENT_KILL_LONGWANG_LVL4,Longwing Slayer 4,Longwing Slayer 4
-ACHIEVEMENT_KILL_LONGWANG_LVL5,Longwing Hunter,Longwing Hunter
-ACHIEVEMENT_KILL_HOPPRE_LVL1,Hoppre Slayer 1,Hoppre Slayer 1
-ACHIEVEMENT_KILL_HOPPRE_LVL2,Hoppre Slayer 2,Hoppre Slayer 2
-ACHIEVEMENT_KILL_HOPPRE_LVL3,Hoppre Slayer 3,Hoppre Slayer 3
-ACHIEVEMENT_KILL_HOPPRE_LVL4,Hoppre Slayer 4,Hoppre Slayer 4
-ACHIEVEMENT_KILL_HOPPRE_LVL5,Hoppre Hunter,Hoppre Hunter
-ACHIEVEMENT_KILL_MUSHPOIE_LVL1,Mushpoie Slayer 1,Mushpoie Slayer 1
-ACHIEVEMENT_KILL_MUSHPOIE_LVL2,Mushpoie Slayer 2,Mushpoie Slayer 2
-ACHIEVEMENT_KILL_MUSHPOIE_LVL3,Mushpoie Slayer 3,Mushpoie Slayer 3
-ACHIEVEMENT_KILL_MUSHPOIE_LVL4,Mushpoie Slayer 4,Mushpoie Slayer 4
-ACHIEVEMENT_KILL_MUSHPOIE_LVL5,Mushpoie Hunter,Mushpoie Hunter
-ACHIEVEMENT_KILL_IREN_LVL1,Iren Slayer 1,Iren Slayer 1
-ACHIEVEMENT_KILL_IREN_LVL2,Iren Slayer 2,Iren Slayer 2
-ACHIEVEMENT_KILL_IREN_LVL3,Iren Slayer 3,Iren Slayer 3
-ACHIEVEMENT_KILL_IREN_LVL4,Iren Slayer 4,Iren Slayer 4
-ACHIEVEMENT_KILL_IREN_LVL5,Iren Hunter,Iren Hunter
-ACHIEVEMENT_KILL_WATANGKA_LVL1,Watangka Slayer 1,Watangka Slayer 1
-ACHIEVEMENT_KILL_WATANGKA_LVL2,Watangka Slayer 2,Watangka Slayer 2
-ACHIEVEMENT_KILL_WATANGKA_LVL3,Watangka Slayer 3,Watangka Slayer 3
-ACHIEVEMENT_KILL_WATANGKA_LVL4,Watangka Slayer 4,Watangka Slayer 4
-ACHIEVEMENT_KILL_WATANGKA_LVL5,Watangka Hunter,Watangka Hunter
-ACHIEVEMENT_KILL_FAFNIR_LVL1,Fafnir Slayer 1,Fafnir Slayer 1
-ACHIEVEMENT_KILL_FAFNIR_LVL2,Fafnir Slayer 2,Fafnir Slayer 2
-ACHIEVEMENT_KILL_FAFNIR_LVL3,Fafnir Slayer 3,Fafnir Slayer 3
-ACHIEVEMENT_KILL_FAFNIR_LVL4,Fafnir Slayer 4,Fafnir Slayer 4
-ACHIEVEMENT_KILL_FAFNIR_LVL5,Fafnir Hunter,Fafnir Hunter
-ACHIEVEMENT_KILL_ANTIQUERY_LVL1,Antiquery Slayer 1,Antiquery Slayer 1
-ACHIEVEMENT_KILL_ANTIQUERY_LVL2,Antiquery Slayer 2,Antiquery Slayer 2
-ACHIEVEMENT_KILL_ANTIQUERY_LVL3,Antiquery Slayer 3,Antiquery Slayer 3
-ACHIEVEMENT_KILL_ANTIQUERY_LVL4,Antiquery Slayer 4,Antiquery Slayer 4
-ACHIEVEMENT_KILL_ANTIQUERY_LVL5,Antiquery Hunter,Antiquery Hunter
-ACHIEVEMENT_KILL_LUIA_LVL1,Luia Slayer 1,Luia Slayer 1
-ACHIEVEMENT_KILL_LUIA_LVL2,Luia Slayer 2,Luia Slayer 2
-ACHIEVEMENT_KILL_LUIA_LVL3,Luia Slayer 3,Luia Slayer 3
-ACHIEVEMENT_KILL_LUIA_LVL4,Luia Slayer 4,Luia Slayer 4
-ACHIEVEMENT_KILL_LUIA_LVL5,Luia Hunter,Luia Hunter
-ACHIEVEMENT_KILL_GONGURY_LVL1,Gongury Slayer 1,Gongury Slayer 1
-ACHIEVEMENT_KILL_GONGURY_LVL2,Gongury Slayer 2,Gongury Slayer 2
-ACHIEVEMENT_KILL_GONGURY_LVL3,Gongury Slayer 3,Gongury Slayer 3
-ACHIEVEMENT_KILL_GONGURY_LVL4,Gongury Slayer 4,Gongury Slayer 4
-ACHIEVEMENT_KILL_GONGURY_LVL5,Gongury Hunter,Gongury Hunter
-ACHIEVEMENT_KILL_SHUHAMMA_LVL1,Shuhamma Slayer 1,Shuhamma Slayer 1
-ACHIEVEMENT_KILL_SHUHAMMA_LVL2,Shuhamma Slayer 2,Shuhamma Slayer 2
-ACHIEVEMENT_KILL_SHUHAMMA_LVL3,Shuhamma Slayer 3,Shuhamma Slayer 3
-ACHIEVEMENT_KILL_SHUHAMMA_LVL4,Shuhamma Slayer 4,Shuhamma Slayer 4
-ACHIEVEMENT_KILL_SHUHAMMA_LVL5,Shuhamma Hunter,Shuhamma Hunter
-ACHIEVEMENT_KILL_KERN_LVL1,Kern Slayer 1,Kern Slayer 1
-ACHIEVEMENT_KILL_KERN_LVL2,Kern Slayer 2,Kern Slayer 2
-ACHIEVEMENT_KILL_KERN_LVL3,Kern Slayer 3,Kern Slayer 3
-ACHIEVEMENT_KILL_KERN_LVL4,Kern Slayer 4,Kern Slayer 4
-ACHIEVEMENT_KILL_KERN_LVL5,Kern Hunter,Kern Hunter
-ACHIEVEMENT_KILL_GORRUDA_LVL1,Gorruda Slayer 1,Gorruda Slayer 1
-ACHIEVEMENT_KILL_GORRUDA_LVL2,Gorruda Slayer 2,Gorruda Slayer 2
-ACHIEVEMENT_KILL_GORRUDA_LVL3,Gorruda Slayer 3,Gorruda Slayer 3
-ACHIEVEMENT_KILL_GORRUDA_LVL4,Gorruda Slayer 4,Gorruda Slayer 4
-ACHIEVEMENT_KILL_GORRUDA_LVL5,Gorruda Hunter,Gorruda Hunter
-ACHIEVEMENT_KILL_GLAPHAN_LVL1,Glaphan Slayer 1,Glaphan Slayer 1
-ACHIEVEMENT_KILL_GLAPHAN_LVL2,Glaphan Slayer 2,Glaphan Slayer 2
-ACHIEVEMENT_KILL_GLAPHAN_LVL3,Glaphan Slayer 3,Glaphan Slayer 3
-ACHIEVEMENT_KILL_GLAPHAN_LVL4,Glaphan Slayer 4,Glaphan Slayer 4
-ACHIEVEMENT_KILL_GLAPHAN_LVL5,Glaphan Hunter,Glaphan Hunter
-ACHIEVEMENT_KILL_KIMERADON_LVL1,Chimeradon Slayer 1,Chimeradon Slayer 1
-ACHIEVEMENT_KILL_KIMERADON_LVL2,Chimeradon Slayer 2,Chimeradon Slayer 2
-ACHIEVEMENT_KILL_KIMERADON_LVL3,Chimeradon Slayer 3,Chimeradon Slayer 3
-ACHIEVEMENT_KILL_KIMERADON_LVL4,Chimeradon Slayer 4,Chimeradon Slayer 4
-ACHIEVEMENT_KILL_KIMERADON_LVL5,Chimeradon Hunter,Chimeradon Hunter
-ACHIEVEMENT_KILL_BEARNUCKY_LVL1,Bearnerky Slayer 1,Bearnerky Slayer 1
-ACHIEVEMENT_KILL_BEARNUCKY_LVL2,Bearnerky Slayer 2,Bearnerky Slayer 2
-ACHIEVEMENT_KILL_BEARNUCKY_LVL3,Bearnerky Slayer 3,Bearnerky Slayer 3
-ACHIEVEMENT_KILL_BEARNUCKY_LVL4,Bearnerky Slayer 4,Bearnerky Slayer 4
-ACHIEVEMENT_KILL_BEARNUCKY_LVL5,Bearnerky Hunter,Bearnerky Hunter
-ACHIEVEMENT_KILL_MUFFRIN_LVL1,Muffrin Slayer 1,Muffrin Slayer 1
-ACHIEVEMENT_KILL_MUFFRIN_LVL2,Muffrin Slayer 2,Muffrin Slayer 2
-ACHIEVEMENT_KILL_MUFFRIN_LVL3,Muffrin Slayer 3,Muffrin Slayer 3
-ACHIEVEMENT_KILL_MUFFRIN_LVL4,Muffrin Slayer 4,Muffrin Slayer 4
-ACHIEVEMENT_KILL_MUFFRIN_LVL5,Muffrin Hunter,Muffrin Hunter
-ACHIEVEMENT_KILL_POPCRANK_LVL1,Popcrank Slayer 1,Popcrank Slayer 1
-ACHIEVEMENT_KILL_POPCRANK_LVL2,Popcrank Slayer 2,Popcrank Slayer 2
-ACHIEVEMENT_KILL_POPCRANK_LVL3,Popcrank Slayer 3,Popcrank Slayer 3
-ACHIEVEMENT_KILL_POPCRANK_LVL4,Popcrank Slayer 4,Popcrank Slayer 4
-ACHIEVEMENT_KILL_POPCRANK_LVL5,Popcrank Hunter,Popcrank Hunter
+ACHIEVEMENT_KILL_NAUTREPY_LVL1,Nautrepy Slayer 1,Pogromca Nautrepy 1
+ACHIEVEMENT_KILL_NAUTREPY_LVL2,Nautrepy Slayer 2,Pogromca Nautrepy 2
+ACHIEVEMENT_KILL_NAUTREPY_LVL3,Nautrepy Slayer 3,Pogromca Nautrepy 3
+ACHIEVEMENT_KILL_NAUTREPY_LVL4,Nautrepy Slayer 4,Pogromca Nautrepy 4
+ACHIEVEMENT_KILL_NAUTREPY_LVL5,Nautrepy Hunter,Łowca Nautrepy
+ACHIEVEMENT_KILL_SYLIACA_LVL1,Syliaca Slayer 1,Pogromca Syliaca 1
+ACHIEVEMENT_KILL_SYLIACA_LVL2,Syliaca Slayer 2,Pogromca Syliaca 2
+ACHIEVEMENT_KILL_SYLIACA_LVL3,Syliaca Slayer 3,Pogromca Syliaca 3
+ACHIEVEMENT_KILL_SYLIACA_LVL4,Syliaca Slayer 4,Pogromca Syliaca 4
+ACHIEVEMENT_KILL_SYLIACA_LVL5,Syliaca Hunter,Łowca Syliaca
+ACHIEVEMENT_KILL_GREEMONG_LVL1,Greemong Slayer 1,Pogromca Greemong 1
+ACHIEVEMENT_KILL_GREEMONG_LVL2,Greemong Slayer 2,Pogromca Greemong 2
+ACHIEVEMENT_KILL_GREEMONG_LVL3,Greemong Slayer 3,Pogromca Greemong 3
+ACHIEVEMENT_KILL_GREEMONG_LVL4,Greemong Slayer 4,Pogromca Greemong 4
+ACHIEVEMENT_KILL_GREEMONG_LVL5,Greemong Hunter,Łowca Greemong
+ACHIEVEMENT_KILL_BOO_LVL1,Boo Slayer 1,Pogromca Boo 1
+ACHIEVEMENT_KILL_BOO_LVL2,Boo Slayer 2,Pogromca Boo 2
+ACHIEVEMENT_KILL_BOO_LVL3,Boo Slayer 3,Pogromca Boo 3
+ACHIEVEMENT_KILL_BOO_LVL4,Boo Slayer 4,Pogromca Boo 4
+ACHIEVEMENT_KILL_BOO_LVL5,Boo Hunter,Łowca Boo
+ACHIEVEMENT_KILL_CARRIERBOMB_LVL1,Carrierbomb Slayer 1,Pogromca Carrierbomb 1
+ACHIEVEMENT_KILL_CARRIERBOMB_LVL2,Carrierbomb Slayer 2,Pogromca Carrierbomb 2
+ACHIEVEMENT_KILL_CARRIERBOMB_LVL3,Carrierbomb Slayer 3,Pogromca Carrierbomb 3
+ACHIEVEMENT_KILL_CARRIERBOMB_LVL4,Carrierbomb Slayer 4,Pogromca Carrierbomb 4
+ACHIEVEMENT_KILL_CARRIERBOMB_LVL5,Carrierbomb Hunter,Łowca Carrierbomb
+ACHIEVEMENT_KILL_LONGWANG_LVL1,Longwing Slayer 1,Pogromca Longwing 1
+ACHIEVEMENT_KILL_LONGWANG_LVL2,Longwing Slayer 2,Pogromca Longwing 2
+ACHIEVEMENT_KILL_LONGWANG_LVL3,Longwing Slayer 3,Pogromca Longwing 3
+ACHIEVEMENT_KILL_LONGWANG_LVL4,Longwing Slayer 4,Pogromca Longwing 4
+ACHIEVEMENT_KILL_LONGWANG_LVL5,Longwing Hunter,Łowca Longwing
+ACHIEVEMENT_KILL_HOPPRE_LVL1,Hoppre Slayer 1,Pogromca Hoppre 1
+ACHIEVEMENT_KILL_HOPPRE_LVL2,Hoppre Slayer 2,Pogromca Hoppre 2
+ACHIEVEMENT_KILL_HOPPRE_LVL3,Hoppre Slayer 3,Pogromca Hoppre 3
+ACHIEVEMENT_KILL_HOPPRE_LVL4,Hoppre Slayer 4,Pogromca Hoppre 4
+ACHIEVEMENT_KILL_HOPPRE_LVL5,Hoppre Hunter,Łowca Hoppre
+ACHIEVEMENT_KILL_MUSHPOIE_LVL1,Mushpoie Slayer 1,Pogromca Mushpoie 1
+ACHIEVEMENT_KILL_MUSHPOIE_LVL2,Mushpoie Slayer 2,Pogromca Mushpoie 2
+ACHIEVEMENT_KILL_MUSHPOIE_LVL3,Mushpoie Slayer 3,Pogromca Mushpoie 3
+ACHIEVEMENT_KILL_MUSHPOIE_LVL4,Mushpoie Slayer 4,Pogromca Mushpoie 4
+ACHIEVEMENT_KILL_MUSHPOIE_LVL5,Mushpoie Hunter,Łowca Mushpoie
+ACHIEVEMENT_KILL_IREN_LVL1,Iren Slayer 1,Pogromca Iren 1
+ACHIEVEMENT_KILL_IREN_LVL2,Iren Slayer 2,Pogromca Iren 2
+ACHIEVEMENT_KILL_IREN_LVL3,Iren Slayer 3,Pogromca Iren 3
+ACHIEVEMENT_KILL_IREN_LVL4,Iren Slayer 4,Pogromca Iren 4
+ACHIEVEMENT_KILL_IREN_LVL5,Iren Hunter,Łowca Iren
+ACHIEVEMENT_KILL_WATANGKA_LVL1,Watangka Slayer 1,Pogromca Watangka 1
+ACHIEVEMENT_KILL_WATANGKA_LVL2,Watangka Slayer 2,Pogromca Watangka 2
+ACHIEVEMENT_KILL_WATANGKA_LVL3,Watangka Slayer 3,Pogromca Watangka 3
+ACHIEVEMENT_KILL_WATANGKA_LVL4,Watangka Slayer 4,Pogromca Watangka 4
+ACHIEVEMENT_KILL_WATANGKA_LVL5,Watangka Hunter,Łowca Watangka
+ACHIEVEMENT_KILL_FAFNIR_LVL1,Fafnir Slayer 1,Pogromca Fafnir 1
+ACHIEVEMENT_KILL_FAFNIR_LVL2,Fafnir Slayer 2,Pogromca Fafnir 2
+ACHIEVEMENT_KILL_FAFNIR_LVL3,Fafnir Slayer 3,Pogromca Fafnir 3
+ACHIEVEMENT_KILL_FAFNIR_LVL4,Fafnir Slayer 4,Pogromca Fafnir 4
+ACHIEVEMENT_KILL_FAFNIR_LVL5,Fafnir Hunter,Łowca Fafnir
+ACHIEVEMENT_KILL_ANTIQUERY_LVL1,Antiquery Slayer 1,Pogromca Antiquery 1
+ACHIEVEMENT_KILL_ANTIQUERY_LVL2,Antiquery Slayer 2,Pogromca Antiquery 2
+ACHIEVEMENT_KILL_ANTIQUERY_LVL3,Antiquery Slayer 3,Pogromca Antiquery 3
+ACHIEVEMENT_KILL_ANTIQUERY_LVL4,Antiquery Slayer 4,Pogromca Antiquery 4
+ACHIEVEMENT_KILL_ANTIQUERY_LVL5,Antiquery Hunter,Łowca Antiquery
+ACHIEVEMENT_KILL_LUIA_LVL1,Luia Slayer 1,Pogromca Luia 1
+ACHIEVEMENT_KILL_LUIA_LVL2,Luia Slayer 2,Pogromca Luia 2
+ACHIEVEMENT_KILL_LUIA_LVL3,Luia Slayer 3,Pogromca Luia 3
+ACHIEVEMENT_KILL_LUIA_LVL4,Luia Slayer 4,Pogromca Luia 4
+ACHIEVEMENT_KILL_LUIA_LVL5,Luia Hunter,Łowca Luia
+ACHIEVEMENT_KILL_GONGURY_LVL1,Gongury Slayer 1,Pogromca Gongury 1
+ACHIEVEMENT_KILL_GONGURY_LVL2,Gongury Slayer 2,Pogromca Gongury 2
+ACHIEVEMENT_KILL_GONGURY_LVL3,Gongury Slayer 3,Pogromca Gongury 3
+ACHIEVEMENT_KILL_GONGURY_LVL4,Gongury Slayer 4,Pogromca Gongury 4
+ACHIEVEMENT_KILL_GONGURY_LVL5,Gongury Hunter,Łowca Gongury
+ACHIEVEMENT_KILL_SHUHAMMA_LVL1,Shuhamma Slayer 1,Pogromca Shuhamma 1
+ACHIEVEMENT_KILL_SHUHAMMA_LVL2,Shuhamma Slayer 2,Pogromca Shuhamma 2
+ACHIEVEMENT_KILL_SHUHAMMA_LVL3,Shuhamma Slayer 3,Pogromca Shuhamma 3
+ACHIEVEMENT_KILL_SHUHAMMA_LVL4,Shuhamma Slayer 4,Pogromca Shuhamma 4
+ACHIEVEMENT_KILL_SHUHAMMA_LVL5,Shuhamma Hunter,Łowca Shuhamma
+ACHIEVEMENT_KILL_KERN_LVL1,Kern Slayer 1,Pogromca Kern 1
+ACHIEVEMENT_KILL_KERN_LVL2,Kern Slayer 2,Pogromca Kern 2
+ACHIEVEMENT_KILL_KERN_LVL3,Kern Slayer 3,Pogromca Kern 3
+ACHIEVEMENT_KILL_KERN_LVL4,Kern Slayer 4,Pogromca Kern 4
+ACHIEVEMENT_KILL_KERN_LVL5,Kern Hunter,Łowca Kern
+ACHIEVEMENT_KILL_GORRUDA_LVL1,Gorruda Slayer 1,Pogromca Gorruda 1
+ACHIEVEMENT_KILL_GORRUDA_LVL2,Gorruda Slayer 2,Pogromca Gorruda 2
+ACHIEVEMENT_KILL_GORRUDA_LVL3,Gorruda Slayer 3,Pogromca Gorruda 3
+ACHIEVEMENT_KILL_GORRUDA_LVL4,Gorruda Slayer 4,Pogromca Gorruda 4
+ACHIEVEMENT_KILL_GORRUDA_LVL5,Gorruda Hunter,Łowca Gorruda
+ACHIEVEMENT_KILL_GLAPHAN_LVL1,Glaphan Slayer 1,Pogromca Glaphan 1
+ACHIEVEMENT_KILL_GLAPHAN_LVL2,Glaphan Slayer 2,Pogromca Glaphan 2
+ACHIEVEMENT_KILL_GLAPHAN_LVL3,Glaphan Slayer 3,Pogromca Glaphan 3
+ACHIEVEMENT_KILL_GLAPHAN_LVL4,Glaphan Slayer 4,Pogromca Glaphan 4
+ACHIEVEMENT_KILL_GLAPHAN_LVL5,Glaphan Hunter,Łowca Glaphan
+ACHIEVEMENT_KILL_KIMERADON_LVL1,Chimeradon Slayer 1,Pogromca Chimeradon 1
+ACHIEVEMENT_KILL_KIMERADON_LVL2,Chimeradon Slayer 2,Pogromca Chimeradon 2
+ACHIEVEMENT_KILL_KIMERADON_LVL3,Chimeradon Slayer 3,Pogromca Chimeradon 3
+ACHIEVEMENT_KILL_KIMERADON_LVL4,Chimeradon Slayer 4,Pogromca Chimeradon 4
+ACHIEVEMENT_KILL_KIMERADON_LVL5,Chimeradon Hunter,Łowca Chimeradon
+ACHIEVEMENT_KILL_BEARNUCKY_LVL1,Bearnerky Slayer 1,Pogromca Bearnerky 1
+ACHIEVEMENT_KILL_BEARNUCKY_LVL2,Bearnerky Slayer 2,Pogromca Bearnerky 2
+ACHIEVEMENT_KILL_BEARNUCKY_LVL3,Bearnerky Slayer 3,Pogromca Bearnerky 3
+ACHIEVEMENT_KILL_BEARNUCKY_LVL4,Bearnerky Slayer 4,Pogromca Bearnerky 4
+ACHIEVEMENT_KILL_BEARNUCKY_LVL5,Bearnerky Hunter,Łowca Bearnerky
+ACHIEVEMENT_KILL_MUFFRIN_LVL1,Muffrin Slayer 1,Pogromca Muffrin 1
+ACHIEVEMENT_KILL_MUFFRIN_LVL2,Muffrin Slayer 2,Pogromca Muffrin 2
+ACHIEVEMENT_KILL_MUFFRIN_LVL3,Muffrin Slayer 3,Pogromca Muffrin 3
+ACHIEVEMENT_KILL_MUFFRIN_LVL4,Muffrin Slayer 4,Pogromca Muffrin 4
+ACHIEVEMENT_KILL_MUFFRIN_LVL5,Muffrin Hunter,Łowca Muffrin
+ACHIEVEMENT_KILL_POPCRANK_LVL1,Popcrank Slayer 1,Pogromca Popcrank 1
+ACHIEVEMENT_KILL_POPCRANK_LVL2,Popcrank Slayer 2,Pogromca Popcrank 2
+ACHIEVEMENT_KILL_POPCRANK_LVL3,Popcrank Slayer 3,Pogromca Popcrank 3
+ACHIEVEMENT_KILL_POPCRANK_LVL4,Popcrank Slayer 4,Pogromca Popcrank 4
+ACHIEVEMENT_KILL_POPCRANK_LVL5,Popcrank Hunter,Łowca Popcrank
 ACHIEVEMENT_KILL_CLOCKWORKS_LVL1,Clockworks Hunter 1,Clockworks Hunter 1
 ACHIEVEMENT_KILL_CLOCKWORKS_LVL2,Clockworks Hunter 2,Clockworks Hunter 2
 ACHIEVEMENT_KILL_CLOCKWORKS_LVL3,Clockworks Hunter 3,Clockworks Hunter 3
@@ -477,131 +477,131 @@ ACHIEVEMENT_KILL_METEONYKER_LVL2,Meteonyker Hunter 2,Meteonyker Hunter 2
 ACHIEVEMENT_KILL_METEONYKER_LVL3,Meteonyker Hunter 3,Meteonyker Hunter 3
 ACHIEVEMENT_KILL_METEONYKER_LVL4,Meteonyker Hunter 4,Meteonyker Hunter 4
 ACHIEVEMENT_KILL_METEONYKER_LVL5,Meteonyker Killer,Meteonyker Killer
-ACHIEVEMENT_KILL_MEDUMET_LVL1,Medumet Slayer 1,Medumet Slayer 1
-ACHIEVEMENT_KILL_MEDUMET_LVL2,Medumet Slayer 2,Medumet Slayer 2
-ACHIEVEMENT_KILL_MEDUMET_LVL3,Medumet Slayer 3,Medumet Slayer 3
-ACHIEVEMENT_KILL_MEDUMET_LVL4,Medumet Slayer 4,Medumet Slayer 4
-ACHIEVEMENT_KILL_MEDUMET_LVL5,Medumet Hunter,Medumet Hunter
-ACHIEVEMENT_KILL_YETTI_LVL1,Yetti Slayer 1,Yetti Slayer 1
-ACHIEVEMENT_KILL_YETTI_LVL2,Yetti Slayer 2,Yetti Slayer 2
-ACHIEVEMENT_KILL_YETTI_LVL3,Yetti Slayer 3,Yetti Slayer 3
-ACHIEVEMENT_KILL_YETTI_LVL4,Yetti Slayer 4,Yetti Slayer 4
-ACHIEVEMENT_KILL_YETTI_LVL5,Yetti Hunter,Yetti Hunter
-ACHIEVEMENT_KILL_AUGU_LVL1,Augu Slayer 1,Augu Slayer 1
-ACHIEVEMENT_KILL_AUGU_LVL2,Augu Slayer 2,Augu Slayer 2
-ACHIEVEMENT_KILL_AUGU_LVL3,Augu Slayer 3,Augu Slayer 3
-ACHIEVEMENT_KILL_AUGU_LVL4,Augu Slayer 4,Augu Slayer 4
-ACHIEVEMENT_KILL_AUGU_LVL5,Augu Hunter,Augu Hunter
-ACHIEVEMENT_KILL_GHOSTKING_LVL1,Ghost King Slayer 1,Ghost King Slayer 1
-ACHIEVEMENT_KILL_GHOSTKING_LVL2,Ghost King Slayer 2,Ghost King Slayer 2
-ACHIEVEMENT_KILL_GHOSTKING_LVL3,Ghost King Slayer 3,Ghost King Slayer 3
-ACHIEVEMENT_KILL_GHOSTKING_LVL4,Ghost King Slayer 4,Ghost King Slayer 4
-ACHIEVEMENT_KILL_GHOSTKING_LVL5,Ghost King Hunter,Ghost King Hunter
-ACHIEVEMENT_KILL_MAMMOTH_LVL1,Mammoth Slayer 1,Mammoth Slayer 1
-ACHIEVEMENT_KILL_MAMMOTH_LVL2,Mammoth Slayer 2,Mammoth Slayer 2
-ACHIEVEMENT_KILL_MAMMOTH_LVL3,Mammoth Slayer 3,Mammoth Slayer 3
-ACHIEVEMENT_KILL_MAMMOTH_LVL4,Mammoth Slayer 4,Mammoth Slayer 4
-ACHIEVEMENT_KILL_MAMMOTH_LVL5,Mammoth Hunter,Mammoth Hunter
-ACHIEVEMENT_KILL_ATROX_LVL1,Atrox Slayer 1,Atrox Slayer 1
-ACHIEVEMENT_KILL_ATROX_LVL2,Atrox Slayer 2,Atrox Slayer 2
-ACHIEVEMENT_KILL_ATROX_LVL3,Atrox Slayer 3,Atrox Slayer 3
-ACHIEVEMENT_KILL_ATROX_LVL4,Atrox Slayer 4,Atrox Slayer 4
-ACHIEVEMENT_KILL_ATROX_LVL5,Atrox Hunter,Atrox Hunter
-ACHIEVEMENT_KILL_TIGAR_LVL1,Tigar Slayer 1,Tigar Slayer 1
-ACHIEVEMENT_KILL_TIGAR_LVL2,Tigar Slayer 2,Tigar Slayer 2
-ACHIEVEMENT_KILL_TIGAR_LVL3,Tigar Slayer 3,Tigar Slayer 3
-ACHIEVEMENT_KILL_TIGAR_LVL4,Tigar Slayer 4,Tigar Slayer 4
-ACHIEVEMENT_KILL_TIGAR_LVL5,Tigar Hunter,Tigar Hunter
-ACHIEVEMENT_KILL_MERAL_LVL1,Meral Slayer 1,Meral Slayer 1
-ACHIEVEMENT_KILL_MERAL_LVL2,Meral Slayer 2,Meral Slayer 2
-ACHIEVEMENT_KILL_MERAL_LVL3,Meral Slayer 3,Meral Slayer 3
-ACHIEVEMENT_KILL_MERAL_LVL4,Meral Slayer 4,Meral Slayer 4
-ACHIEVEMENT_KILL_MERAL_LVL5,Meral Hunter,Meral Hunter
-ACHIEVEMENT_KILL_KINGSTER_LVL1,Kingster Slayer 1,Kingster Slayer 1
-ACHIEVEMENT_KILL_KINGSTER_LVL2,Kingster Slayer 2,Kingster Slayer 2
-ACHIEVEMENT_KILL_KINGSTER_LVL3,Kingster Slayer 3,Kingster Slayer 3
-ACHIEVEMENT_KILL_KINGSTER_LVL4,Kingster Slayer 4,Kingster Slayer 4
-ACHIEVEMENT_KILL_KINGSTER_LVL5,Kingster Hunter,Kingster Hunter
-ACHIEVEMENT_KILL_CREPER_LVL1,Creper Slayer 1,Creper Slayer 1
-ACHIEVEMENT_KILL_CREPER_LVL2,Creper Slayer 2,Creper Slayer 2
-ACHIEVEMENT_KILL_CREPER_LVL3,Creper Slayer 3,Creper Slayer 3
-ACHIEVEMENT_KILL_CREPER_LVL4,Creper Slayer 4,Creper Slayer 4
-ACHIEVEMENT_KILL_CREPER_LVL5,Creper Hunter,Creper Hunter
-ACHIEVEMENT_KILL_NAGA_LVL1,Naga Slayer 1,Naga Slayer 1
-ACHIEVEMENT_KILL_NAGA_LVL2,Naga Slayer 2,Naga Slayer 2
-ACHIEVEMENT_KILL_NAGA_LVL3,Naga Slayer 3,Naga Slayer 3
-ACHIEVEMENT_KILL_NAGA_LVL4,Naga Slayer 4,Naga Slayer 4
-ACHIEVEMENT_KILL_NAGA_LVL5,Naga Hunter,Naga Hunter
-ACHIEVEMENT_KILL_DORIAN_LVL1,Dorian Slayer 1,Dorian Slayer 1
-ACHIEVEMENT_KILL_DORIAN_LVL2,Dorian Slayer 2,Dorian Slayer 2
-ACHIEVEMENT_KILL_DORIAN_LVL3,Dorian Slayer 3,Dorian Slayer 3
-ACHIEVEMENT_KILL_DORIAN_LVL4,Dorian Slayer 4,Dorian Slayer 4
-ACHIEVEMENT_KILL_DORIAN_LVL5,Dorian Hunter,Dorian Hunter
-ACHIEVEMENT_KILL_OKEAN_LVL1,Okean Slayer 1,Okean Slayer 1
-ACHIEVEMENT_KILL_OKEAN_LVL2,Okean Slayer 2,Okean Slayer 2
-ACHIEVEMENT_KILL_OKEAN_LVL3,Okean Slayer 3,Okean Slayer 3
-ACHIEVEMENT_KILL_OKEAN_LVL4,Okean Slayer 4,Okean Slayer 4
-ACHIEVEMENT_KILL_OKEAN_LVL5,Okean Hunter,Okean Hunter
-ACHIEVEMENT_KILL_KRAKEN_LVL1,Kraken Slayer 1,Kraken Slayer 1
-ACHIEVEMENT_KILL_KRAKEN_LVL2,Kraken Slayer 2,Kraken Slayer 2
-ACHIEVEMENT_KILL_KRAKEN_LVL3,Kraken Slayer 3,Kraken Slayer 3
-ACHIEVEMENT_KILL_KRAKEN_LVL4,Kraken Slayer 4,Kraken Slayer 4
-ACHIEVEMENT_KILL_KRAKEN_LVL5,Kraken Hunter,Kraken Hunter
-ACHIEVEMENT_KILL_DREADFIN_LVL1,Dreadfin Slayer 1,Dreadfin Slayer 1
-ACHIEVEMENT_KILL_DREADFIN_LVL2,Dreadfin Slayer 2,Dreadfin Slayer 2
-ACHIEVEMENT_KILL_DREADFIN_LVL3,Dreadfin Slayer 3,Dreadfin Slayer 3
-ACHIEVEMENT_KILL_DREADFIN_LVL4,Dreadfin Slayer 4,Dreadfin Slayer 4
-ACHIEVEMENT_KILL_DREADFIN_LVL5,Dreadfin Hunter,Dreadfin Hunter
-ACHIEVEMENT_KILL_DREADSCALE_LVL1,Dreadscale Slayer 1,Dreadscale Slayer 1
-ACHIEVEMENT_KILL_DREADSCALE_LVL2,Dreadscale Slayer 2,Dreadscale Slayer 2
-ACHIEVEMENT_KILL_DREADSCALE_LVL3,Dreadscale Slayer 3,Dreadscale Slayer 3
-ACHIEVEMENT_KILL_DREADSCALE_LVL4,Dreadscale Slayer 4,Dreadscale Slayer 4
-ACHIEVEMENT_KILL_DREADSCALE_LVL5,Dreadscale Hunter,Dreadscale Hunter
-ACHIEVEMENT_KILL_LUMINFIN_LVL1,Luminfin Slayer 1,Luminfin Slayer 1
-ACHIEVEMENT_KILL_LUMINFIN_LVL2,Luminfin Slayer 2,Luminfin Slayer 2
-ACHIEVEMENT_KILL_LUMINFIN_LVL3,Luminfin Slayer 3,Luminfin Slayer 3
-ACHIEVEMENT_KILL_LUMINFIN_LVL4,Luminfin Slayer 4,Luminfin Slayer 4
-ACHIEVEMENT_KILL_LUMINFIN_LVL5,Luminfin Hunter,Luminfin Hunter
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Hundur Sharpfoot Slayer 1
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Hundur Sharpfoot Slayer 2
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Hundur Sharpfoot Slayer 3
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Hundur Sharpfoot Slayer 4
-ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,Hundur Sharpfoot Hunter
-ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Samoset Slayer 1
-ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Samoset Slayer 2
-ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Samoset Slayer 3
-ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Samoset Slayer 4
-ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Samoset Hunter
-ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Kyouchish Slayer 1
-ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Kyouchish Slayer 2
-ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Kyouchish Slayer 3
-ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Kyouchish Slayer 4
-ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Kyouchish Hunter
-ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Kanonicus Slayer 1
-ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Kanonicus Slayer 2
-ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Kanonicus Slayer 3
-ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Kanonicus Slayer 4
-ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Kanonicus Hunter
-ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Mage Redcloud Slayer 1
-ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Mage Redcloud Slayer 2
-ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Mage Redcloud Slayer 3
-ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Mage Redcloud Slayer 4
-ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Mage Redcloud Hunter
-ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Taiaha Slayer 1
-ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Taiaha Slayer 2
-ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Taiaha Slayer 3
-ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Taiaha Slayer 4
-ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Taiaha Hunter
-ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Hellhound Slayer 1
-ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Hellhound Slayer 2
-ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Hellhound Slayer 3
-ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Hellhound Slayer 4
-ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Hellhound Hunter
-ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Chief Keokuk Slayer 1
-ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Chief Keokuk Slayer 2
-ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,Chief Keokuk Slayer 3
-ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,Chief Keokuk Slayer 4
-ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,Chief Keokuk Hunter
+ACHIEVEMENT_KILL_MEDUMET_LVL1,Medumet Slayer 1,Pogromca Medumet 1
+ACHIEVEMENT_KILL_MEDUMET_LVL2,Medumet Slayer 2,Pogromca Medumet 2
+ACHIEVEMENT_KILL_MEDUMET_LVL3,Medumet Slayer 3,Pogromca Medumet 3
+ACHIEVEMENT_KILL_MEDUMET_LVL4,Medumet Slayer 4,Pogromca Medumet 4
+ACHIEVEMENT_KILL_MEDUMET_LVL5,Medumet Hunter,Łowca Medumet
+ACHIEVEMENT_KILL_YETTI_LVL1,Yetti Slayer 1,Pogromca Yetti 1
+ACHIEVEMENT_KILL_YETTI_LVL2,Yetti Slayer 2,Pogromca Yetti 2
+ACHIEVEMENT_KILL_YETTI_LVL3,Yetti Slayer 3,Pogromca Yetti 3
+ACHIEVEMENT_KILL_YETTI_LVL4,Yetti Slayer 4,Pogromca Yetti 4
+ACHIEVEMENT_KILL_YETTI_LVL5,Yetti Hunter,Łowca Yetti
+ACHIEVEMENT_KILL_AUGU_LVL1,Augu Slayer 1,Pogromca Augu 1
+ACHIEVEMENT_KILL_AUGU_LVL2,Augu Slayer 2,Pogromca Augu 2
+ACHIEVEMENT_KILL_AUGU_LVL3,Augu Slayer 3,Pogromca Augu 3
+ACHIEVEMENT_KILL_AUGU_LVL4,Augu Slayer 4,Pogromca Augu 4
+ACHIEVEMENT_KILL_AUGU_LVL5,Augu Hunter,Łowca Augu
+ACHIEVEMENT_KILL_GHOSTKING_LVL1,Ghost King Slayer 1,Pogromca Ghost King 1
+ACHIEVEMENT_KILL_GHOSTKING_LVL2,Ghost King Slayer 2,Pogromca Ghost King 2
+ACHIEVEMENT_KILL_GHOSTKING_LVL3,Ghost King Slayer 3,Pogromca Ghost King 3
+ACHIEVEMENT_KILL_GHOSTKING_LVL4,Ghost King Slayer 4,Pogromca Ghost King 4
+ACHIEVEMENT_KILL_GHOSTKING_LVL5,Ghost King Hunter,Łowca Ghost King
+ACHIEVEMENT_KILL_MAMMOTH_LVL1,Mammoth Slayer 1,Pogromca Mammoth 1
+ACHIEVEMENT_KILL_MAMMOTH_LVL2,Mammoth Slayer 2,Pogromca Mammoth 2
+ACHIEVEMENT_KILL_MAMMOTH_LVL3,Mammoth Slayer 3,Pogromca Mammoth 3
+ACHIEVEMENT_KILL_MAMMOTH_LVL4,Mammoth Slayer 4,Pogromca Mammoth 4
+ACHIEVEMENT_KILL_MAMMOTH_LVL5,Mammoth Hunter,Łowca Mammoth
+ACHIEVEMENT_KILL_ATROX_LVL1,Atrox Slayer 1,Pogromca Atrox 1
+ACHIEVEMENT_KILL_ATROX_LVL2,Atrox Slayer 2,Pogromca Atrox 2
+ACHIEVEMENT_KILL_ATROX_LVL3,Atrox Slayer 3,Pogromca Atrox 3
+ACHIEVEMENT_KILL_ATROX_LVL4,Atrox Slayer 4,Pogromca Atrox 4
+ACHIEVEMENT_KILL_ATROX_LVL5,Atrox Hunter,Łowca Atrox
+ACHIEVEMENT_KILL_TIGAR_LVL1,Tigar Slayer 1,Pogromca Tigar 1
+ACHIEVEMENT_KILL_TIGAR_LVL2,Tigar Slayer 2,Pogromca Tigar 2
+ACHIEVEMENT_KILL_TIGAR_LVL3,Tigar Slayer 3,Pogromca Tigar 3
+ACHIEVEMENT_KILL_TIGAR_LVL4,Tigar Slayer 4,Pogromca Tigar 4
+ACHIEVEMENT_KILL_TIGAR_LVL5,Tigar Hunter,Łowca Tigar
+ACHIEVEMENT_KILL_MERAL_LVL1,Meral Slayer 1,Pogromca Meral 1
+ACHIEVEMENT_KILL_MERAL_LVL2,Meral Slayer 2,Pogromca Meral 2
+ACHIEVEMENT_KILL_MERAL_LVL3,Meral Slayer 3,Pogromca Meral 3
+ACHIEVEMENT_KILL_MERAL_LVL4,Meral Slayer 4,Pogromca Meral 4
+ACHIEVEMENT_KILL_MERAL_LVL5,Meral Hunter,Łowca Meral
+ACHIEVEMENT_KILL_KINGSTER_LVL1,Kingster Slayer 1,Pogromca Kingster 1
+ACHIEVEMENT_KILL_KINGSTER_LVL2,Kingster Slayer 2,Pogromca Kingster 2
+ACHIEVEMENT_KILL_KINGSTER_LVL3,Kingster Slayer 3,Pogromca Kingster 3
+ACHIEVEMENT_KILL_KINGSTER_LVL4,Kingster Slayer 4,Pogromca Kingster 4
+ACHIEVEMENT_KILL_KINGSTER_LVL5,Kingster Hunter,Łowca Kingster
+ACHIEVEMENT_KILL_CREPER_LVL1,Creper Slayer 1,Pogromca Creper 1
+ACHIEVEMENT_KILL_CREPER_LVL2,Creper Slayer 2,Pogromca Creper 2
+ACHIEVEMENT_KILL_CREPER_LVL3,Creper Slayer 3,Pogromca Creper 3
+ACHIEVEMENT_KILL_CREPER_LVL4,Creper Slayer 4,Pogromca Creper 4
+ACHIEVEMENT_KILL_CREPER_LVL5,Creper Hunter,Łowca Creper
+ACHIEVEMENT_KILL_NAGA_LVL1,Naga Slayer 1,Pogromca Naga 1
+ACHIEVEMENT_KILL_NAGA_LVL2,Naga Slayer 2,Pogromca Naga 2
+ACHIEVEMENT_KILL_NAGA_LVL3,Naga Slayer 3,Pogromca Naga 3
+ACHIEVEMENT_KILL_NAGA_LVL4,Naga Slayer 4,Pogromca Naga 4
+ACHIEVEMENT_KILL_NAGA_LVL5,Naga Hunter,Łowca Naga
+ACHIEVEMENT_KILL_DORIAN_LVL1,Dorian Slayer 1,Pogromca Dorian 1
+ACHIEVEMENT_KILL_DORIAN_LVL2,Dorian Slayer 2,Pogromca Dorian 2
+ACHIEVEMENT_KILL_DORIAN_LVL3,Dorian Slayer 3,Pogromca Dorian 3
+ACHIEVEMENT_KILL_DORIAN_LVL4,Dorian Slayer 4,Pogromca Dorian 4
+ACHIEVEMENT_KILL_DORIAN_LVL5,Dorian Hunter,Łowca Dorian
+ACHIEVEMENT_KILL_OKEAN_LVL1,Okean Slayer 1,Pogromca Okean 1
+ACHIEVEMENT_KILL_OKEAN_LVL2,Okean Slayer 2,Pogromca Okean 2
+ACHIEVEMENT_KILL_OKEAN_LVL3,Okean Slayer 3,Pogromca Okean 3
+ACHIEVEMENT_KILL_OKEAN_LVL4,Okean Slayer 4,Pogromca Okean 4
+ACHIEVEMENT_KILL_OKEAN_LVL5,Okean Hunter,Łowca Okean
+ACHIEVEMENT_KILL_KRAKEN_LVL1,Kraken Slayer 1,Pogromca Kraken 1
+ACHIEVEMENT_KILL_KRAKEN_LVL2,Kraken Slayer 2,Pogromca Kraken 2
+ACHIEVEMENT_KILL_KRAKEN_LVL3,Kraken Slayer 3,Pogromca Kraken 3
+ACHIEVEMENT_KILL_KRAKEN_LVL4,Kraken Slayer 4,Pogromca Kraken 4
+ACHIEVEMENT_KILL_KRAKEN_LVL5,Kraken Hunter,Łowca Kraken
+ACHIEVEMENT_KILL_DREADFIN_LVL1,Dreadfin Slayer 1,Pogromca Dreadfin 1
+ACHIEVEMENT_KILL_DREADFIN_LVL2,Dreadfin Slayer 2,Pogromca Dreadfin 2
+ACHIEVEMENT_KILL_DREADFIN_LVL3,Dreadfin Slayer 3,Pogromca Dreadfin 3
+ACHIEVEMENT_KILL_DREADFIN_LVL4,Dreadfin Slayer 4,Pogromca Dreadfin 4
+ACHIEVEMENT_KILL_DREADFIN_LVL5,Dreadfin Hunter,Łowca Dreadfin
+ACHIEVEMENT_KILL_DREADSCALE_LVL1,Dreadscale Slayer 1,Pogromca Dreadscale 1
+ACHIEVEMENT_KILL_DREADSCALE_LVL2,Dreadscale Slayer 2,Pogromca Dreadscale 2
+ACHIEVEMENT_KILL_DREADSCALE_LVL3,Dreadscale Slayer 3,Pogromca Dreadscale 3
+ACHIEVEMENT_KILL_DREADSCALE_LVL4,Dreadscale Slayer 4,Pogromca Dreadscale 4
+ACHIEVEMENT_KILL_DREADSCALE_LVL5,Dreadscale Hunter,Łowca Dreadscale
+ACHIEVEMENT_KILL_LUMINFIN_LVL1,Luminfin Slayer 1,Pogromca Luminfin 1
+ACHIEVEMENT_KILL_LUMINFIN_LVL2,Luminfin Slayer 2,Pogromca Luminfin 2
+ACHIEVEMENT_KILL_LUMINFIN_LVL3,Luminfin Slayer 3,Pogromca Luminfin 3
+ACHIEVEMENT_KILL_LUMINFIN_LVL4,Luminfin Slayer 4,Pogromca Luminfin 4
+ACHIEVEMENT_KILL_LUMINFIN_LVL5,Luminfin Hunter,Łowca Luminfin
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL1,Hundur Sharpfoot Slayer 1,Pogromca Hundur Sharpfoot 1
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,Pogromca Hundur Sharpfoot 2
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,Pogromca Hundur Sharpfoot 3
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,Pogromca Hundur Sharpfoot 4
+ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,Łowca Hundur Sharpfoot
+ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Pogromca Samoset 1
+ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Pogromca Samoset 2
+ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Pogromca Samoset 3
+ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Pogromca Samoset 4
+ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Łowca Samoset
+ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Pogromca Kyouchish 1
+ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Pogromca Kyouchish 2
+ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Pogromca Kyouchish 3
+ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Pogromca Kyouchish 4
+ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Łowca Kyouchish
+ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Pogromca Kanonicus 1
+ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Pogromca Kanonicus 2
+ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Pogromca Kanonicus 3
+ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Pogromca Kanonicus 4
+ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Łowca Kanonicus
+ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Pogromca Mage Redcloud 1
+ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Pogromca Mage Redcloud 2
+ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Pogromca Mage Redcloud 3
+ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Pogromca Mage Redcloud 4
+ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Łowca Mage Redcloud
+ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Pogromca Taiaha 1
+ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Pogromca Taiaha 2
+ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Pogromca Taiaha 3
+ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Pogromca Taiaha 4
+ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Łowca Taiaha
+ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Pogromca Hellhound 1
+ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Pogromca Hellhound 2
+ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Pogromca Hellhound 3
+ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Pogromca Hellhound 4
+ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Łowca Hellhound
+ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Pogromca Chief Keokuk 1
+ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Pogromca Chief Keokuk 2
+ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,Pogromca Chief Keokuk 3
+ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,Pogromca Chief Keokuk 4
+ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,Łowca Chief Keokuk
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL1,Red Meteonyker Hunter 1,Red Meteonyker Hunter 1
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL2,Red Meteonyker Hunter 2,Red Meteonyker Hunter 2
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL3,Red Meteonyker Hunter 3,Red Meteonyker Hunter 3
@@ -754,34 +754,34 @@ ACHIEVEMENT_KILL_GREATKRAKEN_TITLE,Drowned,Drowned
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_TITLE,Risen,Risen
 ACHIEVEMENT_KILL_CRYSTALDEVIL_TITLE,Numb,Numb
 ACHIEVEMENT_KILL_BEASTKINGKHAN_TITLE,Conqueror of the Wilds,Conqueror of the Wilds
-ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Shade Hunter
+ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Łowca Shade
 ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,God of Death
 ACHIEVEMENT_JUMP_NAME,Jump,Skocz
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Skocz określoną ilość razy.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Skoczny Mistrz
-ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Total Play Time
-ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,Reach a certain play time (hours) to earn rewards.
-ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,FlyFF Novice!
+ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Całkowity Czas Gry
+ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,"Osiągnij określony czas gry (w godzinach), aby zdobyć nagrody."
+ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,FlyFF Początkujący!
 ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,FlyFF Fan!
-ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,FlyFF Devotee!
-ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,FlyFF Enthusiast!
-ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,FlyFF Addict!
-ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,FlyFF Fanatic!
-ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,FlyFF Fanatic
+ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,FlyFF Oddany!
+ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,FlyFF Entuzjasta!
+ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,FlyFF Uzależniony!
+ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,FlyFF Fanatyk!
+ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,FlyFF Fanatyk
 ACHIEVEMENT_LEVEL_NAME,Level,Poziom
-ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,Reach a certain level to earn rewards.
-ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Beginner Level 1
-ACHIEVEMENT_LEVEL_LVL2,Beginner Level 2,Beginner Level 2
-ACHIEVEMENT_LEVEL_LVL3,Beginner Level 3,Beginner Level 3
-ACHIEVEMENT_LEVEL_LVL4,Adept Level 1,Adept Level 1
-ACHIEVEMENT_LEVEL_LVL5,Adept Level 2,Adept Level 2
-ACHIEVEMENT_LEVEL_LVL6,Adept Level 3,Adept Level 3
-ACHIEVEMENT_LEVEL_LVL7,Expert Level 1,Expert Level 1
-ACHIEVEMENT_LEVEL_LVL8,Expert Level 2,Expert Level 2
-ACHIEVEMENT_LEVEL_LVL9,Expert Level 3,Expert Level 3
-ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,Professional Level 1
-ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,Professional Level 2
-ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,Professional Level 3
+ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,"Osiągnij określony poziom, aby zdobyć nagrody."
+ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Początkujący Poziom 1
+ACHIEVEMENT_LEVEL_LVL2,Beginner Level 2,Początkujący Poziom 2
+ACHIEVEMENT_LEVEL_LVL3,Beginner Level 3,Początkujący Poziom 3
+ACHIEVEMENT_LEVEL_LVL4,Adept Level 1,Zaawansowany Poziom 1
+ACHIEVEMENT_LEVEL_LVL5,Adept Level 2,Zaawansowany Poziom 2
+ACHIEVEMENT_LEVEL_LVL6,Adept Level 3,Zaawansowany Poziom 3
+ACHIEVEMENT_LEVEL_LVL7,Expert Level 1,Ekspert Poziom 1
+ACHIEVEMENT_LEVEL_LVL8,Expert Level 2,Ekspert Poziom 2
+ACHIEVEMENT_LEVEL_LVL9,Expert Level 3,Ekspert Poziom 3
+ACHIEVEMENT_LEVEL_LVL10,Professional Level 1,Profesjonalny Poziom 1
+ACHIEVEMENT_LEVEL_LVL11,Professional Level 2,Profesjonalny Poziom 2
+ACHIEVEMENT_LEVEL_LVL12,Professional Level 3,Profesjonalny Poziom 3
 ACHIEVEMENT_USE_GRAYPILL_NAME,Gray Pill,Szara Piguła
 ACHIEVEMENT_USE_GRAYPILL_DESC,"Eat 30,000 Gray Pills.","Zjedz 30,000 Szarych Pigułek."
 ACHIEVEMENT_USE_GRAYPILL_TITLE,Placebo,Placebo
@@ -882,13 +882,13 @@ ACHIEVEMENT_USE_BISCUIT_NAME,Biscuit,Ciastko
 ACHIEVEMENT_USE_BISCUIT_DESC,"Eat 200,000 Biscuits.","Zjedz 200,000 ciastek."
 ACHIEVEMENT_USE_BISCUIT_TITLE,Baker,Piekarz
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_NAME,Coral Island Curry,Coral Island Curry
-ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_DESC,"Eat 50,000 Coral Island Curries.","Eat 50,000 Coral Island Curries."
+ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_DESC,"Eat 50,000 Coral Island Curries.",Zjedz 50 000 Coral Island Curry.
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_TITLE,Saucy,Saucy
 ACHIEVEMENT_USE_FRUIT_PUNCH_NAME,Fruit Punch,Poncz owocowy
-ACHIEVEMENT_USE_FRUIT_PUNCH_DESC,"Eat 200,000 Fruit Punch.","Eat 200,000 Fruit Punch."
+ACHIEVEMENT_USE_FRUIT_PUNCH_DESC,"Eat 200,000 Fruit Punch.",Zjedz 200 000 Punczów owocowych.
 ACHIEVEMENT_USE_FRUIT_PUNCH_TITLE,Punta Cana,Punta Cana
 ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,Tuna Sushi
-ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.","Eat 200,000 Tuna Sushi."
+ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.",Zjedz 200 000 Tuna Sushi.
 ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,Soy Sauce
 ACHIEVEMENT_STAT_STRENGTH_NAME,Strength,Siła
 ACHIEVEMENT_STAT_STRENGTH_DESC,Get 253 BASE STR.,Osiągnij 253 bazowego STR.
@@ -902,7 +902,7 @@ ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,Zwinny
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,Inteligencja
 ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,Osiągnij 253 bazowego INT.
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,Mędrzec
-ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Daily play time
+ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Dzienny czas gry
 ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Play 10, 20, 30 and 40 minutes in the day to earn rewards. Reset at midnight.","Graj 10, 20, 30 i 40 minut dziennie, aby zdobywać nagrody. Naliczanie resetuje się o północy."
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 mn
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 mn
@@ -917,51 +917,51 @@ ACHIEVEMENT_CONNECTION_SERIES_LVL4,Day 4,Dzień 4
 ACHIEVEMENT_CONNECTION_SERIES_LVL5,Day 5,Dzień 5
 ACHIEVEMENT_TOTAL_CONNECTION_NAME,Total connection,Logowań ogółem
 ACHIEVEMENT_TOTAL_CONNECTION_DESC,Log in a certain number of times to earn rewards.,"Zaloguj się określoną liczbę razy, aby zdobyć nagrody."
-ACHIEVEMENT_TOTAL_CONNECTION_LVL1,Day 1,Day 1
-ACHIEVEMENT_TOTAL_CONNECTION_LVL2,Day 2,Day 2
-ACHIEVEMENT_TOTAL_CONNECTION_LVL3,Day 3,Day 3
-ACHIEVEMENT_TOTAL_CONNECTION_LVL4,Day 4,Day 4
-ACHIEVEMENT_TOTAL_CONNECTION_LVL5,Day 5,Day 5
-ACHIEVEMENT_TOTAL_CONNECTION_LVL6,Day 6,Day 6
-ACHIEVEMENT_TOTAL_CONNECTION_LVL7,Day 7,Day 7
-ACHIEVEMENT_TOTAL_CONNECTION_LVL11,Day 8,Day 8
-ACHIEVEMENT_TOTAL_CONNECTION_LVL12,Day 9,Day 9
-ACHIEVEMENT_TOTAL_CONNECTION_LVL13,Day 10,Day 10
-ACHIEVEMENT_TOTAL_CONNECTION_LVL14,Day 11,Day 11
-ACHIEVEMENT_TOTAL_CONNECTION_LVL15,Day 12,Day 12
-ACHIEVEMENT_TOTAL_CONNECTION_LVL16,Day 13,Day 13
-ACHIEVEMENT_TOTAL_CONNECTION_LVL8,Day 14,Day 14
-ACHIEVEMENT_TOTAL_CONNECTION_LVL17,Day 15,Day 15
-ACHIEVEMENT_TOTAL_CONNECTION_LVL18,Day 16,Day 16
-ACHIEVEMENT_TOTAL_CONNECTION_LVL19,Day 17,Day 17
-ACHIEVEMENT_TOTAL_CONNECTION_LVL20,Day 18,Day 18
-ACHIEVEMENT_TOTAL_CONNECTION_LVL21,Day 19,Day 19
-ACHIEVEMENT_TOTAL_CONNECTION_LVL22,Day 20,Day 20
-ACHIEVEMENT_TOTAL_CONNECTION_LVL9,Day 21,Day 21
-ACHIEVEMENT_TOTAL_CONNECTION_LVL23,Day 22,Day 22
-ACHIEVEMENT_TOTAL_CONNECTION_LVL24,Day 23,Day 23
-ACHIEVEMENT_TOTAL_CONNECTION_LVL25,Day 24,Day 24
-ACHIEVEMENT_TOTAL_CONNECTION_LVL26,Day 25,Day 25
-ACHIEVEMENT_TOTAL_CONNECTION_LVL27,Day 26,Day 26
-ACHIEVEMENT_TOTAL_CONNECTION_LVL28,Day 27,Day 27
-ACHIEVEMENT_TOTAL_CONNECTION_LVL29,Day 28,Day 28
-ACHIEVEMENT_TOTAL_CONNECTION_LVL10,Day 30,Day 30
+ACHIEVEMENT_TOTAL_CONNECTION_LVL1,Day 1,Dzień 1
+ACHIEVEMENT_TOTAL_CONNECTION_LVL2,Day 2,Dzień 2
+ACHIEVEMENT_TOTAL_CONNECTION_LVL3,Day 3,Dzień 3
+ACHIEVEMENT_TOTAL_CONNECTION_LVL4,Day 4,Dzień 4
+ACHIEVEMENT_TOTAL_CONNECTION_LVL5,Day 5,Dzień 5
+ACHIEVEMENT_TOTAL_CONNECTION_LVL6,Day 6,Dzień 6
+ACHIEVEMENT_TOTAL_CONNECTION_LVL7,Day 7,Dzień 7
+ACHIEVEMENT_TOTAL_CONNECTION_LVL11,Day 8,Dzień 8
+ACHIEVEMENT_TOTAL_CONNECTION_LVL12,Day 9,Dzień 9
+ACHIEVEMENT_TOTAL_CONNECTION_LVL13,Day 10,Dzień 10
+ACHIEVEMENT_TOTAL_CONNECTION_LVL14,Day 11,Dzień 11
+ACHIEVEMENT_TOTAL_CONNECTION_LVL15,Day 12,Dzień 12
+ACHIEVEMENT_TOTAL_CONNECTION_LVL16,Day 13,Dzień 13
+ACHIEVEMENT_TOTAL_CONNECTION_LVL8,Day 14,Dzień 14
+ACHIEVEMENT_TOTAL_CONNECTION_LVL17,Day 15,Dzień 15
+ACHIEVEMENT_TOTAL_CONNECTION_LVL18,Day 16,Dzień 16
+ACHIEVEMENT_TOTAL_CONNECTION_LVL19,Day 17,Dzień 17
+ACHIEVEMENT_TOTAL_CONNECTION_LVL20,Day 18,Dzień 18
+ACHIEVEMENT_TOTAL_CONNECTION_LVL21,Day 19,Dzień 19
+ACHIEVEMENT_TOTAL_CONNECTION_LVL22,Day 20,Dzień 20
+ACHIEVEMENT_TOTAL_CONNECTION_LVL9,Day 21,Dzień 21
+ACHIEVEMENT_TOTAL_CONNECTION_LVL23,Day 22,Dzień 22
+ACHIEVEMENT_TOTAL_CONNECTION_LVL24,Day 23,Dzień 23
+ACHIEVEMENT_TOTAL_CONNECTION_LVL25,Day 24,Dzień 24
+ACHIEVEMENT_TOTAL_CONNECTION_LVL26,Day 25,Dzień 25
+ACHIEVEMENT_TOTAL_CONNECTION_LVL27,Day 26,Dzień 26
+ACHIEVEMENT_TOTAL_CONNECTION_LVL28,Day 27,Dzień 27
+ACHIEVEMENT_TOTAL_CONNECTION_LVL29,Day 28,Dzień 28
+ACHIEVEMENT_TOTAL_CONNECTION_LVL10,Day 30,Dzień 30
 ACHIEVEMENT_SKILL_RESURRECTION_NAME,Savior,Savior
 ACHIEVEMENT_SKILL_RESURRECTION_DESC,"Resurrect 1,000 players.","Resurrect 1,000 players."
-ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Alpha Tester Reward
-ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!
-ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Alpha Tester
-ACHIEVEMENT_BETA_TESTER_NAME,Beta Tester Reward,Beta Tester Reward
-ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached the level 40 in Flyff Project M!,A unique reward for players who reached the level 40 in Flyff Project M!
-ACHIEVEMENT_BETA_TESTER_TITLE,Beta Tester,Beta Tester
-ACHIEVEMENT_HATCHING_EGG_NAME,Egg Hatcher,Egg Hatcher
-ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs. ,Hatch 100 eggs. 
-ACHIEVEMENT_HATCHING_EGG_TITLE,Master Hatcher,Master Hatcher
-ACHIEVEMENT_FLYFFIPEDIA_NAME,Flyffipedia Creator,Flyffipedia Creator
-ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created the Flyffipedia. Thanks Swaight!,A unique reward for the player who created the Flyffipedia. Thanks Swaight!
+ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Nagroda dla Testera Alpha
+ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,"Wyjątkowa nagroda dla graczy, którzy uczestniczyli w Alpha Test FlyForFun.io w 2019!"
+ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Tester Alpha
+ACHIEVEMENT_BETA_TESTER_NAME,Beta Tester Reward,Nagroda dla Testera Beta
+ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached the level 40 in Flyff Project M!,"Wyjątkowa nagroda dla graczy, którzy osiągnęli poziom 40 w Flyff Project M!"
+ACHIEVEMENT_BETA_TESTER_TITLE,Beta Tester,Tester Beta
+ACHIEVEMENT_HATCHING_EGG_NAME,Egg Hatcher,Wylęgarnia Jaj
+ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs. ,Wylęgnij 100 jaj.
+ACHIEVEMENT_HATCHING_EGG_TITLE,Master Hatcher,Mistrz Wylęgu
+ACHIEVEMENT_FLYFFIPEDIA_NAME,Flyffipedia Creator,Twórca Flyffipedii
+ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created the Flyffipedia. Thanks Swaight!,"Wyjątkowa nagroda dla gracza, który stworzył Flyffipedię. Dzięki Swaight!"
 ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyffipedia
-ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Translator Reward
-ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,A unique reward for players who help creating game translations.
+ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Nagroda dla Tłumacza
+ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,"Wyjątkowa nagroda dla graczy, którzy pomagają tworzyć tłumaczenia gry."
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Translator
 ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
 ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Complete the first Master Quest
@@ -1015,17 +1015,17 @@ ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Rainbow Race Champion
 ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,Unique rewards based on how many Rainbow Race wins you can get!
 ACHIEVEMENT_MASTER110_TITLE,Master,Mistrz
 ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,Use fCoin to earn additional attendance rewards.
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Connection Pack
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,Log in a certain number of times to earn premium rewards.
-ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC Beginner
-ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC Combatant
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the Flyff World Championship.,Reach level 60 in the Flyff World Championship.
-ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC Vanquisher
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Reach level 100 in the Flyff World Championship.
-ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Master
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Reach level 160 in the Flyff World Championship.
-ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Emperor
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Complete all Gear Exchange in the Flyff World Championship.
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Pakiet Zalogowań
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,"Zaloguj się określoną ilość razy, aby zdobyć premium nagrody."
+ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,FWC 2024 Początkujący
+ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,FWC 2024 Bojownik
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the Flyff World Championship.,Osiągnij poziom 60 w Mistrzostwa Świata FlyFF.
+ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,FWC 2024 Pogromca
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Osiągnij poziom 100 w Mistrzostwa Świata FlyFF.
+ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,FWC 2024 Mistrz
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Osiągnij poziom 160 w Mistrzostwa Świata FlyFF.
+ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,FWC 2024 Cesarz
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Ukończ wymianę całego sprzętu w Mistrzostwach Świata FlyFF.
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Couple 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Solo Escape
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Couple 10
@@ -1115,13 +1115,13 @@ ACHIEVEMENT_SMITHING_TITLE02,Smith,Smith
 ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Expert Smith
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Master Smith
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Raise your Smithing mastery.
-ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWC Arena Champion
+ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,Mistrz Areny FWC 2024
 ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Win the Flyff World Championship 2024 PvP Competition.
-ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWC Arena 2nd
+ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,FWC 2024 Arena 2. miejsce
 ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Get second place in the Flyff World Championship 2024 PvP Competition.
-ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWC Arena 3rd
+ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,FWC 2024 Arena 3. miejsce
 ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Get third place in the Flyff World Championship 2024 PvP Competition.
-ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWC Arena Finalist
+ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,Finalista Areny FWC 2024
 ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Participate to the Flyff World Championship 2024 PvP Finals.
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Hero 125 - 140
 ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Complete the second Hero Quest
@@ -1131,37 +1131,37 @@ ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Christmas 
 ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Login each day for 30 minutes and receive rewards!
 ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Christmas Invasion
 ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Attendance Event
-ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Login each day for 40 minutes and receive rewards!
+ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Loguj się każdego dnia przez 40 minut i otrzymuj nagrody!
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,Dzień 1
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,Dzień 2
 ACHIEVEMENT_ATTENDANCE_LVL3,Day 3,Dzień 3
 ACHIEVEMENT_ATTENDANCE_LVL4,Day 4,Dzień 4
 ACHIEVEMENT_ATTENDANCE_LVL5,Day 5,Dzień 5
-ACHIEVEMENT_ATTENDANCE_LVL6,Day 6,Day 6
-ACHIEVEMENT_ATTENDANCE_LVL7,Day 7,Day 7
-ACHIEVEMENT_ATTENDANCE_LVL8,Day 8,Day 8
-ACHIEVEMENT_ATTENDANCE_LVL9,Day 9,Day 9
-ACHIEVEMENT_ATTENDANCE_LVL10,Day 10,Day 10
-ACHIEVEMENT_ATTENDANCE_LVL11,Day 11,Day 11
-ACHIEVEMENT_ATTENDANCE_LVL12,Day 12,Day 12
-ACHIEVEMENT_ATTENDANCE_LVL13,Day 13,Day 13
-ACHIEVEMENT_ATTENDANCE_LVL14,Day 14,Day 14
-ACHIEVEMENT_ATTENDANCE_LVL15,Day 15,Day 15
-ACHIEVEMENT_ATTENDANCE_LVL16,Day 16,Day 16
-ACHIEVEMENT_ATTENDANCE_LVL17,Day 17,Day 17
-ACHIEVEMENT_ATTENDANCE_LVL18,Day 18,Day 18
-ACHIEVEMENT_ATTENDANCE_LVL19,Day 19,Day 19
-ACHIEVEMENT_ATTENDANCE_LVL20,Day 20,Day 20
-ACHIEVEMENT_ATTENDANCE_LVL21,Day 21,Day 21
-ACHIEVEMENT_ATTENDANCE_LVL22,Day 22,Day 22
-ACHIEVEMENT_ATTENDANCE_LVL23,Day 23,Day 23
-ACHIEVEMENT_ATTENDANCE_LVL24,Day 24,Day 24
-ACHIEVEMENT_ATTENDANCE_LVL25,Day 25,Day 25
-ACHIEVEMENT_ATTENDANCE_LVL26,Day 26,Day 26
-ACHIEVEMENT_ATTENDANCE_LVL27,Day 27,Day 27
-ACHIEVEMENT_ATTENDANCE_LVL28,Day 28,Day 28
+ACHIEVEMENT_ATTENDANCE_LVL6,Day 6,Dzień 6
+ACHIEVEMENT_ATTENDANCE_LVL7,Day 7,Dzień 7
+ACHIEVEMENT_ATTENDANCE_LVL8,Day 8,Dzień 8
+ACHIEVEMENT_ATTENDANCE_LVL9,Day 9,Dzień 9
+ACHIEVEMENT_ATTENDANCE_LVL10,Day 10,Dzień 10
+ACHIEVEMENT_ATTENDANCE_LVL11,Day 11,Dzień 11
+ACHIEVEMENT_ATTENDANCE_LVL12,Day 12,Dzień 12
+ACHIEVEMENT_ATTENDANCE_LVL13,Day 13,Dzień 13
+ACHIEVEMENT_ATTENDANCE_LVL14,Day 14,Dzień 14
+ACHIEVEMENT_ATTENDANCE_LVL15,Day 15,Dzień 15
+ACHIEVEMENT_ATTENDANCE_LVL16,Day 16,Dzień 16
+ACHIEVEMENT_ATTENDANCE_LVL17,Day 17,Dzień 17
+ACHIEVEMENT_ATTENDANCE_LVL18,Day 18,Dzień 18
+ACHIEVEMENT_ATTENDANCE_LVL19,Day 19,Dzień 19
+ACHIEVEMENT_ATTENDANCE_LVL20,Day 20,Dzień 20
+ACHIEVEMENT_ATTENDANCE_LVL21,Day 21,Dzień 21
+ACHIEVEMENT_ATTENDANCE_LVL22,Day 22,Dzień 22
+ACHIEVEMENT_ATTENDANCE_LVL23,Day 23,Dzień 23
+ACHIEVEMENT_ATTENDANCE_LVL24,Day 24,Dzień 24
+ACHIEVEMENT_ATTENDANCE_LVL25,Day 25,Dzień 25
+ACHIEVEMENT_ATTENDANCE_LVL26,Day 26,Dzień 26
+ACHIEVEMENT_ATTENDANCE_LVL27,Day 27,Dzień 27
+ACHIEVEMENT_ATTENDANCE_LVL28,Day 28,Dzień 28
 ACHIEVEMENT_ATTENDANCE_LVL29,Day 29,Day 29
-ACHIEVEMENT_ATTENDANCE_LVL30,Day 30,Day 30
+ACHIEVEMENT_ATTENDANCE_LVL30,Day 30,Dzień 30
 ACHIEVEMENT_ATTENDANCE_LVL31,Day 31,Day 31
 ACHIEVEMENT_ATTENDANCE_LVL32,Day 32,Day 32
 ACHIEVEMENT_ATTENDANCE_LVL33,Day 33,Day 33
@@ -1229,44 +1229,44 @@ ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Gather 5 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Gather 10 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Gather 15 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Gather 20 Easter Eggs
-ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,3rd Anniversary Attendance
-ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWC Beginner
-ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWC Brawler
-ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWC Warrior
-ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWC Savior
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the Flyff World Championship.,Reach level 140 in the Flyff World Championship.
-ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWC Overlord
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the Flyff World Championship.,Reach level 150 in the Flyff World Championship.
-ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC Master
+ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,Obecność w 3. Rocznicę
+ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,FWC 2025 Początkujący
+ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,FWC 2025 Brawler
+ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,FWC 2025 Wojownik
+ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,FWC 2025 Zbawca
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the Flyff World Championship.,Osiągnij poziom 140 w Mistrzostwa Świata FlyFF.
+ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,FWC 2025 Władca
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the Flyff World Championship.,Osiągnij poziom 150 w Mistrzostwa Świata FlyFF.
+ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,FWC 2025 Mistrz
 ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!
-ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Colosseum Champion
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Win the Flyff World Championship 2025 PvE competition.
-ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC Colosseum 2nd
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Get second place in the Flyff World Championship 2025 PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC Colosseum 3rd
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Get third place in the Flyff World Championship 2025 PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC Colosseum Participant
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Participate to the Flyff World Championship 2025 PvE Competition.
-ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Arena Champion
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Win the Flyff World Championship 2025 PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Arena 2nd
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Get second place in the Flyff World Championship 2025 PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Arena 3rd
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Get third place in the Flyff World Championship 2025 PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Arena Finalist
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Participate to the Flyff World Championship 2025 PvP Finals.
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Arena Participant
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvP Qualifications.,Participate to the Flyff World Championship 2025 PvP Qualifications.
-ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC High Roller
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,The honorable title awarded to the player who earned the most Champion Coins across all servers.,The honorable title awarded to the player who earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky streak,2025 FWC Lucky streak
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Whale
-ACHIEVEMENT_FWC_2025_WHALE_DESC,The title awarded to the player who earned the most Champion Coins within their own server.,The title awarded to the player who earned the most Champion Coins within their own server.
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC The Unlucky
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Partner Streamer
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,The title awarded to the partner streamers during the FWC 2025.
+ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,Mistrz Colosseum FWC 2025
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Wygraj konkurencję PvE Mistrzostw Świata FlyFF 2025.
+ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,FWC 2025 Colosseum 2. miejsce
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Zajmij drugie miejsce w konkurencji PvE Mistrzostw Świata FlyFF 2025.
+ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,FWC 2025 Colosseum 3. miejsce
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Zajmij trzecie miejsce w konkurencji PvE Mistrzostw Świata FlyFF 2025.
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,Uczestnik Colosseum FWC 2025
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Bierz udział w konkurencji PvE Mistrzostw Świata FlyFF 2025.
+ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,Mistrz Areny FWC 2025
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Wygraj Mistrzostwa Świata FlyFF 2025 w Konkurencji PvP.
+ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,FWC 2025 Arena 2. miejsce
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Zajmij drugie miejsce w Mistrzostwach Świata FlyFF 2025 w Konkurencji PvP.
+ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,FWC 2025 Arena 3. miejsce
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Zajmij trzecie miejsce w Mistrzostwach Świata FlyFF 2025 w Konkurencji PvP.
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,Finalista Areny FWC 2025
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Uczestnicz w Finałach Mistrzostw Świata FlyFF 2025 w Konkurencji PvP.
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,Uczestnik Areny FWC 2025
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvP Qualifications.,Uczestnicz w Kwalifikacjach Mistrzostw Świata FlyFF 2025 w Konkurencji PvP.
+ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,Hazardzista FWC 2025
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,The honorable title awarded to the player who earned the most Champion Coins across all servers.,"Honorowy tytuł przyznawany graczowi, który zarobił najwięcej Monet Mistrza na wszystkich serwerach."
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky streak,Szczęśliwa seria FWC 2025
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.,"Honorowy tytuł przyznawany graczowi, który prawie zarobił najwięcej Monet Mistrza na wszystkich serwerach."
+ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,Wieloryb FWC 2025
+ACHIEVEMENT_FWC_2025_WHALE_DESC,The title awarded to the player who earned the most Champion Coins within their own server.,"Tytuł przyznawany graczowi, który zarobił najwięcej Monet Mistrza na swoim serwerze."
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,Pechowiec FWC 2025
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,"Tytuł przyznawany graczowi, który wydał wiele Monet FWC, ale zarobił najmniej Monet Mistrza na swoim serwerze."
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,Partner Streamer FWC 2025
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,Tytuł przyznawany streamerom partnerskim podczas FWC 2025.
 ACHIEVEMENT_UPGRADE_1,Upgrade +1,Upgrade +1
 ACHIEVEMENT_UPGRADE_2,Upgrade +2,Upgrade +2
 ACHIEVEMENT_UPGRADE_3,Upgrade +3,Upgrade +3
@@ -1278,28 +1278,28 @@ ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
 ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
 ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Complete the fourth Hero Quest
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,1.5 Update Attendance
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Login each day for 40 minutes and receive rewards!
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Ukończ czwarte Zadanie Bohatera
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,Obecność w Aktualizacji 1.5
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Loguj się każdego dnia przez 40 minut i otrzymuj nagrody!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Into the Eillun
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Complete the main quests and earn rewards during the event!
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Ukończ główne zadania i zarabiaj nagrody podczas wydarzenia!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Complete the daily quests in Kaillun and earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Complete Kaillun Daily Quests 10 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Complete Kaillun Daily Quests 20 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Complete Kaillun Daily Quests 30 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Complete Kaillun Daily Quests 45 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Complete Kaillun Daily Quests 60 times.
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Ukończ codzienne zadania w Kaillun i zarabiaj nagrody podczas wydarzenia!
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Ukończ Codzienne Zadania Kaillun 10 razy.
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Ukończ Codzienne Zadania Kaillun 20 razy.
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Ukończ Codzienne Zadania Kaillun 30 razy.
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Ukończ Codzienne Zadania Kaillun 45 razy.
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Ukończ Codzienne Zadania Kaillun 60 razy.
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Take the Ankou's Asylum
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!
-ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Defeat Ankou
-ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Defeat Blazing Ankou
-ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Defeat Demonic Ankou
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,"Rzuć sobie wyzwanie w nowym tunelu i pokonaj Ankou, aby zarobić nagrody podczas wydarzenia!"
+ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Pokonaj Ankou
+ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Pokonaj Blazing Ankou
+ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Pokonaj Demonic Ankou
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Synthesize Ultimate Jewels and earn rewards during the event!
-ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Specialist Level 1
-ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Specialist Level 2
-ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Specialist Level 3
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Syntetyzuj Ostateczne Klejnoty i zarabiaj nagrody podczas wydarzenia!
+ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Specjalista Poziom 1
+ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Specjalista Poziom 2
+ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Specjalista Poziom 3
 ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,The First Vindicator
-ACHIEVEMENT_FIRST_190_DESC,The title awarded to the first player to reach level 190.,The title awarded to the first player to reach level 190.
+ACHIEVEMENT_FIRST_190_DESC,The title awarded to the first player to reach level 190.,"Tytuł przyznawany pierwszemu graczowi, który osiągnął poziom 190."
 ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,Year of the Horse

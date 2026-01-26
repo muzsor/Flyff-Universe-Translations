@@ -1,5 +1,5 @@
-﻿#bElement Upgrading#nb
+﻿#bUlepszanie elementu#nb
 
-Infusing an item with an element enhances its capabilities against enemies of weaker element types, and dimishes its abilities against enemies with stronger element types.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Wnoszenie elementu do przedmiotu zwiększa jego możliwości przeciwko wrogom słabszych typów elementów i zmniejsza jego zdolności przeciwko wrogom silniejszych typów elementów.
+#cffff0000Użycie zwoju ochrony gwarantuje, że twój przedmiot nie może być zniszczony w procesie.
+Niskie zwoje S-Protect zmniejszą poziom ulepszenia w przypadku niepowodzenia.#nc
