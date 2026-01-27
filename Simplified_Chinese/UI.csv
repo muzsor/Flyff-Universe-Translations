@@ -46,7 +46,7 @@ UI_OPTION_SOUND,Sound,音效
 UI_OPTION_TEXQUALITY,Textures,画面质量
 UI_OPTION_TEXTOON,Cartoon,卡通风格
 UI_OPTION_TEXHIGH,High,高
-UI_OPTION_TEXMID,Medium,Medium
+UI_OPTION_TEXMID,Medium,中
 UI_OPTION_TEXLOW,Low,低
 UI_OPTION_WEATHER,Weather,天气效果
 UI_OPTION_LANGUAGE,Language,语言
@@ -162,7 +162,7 @@ UI_OPTION_PARTY,Party and guild invites,剧团和公会邀请
 UI_OPTION_FRIEND,Friend Invites,好友请求
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Guild Siege Captions
 UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Disable Tutorial Pang
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
+UI_OPTION_COUPLE,Couple Proposals,伴侣请求
 UI_INSTANTMSG_TITLE,Message,信息
 UI_MESSAGE_SEND,Send,发送
 UI_SHOP_TITLE,Shop,商店
