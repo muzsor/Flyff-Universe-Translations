@@ -678,7 +678,7 @@ UI_PIERCING_PROTECTSCROLL,GProtect
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.
 UI_PIERCING_REMOVE_TITLE,Remove Piercing Card
-UI_PIERCING_REMOVE_MSG,"Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb."
+UI_PIERCING_REMOVE_MSG,"Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb"
 UI_PIERCING_REMOVE_OK,Remove
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d
