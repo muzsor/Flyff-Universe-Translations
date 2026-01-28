@@ -1,5 +1,5 @@
-﻿The cost of unbinding is 100,000 Penya per item.
-#cffff0000Unbinding will remove #ball upgrades, bonuses, element and piercings#nb.
-You cannot cancel the operation once it is done.#nc
-The item will be tradable again. If you want to keep all improvements, please use a Scroll of Unbinding instead of this menu.
-Only works on Soul-Bound items and #bnot Soul-Linked items#nb.
+Le coût du désenchaînement est de 100 000 Penya par objet.
+#cffff0000Le désenchaînement supprimera les #améliorations, les bonus, l'élément et les piercings#nb.
+L'opération est irréversible.#nc
+L'objet sera de nouveau échangeable. Si vous souhaitez conserver toutes les améliorations, veuillez utiliser un Parchemin de Désenchaînement plutôt que cette option.
+Fonctionne uniquement sur les objets liés au personnage et #bnot les objets liés#nb.

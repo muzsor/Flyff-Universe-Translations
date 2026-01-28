@@ -1,9 +1,9 @@
-﻿#cffff0000Welcome to the Flyff Universe Lottery Wheel!#nc
+#cffff0000Bienvenue sur la Roue de la Loterie Flyff Universe !#nc
 
-Get enough event items to try your luck spinning the wheel! You can win incredible rewards!
+Rassemblez suffisamment d’objets d’événement pour tenter votre chance en faisant tourner la roue ! Vous pouvez remporter des récompenses incroyables !
 
-Items have different probabilities to win them, so don’t be disappointed if you don’t get the best prize on your first try!
+Les objets ont des probabilités de gain différentes, alors ne soyez pas déçu si vous n’obtenez pas le meilleur lot dès votre première tentative !
 
-This roulette is available up to 20 times a day and will be initialized at 0 o'clock
+Cette roulette est disponible jusqu’à 20 fois par jour et se réinitialise à 0 heure.
 
-#cffff0000Good luck to you!#nc
+#cffff0000Bonne chance à vous !#nc

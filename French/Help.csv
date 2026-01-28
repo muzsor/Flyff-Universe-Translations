@@ -518,10 +518,10 @@ CLIENT_HELP_INC_000516,Job,Classe
 CLIENT_HELP_INC_000517,This shows the job/class that the player has chosen for his character.,Affiche la classe actuelle du personnage.
 CLIENT_HELP_INC_000518,Level,Niveau
 CLIENT_HELP_INC_000519,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.,Augmente en fonction de l'EXP accumulée. Chaque niveau atteint vous octroie des points de compétences et de statistiques.
-CLIENT_HELP_INC_000520,placholder 33,placholder 33
-CLIENT_HELP_INC_000521,placholder 34,placholder 34
-CLIENT_HELP_INC_000522,placholder 35,placholder 35
-CLIENT_HELP_INC_000523,placholder 36,placholder 36
+CLIENT_HELP_INC_000520,placholder 33,espace réservé 33
+CLIENT_HELP_INC_000521,placholder 34,espace réservé 34
+CLIENT_HELP_INC_000522,placholder 35,espace réservé 35
+CLIENT_HELP_INC_000523,placholder 36,espace réservé 36
 CLIENT_HELP_INC_000524,Strength,Force (FOR)
 CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,"Augmente la vitesse d'attaque des armes, sauf pour les baguettes et les arcs."
 CLIENT_HELP_INC_000526,Stamina,Endurance (END)
@@ -585,15 +585,15 @@ CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice a
 CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,Transformation en arme ultime
 CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.","Vous pouvez obtenir avec cette option une arme ultime à partir d'une arme unique +10. L'amélioration maximum est +10 comme une arme normale et nécessite des ""Orichalques Scintillant""."
 CLIENT_HELP_INC_000586,placholder 39,"Pour protéger l'armure, vous pouvez utiliser un Parchemin GProtect, disponible dans la Boutique Flyff."
-CLIENT_HELP_INC_000587,placholder 40,placholder 40
-CLIENT_HELP_INC_000588,placholder 41,placholder 41
-CLIENT_HELP_INC_000589,placholder 42,placholder 42
-CLIENT_HELP_INC_000590,placholder 43,placholder 43
-CLIENT_HELP_INC_000591,placholder 44,placholder 44
-CLIENT_HELP_INC_000592,placholder 45,placholder 45
-CLIENT_HELP_INC_000593,placholder 46,placholder 46
-CLIENT_HELP_INC_000594,placholder 47,placholder 47
-CLIENT_HELP_INC_000595,placholder 48,placholder 48
+CLIENT_HELP_INC_000587,placholder 40,espace réservé 40
+CLIENT_HELP_INC_000588,placholder 41,espace réservé 41
+CLIENT_HELP_INC_000589,placholder 42,espace réservé 42
+CLIENT_HELP_INC_000590,placholder 43,espace réservé 43
+CLIENT_HELP_INC_000591,placholder 44,espace réservé 44
+CLIENT_HELP_INC_000592,placholder 45,espace réservé 45
+CLIENT_HELP_INC_000593,placholder 46,espace réservé 46
+CLIENT_HELP_INC_000594,placholder 47,espace réservé 47
+CLIENT_HELP_INC_000595,placholder 48,espace réservé 48
 CLIENT_HELP_INC_000596,Building,Principales constructions
 CLIENT_HELP_INC_000597,Information about the buildings that provide services.,"Le monde de Flyff contient de nombreux bâtiments, qui s'avèreront très utiles au cours de votre aventure."
 CLIENT_HELP_INC_000598,Lodestar,Cristal de Vie
@@ -663,45 +663,45 @@ CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you w
 CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.","Dans ce cas, vous êtes le chef de votre troupe et celui sur lequel vous avez cliqué est un autre chef d'une autre troupe, vous pouvez avoir un duel de groupe, si l'autre chef l'accepte."
 CLIENT_HELP_INC_000663,The result of PVP and Fame,Résultats et Réputation
 CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,La réputation et vos point PVP change en fonction de votre vécu PVP
-CLIENT_HELP_INC_000665,placholder 49,placholder 49
-CLIENT_HELP_INC_000666,placholder 50,placholder 50
-CLIENT_HELP_INC_000667,placholder 51,placholder 51
-CLIENT_HELP_INC_000668,placholder 52,placholder 52
-CLIENT_HELP_INC_000669,placholder 53,placholder 53
-CLIENT_HELP_INC_000670,placholder 54,placholder 54
-CLIENT_HELP_INC_000671,placholder 55,placholder 55
-CLIENT_HELP_INC_000672,placholder 56,placholder 56
-CLIENT_HELP_INC_000673,placholder 57,placholder 57
-CLIENT_HELP_INC_000674,placholder 58,placholder 58
-CLIENT_HELP_INC_000675,placholder 59,placholder 59
-CLIENT_HELP_INC_000676,placholder 60,placholder 60
-CLIENT_HELP_INC_000677,placholder 61,placholder 61
-CLIENT_HELP_INC_000678,placholder 62,placholder 62
-CLIENT_HELP_INC_000679,placholder 63,placholder 63
-CLIENT_HELP_INC_000680,placholder 64,placholder 64
-CLIENT_HELP_INC_000681,placholder 65,placholder 65
-CLIENT_HELP_INC_000682,placholder 66,placholder 66
+CLIENT_HELP_INC_000665,placholder 49,espace réservé 49
+CLIENT_HELP_INC_000666,placholder 50,espace réservé 50
+CLIENT_HELP_INC_000667,placholder 51,espace réservé 51
+CLIENT_HELP_INC_000668,placholder 52,espace réservé 52
+CLIENT_HELP_INC_000669,placholder 53,espace réservé 53
+CLIENT_HELP_INC_000670,placholder 54,espace réservé 54
+CLIENT_HELP_INC_000671,placholder 55,espace réservé 55
+CLIENT_HELP_INC_000672,placholder 56,espace réservé 56
+CLIENT_HELP_INC_000673,placholder 57,espace réservé 57
+CLIENT_HELP_INC_000674,placholder 58,espace réservé 58
+CLIENT_HELP_INC_000675,placholder 59,espace réservé 59
+CLIENT_HELP_INC_000676,placholder 60,espace réservé 60
+CLIENT_HELP_INC_000677,placholder 61,espace réservé 61
+CLIENT_HELP_INC_000678,placholder 62,espace réservé 62
+CLIENT_HELP_INC_000679,placholder 63,espace réservé 63
+CLIENT_HELP_INC_000680,placholder 64,espace réservé 64
+CLIENT_HELP_INC_000681,placholder 65,espace réservé 65
+CLIENT_HELP_INC_000682,placholder 66,espace réservé 66
 CLIENT_HELP_INC_000683,Server,Canaux
 CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,La banque de guilde et le siège de guilde ne sont disponible que sur le canal 1 d'un serveur. 
-CLIENT_HELP_INC_000685,placholder 67,placholder 67
-CLIENT_HELP_INC_000686,placholder 68,placholder 68
-CLIENT_HELP_INC_000687,placholder 69,placholder 69
-CLIENT_HELP_INC_000688,placholder 70,placholder 70
-CLIENT_HELP_INC_000689,placholder 71,placholder 71
-CLIENT_HELP_INC_000690,placholder 72,placholder 72
-CLIENT_HELP_INC_000691,placholder 73,placholder 73
-CLIENT_HELP_INC_000692,placholder 74,placholder 74
-CLIENT_HELP_INC_000693,placholder 75,placholder 75
-CLIENT_HELP_INC_000694,placholder 76,placholder 76
-CLIENT_HELP_INC_000695,placholder 77,placholder 77
-CLIENT_HELP_INC_000696,placholder 78,placholder 78
-CLIENT_HELP_INC_000697,placholder 79,placholder 79
-CLIENT_HELP_INC_000698,placholder 80,placholder 80
-CLIENT_HELP_INC_000699,placholder 81,placholder 81
-CLIENT_HELP_INC_000700,placholder 82,placholder 82
-CLIENT_HELP_INC_000701,placholder 83,placholder 83
-CLIENT_HELP_INC_000702,placholder 84,placholder 84
-CLIENT_HELP_INC_000703,placholder 85,placholder 85
+CLIENT_HELP_INC_000685,placholder 67,espace réservé 67
+CLIENT_HELP_INC_000686,placholder 68,espace réservé 68
+CLIENT_HELP_INC_000687,placholder 69,espace réservé 69
+CLIENT_HELP_INC_000688,placholder 70,espace réservé 70
+CLIENT_HELP_INC_000689,placholder 71,espace réservé 71
+CLIENT_HELP_INC_000690,placholder 72,espace réservé 72
+CLIENT_HELP_INC_000691,placholder 73,espace réservé 73
+CLIENT_HELP_INC_000692,placholder 74,espace réservé 74
+CLIENT_HELP_INC_000693,placholder 75,espace réservé 75
+CLIENT_HELP_INC_000694,placholder 76,espace réservé 76
+CLIENT_HELP_INC_000695,placholder 77,espace réservé 77
+CLIENT_HELP_INC_000696,placholder 78,espace réservé 78
+CLIENT_HELP_INC_000697,placholder 79,espace réservé 79
+CLIENT_HELP_INC_000698,placholder 80,espace réservé 80
+CLIENT_HELP_INC_000699,placholder 81,espace réservé 81
+CLIENT_HELP_INC_000700,placholder 82,espace réservé 82
+CLIENT_HELP_INC_000701,placholder 83,espace réservé 83
+CLIENT_HELP_INC_000702,placholder 84,espace réservé 84
+CLIENT_HELP_INC_000703,placholder 85,espace réservé 85
 CLIENT_HELP_INC_100000,Achievements,Succès
 CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!","Il y a beaucoup de types de missions : Des récompenses journalières, des évènements à durée limitée, des succès par compte, etc. Finissez-les pour obtenir des récompenses tels que des objets, des titres personnalisés, des bonus d'attaque, des pénya ou des fCoins supplémentaires !"
 CLIENT_HELP_INC_100002,Battle Pass,Battle Pass
@@ -709,17 +709,17 @@ CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive re
 CLIENT_HELP_INC_100004,Equipment Switch,Changement d'équipement
 CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.","Créez vos pré-réglages d'équipement vous permettant d'avoir vos sets, armes et accessoires facilement disponibles. Avec un simpe raccourci, vous pouvez les équiper sans tracas."
 CLIENT_HELP_INC_100006,Create ultimate weapon,Forger une Arme Ultime
-CLIENT_HELP_INC_100007,Kalgas Assault Revival,Kalgas Assault Revival
-CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20)."
-CLIENT_HELP_INC_100009,Couple Menu,Couple Menu
-CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled."
-CLIENT_HELP_INC_100011,Life,Life
-CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time."
-CLIENT_HELP_INC_100013,Fishing Menu,Fishing Menu
-CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button."
-CLIENT_HELP_INC_100015,Pet Training,Pet Training
-CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
-CLIENT_HELP_INC_100017,Housing Objects,Housing Objects
-CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Sélectionnez la décoration que vous souhaitez utiliser et cliquez sur placer. Puis suivez les instructions: \n\n- Clic gauche pour placer\n- Molette de la souris pour tourner\n- Appuyer sur la molette de la souris et sur la souris gauche/droite pour changer la taille.
+CLIENT_HELP_INC_100007,Kalgas Assault Revival,Renaissance dans l’Assaut de Kalgas
+CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","Dans l’Assaut de Kalgas, chaque renaissance après la mort prend un certain temps et augmente avec le nombre de résurrections (jusqu’à 1 minute).\nUtiliser un Kalgas Coin vous fera réapparaître sans temps d’attente, et l’objet peut être acheté dans la Cash Shop.\nLes Kalgas Silver Coins ne peuvent être utilisés qu’une seule fois, tandis que les Kalgas Gold Coins peuvent être utilisés pour des résurrections illimitées.\n*Le nombre de Kalgas Gold Coins requis augmente à chaque utilisation (jusqu’à 20)."
+CLIENT_HELP_INC_100009,Couple Menu,Menu du Couple
+CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","Cette fenêtre gère votre couple. À travers cette fenêtre, vous pouvez consulter les informations sur votre couple et utiliser les fonctions disponibles pour votre couple. Toutes les fonctions peuvent être utilisées par n’importe quel membre du couple. Les limites quotidiennes pour 'Téléportation' et 'Encouragement' se réinitialisent chaque jour à 00:00.\n\nSi vous cliquez sur le bouton 'Rompre', vous demandez une rupture avec votre partenaire. Si la demande est refusée ou qu’aucune réponse n’est reçue, vous pourrez notifier la rupture après une période de cooldown. Soyez prudent, car lorsque vous rompez avec votre partenaire, l’anneau du couple, les cadeaux d’anniversaire et tous les objets dans le stockage seront supprimés, et les fonctions liées au couple seront désactivées."
+CLIENT_HELP_INC_100011,Life,Vie
+CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","Cette fenêtre fournit des informations sur vos Compétences de Vie et vous permet d’utiliser les fonctionnalités associées.\n\nCliquez sur le bouton 'Définir comme Expert' en bas pour vous spécialiser dans une Compétence de Vie spécifique pendant une période déterminée. Un effet bonus sera appliqué lorsque vous définissez votre domaine d’expertise.\n\nNote : une fois votre expertise définie, elle ne peut pas être modifiée pendant un certain temps."
+CLIENT_HELP_INC_100013,Fishing Menu,Menu de Pêche
+CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","Si vous avez une canne à pêche et un appât, vous pouvez pêcher sur n’importe quelle rive de Madrigal.\nAvant de commencer à pêcher, sélectionnez l’appât que vous souhaitez utiliser depuis votre inventaire et enregistrez-le dans la fenêtre contextuelle, puis cliquez sur le bouton démarrer pour commencer la pêche.\nUne fois votre ligne lancée, vous devrez attendre qu’un poisson morde.\nLorsque la morsure arrive, vous jouerez à un mini-jeu pour attraper le poisson. Vos chances d’attraper un poisson dans le mini-jeu augmentent lorsque vous devinez la direction du déplacement du poisson.\nSi vous ne jouez pas au mini-jeu dans le temps imparti, le mini-jeu est considéré comme non joué.\nÀ la fin du mini-jeu, vous pourrez voir si vous avez attrapé un poisson ou non.\nPendant que vous attendez une morsure, vous pouvez ignorer le mini-jeu en cochant Ignorer le mini-jeu, et voir combien vous avez attrapé jusqu’à présent en appuyant sur le bouton État de la Pêche."
+CLIENT_HELP_INC_100015,Pet Training,Éducation du Familier
+CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","Vous pouvez entraîner un Familier Élevé que vous possédez dans votre inventaire ou dans l’inventaire de la maison. Chaque PNJ soigneur a des horaires et intervalles de nourrissage différents.\n\nUne fois que vous avez sélectionné le Familier Élevé que vous souhaitez confier au Soigneur, #soit en double-cliquant ou en glissant-déposant#nb, appuyez simplement sur le bouton 'Terminé' pour lancer l’entraînement du Soigneur.\n\n#cffff0000Si vous décidez de changer de Familier Élevé, le prochain calendrier de nourrissage sera réinitialisé.#nc"
+CLIENT_HELP_INC_100017,Housing Objects,Objets de Maison
+CLIENT_HELP_INC_100018,"Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.","Sélectionnez le modèle de décoration que vous souhaitez utiliser et cliquez sur placer. Puis suivez les instructions : \n\n- Clic gauche pour placer\n- Molette de la souris pour tourner\n- Appuyez sur la molette de la souris et sur les boutons gauche/droite pour changer la taille."
 CLIENT_HELP_INC_100019,Production,Production
-CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"
+CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","Vous pouvez procéder à la production via cette fenêtre. Si vous sélectionnez une recette dans les filtres, vous verrez les informations sur cette recette et ne pourrez produire que les objets correspondant à la recette.\nSi vous ne sélectionnez pas de recette, vous pouvez essayer de produire avec vos propres combinaisons de matériaux pour découvrir des recettes cachées.\nVous pouvez gagner des Jetons de Maître pour une production aléatoire et pour un Grand Succès.\nVous obtiendrez des objets de meilleure qualité lorsque vous réalisez un Grand Succès."

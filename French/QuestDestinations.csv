@@ -95,29 +95,29 @@ QUEST_DESTINATION_1020,Kill %s Prismatic Cobras and Water Totem Pole,Tuez %s Cob
 QUEST_DESTINATION_1021,Kill %s Twinstrike Cobras and Wind Totem Pole,Tuez %s Cobras Mutants et Totems de Vent
 QUEST_DESTINATION_1022,Kill %s Tanuki Enforcers and Earth Totem Pole,Tuez %s Tanukis Géants et Totems de Terre
 QUEST_DESTINATION_1023,Kill %s Wildwood Stalkers and Fire Totem Pole,Tuez %s Guerriers Tang et Totem de Feu
-QUEST_DESTINATION_1024,"Kill Kriton, the Shade's right hand living deep inside Herneos.","Kill Kriton, the Shade's right hand living deep inside Herneos."
-QUEST_DESTINATION_1025,Kill 150 Dreadfins in the Herneos Dungeon.,Kill 150 Dreadfins in the Herneos Dungeon.
-QUEST_DESTINATION_1026,Kill 150 Dreadscales in the Herneos Dungeon.,Kill 150 Dreadscales in the Herneos Dungeon.
-QUEST_DESTINATION_1027,Kill 150 Luminfins in the Herneos Dungeon.,Kill 150 Luminfins in the Herneos Dungeon.
-QUEST_DESTINATION_1028,Obtained by talking to Dr. Estly.,Obtained by talking to Dr. Estly.
-QUEST_DESTINATION_1029,Obtained by killing Dreadfins in the Herneos Dungeon.,Obtained by killing Dreadfins in the Herneos Dungeon.
-QUEST_DESTINATION_1030,Obtained by killing Dreadscales in the Herneos Dungeon.,Obtained by killing Dreadscales in the Herneos Dungeon.
-QUEST_DESTINATION_1031,Obtained by killing Luminfins in the Herneos Dungeon.,Obtained by killing Luminfins in the Herneos Dungeon.
-QUEST_DESTINATION_1032,"Kill [Depths Guardian] Bunyip, the Shade's General living deep inside Herneos.","Kill [Depths Guardian] Bunyip, the Shade's General living deep inside Herneos."
-QUEST_DESTINATION_1033,"Kill [Depths Queen] Nereid, the Shade's General living deep inside Herneos.","Kill [Depths Queen] Nereid, the Shade's General living deep inside Herneos."
-QUEST_DESTINATION_1034,The lost treasure of Herneos should be easy to find inside Herneos.,The lost treasure of Herneos should be easy to find inside Herneos.
-QUEST_DESTINATION_1035,You should be able to find one by exploring the Herneos dungeon.,You should be able to find one by exploring the Herneos dungeon.
-QUEST_DESTINATION_1036,Bring it to Gergantes.,Bring it to Gergantes.
-QUEST_DESTINATION_1037,Kill %s more [Twisted Soul] Orcus to spawn an hidden chest,Kill %s more [Twisted Soul] Orcus to spawn an hidden chest
-QUEST_DESTINATION_1038,Kill %s more [Tormented Soul] Nergal to spawn the Mysterious Adventurer,Kill %s more [Tormented Soul] Nergal to spawn the Mysterious Adventurer
-QUEST_DESTINATION_1039,Kill %s more [Demonic Soul] Hel to spawn an hidden chests,Kill %s more [Demonic Soul] Hel to spawn an hidden chests
-QUEST_DESTINATION_1040,Kill %s more [Perverted Soul] Morrigan to spawn the Mysterious Adventurer,Kill %s more [Perverted Soul] Morrigan to spawn the Mysterious Adventurer
-QUEST_DESTINATION_1041,Kill %s more [Anguished Soul] Mara to spawn an hidden chest,Kill %s more [Anguished Soul] Mara to spawn an hidden chest
-QUEST_DESTINATION_1042,Kill %s more [Violent Soul] Ghed to spawn an hidden chest,Kill %s more [Violent Soul] Ghed to spawn an hidden chest
-QUEST_DESTINATION_1043,Defeat %s Dungeon Final Boss,Defeat %s Dungeon Final Boss
-QUEST_DESTINATION_1044,You received Master's letter of introduction from the previous quest.,You received Master's letter of introduction from the previous quest.
-QUEST_DESTINATION_1045,You received Fragment of a Fallen Ship from the Mayor of Flarine.,You received Fragment of a Fallen Ship from the Mayor of Flarine.
-QUEST_DESTINATION_1046,You received Translated Lycan Operation Plan from [Captain] Baron.,You received Translated Lycan Operation Plan from [Captain] Baron.
-QUEST_DESTINATION_1047,You received All about Muran! from [Elder] Melak.,You received All about Muran! from [Elder] Melak.
-QUEST_DESTINATION_1048,You collected Lycan Orders during the previous quest.,You collected Lycan Orders during the previous quest.
-QUEST_DESTINATION_1049,You collected Torn Scroll during the previous quest.,You collected Torn Scroll during the previous quest.
+QUEST_DESTINATION_1024,"Kill Kriton, the Shade's right hand living deep inside Herneos.","Tuez Kriton, la main droite de l’Ombre, vivant profondément à l’intérieur d’Herneos."
+QUEST_DESTINATION_1025,Kill 150 Dreadfins in the Herneos Dungeon.,Tuez 150 Dreadfins dans le donjon d’Herneos.
+QUEST_DESTINATION_1026,Kill 150 Dreadscales in the Herneos Dungeon.,Tuez 150 Dreadscales dans le donjon d’Herneos.
+QUEST_DESTINATION_1027,Kill 150 Luminfins in the Herneos Dungeon.,Tuez 150 Luminfins dans le donjon d’Herneos.
+QUEST_DESTINATION_1028,Obtained by talking to Dr. Estly.,Obtenu en parlant au Dr Estly.
+QUEST_DESTINATION_1029,Obtained by killing Dreadfins in the Herneos Dungeon.,Obtenu en tuant des Dreadfins dans le donjon d’Herneos.
+QUEST_DESTINATION_1030,Obtained by killing Dreadscales in the Herneos Dungeon.,Obtenu en tuant des Dreadscales dans le donjon d’Herneos.
+QUEST_DESTINATION_1031,Obtained by killing Luminfins in the Herneos Dungeon.,Obtenu en tuant des Luminfins dans le donjon d’Herneos.
+QUEST_DESTINATION_1032,"Kill [Depths Guardian] Bunyip, the Shade's General living deep inside Herneos.","Tuez [Gardien des Profondeurs] Bunyip, le Général de l’Ombre vivant profondément à l’intérieur d’Herneos."
+QUEST_DESTINATION_1033,"Kill [Depths Queen] Nereid, the Shade's General living deep inside Herneos.","Tuez [Reine des Profondeurs] Néréide, le Général de l’Ombre vivant profondément à l’intérieur d’Herneos."
+QUEST_DESTINATION_1034,The lost treasure of Herneos should be easy to find inside Herneos.,Le trésor perdu d’Herneos devrait être facile à trouver à l’intérieur d’Herneos.
+QUEST_DESTINATION_1035,You should be able to find one by exploring the Herneos dungeon.,Vous devriez pouvoir en trouver un en explorant le donjon d’Herneos.
+QUEST_DESTINATION_1036,Bring it to Gergantes.,Apportez-le à Gergantes.
+QUEST_DESTINATION_1037,Kill %s more [Twisted Soul] Orcus to spawn an hidden chest,Tuez encore %s [Âmes Tordues] Orcus pour faire apparaître un coffre caché
+QUEST_DESTINATION_1038,Kill %s more [Tormented Soul] Nergal to spawn the Mysterious Adventurer,Tuez encore %s [Âmes Torturées] Nergal pour faire apparaître l’Aventurier Mystérieux
+QUEST_DESTINATION_1039,Kill %s more [Demonic Soul] Hel to spawn an hidden chests,Tuez encore %s [Âmes Démoniaques] Hel pour faire apparaître un coffre caché
+QUEST_DESTINATION_1040,Kill %s more [Perverted Soul] Morrigan to spawn the Mysterious Adventurer,Tuez encore %s [Âmes Perverties] Morrigan pour faire apparaître l’Aventurier Mystérieux
+QUEST_DESTINATION_1041,Kill %s more [Anguished Soul] Mara to spawn an hidden chest,Tuez encore %s [Âmes Angoissées] Mara pour faire apparaître un coffre caché
+QUEST_DESTINATION_1042,Kill %s more [Violent Soul] Ghed to spawn an hidden chest,Tuez encore %s [Âmes Violentes] Ghed pour faire apparaître un coffre caché
+QUEST_DESTINATION_1043,Defeat %s Dungeon Final Boss,Vainquez le Boss final du donjon %s
+QUEST_DESTINATION_1044,You received Master's letter of introduction from the previous quest.,Vous avez reçu la lettre de présentation du Maître de la quête précédente.
+QUEST_DESTINATION_1045,You received Fragment of a Fallen Ship from the Mayor of Flarine.,Vous avez reçu un Fragment de Navire Tombé du Maire de Flarine.
+QUEST_DESTINATION_1046,You received Translated Lycan Operation Plan from [Captain] Baron.,Vous avez reçu le Plan d’Opération Lycan traduit de [Capitaine] Baron.
+QUEST_DESTINATION_1047,You received All about Muran! from [Elder] Melak.,Vous avez reçu Tout sur Muran ! de [Ancien] Melak.
+QUEST_DESTINATION_1048,You collected Lycan Orders during the previous quest.,Vous avez collecté des Ordres Lycan lors de la quête précédente.
+QUEST_DESTINATION_1049,You collected Torn Scroll during the previous quest.,Vous avez collecté un Parchemin Déchiré lors de la quête précédente.
