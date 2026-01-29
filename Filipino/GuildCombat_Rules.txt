@@ -1,10 +1,10 @@
-﻿#b#cff0000ff* Basic Rules#nb#nc
-- Every party and buff are canceled after the entry.
-- Item trading is banned from 5 minutes before the combat.
-- Combat progresses for 10 minutes.
-- 5 members of advance party join first. 
-- The next character joins after a character died. 
-- The dead character becomes the last in the list.
-- A character has 3 chances of revival.
-* Guild Master: Gets bonus point when defeating the enemy.
-* Defender(except for Guild Master): Gives bonus point to the enemy when dying.
+﻿#b#cff0000ff* Pangunahing Patakaran#nb#nc
+- Pagkatapos ng pagpasok, makakansela ang lahat ng party at buff.
+- Simula 5 minuto bago magsimula ang laban, bawal ang pag-trade ng item.
+- Ang laban ay tumatagal ng 10 minuto.
+- Unang papasok ang 5 miyembro ng advance party.
+- Kapag may karakter na namatay, saka papasok ang susunod.
+- Ang namatay na karakter ay mapupunta sa pinakahuli sa listahan.
+- Ang bawat karakter ay may 3 pagkakataon na ma-revive.
+* Guild Master: Nakakakuha ng bonus na puntos kapag nakatalo ng kalaban.
+* Defender (maliban sa Guild Master): Nagbibigay ng bonus na puntos sa kalaban kapag namatay.
