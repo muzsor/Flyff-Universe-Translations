@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Scroll of Element Change#nb#nc
-After placing an applicable item in the box above, you can select one of the below icons to convert the elemental attribute of an item.
+#b#cff0000ff Pergamena del Cambiamento degli Elementi#nb#nc
+Dopo aver inserito un oggetto applicabile nella casella sopra, puoi selezionare una delle icone sottostanti per convertire l'attributo elementale di un oggetto.
