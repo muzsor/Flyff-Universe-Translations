@@ -1,17 +1,17 @@
-﻿#b Race Rules #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+﻿#b Mga Patakaran ng Karera #nb
+1. Tanging mga manlalaro lamang na nag-apply para sumali sa 
+Rainbow Race ang makakasali.
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. Ang layunin ng karera ay sundin ang itinakdang 
+daan at dumaan sa mga Point Circle para makakuha ng 
+puntos at matapos nang mabilis hangga't maaari.
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. Sa panahon ng Rainbow Race, kapag dumaan ka 
+sa Point Circle na may mga item box, 
+makakakuha ka ng mga item na pwedeng gamitin para atakihin ang iba o protektahan ang 
+sarili mo. 
+(Lahat ng mga item sa iyong inventory ay hindi pwedeng gamitin 
+sa panahon ng karera)
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. Tanging mga character lamang na online sa simula 
+ng Rainbow Race ang makakasali sa karera.

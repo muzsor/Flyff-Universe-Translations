@@ -1,11 +1,11 @@
-﻿#b Race Information #nb
-Rainbow Race is an opportunity for all players to compete in an interactive and intense flying race. Players must use their own flying mount during the race.
+﻿#b Impormasyon tungkol sa Karera #nb
+Ang Rainbow Race ay isang pagkakataon para sa lahat ng manlalaro na makipagkumpitensya sa isang interactive at matinding paligsahan sa paglipad. Kailangang gamitin ng mga manlalaro ang sarili nilang flying mount habang nasa karera.
 
-#iNote: The application fee cannot be refunded. Each player is responsible for providing themselves with a flying mount.#ni
+#iNote: Hindi mare-refund ang application fee. Ang bawat manlalaro ay responsable sa pagkuha at paggamit ng sarili nilang flying mount.#ni
 
-Rewards:
-First Place: Title, Mount, and Rainbow Race First Place Box.
-Second Place: Rainbow Race Second Place Box.
-Third Place: Rainbow Race Third Place Box.
-Fourth to Tenth Place: Rainbow Race Honorable Box.
-The Rest: Participation Reward.
+Mga Gantimpala:
+Unang Pwesto: Title, Mount, at Rainbow Race First Place Box.
+Ikalawang Pwesto: Rainbow Race Second Place Box.
+Ikatlong Pwesto: Rainbow Race Third Place Box.
+Ika-apat hanggang Ikasampung Pwesto: Rainbow Race Honorable Box.
+Ang Natitira: Participation Reward.

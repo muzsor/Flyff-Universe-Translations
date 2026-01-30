@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Recipes #nb#nc
+#b#cff0000ff Mga Resipe #nb#nc
  #b25x Cloudberry#nb = 1x Pet Candy (F)#nc
  #b50x Cloudberry + 1x Pet Candy (F)#nb = 1x Pet Candy (E)#nc
  #b50x Lightberry + 1x Pet Candy (E)#nb = 1x Pet Candy (D)#nc
