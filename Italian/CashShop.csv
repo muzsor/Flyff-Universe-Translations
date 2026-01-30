@@ -1,41 +1,41 @@
 ﻿Key,English,Italian
-CS_LIMITED_OFFER,Limited Offer,Limited Offer
-CS_NEW_COSTUME,New Costume,New Costume
-CS_NEW_PICKUP_PET,New Pickup Pet,New Pickup Pet
-CS_FASHION,Fashion,Fashion
-CS_FASHION_SETS,Fashion Sets,Fashion Sets
-CS_FASHION_PIECES,Fashion Pieces,Fashion Pieces
-CS_CLOAKS,Cloaks,Cloaks
-CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,Masks & Glasses & Hair
-CS_PICKUP_PETS,Pickup Pets,Pickup Pets
+CS_LIMITED_OFFER,Limited Offer,Offerta Limitata
+CS_NEW_COSTUME,New Costume,Nuovo Costume
+CS_NEW_PICKUP_PET,New Pickup Pet,Compagno Raccoglitore Nuovo
+CS_FASHION,Fashion,Moda
+CS_FASHION_SETS,Fashion Sets,Set di Moda
+CS_FASHION_PIECES,Fashion Pieces,Articoli di Moda
+CS_CLOAKS,Cloaks,Mantelli
+CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,Maschere, Occhiali e Capelli
+CS_PICKUP_PETS,Pickup Pets,Compagni Raccoglitore
 CS_FLYING,Flying,Volare
-CS_CONSUMABLES,Consumables,Consumables
-CS_RECOVERY,Recovery,Recovery
-CS_SCROLL,Scroll,Scroll
+CS_CONSUMABLES,Consumables,Materiali di Consumo
+CS_RECOVERY,Recovery,Recupero
+CS_SCROLL,Scroll,Permagene
 CS_BUFF,Buff,Buff
-CS_BLINKWING,Blink Wing,Blink Wing
+CS_BLINKWING,Blink Wing,Ala del Balzo
 CS_TRANS,Trans,Trans
-CS_MATERIAL,Material,Material
+CS_MATERIAL,Material,Materiali
 CS_PROTECTION,Protection,Protezione
-CS_AWAKES,Awakes,Awakes
-CS_UPGRADE,Upgrade,Upgrade
-CS_RANDOM,Random,Random
-CS_STONE,Stone,Stone
-CS_VENDOR_SHOP,Vendor Shop,Vendor Shop
-CS_FLASK_POTION,Flask & Potion,Flask & Potion
+CS_AWAKES,Awakes,Risveglo
+CS_UPGRADE,Upgrade,Potenziamenti
+CS_RANDOM,Random,Casuale
+CS_STONE,Stone,Pietra
+CS_VENDOR_SHOP,Vendor Shop,Negozio Venditore
+CS_FLASK_POTION,Flask & Potion,Fiaschetta & Pozione
 CS_MISC,Misc,Misc
-CS_EFFECT,Effect,Effect
+CS_EFFECT,Effect,Effetto
 CS_PENYA,Penya,Penya
-CS_DISCOUNT,Discount,Discount
-CS_SPECIAL_PACKAGE,Special Package,Special Package
-CS_BLACK_FRIDAY,Black Friday,Black Friday
-CS_REBORN_SALES,Reborn Sales,Reborn Sales
+CS_DISCOUNT,Discount,Sconto
+CS_SPECIAL_PACKAGE,Special Package,Pacchetto Speciale
+CS_BLACK_FRIDAY,Black Friday,Venerdì Nero
+CS_REBORN_SALES,Reborn Sales,Vendite Rinate
 CS_FWC,FWC,FWC
-CS_HOUSING,Housing,Housing
-CS_EVENT,Event,Event
-CS_WORLD_TEMPLATE,World Template,World Template
-CS_WORLD_THEME_PACK,Theme Pack,Theme Pack
-CS_WORLD_BUNDLE_PACK,Bundle Pack,Bundle Pack
-CS_WORLD_SINGLE_PACK,Single Pack,Single Pack
+CS_HOUSING,Housing,Alloggi
+CS_EVENT,Event,Evento
+CS_WORLD_TEMPLATE,World Template,Modello Mondiale
+CS_WORLD_THEME_PACK,Theme Pack,Pacchetto Tematico
+CS_WORLD_BUNDLE_PACK,Bundle Pack,Pacchetto Combinato
+CS_WORLD_SINGLE_PACK,Single Pack,Pacchetto Singolo
 CS_NPC,NPC,NPC
-CS_COUPLE,Couple,Couple
+CS_COUPLE,Couple,Coppia
