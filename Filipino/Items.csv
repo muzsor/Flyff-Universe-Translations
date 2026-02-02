@@ -12,13 +12,13 @@ PROPITEM_TXT_000024,Hand Claw,Hand Claw
 PROPITEM_TXT_000026,Leaf Sword,Leaf Sword
 PROPITEM_TXT_000028,Parmil Sword,Parmil Sword
 PROPITEM_TXT_000030,Penel Sword,Penel Sword
-PROPITEM_TXT_000032,Crimson Sword,Cimson Sword
+PROPITEM_TXT_000032,Crimson Sword,Crimson Sword
 PROPITEM_TXT_000034,Flower Sword,Flower Sword
 PROPITEM_TXT_000036,Petal Sword,Petal Sword
 PROPITEM_TXT_000038,Star Sword,Star Sword
 PROPITEM_TXT_000040,Blink Sword,Blink Sword
 PROPITEM_TXT_000042,Slogger Sword,Slogger Sword
-PROPITEM_TXT_000044,Outlaw Sword,Slogger Sword
+PROPITEM_TXT_000044,Outlaw Sword,Outlaw Sword
 PROPITEM_TXT_000046,Fairlight Sword,Fairlight Sword
 PROPITEM_TXT_000048,Fairslender Sword,Fairslender Sword
 PROPITEM_TXT_000050,Turtle Sword,Turtle Sword
@@ -28,7 +28,7 @@ PROPITEM_TXT_000056,Tao Sword,Tao Sword
 PROPITEM_TXT_000058,Jaim Sword,Jaim Sword
 PROPITEM_TXT_000060,Sepal Sword,Sepal Sword
 PROPITEM_TXT_000062,Hansel Sword,Hansel Sword
-PROPITEM_TXT_000064,Cyclos Sword,Cylos Sword
+PROPITEM_TXT_000064,Cyclos Sword,Cyclos Sword
 PROPITEM_TXT_000066,Comet Sword,Comet Sword
 PROPITEM_TXT_000068,Invader Sword,Invader Sword
 PROPITEM_TXT_000070,Pricker Sword,Pricker Sword
@@ -95,7 +95,7 @@ PROPITEM_TXT_000190,Needrek Axe,Needrek Axe
 PROPITEM_TXT_000192,Shakyfin Axe,Shakyfin Axe
 PROPITEM_TXT_000194,Phantege Axe,Phantege Axe
 PROPITEM_TXT_000196,Hitch Axe,Hitch Axe
-PROPITEM_TXT_000198,Butterfly Axe,Butterlfy Axe
+PROPITEM_TXT_000198,Butterfly Axe,Butterfly Axe
 PROPITEM_TXT_000200,Catchy Axe,Catchy Axe
 PROPITEM_TXT_000202,Driff Axe,Driff Axe
 PROPITEM_TXT_000204,Fellpeed Axe,Fellpeed Axe
@@ -132,7 +132,7 @@ PROPITEM_TXT_000264,Huey Stick,Huey Stick
 PROPITEM_TXT_000266,Bopol Stick,Bopol Stick
 PROPITEM_TXT_000268,Kudos Stick,Kudos Stick
 PROPITEM_TXT_000270,Spim Stick,Spim Stick
-PROPITEM_TXT_000272,Sayram Stick,Sayram Stic
+PROPITEM_TXT_000272,Sayram Stick,Sayram Stick
 PROPITEM_TXT_000274,Pero Stick,Pero Stick
 PROPITEM_TXT_000276,Saint Stick,Saint Stick
 PROPITEM_TXT_000278,Gogo Stick,Gogo Stick
@@ -242,7 +242,7 @@ PROPITEM_TXT_000484,Twenkeen Staff,Twenkeen Staff
 PROPITEM_TXT_000486,Florel Staff,Florel Staff
 PROPITEM_TXT_000488,Ruofl Staff,Ruofl Staff
 PROPITEM_TXT_000490,Birdin Staff,Birdin Staff
-PROPITEM_TXT_000492,Featherwing Staff,Birdin Staff
+PROPITEM_TXT_000492,Featherwing Staff,Featherwing Staff
 PROPITEM_TXT_000494,Crossek Staff,Crossek Staff
 PROPITEM_TXT_000496,Holyous Staff,Holyous Staff
 PROPITEM_TXT_000498,Mazerior Staff,Mazerior Staff
@@ -369,7 +369,7 @@ PROPITEM_TXT_000738,Sentinel Bow,Sentinel Bow
 PROPITEM_TXT_000740,Setien Bow,Setien Bow
 PROPITEM_TXT_000742,Velinjack Bow,Velinjack Bow
 PROPITEM_TXT_000744,Varife Bow,Varife Bow
-PROPITEM_TXT_000746,Darkness bow,Darkness Bow
+PROPITEM_TXT_000746,Darkness bow,Darkness bow
 PROPITEM_TXT_000748,Defnan Bow,Defnan Bow
 PROPITEM_TXT_000750,Hydra Bow,Hydra Bow
 PROPITEM_TXT_000752,Hydron Bow,Hydron Bow
@@ -409,7 +409,7 @@ PROPITEM_TXT_000818,Iner Boots,Iner Boots
 PROPITEM_TXT_000820,Cream Boots,Cream Boots
 PROPITEM_TXT_000822,Silk Boots,Silk Boots
 PROPITEM_TXT_000824,Rose Boots,Rose Boots
-PROPITEM_TXT_000826,Leaf Helmet,Helmet
+PROPITEM_TXT_000826,Leaf Helmet,Leaf Helmet
 PROPITEM_TXT_000828,Leaf Suit,Leaf Suit
 PROPITEM_TXT_000830,Leaf Gauntlets,Leaf Gauntlets
 PROPITEM_TXT_000832,Leaf Boots,Leaf Boots
@@ -2630,7 +2630,7 @@ PROPITEM_TXT_004708,Swirl of Soul,Swirl of Soul
 PROPITEM_TXT_004709,x2 MP Recovery per Second for 15 Min.,x2 MP Recovery per Second for 15 Min.
 PROPITEM_TXT_004710,Pain of Patience,Pain of Patience
 PROPITEM_TXT_004711,x2 FP Recovery per Second for 15 Min.,x2 FP Recovery per Second for 15 Min.
-PROPITEM_TXT_004712,Cheer,Aluin
+PROPITEM_TXT_004712,Cheer,Cheer
 PROPITEM_TXT_004713,+5% Exp. for 10 Minutes. Legend has it that it also works as a good luck charm!,+5% Exp. for 10 Minutes. Legend has it that it also works as a good luck charm!
 PROPITEM_TXT_004714,Scroll of Amplification ES,Scroll of Amplification ES
 PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,x1.5 Exp. for 1 hour. This buff is not stackable.
@@ -3178,7 +3178,7 @@ PROPITEM_TXT_005610,Will,Will
 PROPITEM_TXT_005612,Peace,Peace
 PROPITEM_TXT_005614,Honor,Honor
 PROPITEM_TXT_005616,Notebook,Notebook
-PROPITEM_TXT_005618,Camera,Kamera
+PROPITEM_TXT_005618,Camera,Camera
 PROPITEM_TXT_005620,Airship,Airship
 PROPITEM_TXT_005626,Gift Ticket,Gift Ticket
 PROPITEM_TXT_005628,Movie Ticket,Movie Ticket
@@ -4120,7 +4120,7 @@ PROPITEM_TXT_007550,Rincruet,Rincruet
 PROPITEM_TXT_007551,Muffrin's Spice Shaker. Quest item that drops from Muffrin.,Muffrin's Spice Shaker. Quest item that drops from Muffrin.
 PROPITEM_TXT_007552,Popshift,Popshift
 PROPITEM_TXT_007553,Popcrank's Box Lever. Quest item that drops from Popcrank.,Popcrank's Box Lever. Quest item that drops from Popcrank.
-PROPITEM_TXT_007554,Beauty Shop,Shop ng Pampaganda
+PROPITEM_TXT_007554,Beauty Shop,Beauty Shop
 PROPITEM_TXT_007555,Change your hair style and color,Change your hair style and color
 PROPITEM_TXT_007556,Personal Shop,Personal Shop
 PROPITEM_TXT_007557,Only players using the Personal Shop item can buy from players using the Personal Shop item,Only players using the Personal Shop item can buy from players using the Personal Shop item
