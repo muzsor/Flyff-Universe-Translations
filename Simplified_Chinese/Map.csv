@@ -95,7 +95,7 @@ PROPMAP_TXT_100070,Rhisis Catacombs (Story),莱斯神之墓 (剧情)
 PROPMAP_TXT_100071,Envy Depths (Story),渴望深渊 (剧情)
 PROPMAP_TXT_100072,Guardiane Sanctuary (Story),堕落圣域 (剧情)
 PROPMAP_TXT_100073,Storm Peak (Story),风暴之巅 (剧情)
-PROPMAP_TXT_200000,The Colosseum,The Colosseum
+PROPMAP_TXT_200000,The Colosseum,角斗场
 PROPMAP_TXT_100074,The Wilds (Story),荒野 (剧情)
 PROPMAP_TXT_100075,The Wilds,荒野
 PROPMAP_TXT_230001,Instance,副本
@@ -140,13 +140,13 @@ PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
 PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
 PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
 PROPMAX_TXT_200023,Herneos,赫涅奥斯
-PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
+PROPMAP_TXT_200024,Boss Monster Raid,Boss讨伐战
 PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
 PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
 PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
-PROPMAP_TXT_200025,Snowfield,Snowfield
-PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
-PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
+PROPMAP_TXT_200025,Snowfield,雪原
+PROPMAX_TXT_200026,Ankou's Asylum,安库的庇护所
+PROPMAP_TXT_200027,Kaillun Temple,凯伦神殿
 PROPMAP_TXT_200028,Eillun,艾尔伦
 PROPMAP_TXT_200029,Kaillun,凯伦
 PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
@@ -156,4 +156,4 @@ PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
 PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
 PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),安库的庇护所 (剧情模式)
-PROPMAP_TXT_200037,Seabed,Seabed
+PROPMAP_TXT_200037,Seabed,沉没之地
