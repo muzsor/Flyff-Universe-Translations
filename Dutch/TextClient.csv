@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Je bent nieuwe aanval
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Om de vaardigheid te gebruiken moet je het juiste wapen of voorwerp dragen.
 TEXTCLIENT_REQFP,Not enough FP.,Niet genoeg FP.
 TEXTCLIENT_REQMP,Not enough MP.,Niet genoeg MP.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,Niet genoeg HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Deze actie wordt geblokkeerd door een obstakel.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s skill level %d is nodig.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s skill level omhoog.
@@ -1258,7 +1258,7 @@ TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below 
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
-TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Niet genoeg %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Rood Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blauw Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Groen Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Geel Team
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
