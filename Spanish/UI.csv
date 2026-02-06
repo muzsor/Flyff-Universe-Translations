@@ -2381,7 +2381,7 @@ UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Per
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
 UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Incluir palabra clave
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exacto palabra clave
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Palabra clave exacta
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
 UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
