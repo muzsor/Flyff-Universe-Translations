@@ -11,9 +11,9 @@ TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or 
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Nama karakter sudah digunakan.
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster Detected!
 TEXTCLIENT_APP_MAP,World Map,World Map
-TEXTCLIENT_APP_OPTION,Options,Options
+TEXTCLIENT_APP_OPTION,Options,Opsi
 TEXTCLIENT_APP_LOGOUT,Logout,Logout
-TEXTCLIENT_APP_QUIT,Quit,Quit
+TEXTCLIENT_APP_QUIT,Quit,Keluar
 TEXTCLIENT_APP_SUPPORT,Support,Support
 TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
 TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigator
@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Kamu sedang mempelaja
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Kamu perlu menggunakan senjata atau item yang benar untuk menggunakan skill itu.
 TEXTCLIENT_REQFP,Not enough FP.,Tidak cukup FP.
 TEXTCLIENT_REQMP,Not enough MP.,Tidak cukup MP.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,Tidak cukup HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Tindakan ini telah diblokir oleh rintangan..
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s skill level %d diperlukan.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s skill level meningkat.
@@ -1258,7 +1258,7 @@ TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below 
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
-TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Tidak cukup %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,In
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Tidak cukup penya.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
@@ -1481,8 +1481,8 @@ TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolv
 TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
 TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
 TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
-TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
-TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,Awal dari segalanya. Kau adalah Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Gagal mengungkapkan resepnya.
 TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
 TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
 TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Tim Merah
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Tim Biru
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Tim Hijau
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Tim Kuning
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.

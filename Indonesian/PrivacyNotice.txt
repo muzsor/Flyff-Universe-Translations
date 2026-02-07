@@ -1,20 +1,20 @@
-﻿Welcome to #b#cffffdd66Flyff Universe#nc#nb!
+﻿Selamat Datang di #b#cffffdd66Flyff Universe#nc#nb!
 
-Please note that the game translations are managed by the community and may contain inaccuracies. As of today only the #bEnglish version of the game shall be used as a reference#nb regarding item descriptions.
+Harap dicatat bahwa terjemahan game dikelola oleh komunitas dan mungkin mengandung ketidakakuratan. Mulai hari ini, hanya #bversi bahasa Inggris dari game ini yang akan digunakan sebagai referensi#nb mengenai deskripsi item.
 
-#bPrivacy Policy#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=privacy-policy
+#bKebijakan Privasi#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=privacy-policy
 
-#bTerms of Service#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=terms-of-service
+#bKetentuan Layanan#nb: https://galalab.helpshift.com/a/flyff-universe/?s=tos-privacy-policy&f=terms-of-service
 
-You can find a link to these terms using the "Support" button in game.
+Anda dapat menemukan tautan ke persyaratan ini menggunakan tombol "Dukungan" di dalam game.
 
-This program #bcollects users datas#nb for its efficiency and safety.
+Program ini #bmengumpulkan data pengguna#nb untuk efisiensi dan keamanannya.
 
-Are collected: your IP address, your login and logout dates, datas linked to your virtual characters (name, location, inventory...). The datas are saved on a secured server under the responsibility of #bGala Lab Corp#nb. In case of any question or request concerning datas' removal, please, use the following address:
+Data yang dikumpulkan: Alamat IP Anda, tanggal masuk dan keluar Anda, data yang terkait dengan karakter virtual Anda (nama, lokasi, inventaris...). Data tersebut disimpan di server yang aman di bawah tanggung jawab #bGala Lab Corp#nb. Jika ada pertanyaan atau permintaan terkait penghapusan data, silakan gunakan alamat berikut:
 #bgala.mobilegame@galaglobal.com#nb.
 
-This website also use the persistent memory of your computer in order to store your session ID and your display preferences. In case you feel the need to, you may delate those datas without any further consequences.
+Situs web ini juga menggunakan memori permanen komputer Anda untuk menyimpan ID sesi dan preferensi tampilan Anda. Jika Anda merasa perlu, Anda dapat menghapus data-data tersebut tanpa konsekuensi lebih lanjut.
 
-Through this website you may communicate with other users. Any comments not aligned to Korean law, including but not limited to racists, homophobic, harassment and discriminatory comments are strictly forbidden. In case of non-respect of those rules, moderators take the right of immediate removal or block of your character, and even to forbid the access to the server from your IP address.
+Melalui situs web ini, Anda dapat berkomunikasi dengan pengguna lain. Komentar yang tidak sesuai dengan hukum Korea, termasuk tetapi tidak terbatas pada komentar rasis, homofobik, pelecehan, dan diskriminatif, dilarang keras. Jika aturan ini dilanggar, moderator berhak untuk menghapus atau memblokir karakter Anda secara langsung, bahkan melarang akses ke server dari alamat IP Anda.
 
-By clicking on the button #cffffdd66Accept#nc you certify you learned of the mentions above and accept it.
+Dengan mengklik tombol #cffffdd66Terima#nc, Anda menyatakan bahwa Anda telah mengetahui hal-hal yang disebutkan di atas dan menerimanya.
