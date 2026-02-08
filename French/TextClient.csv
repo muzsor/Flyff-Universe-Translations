@@ -709,7 +709,7 @@ TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Un familier est déjà in
 TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Votre mauvais Karma vous empêche de voler !
 TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Info] C'est un test! Le serveur fermera dans %s et les personnages seront supprimés.
 TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Attention] Le jeu est en accès anticipé ! Des instabilités serveur et bugs peuvent survenir.
-TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Un MJ (Maître du Jeu) ne vous demandera jamais vos identifiants de compte.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Information] Un MJ (Maître du Jeu) ne vous demandera jamais votre mot de passe de compte ou de banque.
 TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Ne prêtez pas et ne laissez pas un joueur emprunter vos items. S'ils ne rendent pas l'item, il est perdu à jamais."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Vous êtes trop éloigné de la cible.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s est sur une lancée meurtrière !
