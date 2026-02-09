@@ -934,11 +934,11 @@ UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
 UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Sei entrato nella prima zona.
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Sei entrato nella seconda zona.
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Sei entrato nella terza zona.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Sei entrato nella quarto zona.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Sei entrato nella quinto zona.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Sei entrato nella sesto zona.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Sei entrato nella settimo zona.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Sei entrato nella ottavo zona.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Sei entrato nella quarta zona.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Sei entrato nella quinta zona.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Sei entrato nella sesta zona.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Sei entrato nella settima zona.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Sei entrato nell’ottava zona.
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Select the zone you wish to enter.
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Random
