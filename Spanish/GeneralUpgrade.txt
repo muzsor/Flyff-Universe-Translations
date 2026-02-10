@@ -1,6 +1,6 @@
-﻿#bItem Upgrading#nb
+﻿#bMejora de objeto#nb
 
-Upgrading an item increases its base stats and overall power or defenses.
-#cffff0000From +3 onward (+0 onward for ultimate items), a failed upgrade will destroy the item unless a protection scroll is used.
-Scroll of SProtect is used for normal items, Scroll of AProtect for normal accessories, and Scroll of XProtect for ultimate items.
-Low Scroll of SProtect can only be used when upgrading normal equipment, and reduces the upgrade level on failure.#nc
+Mejorar un objeto incrementa sus estadísticas base y en general su poder o defensas.
+#cffff0000Del +3 en delante (+0 en delante para objetos definitivos), una mejora fallida podría destruir el objeto a menos que un pergamino de protección sea utilizado.
+Pergamino de Protección S se usa en objetos normales, Pergamino de Protección A es para accesorios normales, y Pergamino de Protección X es para objetos definitivos.
+Los Pergaminos de Protección S Bajos solo pueden utilizarse cuando se mejora equipo normal, y reduce el nivel de mejora en un nivel en caso de fallar.#nc
