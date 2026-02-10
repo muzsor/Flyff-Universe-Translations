@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Creción de Dado de Poder Resplandeciente #nb#nc
+﻿#b#cff0000ff Creación de Dado de Poder Resplandeciente #nb#nc
 #bDado de Poder Resplandeciente 4#nb es creado al combinar 5x Dados de Poder 4 y 5x Dados de Poder 8.
 #bDado de Poder Resplandeciente 6#nb es creado al combinar 5x Dados de Poder 6 y 5x Dados de Poder 8.
-#bDado de Poder Resplandeciente 12#nb escreado al usar Dado de Poder 12 o Dado de Poder Power 10 en el proceso.
+#bDado de Poder Resplandeciente 12#nb es creado al usar Dado de Poder 12 o Dado de Poder Power 10 en el proceso.
