@@ -2220,13 +2220,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,domingo
-UI_MON,Monday,segunda-feira
-UI_TUE,Tuesday,terça-feira
-UI_WED,Wednesday,quarta-feira
-UI_THU,Thursday,quinta-feira
-UI_FRI,Friday,sexta-feira
-UI_SAT,Saturday,sábado
+UI_SUN,Sunday,Domingo
+UI_MON,Monday,Segunda-feira
+UI_TUE,Tuesday,Terça-feira
+UI_WED,Wednesday,Quarta-feira
+UI_THU,Thursday,Quinta-feira
+UI_FRI,Friday,Sexta-feira
+UI_SAT,Saturday,Sábado
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
