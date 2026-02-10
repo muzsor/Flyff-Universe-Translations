@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Sử dụng: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Không giới hạn thời gian
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Thời gian chời để tái sử dụng: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Xác nhận hồi sinh
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Một người chơi khác đang cố gắng hồi sinh bạn. Bạn có muốn được sống lại không?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Đặt hiệu ứng
 UI_TOOLTIP_BLOCKRATE,Block,Chặn
 UI_OPTION_FIELDVIEW_AUTO,Auto,Tự động
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Vật tư tiêu hao
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Sự kiện
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Thời gian chơi
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Chuỗi kết nối
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Tổng kết nối
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Chuỗi kết nối
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Tổng kết nối
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Sự mô tả
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Thành tích này được ràng buộc với tài khoản của bạn.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,(Các) quái vật cần tiêu diệt: %s.
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,Không còn món đồ nào để giao dịch! Kho trống!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Thief Santa Hunt Ranking
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Luôn trực tuyến %s phút
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Christmas Attendance
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Christmas Daily Quests
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,"Hoàn thành nhiệm vụ của ông già Noel mỗi ngày! Chỉ trong các ngày lễ Giáng sinh, vì vậy đừng bỏ lỡ một ngày nào!"
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Bắt Thief Santa!
 UI_APP_LOTTERY_START,Spin!,Spin!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,Và %d nữa:
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Phím Shift+Click chuột trái hoặc Click chuột phải để xem nội dung.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Phím Shift+Click chuột trái để xem nội dung.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Nhấn và giữ để xem nội dung.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Kết nối tổng thể cao cấp
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Kết nối tổng thể cao cấp
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Xác suất
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Thông tin xác suất giải thưởng cao cấp
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Bảng thống kê
 UI_STATBOARD_RAW,Raw Stats,Thống kê thô
 UI_STATBOARD_GRAPHS,Graphs,Đồ thị
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

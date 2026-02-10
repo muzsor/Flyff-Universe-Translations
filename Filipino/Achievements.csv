@@ -18,8 +18,8 @@ ACHIEVEMENT_KILL_MRPUMPKIN_NAME,Mr. Pumpkin,Mr. Pumpkin
 ACHIEVEMENT_KILL_REDMANTIS_NAME,Redmantis,Redmantis
 ACHIEVEMENT_KILL_ZENDROS_NAME,Zendros,Zendros
 ACHIEVEMENT_KILL_JACKTHEHAMMER_NAME,Jack the Hammer,Jack ang Martilyo
-ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Gigglebox,Gigglebox
-ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rockmuscle,Rockmuscle
+ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Giggle Box,Giggle Box
+ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rock Muscle,Rock Muscle
 ACHIEVEMENT_KILL_BUCROW_NAME,Bucrow,Bucrow
 ACHIEVEMENT_KILL_NEPARUBA_NAME,Neparuba,Neparuba
 ACHIEVEMENT_KILL_HOBO_NAME,Hobo,Hobo
@@ -34,7 +34,7 @@ ACHIEVEMENT_KILL_PRANKSTER_NAME,Prankster,Prankster
 ACHIEVEMENT_KILL_ROCKEPELLER_NAME,Rockepeller,Rockepeller
 ACHIEVEMENT_KILL_WHEELEM_NAME,Wheelem,Wheelem
 ACHIEVEMENT_KILL_LEYENA_NAME,Leyena,Leyena
-ACHIEVEMENT_KILL_TRANGFOMA_NAME,Tranfogma,Tranfogma
+ACHIEVEMENT_KILL_TRANGFOMA_NAME,Trangfoma,Trangfoma
 ACHIEVEMENT_KILL_STEAMWALKER_NAME,Steam Walker,Lakbay Singaw
 ACHIEVEMENT_KILL_STEELKNIGHT_NAME,Steel Knight,Kabalyerong Bakal
 ACHIEVEMENT_KILL_ZOMBIGER_NAME,Zombiger,Zombiger
@@ -301,7 +301,7 @@ ACHIEVEMENT_KILL_ZOMBIGER_LVL1,Zombiger Slayer 1,Tagapatay ng Zombiger 1
 ACHIEVEMENT_KILL_ZOMBIGER_LVL2,Zombiger Slayer 2,Tagapatay ng Zombiger 2
 ACHIEVEMENT_KILL_ZOMBIGER_LVL3,Zombiger Slayer 3,Tagapatay ng Zombiger 3
 ACHIEVEMENT_KILL_ZOMBIGER_LVL4,Zombiger Slayer 4,Tagapatay ng Zombiger 4
-ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Slayer 1,Tagapatay ng Zombiger 1
+ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Hunter,Tagapatay ng Zombiger 1
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL1,Nuttywheel Slayer 1,Tagapatay ng Nuttywheel 1
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL2,Nuttywheel Slayer 2,Tagapatay ng Nuttywheel 2
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL3,Nuttywheel Slayer 3,Tagapatay ng Nuttywheel 3
@@ -647,7 +647,7 @@ ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,Tagapangh
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,Tagapanghuli ng [God of Death] Demonic Ankou 3
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,Tagapanghuli ng [God of Death] Demonic Ankou 4
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,Tagapuksa ng [God of Death] Demonic Ankou
-ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to get a permanent damage bonus against them.,Talunin ang mga halimaw para makuha ang permanenteng dagdag pinsala upang panlaban sa kanila.
+ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,Talunin ang mga halimaw para makuha ang permanenteng dagdag pinsala upang panlaban sa kanila.
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,Kumukutitap
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,Masayahin
 ACHIEVEMENT_KILL_BURUDENG_TITLE,Horned,May Sungay
@@ -703,7 +703,7 @@ ACHIEVEMENT_KILL_SYLIACA_TITLE,Fisherman,Mangingisda
 ACHIEVEMENT_KILL_GREEMONG_TITLE,Disgusted,Nandidiri
 ACHIEVEMENT_KILL_BOO_TITLE,Boo,Bulaga
 ACHIEVEMENT_KILL_CARRIERBOMB_TITLE,Defuser,Tagasuri ng Bomba
-ACHIEVEMENT_KILL_LONGWANG_TITLE,Devillish,Maldito
+ACHIEVEMENT_KILL_LONGWANG_TITLE,Devilish,Maldito
 ACHIEVEMENT_KILL_HOPPRE_TITLE,Exterminator,Tagapuksa
 ACHIEVEMENT_KILL_MUSHPOIE_TITLE,Spore Collector,Kolektor ng Amag
 ACHIEVEMENT_KILL_IREN_TITLE,Bloodsucker,Bampira
@@ -760,14 +760,14 @@ ACHIEVEMENT_JUMP_NAME,Jump,Talon
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Tumalon ng ilang beses.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Master sa Talon
 ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Kabuuang Oras ng Paglalaro
-ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,Abutin ang itinakdang oras ng paglalaro para makakuha ng mga reward.
-ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,FlyFF Novice!
-ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,FlyFF Fan!
-ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,FlyFF Devotee!
-ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,FlyFF Enthusiast!
-ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,FlyFF Addict!
-ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,FlyFF Fanatic!
-ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,FlyFF Fanatic
+ACHIEVEMENT_PLAY_TIME_DESC,Play for a certain number of hours to earn rewards.,Abutin ang itinakdang oras ng paglalaro para makakuha ng mga reward.
+ACHIEVEMENT_PLAY_TIME_LVL1,Flyff Novice!,Flyff Novice!
+ACHIEVEMENT_PLAY_TIME_LVL2,Flyff Fan!,Flyff Fan!
+ACHIEVEMENT_PLAY_TIME_LVL3,Flyff Devotee!,Flyff Devotee!
+ACHIEVEMENT_PLAY_TIME_LVL4,Flyff Enthusiast!,Flyff Enthusiast!
+ACHIEVEMENT_PLAY_TIME_LVL5,Flyff Addict!,Flyff Addict!
+ACHIEVEMENT_PLAY_TIME_LVL6,Flyff Fanatic!,Flyff Fanatic!
+ACHIEVEMENT_PLAY_TIME_TITLE,Flyff Fanatic,Flyff Fanatic
 ACHIEVEMENT_LEVEL_NAME,Level,Level
 ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,Abutin ang partikular na level para makakuha ng mga reward.
 ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Baguhan Level 1
@@ -819,7 +819,7 @@ ACHIEVEMENT_USE_CHICKENSTICK_NAME,Chicken Stick,Chicken Stick
 ACHIEVEMENT_USE_CHICKENSTICK_DESC,"Eat 200,000 Chicken Sticks.","Kumain ng 200,000 Chicken Sticks."
 ACHIEVEMENT_USE_CHICKENSTICK_TITLE,Spicy,Spicy
 ACHIEVEMENT_USE_STARCANDY_NAME,Star Candy,Star Candy
-ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candys.","Kumain ng 200,000 Star Candys."
+ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candies.","Kumain ng 200,000 Star Candys."
 ACHIEVEMENT_USE_STARCANDY_TITLE,Starstruck,Starstruck
 ACHIEVEMENT_USE_MEATSKEWER_NAME,Meat Skewer,Meat Skewer
 ACHIEVEMENT_USE_MEATSKEWER_DESC,"Eat 200,000 Meat Skewers.","Kumain ng 200,000 Meat Skewers."
@@ -827,15 +827,15 @@ ACHIEVEMENT_USE_MEATSKEWER_TITLE,Carnivore,Carnivore
 ACHIEVEMENT_USE_BARBECUE_NAME,Barbecue,Barbecue
 ACHIEVEMENT_USE_BARBECUE_DESC,"Eat 200,000 Barbecues.","Kumain ng 200,000 Barbecues."
 ACHIEVEMENT_USE_BARBECUE_TITLE,Grillmaster,Grillmaster
-ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pan Cake,Seafood Pan Cake
-ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pan Cakes.","Kumain ng 200,000 Seafood Pan Cakes."
+ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pancake,Seafood Pancake
+ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pancakes.","Kumain ng 200,000 Seafood Pan Cakes."
 ACHIEVEMENT_USE_SEAFOODPANCAKE_TITLE,Surfer,Surfer
 ACHIEVEMENT_USE_FISHSOUP_NAME,Fish Soup,Fish Soup
 ACHIEVEMENT_USE_FISHSOUP_DESC,"Eat 200,000 Fish Soups.","Kumain ng 200,000 Fish Soups."
 ACHIEVEMENT_USE_FISHSOUP_TITLE,Catfish,Catfish
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_NAME,Sausage Casserole,Sausage Casserole
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_DESC,"Eat 200,000 Sausage Casseroles.","Kumain ng 200,000 Sausage Casseroles."
-ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage connoiseur,Sausage connoiseur
+ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage Connoisseur,Sausage Connoisseur
 ACHIEVEMENT_USE_FISHSTEW_NAME,Fish Stew,Fish Stew
 ACHIEVEMENT_USE_FISHSTEW_DESC,"Eat 200,000 Fish Stews.","Kumain ng 200,000 Fish Stews."
 ACHIEVEMENT_USE_FISHSTEW_TITLE,Stranded,Stranded
@@ -902,21 +902,21 @@ ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,Maliksi
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,Intelligence
 ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,Gawing 253 ang BASE INT.
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,Matalino
-ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Oras ng paglalaro araw-araw
-ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Play 10, 20, 30 and 40 minutes in the day to earn rewards. Reset at midnight.","Maglaro ng 10, 20, 30 at 40 minuto bawat araw para makakuha ng rewards. Nagre-reset tuwing hatinggabi."
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 mn,30 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 mn,40 min
-ACHIEVEMENT_CONNECTION_SERIES_NAME,Connection series,Sunod-sunod na Login
-ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in multiple days in a row to earn rewards. Reset at midnight.,Mag-log in nang magkakasunod na araw para makakuha ng rewards. Nagre-reset tuwing hatinggabi.
+ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,Oras ng paglalaro araw-araw
+ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.","Maglaro ng 10, 20, 30 at 40 minuto bawat araw para makakuha ng rewards. Nagre-reset tuwing hatinggabi."
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 min,10 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min,20 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min,30 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 min,40 min
+ACHIEVEMENT_CONNECTION_SERIES_NAME,Login Streak,Sunod-sunod na Login
+ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.,Mag-log in nang magkakasunod na araw para makakuha ng rewards. Nagre-reset tuwing hatinggabi.
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1,Ika 1 na Araw
 ACHIEVEMENT_CONNECTION_SERIES_LVL2,Day 2,Ika 2 na Araw
 ACHIEVEMENT_CONNECTION_SERIES_LVL3,Day 3,Ika 3 na Araw
 ACHIEVEMENT_CONNECTION_SERIES_LVL4,Day 4,Ika 4 na Araw
 ACHIEVEMENT_CONNECTION_SERIES_LVL5,Day 5,Ika 5 na Araw
-ACHIEVEMENT_TOTAL_CONNECTION_NAME,Total connection,Kabuuang Login
-ACHIEVEMENT_TOTAL_CONNECTION_DESC,Log in a certain number of times to earn rewards.,Mag-log in nang ilang beses para makakuha ng mga reward.
+ACHIEVEMENT_TOTAL_CONNECTION_NAME,Login Rewards,Kabuuang Login
+ACHIEVEMENT_TOTAL_CONNECTION_DESC,Unlock a reward for each day you log in.,Mag-log in nang ilang beses para makakuha ng mga reward.
 ACHIEVEMENT_TOTAL_CONNECTION_LVL1,Day 1,Ika 1 Araw
 ACHIEVEMENT_TOTAL_CONNECTION_LVL2,Day 2,Ika 2 Araw
 ACHIEVEMENT_TOTAL_CONNECTION_LVL3,Day 3,Ika 3 Araw
@@ -952,49 +952,49 @@ ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Alpha Tester Reward
 ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,Isang espesyal na reward para sa mga player na sumali sa FlyForFun.io Alpha Test noong 2019!
 ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Alpha Tester
 ACHIEVEMENT_BETA_TESTER_NAME,Beta Tester Reward,Beta Tester Reward
-ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached the level 40 in Flyff Project M!,Isang espesyal na reward para sa mga player na nakaabot ng level 40 sa Flyff Project M!
+ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached level 40 in Flyff Project M!,Isang espesyal na reward para sa mga player na nakaabot ng level 40 sa Flyff Project M!
 ACHIEVEMENT_BETA_TESTER_TITLE,Beta Tester,Beta Tester
 ACHIEVEMENT_HATCHING_EGG_NAME,Egg Hatcher,Egg Hatcher
-ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs. ,Mag-hatch ng 100 na egg.
+ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs.,Mag-hatch ng 100 na egg.
 ACHIEVEMENT_HATCHING_EGG_TITLE,Master Hatcher,Master Hatcher
 ACHIEVEMENT_FLYFFIPEDIA_NAME,Flyffipedia Creator,Flyffipedia Creator
-ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created the Flyffipedia. Thanks Swaight!,Isang espesyal na reward para sa player na gumawa ng Flyffipedia. Salamat Swaight!
+ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created Flyffipedia. Thanks Swaight!,Isang espesyal na reward para sa player na gumawa ng Flyffipedia. Salamat Swaight!
 ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyffipedia
 ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Translator Reward
-ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,Isang espesyal na reward para sa mga player na tumulong sa pag-translate ng laro.
+ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help translate the game.,Isang espesyal na reward para sa mga player na tumulong sa pag-translate ng laro.
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Tagasalin
 ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
-ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Tapusin ang unang Master Quest.
+ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest.,Tapusin ang unang Master Quest.
 ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Master 70 - 80
-ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Tapusin ang ikalawang Master Quest.
+ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest.,Tapusin ang ikalawang Master Quest.
 ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Master 80 - 90
-ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Tapusin ang ikatlong Master Quest.
+ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest.,Tapusin ang ikatlong Master Quest.
 ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Master 90 - 100
-ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Tapusin ang ikaapat na Master Quest.
+ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest.,Tapusin ang ikaapat na Master Quest.
 ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Master 100 - 110
-ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Tapusin ang ikalimang Master Quest.
+ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest.,Tapusin ang ikalimang Master Quest.
 ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Master 110 - 120
-ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Tapusin ang huling Master Quest.
+ACHIEVEMENT_MASTER110_DESC,Complete the final Master Quest.,Tapusin ang huling Master Quest.
 ACHIEVEMENT_MASTER120_NAME,Hero,Bayani
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Hero 120 - 125
-ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Tapusin ang Hero Quest.
+ACHIEVEMENT_MASTER120_DESC,Complete the first Hero Quest.,Tapusin ang Hero Quest.
 ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC Participant
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Umabot sa level 16 sa Flyff World Championship.
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,Umabot sa level 16 sa Flyff World Championship.
 ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC Contender
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the Flyff World Championship.,Umabot sa level 120 sa Flyff World Championship.
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,Umabot sa level 120 sa Flyff World Championship.
 ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC Arena 2nd
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the Flyff World Championship PvP Competition.,Pumangalawa sa Flyff World Championship PvP Competition.
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,Pumangalawa sa Flyff World Championship PvP Competition.
 ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC Arena 3rd
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the Flyff World Championship PvP Competition.,Pumangatlo sa Flyff World Championship PvP Competition.
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,Pumangatlo sa Flyff World Championship PvP Competition.
 ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC Arena Champion
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the Flyff World Championship PvP competition.,Manalo sa Flyff World Championship PvP competition.
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,Manalo sa Flyff World Championship PvP competition.
 ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC Colosseum Champion
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the Flyff World Championship PvE competition.,Manalo sa Flyff World Championship PvE competition.
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,Manalo sa Flyff World Championship PvE competition.
 ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC Colosseum 2nd
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the Flyff World Championship PvE Competition.,Pumangalawa sa Flyff World Championship PvE Competition.
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,Pumangalawa sa Flyff World Championship PvE Competition.
 ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC Colosseum 3rd
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the Flyff World Championship PvE Competition.,Pumangatlo sa Flyff World Championship PvE Competition.
-ACHIEVEMENT_ROULETTE_1,First connection,Unang login
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,Pumangatlo sa Flyff World Championship PvE Competition.
+ACHIEVEMENT_ROULETTE_1,First Daily Login,Unang login
 ACHIEVEMENT_ROULETTE_2,Play 2 hours,Maglaro ng 2 oras
 ACHIEVEMENT_ROULETTE_3,Play 4 hours,Maglaro ng 4 oras
 ACHIEVEMENT_ROULETTE_4,Play 6 hours,Maglaro ng 6 oras
@@ -1006,26 +1006,26 @@ ACHIEVEMENT_ROULETTE_9,Play 16 hours,Maglaro ng 16 oras
 ACHIEVEMENT_ROULETTE_10,Play 18 hours,Maglaro ng 18 oras
 ACHIEVEMENT_ROULETTE_11,Play 20 hours,Maglaro ng 20 oras
 ACHIEVEMENT_ROULETTE_12,Play 22 hours,Maglaro ng 22 oras
-ACHIEVEMENT_RETURNING_TITLE,Homecoming Attendance,Pagbabalik-Laro
-ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.,Hindi ka nag log in ng matagal na panahon! Mag-log in araw-araw at makatanggap ng gantimpala! Salamat sa iyong pagpapakita.
+ACHIEVEMENT_RETURNING_TITLE,Homecoming Daily Login,Pagbabalik-Laro
+ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day to receive rewards! Welcome back!,Hindi ka nag log in ng matagal na panahon! Mag-log in araw-araw at makatanggap ng gantimpala! Salamat sa iyong pagpapakita.
 ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,Nagwagi sa Rainbow Race
 ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,Isang natatanging gantimpala para sa mga nanalo sa Rainbow Race.
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Demonyo ng Bilis
 ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Kampeon ng Rainbow Race
-ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,Mga espesyal na gantimpala batay sa dami ng panalo mo sa Rainbow Race!
+ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow Race wins!,Mga espesyal na gantimpala batay sa dami ng panalo mo sa Rainbow Race!
 ACHIEVEMENT_MASTER110_TITLE,Master,Dalubhasa
-ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,Gumamit ng fCoin para makakuha ng karagdagang attendance rewards.
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Connection Pack
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,Mag-log in nang ilang beses upang makakuha ng premium na gantimpala.
+ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,Gumamit ng fCoin para makakuha ng karagdagang attendance rewards.
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,Bonus Login Rewards
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",Mag-log in nang ilang beses upang makakuha ng premium na gantimpala.
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC Baguhan
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC Mandirigma
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the Flyff World Championship.,Maabot ang level 60 sa Flyff World Championship.
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,Maabot ang level 60 sa Flyff World Championship.
 ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC Manlulupig
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Maabot ang level 100 sa Flyff World Championship.
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,Maabot ang level 100 sa Flyff World Championship.
 ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Dalubhasa
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Maabot ang level 160 sa Flyff World Championship.
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Maabot ang level 160 sa Flyff World Championship.
 ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Emperador
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Kumpletuhin ang lahat ng Gear Exchange sa Flyff World Championship.
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Kumpletuhin ang lahat ng Gear Exchange sa Flyff World Championship.
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Couple 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Solo Escape
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Couple 10
@@ -1046,22 +1046,22 @@ ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,Couple Duration 200
 ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,200 Araw ng Pagmamahalan
 ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,Couple Duration 365
 ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,365 Araw ng Pagmamahalan
-ACHIEVEMENT_COUPLE_DURATION_DESC,Maintain a couple with your partner for consecutive days.,Panatilihin ang pagiging couple ninyo sa loob ng magkakasunod na araw.
+ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,Panatilihin ang pagiging couple ninyo sa loob ng magkakasunod na araw.
 ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,Couple Skills
 ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,Mas Magaling Kapag Magkasama
-ACHIEVEMENT_COUPLE_SKILL_DESC,Use any couple skills.,Gumamit ng kahit anong couple skills.
+ACHIEVEMENT_COUPLE_SKILL_DESC,Use couple skills.,Gumamit ng kahit anong couple skills.
 ACHIEVEMENT_COUPLE_MOTION_01_NAME,Couple Motions 100,Couple Motions 100
 ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,Parang Tinapay at Mantikilya
 ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Motions 1000,Couple Motions 1000
 ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,Magkasing-isip ang Mahuhusay na Couple
 ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Motions 10000,Couple Motions 10000
 ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","Isang Isip, Isang Katawan"
-ACHIEVEMENT_COUPLE_MOTION_DESC,Use any couple motions.,Gumamit ng kahit anong couple motions.
+ACHIEVEMENT_COUPLE_MOTION_DESC,Use couple motions.,Gumamit ng kahit anong couple motions.
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,Malaking Tagumpay!
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,Nakuha ang Bonus
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE02,Bonus-full,Buong Bonus
-ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Do a great success for a lifestyle skill.,Makakuha ng great success sa isang lifestyle skill.
-ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Reach for the mastery points.,Maabot ang mastery points.
+ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Achieve a great success with a lifestyle skill.,Makakuha ng great success sa isang lifestyle skill.
+ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Earn mastery points.,Maabot ang mastery points.
 ACHIEVEMENT_LIFE_MASTERY_TITLE01,Lifestyle Beginner,Lifestyle Baguhan
 ACHIEVEMENT_LIFE_MASTERY_TITLE02,Lifestyle Newbie,Lifestyle Bagito
 ACHIEVEMENT_LIFE_MASTERY_TITLE03,Lifestyle Expert,Lifestyle Eksperto
@@ -1116,22 +1116,22 @@ ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Ekspertong Panday
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Master Smith
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Pataasin ang Smithing mastery mo.
 ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWC Arena Kampeon
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Manalo sa Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,Manalo sa Flyff World Championship 2024 PvP Competition.
 ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWC Arena Ikalawang Pwesto
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2024 PvP Competition.
 ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWC Arena Ikatlong Pwesto
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2024 PvP Competition.
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2024 PvP Competition.
 ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWC Arena Finalist
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Lumahok sa Flyff World Championship 2024 PvP Finals.
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,Lumahok sa Flyff World Championship 2024 PvP Finals.
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Hero 125 – 140
-ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Kumpletuhin ang ikalawang Hero Quest
+ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest.,Kumpletuhin ang ikalawang Hero Quest
 ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,Hero 140 – 160
-ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest,Kumpletuhin ang ikatlong Hero Quest
+ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest.,Kumpletuhin ang ikatlong Hero Quest
 ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Aguinaldo sa lahat ng Flyffers
-ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Mag-login kada araw ng 30 minuto at makakuha ng pabuya!
+ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Mag-login kada araw ng 30 minuto at makakuha ng pabuya!
 ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Paskong Pagsalakay
-ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Pagdalong Kaganapan
-ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Mag-login kada araw ng 40 minuto at makakuha ng pabuya!
+ACHIEVEMENT_ATTENDANCE_NAME,Playtime Event,Pagdalong Kaganapan
+ACHIEVEMENT_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Mag-login kada araw ng 40 minuto at makakuha ng pabuya!
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,Ika 1 na Araw
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,Ika 2 na Araw
 ACHIEVEMENT_ATTENDANCE_LVL3,Day 3,Ika 3 na Araw
@@ -1229,44 +1229,44 @@ ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Mangolekta ng 5 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Mangolekta ng 10 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Mangolekta ng 15 Easter Eggs
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Mangolekta ng 20 Easter Eggs
-ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,Ikatlong Anibersaryo Attendance
+ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,Ikatlong Anibersaryo Attendance
 ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWC Baguhan
 ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWC Brawler
 ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWC Mandirigma
 ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWC Tagapagligtas
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the Flyff World Championship.,Maabot ang level 140 sa Flyff World Championship.
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,Maabot ang level 140 sa Flyff World Championship.
 ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWC Overlord
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the Flyff World Championship.,Maabot ang level 150 sa Flyff World Championship.
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,Maabot ang level 150 sa Flyff World Championship.
 ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC Dalubhasa
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!,Gumamit ng karagdagang FWC attendance coupon upang makakuha ng mga gantimpala.\nMakukuha ang item sa pamamagitan ng 2025 FWC Championship Pass Free reward!
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,Gumamit ng karagdagang FWC attendance coupon upang makakuha ng mga gantimpala.\nMakukuha ang item sa pamamagitan ng 2025 FWC Championship Pass Free reward!
 ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Colosseum Kampeon
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Manalo sa Flyff World Championship 2025 PvE Competition.
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Manalo sa Flyff World Championship 2025 PvE Competition.
 ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC Colosseum Ikalawang Pwesto
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2025 PvE Competition.
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2025 PvE Competition.
 ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC Colosseum Ikatlong Pwesto
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2025 PvE Competition.
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2025 PvE Competition.
 ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC Colosseum Kalahok
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Lumahok sa Flyff World Championship 2025 PvE Competition.
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Lumahok sa Flyff World Championship 2025 PvE Competition.
 ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Arena Kampeon
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Manalo sa Flyff World Championship 2025 PvP Competition.
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Manalo sa Flyff World Championship 2025 PvP Competition.
 ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Arena Ikalawang Pwesto
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2025 PvP Competition.
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Makamit ang ikalawang pwesto sa Flyff World Championship 2025 PvP Competition.
 ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Arena Ikatlong Pwesto
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2025 PvP Competition.
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Makamit ang ikatlong pwesto sa Flyff World Championship 2025 PvP Competition.
 ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Arena Finalist
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Lumahok sa Flyff World Championship 2025 PvP Finals.
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Lumahok sa Flyff World Championship 2025 PvP Finals.
 ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Arena Kalahok
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvP Qualifications.,Lumahok sa Flyff World Championship 2025 PvP Qualifications.
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Lumahok sa Flyff World Championship 2025 PvP Qualifications.
 ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC High Roller
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,The honorable title awarded to the player who earned the most Champion Coins across all servers.,Marangal na titulo na iginagawad sa manlalarong nakakuha ng pinakamaraming Champion Coins sa lahat ng server.
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky streak,2025 FWC Lucky Streak
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.,Marangal na titulo na iginagawad sa manlalarong muntik nang makakuha ng pinakamaraming Champion Coins sa lahat ng server.
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,Marangal na titulo na iginagawad sa manlalarong nakakuha ng pinakamaraming Champion Coins sa lahat ng server.
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC Lucky Streak
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,Marangal na titulo na iginagawad sa manlalarong muntik nang makakuha ng pinakamaraming Champion Coins sa lahat ng server.
 ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Whale
-ACHIEVEMENT_FWC_2025_WHALE_DESC,The title awarded to the player who earned the most Champion Coins within their own server.,Titulong iginagawad sa manlalarong nakakuha ng pinakamaraming Champion Coins sa sariling server.
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,Titulong iginagawad sa manlalarong nakakuha ng pinakamaraming Champion Coins sa sariling server.
 ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC Ang Malas
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,Titulong iginagawad sa manlalarong gumastos ng maraming FWC Coins ngunit nakakuha ng pinakakaunting Champion Coins sa sariling server.
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,Titulong iginagawad sa manlalarong gumastos ng maraming FWC Coins ngunit nakakuha ng pinakakaunting Champion Coins sa sariling server.
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Partner Streamer
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,Titulong iginagawad sa mga partner streamer sa FWC 2025.
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Titulong iginagawad sa mga partner streamer sa FWC 2025.
 ACHIEVEMENT_UPGRADE_1,Upgrade +1,I-upgrade +1
 ACHIEVEMENT_UPGRADE_2,Upgrade +2,I-upgrade +2
 ACHIEVEMENT_UPGRADE_3,Upgrade +3,I-upgrade +3
@@ -1278,25 +1278,25 @@ ACHIEVEMENT_UPGRADE_8,Upgrade +8,I-upgrade +8
 ACHIEVEMENT_UPGRADE_9,Upgrade +9,I-upgrade +9
 ACHIEVEMENT_UPGRADE_10,Upgrade +10,I-upgrade +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 – 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Kumpletuhin ang ikaapat na Hero Quest
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,1.5 Update Attendance
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Mag-log in araw-araw nang 40 minuto at tumanggap ng mga gantimpala!
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Kumpletuhin ang ikaapat na Hero Quest
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Update Playtime Event
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Mag-log in araw-araw nang 40 minuto at tumanggap ng mga gantimpala!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Patungo sa Eillun
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Kumpletuhin ang mga pangunahing quest at kumita ng mga gantimpala sa panahon ng event!
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Kumpletuhin ang mga pangunahing quest at kumita ng mga gantimpala sa panahon ng event!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Mga Manggagawa ng Kaillun
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Kumpletuhin ang mga arawang quest sa Kaillun at kumita ng mga gantimpala sa panahon ng event!
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Kumpletuhin ang mga arawang quest sa Kaillun at kumita ng mga gantimpala sa panahon ng event!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Kumpletuhin ang Kaillun Daily Quests nang 10 beses.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Kumpletuhin ang Kaillun Daily Quests nang 20 beses.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Kumpletuhin ang Kaillun Daily Quests nang 30 beses.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Kumpletuhin ang Kaillun Daily Quests nang 45 beses.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Kumpletuhin ang Kaillun Daily Quests nang 60 beses.
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Pasukin ang Ankou's Asylum
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,Hamunin ang sarili sa isang bagong dungeon at talunin si Ankou upang makakuha ng mga gantimpala sa panahon ng event!
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,Hamunin ang sarili sa isang bagong dungeon at talunin si Ankou upang makakuha ng mga gantimpala sa panahon ng event!
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Talunin ang Ankou
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Talunin ang Nagliliyab na Ankou
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Talunin ang Demonyo na Ankou
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,I-synthesize ang Ultimate Jewels at kumita ng mga gantimpala sa panahon ng event!
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,I-synthesize ang Ultimate Jewels at kumita ng mga gantimpala sa panahon ng event!
 ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Ikaunang Espesyalista
 ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Ikalawang Espesyalista
 ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Ikatlong Espesyalista

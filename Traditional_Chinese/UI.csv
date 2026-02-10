@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,使用：%s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,無時間限制
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,再使用等候時間： %.2d：%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,復活確認
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,另一名玩家嘗試將你復活，要接受復活嗎?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,套裝效果
 UI_TOOLTIP_BLOCKRATE,Block,隔檔
 UI_OPTION_FIELDVIEW_AUTO,Auto,自動
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,消耗品
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,頭銜和徽章
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,活動
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,遊玩時間
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,連續登入
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,總登入次數
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,連續登入
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,總登入次數
 UI_ACHIEVEMENTS_DESCRIPTION,Description,說明
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,成就與你的帳號綁定
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,怪物擊殺：%s
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,沒有更多的物品可以交易！ 庫存為空！
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,獵殺小偷聖誕老人排名
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,保持在線 %s 分鐘
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,聖誕節出席
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,聖誕節出席
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,每天完成聖誕老人的任務！僅限聖誕節假期，所以不要錯過一天！
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,補抓小偷聖誕老人！
 UI_APP_LOTTERY_START,Spin!,轉！
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,And %d more
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click or Right Click to view content.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click to view content.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Premium total connection
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

@@ -1,4 +1,4 @@
-Key,English,Russian
+﻿Key,English,Russian
 ACHIEVEMENT_KILL_AIBATT_NAME,Aibatt,Сглаз
 ACHIEVEMENT_KILL_MUSHPANG_NAME,Mushpang,Сыробежка
 ACHIEVEMENT_KILL_BURUDENG_NAME,Burudeng,Жукорог
@@ -18,8 +18,8 @@ ACHIEVEMENT_KILL_MRPUMPKIN_NAME,Mr. Pumpkin,Мистер Тыквер
 ACHIEVEMENT_KILL_REDMANTIS_NAME,Redmantis,Красный богомол
 ACHIEVEMENT_KILL_ZENDROS_NAME,Zendros,Призор
 ACHIEVEMENT_KILL_JACKTHEHAMMER_NAME,Jack the Hammer,Кувалда Джек
-ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Gigglebox,Хохотун
-ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rockmuscle,Камнетавр
+ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Giggle Box,Хохотун
+ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rock Muscle,Камнетавр
 ACHIEVEMENT_KILL_BUCROW_NAME,Bucrow,Тавродемон
 ACHIEVEMENT_KILL_NEPARUBA_NAME,Neparuba,Комарище
 ACHIEVEMENT_KILL_HOBO_NAME,Hobo,Однорукий бандит
@@ -34,7 +34,7 @@ ACHIEVEMENT_KILL_PRANKSTER_NAME,Prankster,Проказник
 ACHIEVEMENT_KILL_ROCKEPELLER_NAME,Rockepeller,Пропеллац
 ACHIEVEMENT_KILL_WHEELEM_NAME,Wheelem,Ушатрон
 ACHIEVEMENT_KILL_LEYENA_NAME,Leyena,Лиена
-ACHIEVEMENT_KILL_TRANGFOMA_NAME,Tranfogma,Дезинфектор
+ACHIEVEMENT_KILL_TRANGFOMA_NAME,Trangfoma,Дезинфектор
 ACHIEVEMENT_KILL_STEAMWALKER_NAME,Steam Walker,Паровой ходок
 ACHIEVEMENT_KILL_STEELKNIGHT_NAME,Steel Knight,Стальной рыцарь
 ACHIEVEMENT_KILL_ZOMBIGER_NAME,Zombiger,Зомбойщик
@@ -301,7 +301,7 @@ ACHIEVEMENT_KILL_ZOMBIGER_LVL1,Zombiger Slayer 1,Истребитель Зомб
 ACHIEVEMENT_KILL_ZOMBIGER_LVL2,Zombiger Slayer 2,Истребитель Зомбойщиков 2
 ACHIEVEMENT_KILL_ZOMBIGER_LVL3,Zombiger Slayer 3,Истребитель Зомбойщиков 3
 ACHIEVEMENT_KILL_ZOMBIGER_LVL4,Zombiger Slayer 4,Истребитель Зомбойщиков 4
-ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Slayer Hunter,Охотник на Зомбойщиков
+ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Hunter,Охотник на Зомбойщиков
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL1,Nuttywheel Slayer 1,Истребитель Гайковертных Колес 1
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL2,Nuttywheel Slayer 2,Истребитель Гайковертных Колес 2
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL3,Nuttywheel Slayer 3,Истребитель Гайковертных Колес 3
@@ -647,7 +647,7 @@ ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,Охот�
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,Охотник на [Бог смерти] Демонических Анку 3
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,Охотник на [Бог смерти] Демонических Анку 4
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,Убийца [Бог смерти] Демонических Анку 
-ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to get a permanent damage bonus against them.,"Победите этих монстров, чтобы получить постоянный бонус к урону от них."
+ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,"Победите этих монстров, чтобы получить постоянный бонус к урону от них."
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,Гроза сглазов
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,Веселый парень
 ACHIEVEMENT_KILL_BURUDENG_TITLE,Horned,Рогатый
@@ -703,7 +703,7 @@ ACHIEVEMENT_KILL_SYLIACA_TITLE,Fisherman,Рыбак
 ACHIEVEMENT_KILL_GREEMONG_TITLE,Disgusted,Disgusted
 ACHIEVEMENT_KILL_BOO_TITLE,Boo,Вуу
 ACHIEVEMENT_KILL_CARRIERBOMB_TITLE,Defuser,Чувствующий отвращение
-ACHIEVEMENT_KILL_LONGWANG_TITLE,Devillish,Дьявольский
+ACHIEVEMENT_KILL_LONGWANG_TITLE,Devilish,Дьявольский
 ACHIEVEMENT_KILL_HOPPRE_TITLE,Exterminator,Истребитель
 ACHIEVEMENT_KILL_MUSHPOIE_TITLE,Spore Collector,Сборщик спор
 ACHIEVEMENT_KILL_IREN_TITLE,Bloodsucker,Кровосос
@@ -760,14 +760,14 @@ ACHIEVEMENT_JUMP_NAME,Jump,Попрыгунчик
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Подпрыгнуть нужное число раз.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Попрыгунчик
 ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Общее время воспроизведения
-ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,"Наберите определенное игровое время (часы), чтобы заработать награды."
-ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,FlyFF Новичок!
-ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,FlyFF Фанат!
-ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,FlyFF Приверженец!
-ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,FlyFF Энтузиаст!
-ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,FlyFF Наркоман!
-ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,FlyFF Фанатик!
-ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,FlyFF Фанатик
+ACHIEVEMENT_PLAY_TIME_DESC,Play for a certain number of hours to earn rewards.,"Наберите определенное игровое время (часы), чтобы заработать награды."
+ACHIEVEMENT_PLAY_TIME_LVL1,Flyff Novice!,FlyFF Новичок!
+ACHIEVEMENT_PLAY_TIME_LVL2,Flyff Fan!,FlyFF Фанат!
+ACHIEVEMENT_PLAY_TIME_LVL3,Flyff Devotee!,FlyFF Приверженец!
+ACHIEVEMENT_PLAY_TIME_LVL4,Flyff Enthusiast!,FlyFF Энтузиаст!
+ACHIEVEMENT_PLAY_TIME_LVL5,Flyff Addict!,FlyFF Наркоман!
+ACHIEVEMENT_PLAY_TIME_LVL6,Flyff Fanatic!,FlyFF Фанатик!
+ACHIEVEMENT_PLAY_TIME_TITLE,Flyff Fanatic,FlyFF Фанатик
 ACHIEVEMENT_LEVEL_NAME,Level,Уровень
 ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,Достигните определенного уровня в получении наград.
 ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Новичок уровень 1
@@ -819,7 +819,7 @@ ACHIEVEMENT_USE_CHICKENSTICK_NAME,Chicken Stick,Куриная ножка
 ACHIEVEMENT_USE_CHICKENSTICK_DESC,"Eat 200,000 Chicken Sticks.",Съесть 200.000 куриных ножек.
 ACHIEVEMENT_USE_CHICKENSTICK_TITLE,Spicy,Острый
 ACHIEVEMENT_USE_STARCANDY_NAME,Star Candy,Сладкая звездочка
-ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candys.",Съесть 200.000 сладких звёздочек.
+ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candies.",Съесть 200.000 сладких звёздочек.
 ACHIEVEMENT_USE_STARCANDY_TITLE,Starstruck,Пораженный звездой
 ACHIEVEMENT_USE_MEATSKEWER_NAME,Meat Skewer,Шашлычок
 ACHIEVEMENT_USE_MEATSKEWER_DESC,"Eat 200,000 Meat Skewers.",Съесть 200.000 шашлычков.
@@ -827,15 +827,15 @@ ACHIEVEMENT_USE_MEATSKEWER_TITLE,Carnivore,Плотоядное животное
 ACHIEVEMENT_USE_BARBECUE_NAME,Barbecue,Барбекю
 ACHIEVEMENT_USE_BARBECUE_DESC,"Eat 200,000 Barbecues.",Съесть 200.000 барбекю.
 ACHIEVEMENT_USE_BARBECUE_TITLE,Grillmaster,Мастер приготовления на гриле
-ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pan Cake,Морепродукты
-ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pan Cakes.",Съесть 200.000 порций морепродуктов.
+ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pancake,Морепродукты
+ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pancakes.",Съесть 200.000 порций морепродуктов.
 ACHIEVEMENT_USE_SEAFOODPANCAKE_TITLE,Surfer,Серфер
 ACHIEVEMENT_USE_FISHSOUP_NAME,Fish Soup,Уха
 ACHIEVEMENT_USE_FISHSOUP_DESC,"Eat 200,000 Fish Soups.",Съесть 200.000 тарелок ухи.
 ACHIEVEMENT_USE_FISHSOUP_TITLE,Catfish,Сом
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_NAME,Sausage Casserole,Сосиски
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_DESC,"Eat 200,000 Sausage Casseroles.",Съесть 200.000 сосисок.
-ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage connoiseur,Любитель сосисок
+ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage Connoisseur,Любитель сосисок
 ACHIEVEMENT_USE_FISHSTEW_NAME,Fish Stew,Рыбная похлебка
 ACHIEVEMENT_USE_FISHSTEW_DESC,"Eat 200,000 Fish Stews.",Съесть 200.000 тарелок рыбной похлёбки.
 ACHIEVEMENT_USE_FISHSTEW_TITLE,Stranded,Скрученный
@@ -902,21 +902,21 @@ ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,Проворный
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,Интеллект
 ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,Получить 253 базовых очков ИНТ.
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,Шалфей
-ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Ежедневное игровое время
-ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Play 10, 20, 30 and 40 minutes in the day to earn rewards. Reset at midnight.","Играйте 10, 20, 30 или 40 минут в течение дня в получайте награды. Сброс в полночь."
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 мин
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 мин
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 mn,30 мин
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 mn,40 мин
-ACHIEVEMENT_CONNECTION_SERIES_NAME,Connection series,Серия заходов в игру
-ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in multiple days in a row to earn rewards. Reset at midnight.,Заходите несколько дней подряд в получайте награды. Сброс в полночь.
+ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,Ежедневное игровое время
+ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.","Играйте 10, 20, 30 или 40 минут в течение дня в получайте награды. Сброс в полночь."
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 min,10 мин
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min,20 мин
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min,30 мин
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 min,40 мин
+ACHIEVEMENT_CONNECTION_SERIES_NAME,Login Streak,Серия заходов в игру
+ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.,Заходите несколько дней подряд в получайте награды. Сброс в полночь.
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1,День 1
 ACHIEVEMENT_CONNECTION_SERIES_LVL2,Day 2,День 2
 ACHIEVEMENT_CONNECTION_SERIES_LVL3,Day 3,День 3
 ACHIEVEMENT_CONNECTION_SERIES_LVL4,Day 4,День 4
 ACHIEVEMENT_CONNECTION_SERIES_LVL5,Day 5,День 5
-ACHIEVEMENT_TOTAL_CONNECTION_NAME,Total connection,Полное соединение
-ACHIEVEMENT_TOTAL_CONNECTION_DESC,Log in a certain number of times to earn rewards.,Зайдите определенное количество раз и получайте награды.
+ACHIEVEMENT_TOTAL_CONNECTION_NAME,Login Rewards,Полное соединение
+ACHIEVEMENT_TOTAL_CONNECTION_DESC,Unlock a reward for each day you log in.,Зайдите определенное количество раз и получайте награды.
 ACHIEVEMENT_TOTAL_CONNECTION_LVL1,Day 1,День 1
 ACHIEVEMENT_TOTAL_CONNECTION_LVL2,Day 2,День 2
 ACHIEVEMENT_TOTAL_CONNECTION_LVL3,Day 3,День 3
@@ -952,49 +952,49 @@ ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Награда альфа-те
 ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,"Уникальная награда для игроков, принявших участие в FlyForFun.io Альфа-тест в 2019 году!"
 ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Альфа-тестер
 ACHIEVEMENT_BETA_TESTER_NAME,Beta Tester Reward,Награда бета-тестера
-ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached the level 40 in Flyff Project M!,"Уникальная награда для игроков, достигших 40-го уровня в Flyff Project M!"
+ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached level 40 in Flyff Project M!,"Уникальная награда для игроков, достигших 40-го уровня в Flyff Project M!"
 ACHIEVEMENT_BETA_TESTER_TITLE,Beta Tester,Бета-тестер
 ACHIEVEMENT_HATCHING_EGG_NAME,Egg Hatcher,Устройство для выведения яиц
 ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs.,Высиживает 100 яиц.
 ACHIEVEMENT_HATCHING_EGG_TITLE,Master Hatcher,Мастер Инкубатор
 ACHIEVEMENT_FLYFFIPEDIA_NAME,Flyffipedia Creator,Создатель Flyffipedia
-ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created the Flyffipedia. Thanks Swaight!,"Уникальная награда для игрока, создавшего Flyffipedia. Спасибо Swaight!"
+ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created Flyffipedia. Thanks Swaight!,"Уникальная награда для игрока, создавшего Flyffipedia. Спасибо Swaight!"
 ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyffipedia
 ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Вознаграждение переводчика
-ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,"Уникальная награда для игроков, которые помогают создавать переводы игр."
+ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help translate the game.,"Уникальная награда для игроков, которые помогают создавать переводы игр."
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Переводчик
 ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Мастер 60 - 70
-ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Завершите первый Мастер Квест
+ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest.,Завершите первый Мастер Квест
 ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Мастер 70 - 80
-ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Завершите второй Мастер Квест
+ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest.,Завершите второй Мастер Квест
 ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Мастер 80 - 90
-ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Завершите третий Мастер Квест
+ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest.,Завершите третий Мастер Квест
 ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Мастер 90 - 100
-ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Завершите четвертый Мастер Квест
+ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest.,Завершите четвертый Мастер Квест
 ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Мастер 100 - 110
-ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Завершите пятый Мастер Квест
+ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest.,Завершите пятый Мастер Квест
 ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Мастер 110 - 120
-ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Завершите последний Мастер Квест
+ACHIEVEMENT_MASTER110_DESC,Complete the final Master Quest.,Завершите последний Мастер Квест
 ACHIEVEMENT_MASTER120_NAME,Hero,Герой
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Герой 120 - 125
-ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Завершите Герой Квест
+ACHIEVEMENT_MASTER120_DESC,Complete the first Hero Quest.,Завершите Герой Квест
 ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC Участник
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Достигните уровня 16 в Flyff Мировом чемпионате.
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,Достигните уровня 16 в Flyff Мировом чемпионате.
 ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC Contender
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the Flyff World Championship.,Достигните уровня 120 в Flyff Мировом чемпионате.
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,Достигните уровня 120 в Flyff Мировом чемпионате.
 ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,FWC Арена 2 место
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the Flyff World Championship PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом чемпионате.
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом чемпионате.
 ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,FWC Арена 3 место
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the Flyff World Championship PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом чемпионате.
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом чемпионате.
 ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,FWC Арена Чемпион
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the Flyff World Championship PvP competition.,Выиграйте PvP Flyff Мировой чемпионат.
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,Выиграйте PvP Flyff Мировой чемпионат.
 ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,FWC Колизей Чемпион
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the Flyff World Championship PvE competition.,Выиграйте PvE Flyff Flyff Мировой чемпионат.
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,Выиграйте PvE Flyff Flyff Мировой чемпионат.
 ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,FWC Колизей 2 место
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the Flyff World Championship PvE Competition.,Получите второе место в PvE-соревновании Flyff Мировом чемпионате.
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,Получите второе место в PvE-соревновании Flyff Мировом чемпионате.
 ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,FWC Колизей 3 место
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the Flyff World Championship PvE Competition.,Получите третье место в PvE-соревновании Flyff Мировом чемпионате.
-ACHIEVEMENT_ROULETTE_1,First connection,Первое подключение
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,Получите третье место в PvE-соревновании Flyff Мировом чемпионате.
+ACHIEVEMENT_ROULETTE_1,First Daily Login,Первое подключение
 ACHIEVEMENT_ROULETTE_2,Play 2 hours,Играйте 2 часа
 ACHIEVEMENT_ROULETTE_3,Play 4 hours,Играйте 4 часа
 ACHIEVEMENT_ROULETTE_4,Play 6 hours,Играйте 6 часа
@@ -1006,26 +1006,26 @@ ACHIEVEMENT_ROULETTE_9,Play 16 hours,Играйте 16 часа
 ACHIEVEMENT_ROULETTE_10,Play 18 hours,Играйте 18 часа
 ACHIEVEMENT_ROULETTE_11,Play 20 hours,Играйте 20 часа
 ACHIEVEMENT_ROULETTE_12,Play 22 hours,Играйте 22 часа
-ACHIEVEMENT_RETURNING_TITLE,Homecoming Attendance,Посещение встречи выпускников
-ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.,Вы давно не заходили на сайт! Заходите каждый день и получайте награды! Спасибо за ваше присутствие.
+ACHIEVEMENT_RETURNING_TITLE,Homecoming Daily Login,Посещение встречи выпускников
+ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day to receive rewards! Welcome back!,Вы давно не заходили на сайт! Заходите каждый день и получайте награды! Спасибо за ваше присутствие.
 ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,Победитель радужной гонки
 ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,"Уникальная награда для тех, кто выиграет Радужную гонку."
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Демон скорости
 ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Чемпион радужных гонок
-ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,"Уникальные награды зависят от того, сколько побед в Радужный гонки вы сможете одержать!"
+ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow Race wins!,"Уникальные награды зависят от того, сколько побед в Радужный гонки вы сможете одержать!"
 ACHIEVEMENT_MASTER110_TITLE,Master,Лидер
-ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,"Используйте FCoin, чтобы заработать дополнительные награды за посещаемость."
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Комплект подключений
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,Регистрируйтесь определенное количество раз в получайте премиальные вознаграждения.
+ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,"Используйте FCoin, чтобы заработать дополнительные награды за посещаемость."
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,Комплект подключений
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",Регистрируйтесь определенное количество раз в получайте премиальные вознаграждения.
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC Новичок
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC Участник боевых действий
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the Flyff World Championship.,Достигни 60-го уровня в чемпионате мира по Flyff .
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,Достигни 60-го уровня в чемпионате мира по Flyff .
 ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC Победитель
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Достигни 100-го уровня в чемпионате мира по Flyff .
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,Достигни 100-го уровня в чемпионате мира по Flyff .
 ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Мастер
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Достигни 160-го уровня в чемпионате мира по Flyff .
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Достигни 160-го уровня в чемпионате мира по Flyff .
 ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Император
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Обеспечьте обмен всем снаряжением на чемпионате мира Flyff.
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Обеспечьте обмен всем снаряжением на чемпионате мира Flyff.
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Пара 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Побег в одиночку
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Пара 10
@@ -1046,22 +1046,22 @@ ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,Продолжитель
 ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,200 дней любви
 ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,Продолжительность пары 365 дней
 ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,365 дней любви
-ACHIEVEMENT_COUPLE_DURATION_DESC,Maintain a couple with your partner for consecutive days.,Поддерживайте связь со своим партнером в течение нескольких дней подряд.
+ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,Поддерживайте связь со своим партнером в течение нескольких дней подряд.
 ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,Навыки работы в паре
 ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,Лучше быть вместе
-ACHIEVEMENT_COUPLE_SKILL_DESC,Use any couple skills.,Используйте любые навыки пары.
+ACHIEVEMENT_COUPLE_SKILL_DESC,Use couple skills.,Используйте любые навыки пары.
 ACHIEVEMENT_COUPLE_MOTION_01_NAME,Couple Motions 100,Парные движения 100
 ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,Как хлеб с маслом
 ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Motions 1000,Парные движения 1000
 ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,Великие пары мыслят одинаково
 ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Motions 10000,Парные движения 10000
 ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","Один Разум, Одно Тело"
-ACHIEVEMENT_COUPLE_MOTION_DESC,Use any couple motions.,Используйте любую пару скилов.
+ACHIEVEMENT_COUPLE_MOTION_DESC,Use couple motions.,Используйте любую пару скилов.
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,Большой успех!
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,Полученный бонус
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE02,Bonus-full,Бонус-полный
-ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Do a great success for a lifestyle skill.,Добейтесь большого успеха благодаря жизненному навыку.
-ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Reach for the mastery points.,Набирайте очки мастерства.
+ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_DESC,Achieve a great success with a lifestyle skill.,Добейтесь большого успеха благодаря жизненному навыку.
+ACHIEVEMENT_LIFE_MASTERY_POINTS_NAME,Earn mastery points.,Набирайте очки мастерства.
 ACHIEVEMENT_LIFE_MASTERY_TITLE01,Lifestyle Beginner,Образ жизни Начинающий
 ACHIEVEMENT_LIFE_MASTERY_TITLE02,Lifestyle Newbie,Образ жизни Новичок
 ACHIEVEMENT_LIFE_MASTERY_TITLE03,Lifestyle Expert,Образ жизни Эксперт
@@ -1116,22 +1116,22 @@ ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Эксперт Кузнец
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Мастер Кузнец
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Повысьте свое мастерство в кузнечном деле.
 ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,2024 FWC Арена Чемпион
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Выиграйте Flyff Мировой Чемпионат 2024 PvP.
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,Выиграйте Flyff Мировой Чемпионат 2024 PvP.
 ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2024 FWC Арена 2 место
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом Чемпионате 2024.
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом Чемпионате 2024.
 ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,2024 FWC Арена 3 место
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом Чемпионате 2024.
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом Чемпионате 2024.
 ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,2024 FWC Арена Финалист
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Участвуйте в PvP-финале Чемпионата Мира Flyff 2024.
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,Участвуйте в PvP-финале Чемпионата Мира Flyff 2024.
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Герой 125 - 140
-ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Завершите второй героический квест
+ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest.,Завершите второй героический квест
 ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,Герой 140 - 160
-ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest,Завершите третий героический квест
+ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest.,Завершите третий героический квест
 ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Рождественский подарок для всех любителей флуфа
-ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Входите в систему каждый день на 30 минут и получайте награды!
+ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Входите в систему каждый день на 30 минут и получайте награды!
 ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Рождественское вторжение
-ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Мероприятие по посещению
-ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Входите в систему каждый день на 40 минут и получайте награды!
+ACHIEVEMENT_ATTENDANCE_NAME,Playtime Event,Мероприятие по посещению
+ACHIEVEMENT_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Входите в систему каждый день на 40 минут и получайте награды!
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,День 1
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,День 2
 ACHIEVEMENT_ATTENDANCE_LVL3,Day 3,День 3
@@ -1229,44 +1229,44 @@ ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Соберите 5 пасхаль�
 ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Соберите 10 пасхальных яиц
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Соберите 15 пасхальных яиц
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Соберите 20 пасхальных яиц
-ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,участие в 3-й годовщине
+ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,участие в 3-й годовщине
 ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWC Новичок
 ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWC Скандалист
 ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWC Воин
 ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWC Спаситель
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the Flyff World Championship.,Достигни 140-го уровня на чемпионате мира Flyff 
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,Достигни 140-го уровня на чемпионате мира Flyff 
 ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWC Повелитель
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the Flyff World Championship.,Достигни 150-го уровня на чемпионате мира Flyff 
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,Достигни 150-го уровня на чемпионате мира Flyff 
 ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC Мастер
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!,Воспользуйтесь дополнительным купоном на посещение FWC и получайте награды.\Вы можете получить этот предмет в качестве бесплатной награды за участие в чемпионате FWC 2025!
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,Воспользуйтесь дополнительным купоном на посещение FWC и получайте награды.\Вы можете получить этот предмет в качестве бесплатной награды за участие в чемпионате FWC 2025!
 ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Чемпион Колизея
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Участвуйте в PvE-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Участвуйте в PvE-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC второе место Колизии
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Получите второе место в PvE-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Получите второе место в PvE-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC третье место Колизии
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Получите третье место в PvE-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Получите третье место в PvE-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,Участник FWC Колизия в 2025 году
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Примите участие в PvE-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Примите участие в PvE-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Арена Чемпион
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Выигарйте PvP-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Выигарйте PvP-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Арена 2 место
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Получите второе место в PvP-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Арена 3 место
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом Чемпионате 2025.
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Получите третье место в PvP-соревновании Flyff Мировом Чемпионате 2025.
 ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Арена Финалист
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Участвуйте в Flyff Мировом Чемпионате 2025 PvP Финале.
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Участвуйте в Flyff Мировом Чемпионате 2025 PvP Финале.
 ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Арена участник
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvP Qualifications.,Участвуйте в PvP-квалификации чемпионата мира Flyff 2025.
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Участвуйте в PvP-квалификации чемпионата мира Flyff 2025.
 ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 Хай-роллер FWC
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,The honorable title awarded to the player who earned the most Champion Coins across all servers.,"Почетное звание присуждается игроку, заработавшему наибольшее количество монет чемпионата на всех серверах."
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky streak,Счастливая полоса FWC 2025 года
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.,"Почетное звание присуждается в игроку, который заработал почти наибольшее количество Чемп-монет на всех серверах."
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,"Почетное звание присуждается игроку, заработавшему наибольшее количество монет чемпионата на всех серверах."
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,Счастливая полоса FWC 2025 года
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,"Почетное звание присуждается в игроку, который заработал почти наибольшее количество Чемп-монет на всех серверах."
 ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Кит
-ACHIEVEMENT_FWC_2025_WHALE_DESC,The title awarded to the player who earned the most Champion Coins within their own server.,"Титул присуждается игроку, заработавшему наибольшее количество монет чемпионата на своем собственном сервере."
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,"Титул присуждается игроку, заработавшему наибольшее количество монет чемпионата на своем собственном сервере."
 ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC Невезучий
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,"Титул присуждался игроку, потратившему много монет FWC, но заработавшему наименьшее количество монет чемпионата на своем собственном сервере."
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,"Титул присуждался игроку, потратившему много монет FWC, но заработавшему наименьшее количество монет чемпионата на своем собственном сервере."
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Partner Streamer
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,Этот титул был присвоен стримерам-партнерам во время FWC 2025.
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Этот титул был присвоен стримерам-партнерам во время FWC 2025.
 ACHIEVEMENT_UPGRADE_1,Upgrade +1,Улучшите +1
 ACHIEVEMENT_UPGRADE_2,Upgrade +2,Улучшите +2
 ACHIEVEMENT_UPGRADE_3,Upgrade +3,Улучшите +3
@@ -1278,25 +1278,25 @@ ACHIEVEMENT_UPGRADE_8,Upgrade +8,Улучшите +8
 ACHIEVEMENT_UPGRADE_9,Upgrade +9,Улучшите +9
 ACHIEVEMENT_UPGRADE_10,Upgrade +10,Улучшите +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Герой 160 - 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Завершите четвертое задание героя
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,1.5 Обновление посещаемости
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Входите в систему каждый день на 40 минут и получайте награды!
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Завершите четвертое задание героя
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Обновление посещаемости
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Входите в систему каждый день на 40 минут и получайте награды!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,В Эйллун
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Выполняйте основные задания и получайте награды во время мероприятия!
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Выполняйте основные задания и получайте награды во время мероприятия!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Рабочие Кайллуна
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Выполняйте ежедневные задания в Кайлуне и получайте награды во время мероприятия!
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Выполняйте ежедневные задания в Кайлуне и получайте награды во время мероприятия!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Выполняйте ежедневные задания Кайлун 10 раз.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Выполняйте ежедневные задания Кайлун 20 раз.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Выполняйте ежедневные задания Кайлун 30раз.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Выполняйте ежедневные задания Кайлун 45 раз.
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Выполняйте ежедневные задания Кайлун 60 раз.
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Воспользуйся убежищем Анку
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,"Испытайте себя в новом подземелье, победите Анку и зарабатывайте награды во время турнира!"
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,"Испытайте себя в новом подземелье, победите Анку и зарабатывайте награды во время турнира!"
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Победите Анку
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Победите Пылающего Анку
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Победите демонического Анку
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Окончательное событие по синтезу драгоценных камней
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Собирайте уникальные драгоценности и получайте награды во время мероприятия!
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,Собирайте уникальные драгоценности и получайте награды во время мероприятия!
 ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Специалист 1-го уровня
 ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Специалист 2-го уровня
 ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Специалист 3-го уровня

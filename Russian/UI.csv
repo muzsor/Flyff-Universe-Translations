@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Use: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Без ограничений
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,След. использование: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Resurrection Confirm
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Another player is trying to resurrect you. Do you want to be resurrected?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Бонус комплекта
 UI_TOOLTIP_BLOCKRATE,Block,Block
 UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consumables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Play time
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Серия заходов в игру
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Total connection
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Серия заходов в игру
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Login Rewards
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,This achievement is bound to your account.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster(s) to kill: %s.
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,There are no more items to trade! Stock is empty!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Thief Santa Hunt Ranking
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Stay online %s minutes
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Christmas Attendance
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Christmas Daily Quests
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Catch the Thief Santa!
 UI_APP_LOTTERY_START,Spin!,Spin!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,And %d more
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click or Right Click to view content.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click to view content.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Premium total connection
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

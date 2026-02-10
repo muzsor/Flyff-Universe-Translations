@@ -1,5 +1,5 @@
 ﻿Key,English,German
-TEXTCLIENT_CONNECTING,Connecting. Please wait.,Gib niemals dein Passwort weiter!\nVerbinde. Viel Spaß beim Spielen.
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,Verbindungsaufbau. Bitte warten.
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Verbindung mit dem Spiel nicht möglich. \nBitte überprüfe dein Netzwerkverbindung.
 TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Veraltete Version des Programms. Bitte schließ diese Seite und öffne sie erneut.
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Falsche Serverbezeichnung.
@@ -81,8 +81,8 @@ TEXTCLIENT_SPEED_FAST,Fast,Schnell
 TEXTCLIENT_SPEED_VERYFAST,Very fast,Sehr schnell
 TEXTCLIENT_SPEED_FASTEST,Fastest,Schnellster
 TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s gehört zur Zeit einem anderen Spieler. Warte bitte.
-TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Dein Inventar ist voll.
-TEXTCLIENT_REAPITEM,You received %s.,%s erhalten.
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Dein Inventar ist voll. Bitte mach Platz und versuche es erneut.
+TEXTCLIENT_REAPITEM,You received %s.,Du hast %s erhalten.
 TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Du hast %s +%d erhalten.
 TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s hat %s bekommen.
 TEXTCLIENT_APP_INVENTORY,Inventory,Inventar
@@ -91,7 +91,7 @@ TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s ist nicht für dein Geschlech
 TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Du kannst %s nicht ausrüsten. Voraussetzungen nicht erfüllt.
 TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Du kannst diesen Gegenstand nicht ausrüsten weil dein Level zu niedrig ist. (Benötigtes Level: %d)
 TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,"Dieses Item kann weder gelöscht, noch auf den Boden geworfen werden. "
-TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,Sie nutzen dieses Item bereits.
 TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Anzahl %s gelöscht: %d.
 TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Kein Angriff möglich, kein Monster ausgewählt."
 TEXTCLIENT_NOTUSE,You cannot use this yet.,Du kannst das jetzt nicht benutzen.
@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Du hast eine neue Att
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,"Du hast nicht das Recht, diesen Skill zu verwenden."
 TEXTCLIENT_REQFP,Not enough FP.,Nicht genug FP.
 TEXTCLIENT_REQMP,Not enough MP.,Nicht genug MP.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,Nicht genug HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Du kannst wegen eines Hindernisses nicht angreifen.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s Fähigkeitslevel %d wird benötigt.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s Fähigkeitslevel wurde erhöht.
@@ -709,8 +709,8 @@ TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Dein Pet wurde bereits be
 TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Charaktere mit Karma können nicht fliegen.
 TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Information] Dies ist nur ein Test! Der Server wird in %s geschlossen und alle Charaktere werden gelöscht.
 TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Notiz] Dies ist der Early Access! Serverstabilitätsprobleme und Bugs können auftreten.
-TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Cheer Level gestiegen]
-TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,[Notiz] Ein Game Master (GM) oder Moderator (MOD) wird niemals nach deinem Passwort fragen.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Notiz] Ein Game Master (GM) oder Moderator (MOD) wird niemals nach deinem Passwort fragen.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Notiz] Verleihe deine Gegenstände nicht und lasse sie dir auch nicht von anderen Spielern leihen. Wenn sie dir den Gegenstand nicht zurückgeben, ist er für immer verloren."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Das Ziel ist außerhalb deiner Reichweite.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s verfällt in einen Blutrausch!
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s wird zum Berserker!
@@ -1215,12 +1215,12 @@ TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assa
 TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
 TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
 TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
-TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,"Du kannst Blinkwings nicht benutzen, um dem Kalgas Assault zu entkommen."
 TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
-TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
-TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,Du verwendest in diesem Spiel bereits Silbermünzen.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,Sie benötigen eine Silbermünze.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,Sie benötigen Goldmünzen.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Nicht genug Goldmünzen.
 TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
 TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
@@ -1242,11 +1242,11 @@ TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has 
 TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
 TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
 TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
-TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,Du bist kein Mitglied eines Teams.
 TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
 TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
-TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
-TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,Du hast %dx %s erhalten.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,%dx %s erhalten
 TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
 TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
 TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
@@ -1256,9 +1256,9 @@ TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You m
 TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
 TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
 TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
-TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
-TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
-TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Ihr Konto wurde erfolgreich gelöscht.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Ihr Passwort ist ungültig.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Nicht genug %s.
 TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
@@ -1268,7 +1268,7 @@ TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coup
 TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
 TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
 TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
-TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,Während des Kampfes ist kein Handel möglich.
 TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
 TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
@@ -1303,7 +1303,7 @@ TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You
 TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
 TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
 TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
-TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,"Du kannst Blinkwings nicht benutzen, um dem Madrigal Tournament zu entkommen."
 TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
 TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
 TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
@@ -1422,7 +1422,7 @@ TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s p
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
 TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
-TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,Du hast nicht genügend Zutaten.
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
@@ -1431,7 +1431,7 @@ TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d em
 TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
 TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
 TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
-TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Nicht genug bait.
 TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
 TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
@@ -1500,7 +1500,7 @@ TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
 TEXTCLIENT_APP_ACCOUNT,Account,Account
-TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,Du benötigst %d %s.
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Gegenstand durch die Niederlage zerstört.
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
 TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Rotes Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blaues Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Grünes Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Gelbes Team
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
@@ -1542,3 +1542,8 @@ TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because y
 TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.

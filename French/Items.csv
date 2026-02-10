@@ -2220,7 +2220,7 @@ PROPITEM_TXT_004220,Meat Skewer,Brochette de viande
 PROPITEM_TXT_004221,Recovers 120 HP,Aliment régénérant 120 PV
 PROPITEM_TXT_004222,Barbecue,Barbecue
 PROPITEM_TXT_004223,Recovers 160 HP,Aliment régénérant 160 PV
-PROPITEM_TXT_004224,Seafood Pan Cake,Fruits de mer
+PROPITEM_TXT_004224,Seafood Pancake,Fruits de mer
 PROPITEM_TXT_004225,Recovers 230 HP,Aliment régénérant 230 PV
 PROPITEM_TXT_004226,Fish Soup,Soupe de poisson
 PROPITEM_TXT_004227,Recovers 300 HP,Aliment régénérant 300 PV
@@ -2797,7 +2797,7 @@ PROPITEM_TXT_004897,Quest item that drops from Jack the Hammer.,Perle rare incru
 PROPITEM_TXT_004898,Gigglande,Giggem
 PROPITEM_TXT_004899,Quest item that drops from Giggle Box.,Gemme gardée précieusement par les Gigglebox.
 PROPITEM_TXT_004900,Crescent Stone,Pierre de Lune
-PROPITEM_TXT_004901,Quest item that drops from Rockmuscle.,Une pierre créée à partir du clair de lune.
+PROPITEM_TXT_004901,Quest item that drops from Rock Muscle.,Une pierre créée à partir du clair de lune.
 PROPITEM_TXT_004902,Boband,Bobande
 PROPITEM_TXT_004903,Quest item that drops from Hobo.,Cache-oeil d'Hobo.
 PROPITEM_TXT_004904,Dumbling,Anneau de Bull
@@ -7188,7 +7188,7 @@ PROPITEM_TXT_010959,This box contains the Cyber Punk Set for female characters.,
 PROPITEM_TXT_100697,Baby Peakyturtle,Bébé ramasseur Peakyturtle
 PROPITEM_TXT_100698,"A cute and fast, baby, Peakyturtle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Peakyturtle qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
 PROPITEM_TXT_100699,Baby Rock Muscle,Bébé Musclor
-PROPITEM_TXT_100700,"A cute and fast, baby, Rockmuscle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Musclor qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
+PROPITEM_TXT_100700,"A cute and fast, baby, Rock Muscle that follows its master around and picks up dropped items",Fait apparaître un mignon bébé Musclor qui suit son invocateur partout et qui ramasse les objets laissés par les ennemis.
 PROPITEM_TXT_100701,Vital Drink X or Refresher Hold,Boisson Énergétique X ou Fiole de Mana X
 PROPITEM_TXT_100702,Select if you want to receive a Vital Drink X or Refresher Hold!,Choisissez si vous voulez recevoir une Boisson Énergétique X ou Fiole de Mana X !
 PROPITEM_TXT_100703,Kitty or Doggy (7 Days),Bébé Chat ou Bébé Chien (7 Jours)
@@ -8256,8 +8256,8 @@ PROPITEM_TXT_101609,Gummy Bear Black Glasses,Lunettes d'Ours en Gélatine Noires
 PROPITEM_TXT_101610,Gummy Bear White Glasses,Lunettes d'Ours en Gélatine Blanches
 PROPITEM_TXT_101611,Stat Scroll Box,Boîte de Parchemin de Stats
 PROPITEM_TXT_101612,Select which Weapons Stat Scroll you want to receive!,Sélectionnez quel Parchemin de Stats d'Arme vous souhaitez recevoir !
-PROPITEM_TXT_101613,Extended Battle Pass,Battle Pass Étendu
-PROPITEM_TXT_101614,This purchase gives you many advantages during the Battle Pass season:\n-More Battle Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the Battle Pass season:\n-More Battle Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_101613,Extended Battle Pass,Passe de combat Étendu
+PROPITEM_TXT_101614,This purchase gives you many advantages during the Battle Pass season:\n-More Battle Pass rewards including an Exclusive Costume\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Passe de combat :\n-Plus de récompenses du Passe de combat incluant un Costume Exclusif\n-Banque Commune\n-2 jours de boutiques vendeurs\n-Carburant d'accélération illimité\n-Verrouillage d'Exp illimité\n-Carte des donjons et Navigateur\n-Améliorations de coffre plus rapides\n-1 entrée gratuite de donjon supplémentaire\n-5 téléportations quotidiennes vers les boutiques de recherche\n...et plus encore à venir dans les mises à jour du jeu !
 PROPITEM_TXT_101615,Blue Chips,Jeton Bleu
 PROPITEM_TXT_101616,藐视全服 Guild Cloak,Cape de la Guilde 藐视全服
 PROPITEM_TXT_101617,Baby Wild Rabbit,Lapereau Sauvage
@@ -10512,7 +10512,7 @@ PROPITEM_TXT_120814,Yellow Balloon 3h,Ballon Jaune 3h
 PROPITEM_TXT_120815,Pretty Pink Balloons that increase your attack by +50. Lasts for 3 hours.,Jolis ballons roses qui augmentent votre Attaque (ATQ) de 50. Dure 3 heures.
 PROPITEM_TXT_120816,Beautiful Blue Balloons that increase your Defense (DEF) by +100. Lasts for 3 hours.,Jolis ballons bleus qui augmentent votre Défense (DEF) de 50. Dure 3 heures.
 PROPITEM_TXT_120817,Pretty Yellow Balloons that increase your Health Points (HP) by +150. Lasts for 3 hours.,Jolis ballons jaunes qui augmentent vos Points de Vie (PV) attaque de 150. Dure 3 heures.
-PROPITEM_TXT_120818,Extended 1 Year Anniversary Pass,Battle Pass Etendu des 1 an
+PROPITEM_TXT_120818,Extended 1 Year Anniversary Pass,Passe de combat Etendu des 1 an
 PROPITEM_TXT_120819,This purchase gives you many advantages during the 1 Year Anniversary Pass season:\n-More Update Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports,This purchase gives you many advantages during the 1 Year Anniversary Pass season:\n-More Update Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports
 PROPITEM_TXT_120820,FWC Golden Sword,Épée d'Or FWC
 PROPITEM_TXT_120821,FWC Golden Slayer,Glaive d'Or FWC
@@ -11821,7 +11821,7 @@ PROPITEM_TXT_121999,Black Flying Sheep,Mouton Volant Noir
 PROPITEM_TXT_122000,Star Lucky Box,Boîte de Tenue de Star
 PROPITEM_TXT_122001,This box contains a Star Set with Speed bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient une tenue Etoile avec un bonus de vitesse. Vous pourrez sélectionner le genre du costume en ouvrant la boîte.
 PROPITEM_TXT_400010,Extended October Pass,Pass d'Octobre Etendu
-PROPITEM_TXT_400011,This purchase gives you many advantages during the October Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the October Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_400011,This purchase gives you many advantages during the October Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass d'Octobre :\n-Plus de récompenses du Passe de combat\n-Banque Commune\n-2 jours de boutiques vendeurs\n-Carburant d'accélération illimité\n-Verrouillage d'Exp illimité\n-Carte des donjons et Navigateur\n-Améliorations de coffre plus rapides\n-1 entrée gratuite de donjon supplémentaire\n-5 téléportations quotidiennes vers les boutiques de recherche\n...et plus encore à venir dans les mises à jour du jeu !
 PROPITEM_TXT_015114,Beer,Bière
 PROPITEM_TXT_015115,An ordinary beer that can be found everywhere.\nIt can be exchanged for various items via the NPC.,Une bière ordinaire qu'on peut trouver n'importe où.\nPeut être échangée contre de nombreux objets au PnJ.
 PROPITEM_TXT_015116,Finest Beer,Meilleure des Bières
@@ -11955,7 +11955,7 @@ PROPITEM_TXT_221929,Nitro Booster (30 Days),Booster Nitro (30 jours)
 PROPITEM_TXT_221930,"Provides unlimited nitro booster for 30 days, increasing your flying speed by up to 30%.",Augmente la vitesse de vol de 30% pour 30 jours.
 PROPITEM_TXT_221931,"Provides unlimited nitro booster increasing your flying speed by up to 30%. To use, double click while mounted and press the <X> Key to toggle the boost on or off.",Permet d'augmenter la vitesse de vol de 30%. Pour l'utiliser : double-cliquez dessus en vol et appuyez sur <X> pour activer ou désactiver le boost.
 PROPITEM_TXT_221932,Extended November Pass,Pass de Novembre Etendu
-PROPITEM_TXT_221933,This purchase gives you many advantages during the November Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,This purchase gives you many advantages during the November Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!
+PROPITEM_TXT_221933,This purchase gives you many advantages during the November Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Novembre :\n-Plus de récompenses du Passe de combat\n-Banque Commune\n-2 jours de boutiques vendeurs\n-Carburant d'accélération illimité\n-Verrouillage d'Exp illimité\n-Carte des donjons et Navigateur\n-Améliorations de coffre plus rapides\n-1 entrée gratuite de donjon supplémentaire\n-5 téléportations quotidiennes vers les boutiques de recherche\n...et plus encore à venir dans les mises à jour du jeu !
 PROPITEM_TXT_221934,Modern Halloween 10% Orange Set,Tenue d'Halloween Moderne Orange 10%
 PROPITEM_TXT_221935,Modern Halloween Orange Hat (M),Chapeau d'Halloween Moderne Orange (G)
 PROPITEM_TXT_221936,Modern Halloween Orange Suit (M),Habit d'Halloween Moderne Orange (G)
@@ -12906,7 +12906,7 @@ PROPITEM_TXT_131206,Reverse mouse left and right direction for 10 seconds to fro
 PROPITEM_TXT_131207,Thanksgiving Gacha Box 2023,Boîte Gacha de Thanksgiving 2023
 PROPITEM_TXT_131208,This box dropped by Wild Turkey drop various rewards! Get as much as possible!,Cette boîte lâchée par le Dindon Sauvage donne diverses récompenses ! Obtenez-en le plus possible !
 PROPITEM_TXT_131209,Extended December Pass,Pass Décembre Étendu
-PROPITEM_TXT_131210,This purchase gives you many advantages during the December Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass Décembre :\n-Plus de récompenses du Battle Pass\n-Banque Commune\n-Magasins de vendeurs pendant 2 jours\n-Carburant d'accélération illimité\n-Verrouillage d'Exp illimité\n-Carte des donjons et Navigateur\n-Améliorations de coffre plus rapides\n-1 entrée gratuite de donjon supplémentaire\n-5 téléportations quotidiennes vers les boutiques de recherche\n...et plus encore à venir dans les mises à jour du jeu !
+PROPITEM_TXT_131210,This purchase gives you many advantages during the December Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass Décembre :\n-Plus de récompenses du Passe de combat\n-Banque Commune\n-Magasins de vendeurs pendant 2 jours\n-Carburant d'accélération illimité\n-Verrouillage d'Exp illimité\n-Carte des donjons et Navigateur\n-Améliorations de coffre plus rapides\n-1 entrée gratuite de donjon supplémentaire\n-5 téléportations quotidiennes vers les boutiques de recherche\n...et plus encore à venir dans les mises à jour du jeu !
 PROPITEM_TXT_131211,Thanksgiving 2023 10% Grey Set,Set Gris 10% Thanksgiving 2023
 PROPITEM_TXT_131212,Thanksgiving 2023 Grey Hat (M),Chapeau Gris Thanksgiving 2023 (H)
 PROPITEM_TXT_131213,Thanksgiving 2023 Grey Suit (M),Costume Gris Thanksgiving 2023 (H)
@@ -13252,7 +13252,7 @@ PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.,Coupon pour ob
 PROPITEM_TXT_230214,Additional Connection Coupon,Coupon de Connexion Supplémentaire
 PROPITEM_TXT_230215,Coupon to earn additional connection rewards.,Coupon pour obtenir des récompenses de connexion supplémentaires.
 PROPITEM_TXT_230216,Extended January Pass,Pass de Janvier Étendu
-PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Battle Pass\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230218,PlayPark Launch Gift,Cadeau de Lancement PlayPark
 PROPITEM_TXT_230219,Gift for the Flyff U x PlayPark launch!,Cadeau pour le lancement de Flyff U x PlayPark !
 PROPITEM_TXT_722153,Candy Cane 10% Red Set,Set Candy Cane 10% Rouge
@@ -14046,20 +14046,20 @@ PROPITEM_TXT_722451,"A package containing 5x Scroll of Amplification ES, 1x Extr
 PROPITEM_TXT_722452,Early Bird Package,Pack Lève-Tôt
 PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","Un pack contenant 15x Pierre d’Mars, 15x Boisson Énergétique X ou Fiole de Mana X, 10x Parchemin de Maîtrise ES et 20x Parchemin de Retour. Tous les objets sont aussi liés."
 PROPITEM_TXT_230220,Extended February Pass,Pass de Février Étendu
-PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Février :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Février :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230224,Extended March Pass,Pass de Mars Étendu
-PROPITEM_TXT_230225,This purchase gives you many advantages during the March Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Mars :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230225,This purchase gives you many advantages during the March Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Mars :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230222,January Supply Pack,Pack de ravitaillement de janvier
 PROPITEM_TXT_230226,Extended April Pass,Pass d’Avril Étendu
-PROPITEM_TXT_230227,This purchase gives you many advantages during the April Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass d’Avril :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230227,This purchase gives you many advantages during the April Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass d’Avril :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230228,Extended May Pass,Pass de Mai Étendu
-PROPITEM_TXT_230229,This purchase gives you many advantages during the May Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Mai :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230229,This purchase gives you many advantages during the May Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Mai :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230230,Extended June Pass,Pass de Juin Étendu
-PROPITEM_TXT_230231,This purchase gives you many advantages during the June Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Juin :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230231,This purchase gives you many advantages during the June Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Juin :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230232,Extended July Pass,Pass de Juillet Étendu
-PROPITEM_TXT_230233,This purchase gives you many advantages during the July Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Juillet :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230233,This purchase gives you many advantages during the July Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Juillet :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230234,Extended August Pass,Pass d’Août Étendu
-PROPITEM_TXT_230235,This purchase gives you many advantages during the August Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass d’Août :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_230235,This purchase gives you many advantages during the August Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass d’Août :\n-Plus de récompenses du Passe de combat\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_722454,Basic Wall Single Pack,Pack Unitaire Mur de base
 PROPITEM_TXT_722455,Flaris Wall Single Pack,Pack Unitaire Mur de Flaris
 PROPITEM_TXT_722456,Cove Wall Single Pack,Pack Unitaire Mur de Cove
@@ -16762,7 +16762,7 @@ PROPITEM_TXT_725813,Green beach swimsuit and Brown Sandal inside,Maillot Plage V
 PROPITEM_TXT_725814,Modern Black Swimsuit Set (M),Ensemble Maillot Moderne Noir (H)
 PROPITEM_TXT_725815,A full modern black swim costume inside,Un costume de bain moderne noir complet inclus
 PROPITEM_TXT_725816,Extended September Pass,Pass Septembre Étendu
-PROPITEM_TXT_725817,This purchase gives you many advantages during the September Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous donne de nombreux avantages durant la saison du Pass Septembre :\n-Plus de récompenses Battle Pass\n-Banque Commune\n-2 jours de boutiques vendeurs\n-Carburant Accélération illimité\n-Verrou Exp illimité\n-Carte et Navigateur des donjons\n-Améliorations de coffre plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers la boutique de recherche\n...et plus à venir avec les mises à jour du jeu !
+PROPITEM_TXT_725817,This purchase gives you many advantages during the September Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous donne de nombreux avantages durant la saison du Pass Septembre :\n-Plus de récompenses du Passe de combat\n-Banque Commune\n-2 jours de boutiques vendeurs\n-Carburant Accélération illimité\n-Verrou Exp illimité\n-Carte et Navigateur des donjons\n-Améliorations de coffre plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers la boutique de recherche\n...et plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_725818,Summer Lucky Box,Boîte Chance Été
 PROPITEM_TXT_725819,This box contains a random special item. Good summer!,Cette boîte contient un objet spécial aléatoire ! Bon été !
 PROPITEM_TXT_725820,4% Card Piece Select Box,Boîte de Sélection de Carte 4%
@@ -17894,13 +17894,13 @@ PROPITEM_TXT_133512,Coral Island Curry (B),Curry de l'Île de Corail (B)
 PROPITEM_TXT_133513,Coral Island Curry (A),Curry de l'Île de Corail (A)
 PROPITEM_TXT_133514,Coral Island Curry (A+),Curry de l'Île de Corail (A+)
 PROPITEM_TXT_133515,Recovers 2600 HP,Redonne 2600 PV
-PROPITEM_TXT_133516,Tuna Sushi (D),Sushi au Thon (D)
+PROPITEM_TXT_133516,Tuna Sushi (D),Sushi (D)
 PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi avec thon sur le dessus
-PROPITEM_TXT_133518,Tuna Sushi (C),Sushi au Thon (C)
+PROPITEM_TXT_133518,Tuna Sushi (C),Sushi (C)
 PROPITEM_TXT_133519,Sushi made with tuna on top.,Sushi avec thon sur le dessus
-PROPITEM_TXT_133520,Tuna Sushi (B),Sushi au Thon (B)
-PROPITEM_TXT_133521,Tuna Sushi (A),Sushi au Thon (A)
-PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi au Thon (A+)
+PROPITEM_TXT_133520,Tuna Sushi (B),Sushi (B)
+PROPITEM_TXT_133521,Tuna Sushi (A),Sushi (A)
+PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi (A+)
 PROPITEM_TXT_133523,Sushi made with tuna on top.,Sushi avec thon sur le dessus
 PROPITEM_TXT_133524,Red Fish Ball (D),Boule de Poisson Rouge (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Boules de poisson infusées de réactifs alchimiques pour un effet spécial
@@ -25526,6 +25526,13 @@ PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Chaussures Noble Jockey Rouge (F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),Ensemble Costume Noble Jockey Rouge (F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,L'ensemble Noble Jockey Rouge pour personnages masculins.
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,L'ensemble Noble Jockey Rouge pour personnages féminins.
+PROPITEM_TXT_135089,[Lv 120~190] 2026 Valentine's Day Reward Box A,[Lv 120~190] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135090,[Lv 80~119] 2026 Valentine's Day Reward Box A,[Lv 80~119] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135091,[Lv 20~79] 2026 Valentine's Day Reward Box A,[Lv 20~79] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 Valentine's Day Reward Box B
+PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 Valentine's Day Reward Box C
+PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 Valentine's Day Reward Box D
+PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] Pet Random Box
 PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,Boîte Promotion Nouvel An MyCard 2026 A
 PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Anguille Grillée, 3x Parchemin Amplification ES, 3x Boîte de Potions, 3x Pierre Mars et 3x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,Boîte Promotion Nouvel An MyCard 2026 B
@@ -25565,3 +25572,112 @@ PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight
 PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,Boîte de Sélection Parchemin Bonus Ultime
 PROPITEM_TXT_902704,Select which scroll you want to receive!,Choisissez le parchemin que vous souhaitez recevoir !
 PROPITEM_TXT_902705,Begging Motion,Geste de Mendicité
+PROPITEM_TXT_902706,Button Mark 10% Green Set,Button Mark 10% Green Set
+PROPITEM_TXT_902707,Button Mark Green Backpack,Button Mark Green Backpack
+PROPITEM_TXT_902708,Button Mark Green Mask,Button Mark Green Mask
+PROPITEM_TXT_902709,Button Mark Green Hat (M),Button Mark Green Hat (M)
+PROPITEM_TXT_902710,Button Mark Green Suit (M),Button Mark Green Suit (M)
+PROPITEM_TXT_902711,Button Mark Green Shoes (M),Button Mark Green Shoes (M)
+PROPITEM_TXT_902712,Button Mark 10% Green Set (M),Button Mark 10% Green Set (M)
+PROPITEM_TXT_902713,The Button Mark 10% Green Set for male characters.,The Button Mark 10% Green Set for male characters.
+PROPITEM_TXT_902714,Button Mark Green Hat (F),Button Mark Green Hat (F)
+PROPITEM_TXT_902715,Button Mark Green Suit (F),Button Mark Green Suit (F)
+PROPITEM_TXT_902716,Button Mark Green Shoes (F),Button Mark Green Shoes (F)
+PROPITEM_TXT_902717,Button Mark 10% Green Set (F),Button Mark 10% Green Set (F)
+PROPITEM_TXT_902718,The Button Mark 10% Green Set for female characters.,The Button Mark 10% Green Set for female characters.
+PROPITEM_TXT_902719,Button Mark 10% Turquoise Set,Button Mark 10% Turquoise Set
+PROPITEM_TXT_902720,Button Mark Turquoise Backpack,Button Mark Turquoise Backpack
+PROPITEM_TXT_902721,Button Mark Turquoise Mask,Button Mark Turquoise Mask
+PROPITEM_TXT_902722,Button Mark Turquoise Hat (M),Button Mark Turquoise Hat (M)
+PROPITEM_TXT_902723,Button Mark Turquoise Suit (M),Button Mark Turquoise Suit (M)
+PROPITEM_TXT_902724,Button Mark Turquoise Shoes (M),Button Mark Turquoise Shoes (M)
+PROPITEM_TXT_902725,Button Mark 10% Turquoise Set (M),Button Mark 10% Turquoise Set (M)
+PROPITEM_TXT_902726,The Button Mark 10% Turquoise Set for male characters.,The Button Mark 10% Turquoise Set for male characters.
+PROPITEM_TXT_902727,Button Mark Turquoise Hat (F),Button Mark Turquoise Hat (F)
+PROPITEM_TXT_902728,Button Mark Turquoise Suit (F),Button Mark Turquoise Suit (F)
+PROPITEM_TXT_902729,Button Mark Turquoise Shoes (F),Button Mark Turquoise Shoes (F)
+PROPITEM_TXT_902730,Button Mark 10% Turquoise Set (F),Button Mark 10% Turquoise Set (F)
+PROPITEM_TXT_902731,The Button Mark 10% Turquoise Set for female characters.,The Button Mark 10% Turquoise Set for female characters.
+PROPITEM_TXT_902732,Button Mark 8% Lime Set,Button Mark 8% Lime Set
+PROPITEM_TXT_902733,Button Mark Lime Backpack,Button Mark Lime Backpack
+PROPITEM_TXT_902734,Button Mark Lime Mask,Button Mark Lime Mask
+PROPITEM_TXT_902735,Button Mark Lime Hat (M),Button Mark Lime Hat (M)
+PROPITEM_TXT_902736,Button Mark Lime Suit (M),Button Mark Lime Suit (M)
+PROPITEM_TXT_902737,Button Mark Lime Shoes (M),Button Mark Lime Shoes (M)
+PROPITEM_TXT_902738,Button Mark 8% Lime Set (M),Button Mark 8% Lime Set (M)
+PROPITEM_TXT_902739,The Button Mark 8% Lime Set for male characters.,The Button Mark 8% Lime Set for male characters.
+PROPITEM_TXT_902740,Button Mark Lime Hat (F),Button Mark Lime Hat (F)
+PROPITEM_TXT_902741,Button Mark Lime Suit (F),Button Mark Lime Suit (F)
+PROPITEM_TXT_902742,Button Mark Lime Shoes (F),Button Mark Lime Shoes (F)
+PROPITEM_TXT_902743,Button Mark 8% Lime Set (F),Button Mark 8% Lime Set (F)
+PROPITEM_TXT_902744,The Button Mark 8% Lime Set for female characters.,The Button Mark 8% Lime Set for female characters.
+PROPITEM_TXT_902745,Button Mark 8% Orange Set,Button Mark 8% Orange Set
+PROPITEM_TXT_902746,Button Mark Orange Backpack,Button Mark Orange Backpack
+PROPITEM_TXT_902747,Button Mark Orange Mask,Button Mark Orange Mask
+PROPITEM_TXT_902748,Button Mark Orange Hat (M),Button Mark Orange Hat (M)
+PROPITEM_TXT_902749,Button Mark Orange Suit (M),Button Mark Orange Suit (M)
+PROPITEM_TXT_902750,Button Mark Orange Shoes (M),Button Mark Orange Shoes (M)
+PROPITEM_TXT_902751,Button Mark 8% Orange Set (M),Button Mark 8% Orange Set (M)
+PROPITEM_TXT_902752,The Button Mark 8% Orange Set for male characters.,The Button Mark 8% Orange Set for male characters.
+PROPITEM_TXT_902753,Button Mark Orange Hat (F),Button Mark Orange Hat (F)
+PROPITEM_TXT_902754,Button Mark Orange Suit (F),Button Mark Orange Suit (F)
+PROPITEM_TXT_902755,Button Mark Orange Shoes (F),Button Mark Orange Shoes (F)
+PROPITEM_TXT_902756,Button Mark 8% Orange Set (F),Button Mark 8% Orange Set (F)
+PROPITEM_TXT_902757,The Button Mark 8% Orange Set for female characters.,The Button Mark 8% Orange Set for female characters.
+PROPITEM_TXT_902758,Button Mark 6% Purple Set,Button Mark 6% Purple Set
+PROPITEM_TXT_902759,Button Mark Purple Backpack,Button Mark Purple Backpack
+PROPITEM_TXT_902760,Button Mark Purple Mask,Button Mark Purple Mask
+PROPITEM_TXT_902761,Button Mark Purple Hat (M),Button Mark Purple Hat (M)
+PROPITEM_TXT_902762,Button Mark Purple Suit (M),Button Mark Purple Suit (M)
+PROPITEM_TXT_902763,Button Mark Purple Shoes (M),Button Mark Purple Shoes (M)
+PROPITEM_TXT_902764,Button Mark 6% Purple Set (M),Button Mark 6% Purple Set (M)
+PROPITEM_TXT_902765,The Button Mark 6% Purple Set for male characters.,The Button Mark 6% Purple Set for male characters.
+PROPITEM_TXT_902766,Button Mark Purple Hat (F),Button Mark Purple Hat (F)
+PROPITEM_TXT_902767,Button Mark Purple Suit (F),Button Mark Purple Suit (F)
+PROPITEM_TXT_902768,Button Mark Purple Shoes (F),Button Mark Purple Shoes (F)
+PROPITEM_TXT_902769,Button Mark 6% Purple Set (F),Button Mark 6% Purple Set (F)
+PROPITEM_TXT_902770,The Button Mark 6% Purple Set for female characters.,The Button Mark 6% Purple Set for female characters.
+PROPITEM_TXT_902771,Button Mark 4% Red Set,Button Mark 4% Red Set
+PROPITEM_TXT_902772,Button Mark Red Backpack,Button Mark Red Backpack
+PROPITEM_TXT_902773,Button Mark Red Mask,Button Mark Red Mask
+PROPITEM_TXT_902774,Button Mark Red Hat (M),Button Mark Red Hat (M)
+PROPITEM_TXT_902775,Button Mark Red Suit (M),Button Mark Red Suit (M)
+PROPITEM_TXT_902776,Button Mark Red Shoes (M),Button Mark Red Shoes (M)
+PROPITEM_TXT_902777,Button Mark 4% Red Set (M),Button Mark 4% Red Set (M)
+PROPITEM_TXT_902778,The Button Mark 4% Red Set for male characters.,The Button Mark 4% Red Set for male characters.
+PROPITEM_TXT_902779,Button Mark Red Hat (F),Button Mark Red Hat (F)
+PROPITEM_TXT_902780,Button Mark Red Suit (F),Button Mark Red Suit (F)
+PROPITEM_TXT_902781,Button Mark Red Shoes (F),Button Mark Red Shoes (F)
+PROPITEM_TXT_902782,Button Mark 4% Red Set (F),Button Mark 4% Red Set (F)
+PROPITEM_TXT_902783,The Button Mark 4% Red Set for female characters.,The Button Mark 4% Red Set for female characters.
+PROPITEM_TXT_902784,Button Mark 2% Blue Set,Button Mark 2% Blue Set
+PROPITEM_TXT_902785,Button Mark Blue Backpack,Button Mark Blue Backpack
+PROPITEM_TXT_902786,Button Mark Blue Mask,Button Mark Blue Mask
+PROPITEM_TXT_902787,Button Mark Blue Hat (M),Button Mark Blue Hat (M)
+PROPITEM_TXT_902788,Button Mark Blue Suit (M),Button Mark Blue Suit (M)
+PROPITEM_TXT_902789,Button Mark Blue Shoes (M),Button Mark Blue Shoes (M)
+PROPITEM_TXT_902790,Button Mark 2% Blue Set (M),Button Mark 2% Blue Set (M)
+PROPITEM_TXT_902791,The Button Mark 2% Blue Set for male characters.,The Button Mark 2% Blue Set for male characters.
+PROPITEM_TXT_902792,Button Mark Blue Hat (F),Button Mark Blue Hat (F)
+PROPITEM_TXT_902793,Button Mark Blue Suit (F),Button Mark Blue Suit (F)
+PROPITEM_TXT_902794,Button Mark Blue Shoes (F),Button Mark Blue Shoes (F)
+PROPITEM_TXT_902795,Button Mark 2% Blue Set (F),Button Mark 2% Blue Set (F)
+PROPITEM_TXT_902796,The Button Mark 2% Blue Set for female characters.,The Button Mark 2% Blue Set for female characters.
+PROPITEM_TXT_902797,Button Mark 2% Black Set,Button Mark 2% Black Set
+PROPITEM_TXT_902798,Button Mark Black Backpack,Button Mark Black Backpack
+PROPITEM_TXT_902799,Button Mark Black Mask,Button Mark Black Mask
+PROPITEM_TXT_902800,Button Mark Black Hat (M),Button Mark Black Hat (M)
+PROPITEM_TXT_902801,Button Mark Black Suit (M),Button Mark Black Suit (M)
+PROPITEM_TXT_902802,Button Mark Black Shoes (M),Button Mark Black Shoes (M)
+PROPITEM_TXT_902803,Button Mark 2% Black Set (M),Button Mark 2% Black Set (M)
+PROPITEM_TXT_902804,The Button Mark 2% Black Set for male characters.,The Button Mark 2% Black Set for male characters.
+PROPITEM_TXT_902805,Button Mark Black Hat (F),Button Mark Black Hat (F)
+PROPITEM_TXT_902806,Button Mark Black Suit (F),Button Mark Black Suit (F)
+PROPITEM_TXT_902807,Button Mark Black Shoes (F),Button Mark Black Shoes (F)
+PROPITEM_TXT_902808,Button Mark 2% Black Set (F),Button Mark 2% Black Set (F)
+PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,The Button Mark 2% Black Set for female characters.
+PROPITEM_TXT_902810,Button Mark Costume Lucky Box,Button Mark Costume Lucky Box
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
+PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
+PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190] Amplification ES Scroll Select Box

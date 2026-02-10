@@ -1,4 +1,4 @@
 ﻿#b#cff0000ff Shining Power Dice Creation #nb#nc
-#bShining Power Dice 4#nb is created by merging 5x Power Dice 4 and 5x Power Dice 8.
-#bShining Power Dice 6#nb is created by merging 5x Power Dice 6 and 5x Power Dice 8.
-#bShining Power Dice 12#nb is created by using Power Dice 12 or Power Dice 10 in the process.
+#bDado Di Potenza Splendente 4#nb viene creato fondendo 5x Dadi di Potenza 4 e 5x Dadi di Potenza 8.
+#bDado Di Potenza Splendente 6#nb viene creato fondendo 5x Dadi di Potenza 6 e 5x Dadi di Potenza 8.
+#bDado Di Potenza Splendente 12#nb viene creato utilizzando Dadi di Potenza 12 o Dadi di Potenza 10 nel processo.

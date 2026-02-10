@@ -1,7 +1,7 @@
 ﻿Key,English,Russian
 TEXTCLIENT_CONNECTING,Connecting. Please wait.,Соединение…
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Не удалось подключиться к игре. Проверьте соединение. Вы также можете обратиться к администрации для решения проблемы.
-TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Игра обновлена. Пожалуйста, закройте страницу и откройте её снова.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,"Игра обновлена. Пожалуйста, закройте страницу и откройте её снова."
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Неправильный идентификатор сервера.
 TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Неизвестная ошибка, пожалуйста попробуйте ещё раз."
 TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Ваш аккаунт уже подключен.
@@ -1542,3 +1542,8 @@ TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because y
 TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
 TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
 TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.

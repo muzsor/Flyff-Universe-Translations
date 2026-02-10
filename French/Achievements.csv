@@ -18,8 +18,8 @@ ACHIEVEMENT_KILL_MRPUMPKIN_NAME,Mr. Pumpkin,Pumpkin
 ACHIEVEMENT_KILL_REDMANTIS_NAME,Redmantis,Mantis
 ACHIEVEMENT_KILL_ZENDROS_NAME,Zendros,Zendros
 ACHIEVEMENT_KILL_JACKTHEHAMMER_NAME,Jack the Hammer,Jackammer
-ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Gigglebox,Gigglebox
-ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rockmuscle,Musclor
+ACHIEVEMENT_KILL_GIGGLEBOX_NAME,Giggle Box,Giggle Box
+ACHIEVEMENT_KILL_ROCKMUSCLE_NAME,Rock Muscle,Musclor
 ACHIEVEMENT_KILL_BUCROW_NAME,Bucrow,Bucrow
 ACHIEVEMENT_KILL_NEPARUBA_NAME,Neparuba,Neparuba
 ACHIEVEMENT_KILL_HOBO_NAME,Hobo,Hobo
@@ -34,7 +34,7 @@ ACHIEVEMENT_KILL_PRANKSTER_NAME,Prankster,Prankster
 ACHIEVEMENT_KILL_ROCKEPELLER_NAME,Rockepeller,Rockepeller
 ACHIEVEMENT_KILL_WHEELEM_NAME,Wheelem,Wheelem
 ACHIEVEMENT_KILL_LEYENA_NAME,Leyena,Leyena
-ACHIEVEMENT_KILL_TRANGFOMA_NAME,Tranfogma,Trangfoma
+ACHIEVEMENT_KILL_TRANGFOMA_NAME,Trangfoma,Trangfoma
 ACHIEVEMENT_KILL_STEAMWALKER_NAME,Steam Walker,Steamwalker
 ACHIEVEMENT_KILL_STEELKNIGHT_NAME,Steel Knight,Steelknight
 ACHIEVEMENT_KILL_ZOMBIGER_NAME,Zombiger,Zombiger
@@ -301,7 +301,7 @@ ACHIEVEMENT_KILL_ZOMBIGER_LVL1,Zombiger Slayer 1,Tueur de Zombiger I
 ACHIEVEMENT_KILL_ZOMBIGER_LVL2,Zombiger Slayer 2,Tueur de Zombiger II
 ACHIEVEMENT_KILL_ZOMBIGER_LVL3,Zombiger Slayer 3,Tueur de Zombiger III
 ACHIEVEMENT_KILL_ZOMBIGER_LVL4,Zombiger Slayer 4,Tueur de Zombiger IV
-ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Slayer 1,Tueur de Zombiger I
+ACHIEVEMENT_KILL_ZOMBIGER_LVL5,Zombiger Hunter,Tueur de Zombiger I
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL1,Nuttywheel Slayer 1,Tueur de Nuttywheel I
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL2,Nuttywheel Slayer 2,Tueur de Nuttywheel II
 ACHIEVEMENT_KILL_NUTTYWHEEL_LVL3,Nuttywheel Slayer 3,Tueur de Nuttywheel III
@@ -637,17 +637,17 @@ ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL2,Beast King Khan Hunter 2,Chasseur de Remardd
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL3,Beast King Khan Hunter 3,Chasseur de Remardda III
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL4,Beast King Khan Hunter 4,Chasseur de Remardda IV
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL5,Beast King Khan Killer,Tueur de Remardda
-ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[Lieutenant des Ombres] Chasseur de Kriton 1
-ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Lieutenant des Ombres] Chasseur de Kriton 2
-ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Lieutenant des Ombres] Chasseur de Kriton 3
-ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Lieutenant des Ombres] Chasseur de Kriton 4
-ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Lieutenant des Ombres] Tueur de Kriton
+ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[Lieutenant de Shade] Chasseur de Kriton 1
+ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Lieutenant de Shade] Chasseur de Kriton 2
+ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Lieutenant de Shade] Chasseur de Kriton 3
+ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Lieutenant de Shade] Chasseur de Kriton 4
+ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Lieutenant de Shade] Tueur de Kriton
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[Dieu de la Mort] Chasseur Démonique d’Ankou 1
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[Dieu de la Mort] Chasseur Démonique d’Ankou 2
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[Dieu de la Mort] Chasseur Démonique d’Ankou 3
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[Dieu de la Mort] Chasseur Démonique d’Ankou 4
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[Dieu de la Mort] Tueur Démonique d’Ankou
-ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to get a permanent damage bonus against them.,Tuez ces monstres pour obtenir un bonus de dégâts permanent contre eux.
+ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,Tuez ces monstres pour obtenir un bonus de dégâts permanent contre eux.
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,Mangeur d'yeux d'Aibatts
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,Pro de la cueillette
 ACHIEVEMENT_KILL_BURUDENG_TITLE,Horned,Scarabée
@@ -703,7 +703,7 @@ ACHIEVEMENT_KILL_SYLIACA_TITLE,Fisherman,Poséïdon
 ACHIEVEMENT_KILL_GREEMONG_TITLE,Disgusted,Répugnant
 ACHIEVEMENT_KILL_BOO_TITLE,Boo,Boo
 ACHIEVEMENT_KILL_CARRIERBOMB_TITLE,Defuser,Bombe à retardement
-ACHIEVEMENT_KILL_LONGWANG_TITLE,Devillish,Diabolique
+ACHIEVEMENT_KILL_LONGWANG_TITLE,Devilish,Diabolique
 ACHIEVEMENT_KILL_HOPPRE_TITLE,Exterminator,Suceur de sang
 ACHIEVEMENT_KILL_MUSHPOIE_TITLE,Spore Collector,Super végan
 ACHIEVEMENT_KILL_IREN_TITLE,Bloodsucker,Succube
@@ -760,14 +760,14 @@ ACHIEVEMENT_JUMP_NAME,Jump,Apprenti cascadeur
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Sauter un certain nombre de fois.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Cascadeur
 ACHIEVEMENT_PLAY_TIME_NAME,Total Play Time,Temps de jeu total
-ACHIEVEMENT_PLAY_TIME_DESC,Reach a certain play time (hours) to earn rewards.,Atteignez un temps de jeu spécifique (en heures) pour obtenir des récompenses.
-ACHIEVEMENT_PLAY_TIME_LVL1,FlyFF Novice!,Débutant sur Flyff !
-ACHIEVEMENT_PLAY_TIME_LVL2,FlyFF Fan!,Fan de Flyff !
-ACHIEVEMENT_PLAY_TIME_LVL3,FlyFF Devotee!,Passionné(e) de FlyFF !
-ACHIEVEMENT_PLAY_TIME_LVL4,FlyFF Enthusiast!,Enthousiaste de FlyFF !
-ACHIEVEMENT_PLAY_TIME_LVL5,FlyFF Addict!,Accro à FlyFF !
-ACHIEVEMENT_PLAY_TIME_LVL6,FlyFF Fanatic!,Amoureux de FlyFF !
-ACHIEVEMENT_PLAY_TIME_TITLE,FlyFF Fanatic,Fanatique de Flyff
+ACHIEVEMENT_PLAY_TIME_DESC,Play for a certain number of hours to earn rewards.,Atteignez un temps de jeu spécifique (en heures) pour obtenir des récompenses.
+ACHIEVEMENT_PLAY_TIME_LVL1,Flyff Novice!,Débutant sur Flyff !
+ACHIEVEMENT_PLAY_TIME_LVL2,Flyff Fan!,Fan de Flyff !
+ACHIEVEMENT_PLAY_TIME_LVL3,Flyff Devotee!,Passionné(e) de FlyFF !
+ACHIEVEMENT_PLAY_TIME_LVL4,Flyff Enthusiast!,Enthousiaste de FlyFF !
+ACHIEVEMENT_PLAY_TIME_LVL5,Flyff Addict!,Accro à FlyFF !
+ACHIEVEMENT_PLAY_TIME_LVL6,Flyff Fanatic!,Amoureux de FlyFF !
+ACHIEVEMENT_PLAY_TIME_TITLE,Flyff Fanatic,Fanatique de Flyff
 ACHIEVEMENT_LEVEL_NAME,Level,Niveau
 ACHIEVEMENT_LEVEL_DESC,Reach a certain level to earn rewards.,Atteignez un niveau précis pour obtenir des récompenses.
 ACHIEVEMENT_LEVEL_LVL1,Beginner Level 1,Débutant niveau 1
@@ -819,7 +819,7 @@ ACHIEVEMENT_USE_CHICKENSTICK_NAME,Chicken Stick,Cuisse de poulet
 ACHIEVEMENT_USE_CHICKENSTICK_DESC,"Eat 200,000 Chicken Sticks.",Manger 200 000 Cuisses de Poulet.
 ACHIEVEMENT_USE_CHICKENSTICK_TITLE,Spicy,Épicé
 ACHIEVEMENT_USE_STARCANDY_NAME,Star Candy,Sucrerie cosmique
-ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candys.",Manger 200 000 Sucreries Cosmiques.
+ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candies.",Manger 200 000 Sucreries Cosmiques.
 ACHIEVEMENT_USE_STARCANDY_TITLE,Starstruck,Ébloui
 ACHIEVEMENT_USE_MEATSKEWER_NAME,Meat Skewer,Brochette de viande
 ACHIEVEMENT_USE_MEATSKEWER_DESC,"Eat 200,000 Meat Skewers.",Manger 200 000 Brochettes de Viande.
@@ -827,15 +827,15 @@ ACHIEVEMENT_USE_MEATSKEWER_TITLE,Carnivore,Carnivore
 ACHIEVEMENT_USE_BARBECUE_NAME,Barbecue,Barbecue
 ACHIEVEMENT_USE_BARBECUE_DESC,"Eat 200,000 Barbecues.",Manger 200 000 Barbecues.
 ACHIEVEMENT_USE_BARBECUE_TITLE,Grillmaster,Dieu du grill
-ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pan Cake,Fruits de mer
-ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pan Cakes.",Manger 200 000 Fruits de Mer.
+ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pancake,Fruits de mer
+ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pancakes.",Manger 200 000 Fruits de Mer.
 ACHIEVEMENT_USE_SEAFOODPANCAKE_TITLE,Surfer,Surfeur
 ACHIEVEMENT_USE_FISHSOUP_NAME,Fish Soup,Soupe de poisson
 ACHIEVEMENT_USE_FISHSOUP_DESC,"Eat 200,000 Fish Soups.",Manger 200 000 Soupes de Poisson.
 ACHIEVEMENT_USE_FISHSOUP_TITLE,Catfish,Poisson-chat
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_NAME,Sausage Casserole,Saucisse mijotée
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_DESC,"Eat 200,000 Sausage Casseroles.",Manger 200 000 Saucisses Mijotées.
-ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage connoiseur,Maestro de la Chipo
+ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage Connoisseur,Maestro de la Chipo
 ACHIEVEMENT_USE_FISHSTEW_NAME,Fish Stew,Ragoût de poissons
 ACHIEVEMENT_USE_FISHSTEW_DESC,"Eat 200,000 Fish Stews.",Manger 200 000 Ragoûts de Poissons.
 ACHIEVEMENT_USE_FISHSTEW_TITLE,Stranded,Échoué
@@ -902,21 +902,21 @@ ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,Agile
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,Intelligence
 ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,Obtenez 253 INT de base.
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,Sage
-ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily play time,Temps de jeu journalier
-ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Play 10, 20, 30 and 40 minutes in the day to earn rewards. Reset at midnight.","Jouez 10, 20, 30 et 40 minutes pour obtenir des récompenses. Remis à zéro à minuit."
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 mn,10 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 mn,20 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 mn,30 min
-ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 mn,40 min
-ACHIEVEMENT_CONNECTION_SERIES_NAME,Connection series,Jours consécutifs
-ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in multiple days in a row to earn rewards. Reset at midnight.,Jouez plusieurs jours d'affilée pour obtenir des récompenses. Remis à zéro à minuit.
+ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,Temps de jeu journalier
+ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.","Jouez 10, 20, 30 et 40 minutes pour obtenir des récompenses. Remis à zéro à minuit."
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 min,10 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min,20 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min,30 min
+ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 min,40 min
+ACHIEVEMENT_CONNECTION_SERIES_NAME,Login Streak,Jours consécutifs
+ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.,Jouez plusieurs jours d'affilée pour obtenir des récompenses. Remis à zéro à minuit.
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1,Jour 1
 ACHIEVEMENT_CONNECTION_SERIES_LVL2,Day 2,Jour 2
 ACHIEVEMENT_CONNECTION_SERIES_LVL3,Day 3,Jour 3
 ACHIEVEMENT_CONNECTION_SERIES_LVL4,Day 4,Jour 4
 ACHIEVEMENT_CONNECTION_SERIES_LVL5,Day 5,Jour 5
-ACHIEVEMENT_TOTAL_CONNECTION_NAME,Total connection,Connexions totales
-ACHIEVEMENT_TOTAL_CONNECTION_DESC,Log in a certain number of times to earn rewards.,Connectez-vous un certain nombre de fois pour obtenir des récompenses.
+ACHIEVEMENT_TOTAL_CONNECTION_NAME,Login Rewards,Connexions totales
+ACHIEVEMENT_TOTAL_CONNECTION_DESC,Unlock a reward for each day you log in.,Connectez-vous un certain nombre de fois pour obtenir des récompenses.
 ACHIEVEMENT_TOTAL_CONNECTION_LVL1,Day 1,Jour 1
 ACHIEVEMENT_TOTAL_CONNECTION_LVL2,Day 2,Jour 2
 ACHIEVEMENT_TOTAL_CONNECTION_LVL3,Day 3,Jour 3
@@ -952,49 +952,49 @@ ACHIEVEMENT_ALPHA_TESTER_NAME,Alpha Tester Reward,Récompense d'Alpha-testeur
 ACHIEVEMENT_ALPHA_TESTER_DESC,A unique reward for players who participated in the FlyForFun.io Alpha Test in 2019!,Une récompense unique pour les joueurs ayant participé au test Alpha FlyForFun.io en 2019 !
 ACHIEVEMENT_ALPHA_TESTER_TITLE,Alpha Tester,Alpha-testeur
 ACHIEVEMENT_BETA_TESTER_NAME,Beta Tester Reward,Récompense de Beta-testeur
-ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached the level 40 in Flyff Project M!,Une récompense unique pour les joueurs ayant atteint le niveau 40 dans Flyff Project M !
+ACHIEVEMENT_BETA_TESTER_DESC,A unique reward for players who reached level 40 in Flyff Project M!,Une récompense unique pour les joueurs ayant atteint le niveau 40 dans Flyff Project M !
 ACHIEVEMENT_BETA_TESTER_TITLE,Beta Tester,Beta-Testeur
 ACHIEVEMENT_HATCHING_EGG_NAME,Egg Hatcher,Sérum d'incubation
-ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs. ,Faire éclore 100 œufs.
+ACHIEVEMENT_HATCHING_EGG_DESC,Hatch 100 eggs.,Faire éclore 100 œufs.
 ACHIEVEMENT_HATCHING_EGG_TITLE,Master Hatcher,Maître des Couvées
 ACHIEVEMENT_FLYFFIPEDIA_NAME,Flyffipedia Creator,Créateur de Flyffipedia
-ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created the Flyffipedia. Thanks Swaight!,Une récompense unique pour le joueur ayant créé Flyffipedia. Merci Swaight !
+ACHIEVEMENT_FLYFFIPEDIA_DESC,A unique reward for the player who created Flyffipedia. Thanks Swaight!,Une récompense unique pour le joueur ayant créé Flyffipedia. Merci Swaight !
 ACHIEVEMENT_FLYFFIPEDIA_TITLE,Flyffipedia,Flyffipedia
 ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Récompense de traducteur
-ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,Une récompense unique pour les joueurs ayant aidé à créer les traductions du jeu
+ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help translate the game.,Une récompense unique pour les joueurs ayant aidé à créer les traductions du jeu
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Traducteur
 ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
-ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Finissez la première Quête Master
+ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest.,Finissez la première Quête Master
 ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Master 70 - 80
-ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Finissez la deuxième Quête Master
+ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest.,Finissez la deuxième Quête Master
 ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Master 80 - 90
-ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Finissez la troisième Quête Master
+ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest.,Finissez la troisième Quête Master
 ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Master 90 - 100
-ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Finissez la quatrième Quête Master
+ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest.,Finissez la quatrième Quête Master
 ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Master 100 - 110
-ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Finissez la cinquième Quête Master
+ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest.,Finissez la cinquième Quête Master
 ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Master 110 - 120
-ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Finissez la dernière Quête Master
+ACHIEVEMENT_MASTER110_DESC,Complete the final Master Quest.,Finissez la dernière Quête Master
 ACHIEVEMENT_MASTER120_NAME,Hero,Hero
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Hero 120 - 125
-ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Terminez la Quête du Héros
+ACHIEVEMENT_MASTER120_DESC,Complete the first Hero Quest.,Terminez la Quête du Héros
 ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,Participant FWC
-ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Atteignez le niveau 16 au Championnat FlyFF World.
+ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the 2023 Flyff World Championship.,Atteignez le niveau 16 au Championnat FlyFF World.
 ACHIEVEMENT_FWCHERO_NAME,FWC Contender,Prétendant FWC
-ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the Flyff World Championship.,Atteignez le niveau 120 au Championnant FlyFF World.
+ACHIEVEMENT_FWCHERO_DESC,Reach level 120 in the 2023 Flyff World Championship.,Atteignez le niveau 120 au Championnant FlyFF World.
 ACHIEVEMENT_FWCPVPSECOND_NAME,FWC Arena 2nd,2ème à l'Arène FWC
-ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the Flyff World Championship PvP Competition.,Atteignez la seconde place dans la compétition JcJ du Championnat FlyFF World.
+ACHIEVEMENT_FWCPVPSECOND_DESC,Get second place in the 2023 Flyff World Championship PvP Competition.,Atteignez la seconde place dans la compétition JcJ du Championnat FlyFF World.
 ACHIEVEMENT_FWCPVPTHIRD_NAME,FWC Arena 3rd,3ème à l'Arene FWC
-ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the Flyff World Championship PvP Competition.,Atteignez la troisième place dans la compétition JcJ du Championnat FlyFF World.
+ACHIEVEMENT_FWCPVPTHIRD_DESC,Get third place in the 2023 Flyff World Championship PvP Competition.,Atteignez la troisième place dans la compétition JcJ du Championnat FlyFF World.
 ACHIEVEMENT_FWCPVPWINNER_NAME,FWC Arena Champion,Champion de l'Arène FWC
-ACHIEVEMENT_FWCPVPWINNER_DESC,Win the Flyff World Championship PvP competition.,Remportez la compétition JcJ du Championnat FlyFF World.
+ACHIEVEMENT_FWCPVPWINNER_DESC,Win the 2023 Flyff World Championship PvP Competition.,Remportez la compétition JcJ du Championnat FlyFF World.
 ACHIEVEMENT_FWCPVECHAMPION_NAME,FWC Colosseum Champion,Champion du Colisée FWC
-ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the Flyff World Championship PvE competition.,Remportez la compétion JcE du Championnant FlyFF World.
+ACHIEVEMENT_FWCPVECHAMPION_DESC,Win the 2023 Flyff World Championship PvE Competition.,Remportez la compétion JcE du Championnant FlyFF World.
 ACHIEVEMENT_FWCPVESECOND_NAME,FWC Colosseum 2nd,2ème du Colisée FWC
-ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the Flyff World Championship PvE Competition.,Atteignez la seconde place dans la compétition JcE du Championnat FlyFF World.
+ACHIEVEMENT_FWCPVESECOND_DESC,Get second place in the 2023 Flyff World Championship PvE Competition.,Atteignez la seconde place dans la compétition JcE du Championnat FlyFF World.
 ACHIEVEMENT_FWCPVETHIRD_NAME,FWC Colosseum 3rd,3ème du Colisée FWC
-ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the Flyff World Championship PvE Competition.,Atteignez la troisième place dans la compétition JcE du Championnat FlyFF World.
-ACHIEVEMENT_ROULETTE_1,First connection,Première connexion
+ACHIEVEMENT_FWCPVETHIRD_DESC,Get third place in the 2023 Flyff World Championship PvE Competition.,Atteignez la troisième place dans la compétition JcE du Championnat FlyFF World.
+ACHIEVEMENT_ROULETTE_1,First Daily Login,Première connexion
 ACHIEVEMENT_ROULETTE_2,Play 2 hours,Jouez 2 heures
 ACHIEVEMENT_ROULETTE_3,Play 4 hours,Jouez 4 heures
 ACHIEVEMENT_ROULETTE_4,Play 6 hours,Jouez 6 heures
@@ -1006,26 +1006,26 @@ ACHIEVEMENT_ROULETTE_9,Play 16 hours,Jouez 16 heures
 ACHIEVEMENT_ROULETTE_10,Play 18 hours,Jouez 18 heures
 ACHIEVEMENT_ROULETTE_11,Play 20 hours,Jouez 20 heures
 ACHIEVEMENT_ROULETTE_12,Play 22 hours,Jouez 22 heures
-ACHIEVEMENT_RETURNING_TITLE,Homecoming Attendance,Fête de fin d'année
-ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day and receive rewards! Thank you for your presence.,Vous ne vous êtes pas connecté depuis longtemps ! Connectez-vous chaque jour pour obtenir des récompenses. Merci de votre présence.
+ACHIEVEMENT_RETURNING_TITLE,Homecoming Daily Login,Fête de fin d'année
+ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day to receive rewards! Welcome back!,Vous ne vous êtes pas connecté depuis longtemps ! Connectez-vous chaque jour pour obtenir des récompenses. Merci de votre présence.
 ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,Vainqueur de la Course Arc-en-Ciel
 ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,Une récompense unique pour les vainqueurs de la Course Arc-en-Ciel.
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Démon de la Vitesse
 ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Champion de la Course Arc-En-Ciel
-ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,Des récompenses uniques selon le nombre de victoires obtenues à la course Arc-En-Ciel !
+ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow Race wins!,Des récompenses uniques selon le nombre de victoires obtenues à la course Arc-En-Ciel !
 ACHIEVEMENT_MASTER110_TITLE,Master,Maître
-ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,Débloquez des récompenses journalières supplémentaires en dépensant des fCoins !
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Pack de Connexion
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,Connectez-vous un certain nombre de fois pour obtenir des récompenses premium.
+ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,Débloquez des récompenses journalières supplémentaires en dépensant des fCoins !
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,Pack de Connexion
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",Connectez-vous un certain nombre de fois pour obtenir des récompenses premium.
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,Débutant FWC 2024
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,Combattant FWC 2024
-ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the Flyff World Championship.,Atteignez le niveau 60 au Championnant FlyFF World.
+ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,Atteignez le niveau 60 au Championnant FlyFF World.
 ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,Vainqueur FWC 2024
-ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Atteignez le niveau 100 au Championnat FlyFF World.
+ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the 2024 Flyff World Championship.,Atteignez le niveau 100 au Championnat FlyFF World.
 ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,Maître FWC 2024
-ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Atteignez le niveau 160 au Championnant FlyFF World.
+ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the 2024 Flyff World Championship.,Atteignez le niveau 160 au Championnant FlyFF World.
 ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,Empereur FWC 2024
-ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Réalisez tous les Échanges d'Équipement FWC
+ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchanges in the 2024 Flyff World Championship.,Réalisez tous les Échanges d'Équipement FWC
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Couple 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Évasion en solo
 ACHIEVEMENT_COUPLE_FORM_02_NAME,Couple 10,Couple 10
@@ -1046,17 +1046,17 @@ ACHIEVEMENT_COUPLE_DURATION_02_NAME,Couple Duration 200,Durée du couple 200 jou
 ACHIEVEMENT_COUPLE_DURATION_02_TITLE,200 Days of Love,200 jours d’amour
 ACHIEVEMENT_COUPLE_DURATION_03_NAME,Couple Duration 365,Durée du couple 365 jours
 ACHIEVEMENT_COUPLE_DURATION_03_TITLE,365 Days of Love,365 jours d’amour
-ACHIEVEMENT_COUPLE_DURATION_DESC,Maintain a couple with your partner for consecutive days.,Maintenez un couple avec votre partenaire pendant des jours consécutifs.
+ACHIEVEMENT_COUPLE_DURATION_DESC,Remain in a couple relationship for a set number of consecutive days.,Maintenez un couple avec votre partenaire pendant des jours consécutifs.
 ACHIEVEMENT_COUPLE_SKILL_NAME,Couple Skills,Compétences de couple
 ACHIEVEMENT_COUPLE_SKILL_TITLE,Better Together,Mieux ensemble
-ACHIEVEMENT_COUPLE_SKILL_DESC,Use any couple skills.,Utilisez des compétences de couple.
+ACHIEVEMENT_COUPLE_SKILL_DESC,Use couple skills.,Utilisez des compétences de couple.
 ACHIEVEMENT_COUPLE_MOTION_01_NAME,Couple Motions 100,Émotes de couple 100
 ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,Comme les doigts de la main
 ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Motions 1000,Émotes de couple 1000
 ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,Pensées jumelles
 ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Motions 10000,Émotes de couple 10000
 ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","Un esprit, un corps"
-ACHIEVEMENT_COUPLE_MOTION_DESC,Use any couple motions.,Utilisez des émotes de couple.
+ACHIEVEMENT_COUPLE_MOTION_DESC,Use couple motions.,Utilisez des émotes de couple.
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,Grand succès !
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,Bonus obtenu
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE02,Bonus-full,Bonus maximal
@@ -1116,22 +1116,22 @@ ACHIEVEMENT_SMITHING_TITLE03,Expert Smith,Forgeron expert
 ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Maître forgeron
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Augmentez votre maîtrise de la forge.
 ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,Champion de l’Arène FWC 2024
-ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Remportez la compétition PvP du Flyff World Championship 2024.
+ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the 2024 Flyff World Championship PvP Competition.,Remportez la compétition PvP du Flyff World Championship 2024.
 ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,2ᵉ place Arène FWC 2024
-ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Obtenez la deuxième place de la compétition PvP du Flyff World Championship 2024.
+ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the 2024 Flyff World Championship PvP Competition.,Obtenez la deuxième place de la compétition PvP du Flyff World Championship 2024.
 ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,3ᵉ place Arène FWC 2024
-ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Obtenez la troisième place de la compétition PvP du Flyff World Championship 2024.
+ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the 2024 Flyff World Championship PvP Competition.,Obtenez la troisième place de la compétition PvP du Flyff World Championship 2024.
 ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,Finaliste de l’Arène FWC 2024
-ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Participez aux finales PvP du Flyff World Championship 2024.
+ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate in the 2024 Flyff World Championship PvP Finals.,Participez aux finales PvP du Flyff World Championship 2024.
 ACHIEVEMENT_MASTER125_NAME,Hero 125 - 140,Héros 125 - 140
-ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest,Terminez la deuxième quête de héros.
+ACHIEVEMENT_MASTER125_DESC,Complete the second Hero Quest.,Terminez la deuxième quête de héros.
 ACHIEVEMENT_MASTER140_NAME,Hero 140 - 160,Héros 140 - 160
-ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest,Terminez la troisième quête de héros.
+ACHIEVEMENT_MASTER140_DESC,Complete the third Hero Quest.,Terminez la troisième quête de héros.
 ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Cadeau de Noël pour tous les Flyffers
-ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Connectez-vous chaque jour pendant 30 minutes et recevez des récompenses !
+ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Connectez-vous chaque jour pendant 30 minutes et recevez des récompenses !
 ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Invasion de Noël
-ACHIEVEMENT_ATTENDANCE_NAME,Attendance Event,Événement de présence
-ACHIEVEMENT_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Connectez-vous chaque jour pendant 40 minutes et recevez des récompenses !
+ACHIEVEMENT_ATTENDANCE_NAME,Playtime Event,Événement de présence
+ACHIEVEMENT_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Connectez-vous chaque jour pendant 40 minutes et recevez des récompenses !
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,Jour 1
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,Jour 2
 ACHIEVEMENT_ATTENDANCE_LVL3,Day 3,Jour 3
@@ -1229,44 +1229,44 @@ ACHIEVEMENT_EASTER_EGG_5,Gather 5 Easter Eggs,Rassembler 5 œufs de Pâques
 ACHIEVEMENT_EASTER_EGG_10,Gather 10 Easter Eggs,Rassembler 10 œufs de Pâques
 ACHIEVEMENT_EASTER_EGG_15,Gather 15 Easter Eggs,Rassembler 15 œufs de Pâques
 ACHIEVEMENT_EASTER_EGG_20,Gather 20 Easter Eggs,Rassembler 20 œufs de Pâques
-ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Attendance,Présence pour le 3ᵉ anniversaire
+ACHIEVEMENT_3RD_ANNIV_ATTENDANCE,3rd Anniversary Daily Login,Présence pour le 3ᵉ anniversaire
 ACHIEVEMENT_FWC_2025_BEGINNER_NAME,2025 FWC Beginner,2025 FWC Débutant
 ACHIEVEMENT_FWC_2025_BRAWLER_NAME,2025 FWC Brawler,2025 FWC Combattant
 ACHIEVEMENT_FWC_2025_WARRIOR_NAME,2025 FWC Warrior,2025 FWC Guerrier
 ACHIEVEMENT_FWC_2025_SAVIOR_NAME,2025 FWC Savior,2025 FWC Sauveur
-ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the Flyff World Championship.,Atteindre le niveau 140 dans le Championnat du Monde Flyff
+ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Championship.,Atteindre le niveau 140 dans le Championnat du Monde Flyff
 ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 FWC Seigneur
-ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the Flyff World Championship.,Atteindre le niveau 150 dans le Championnat du Monde Flyff
+ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,Atteindre le niveau 150 dans le Championnat du Monde Flyff
 ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC Maître
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!,Utiliser le coupon de présence supplémentaire FWC pour obtenir des récompenses.\nVous pouvez obtenir l’objet via la récompense gratuite du Pass Championnat FWC 2025 !
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,Utiliser le coupon de présence supplémentaire FWC pour obtenir des récompenses.\nVous pouvez obtenir l’objet via la récompense gratuite du Pass Championnat FWC 2025 !
 ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Champion du Colisée
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Remporter la compétition PvE du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Remporter la compétition PvE du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC Colisée 2ᵉ
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Obtenir la 2ᵉ place de la compétition PvE du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Obtenir la 2ᵉ place de la compétition PvE du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC Colisée 3ᵉ
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Obtenir la 3ᵉ place de la compétition PvE du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Obtenir la 3ᵉ place de la compétition PvE du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC Participant du Colisée
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Participer à la compétition PvE du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Participer à la compétition PvE du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Champion de l’Arène
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Remporter la compétition PvP du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Remporter la compétition PvP du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Arène 2ᵉ
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Obtenir la 2ᵉ place de la compétition PvP du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Obtenir la 2ᵉ place de la compétition PvP du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Arène 3ᵉ
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Obtenir la 3ᵉ place de la compétition PvP du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Obtenir la 3ᵉ place de la compétition PvP du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Finaliste de l’Arène
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Participer aux finales PvP du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Participer aux finales PvP du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Participant de l’Arène
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvP Qualifications.,Participer aux qualifications PvP du Championnat du Monde Flyff 2025
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Participer aux qualifications PvP du Championnat du Monde Flyff 2025
 ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC Gros Joueur
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,The honorable title awarded to the player who earned the most Champion Coins across all servers.,Titre honorifique décerné au joueur ayant obtenu le plus de Pièces de Champion sur tous les serveurs
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky streak,2025 FWC Série Chanceuse
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,The honorable title awarded to the player who almost earned the most Champion Coins across all servers.,Titre honorifique décerné au joueur ayant presque obtenu le plus de Pièces de Champion sur tous les serveurs
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,Titre honorifique décerné au joueur ayant obtenu le plus de Pièces de Champion sur tous les serveurs
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC Série Chanceuse
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,Titre honorifique décerné au joueur ayant presque obtenu le plus de Pièces de Champion sur tous les serveurs
 ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Baleine
-ACHIEVEMENT_FWC_2025_WHALE_DESC,The title awarded to the player who earned the most Champion Coins within their own server.,Titre décerné au joueur ayant obtenu le plus de Pièces de Champion sur son serveur
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,Titre décerné au joueur ayant obtenu le plus de Pièces de Champion sur son serveur
 ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC Malchanceux
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,The title awarded to the player who spent many FWC Coins but earned the fewest Champion Coin within their own server.,Titre décerné au joueur ayant dépensé beaucoup de Pièces FWC mais obtenu le moins de Pièces de Champion sur son serveur
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,Titre décerné au joueur ayant dépensé beaucoup de Pièces FWC mais obtenu le moins de Pièces de Champion sur son serveur
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Streamer Partenaire
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,The title awarded to the partner streamers during the FWC 2025.,Titre décerné aux streamers partenaires lors du FWC 2025
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Titre décerné aux streamers partenaires lors du FWC 2025
 ACHIEVEMENT_UPGRADE_1,Upgrade +1,Amélioration +1
 ACHIEVEMENT_UPGRADE_2,Upgrade +2,Amélioration +2
 ACHIEVEMENT_UPGRADE_3,Upgrade +3,Amélioration +3
@@ -1278,25 +1278,25 @@ ACHIEVEMENT_UPGRADE_8,Upgrade +8,Amélioration +8
 ACHIEVEMENT_UPGRADE_9,Upgrade +9,Amélioration +9
 ACHIEVEMENT_UPGRADE_10,Upgrade +10,Amélioration +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Héros 160 - 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest,Compléter la quatrième quête Héros
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Attendance,Présence mise à jour 1.5
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Connectez-vous chaque jour pendant 40 minutes et recevez des récompenses !
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Compléter la quatrième quête Héros
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,Présence mise à jour 1.5
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Connectez-vous chaque jour pendant 40 minutes et recevez des récompenses !
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Vers Eillun
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests and earn rewards during the event!,Compléter les quêtes principales et obtenir des récompenses pendant l’événement !
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Compléter les quêtes principales et obtenir des récompenses pendant l’événement !
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Travailleurs de Kaillun
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun and earn rewards during the event!,Compléter les quêtes journalières à Kaillun et obtenir des récompenses pendant l’événement !
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Compléter les quêtes journalières à Kaillun et obtenir des récompenses pendant l’événement !
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Compléter les quêtes journalières de Kaillun 10 fois
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Compléter les quêtes journalières de Kaillun 20 fois
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Compléter les quêtes journalières de Kaillun 30 fois
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Compléter les quêtes journalières de Kaillun 45 fois
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Compléter les quêtes journalières de Kaillun 60 fois
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Explorer l’Asile d’Ankou
-ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and defeat Ankou to earn rewards during the event!,Relevez le défi d’un nouveau donjon et battez Ankou pour obtenir des récompenses pendant l’événement !
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,Explorer l’asile d’Ankou
+ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,Relevez le défi d’un nouveau donjon et battez Ankou pour obtenir des récompenses pendant l’événement !
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Vaincre Ankou
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Vaincre l’Ankou enflammé
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Vaincre l’Ankou démoniaque
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Événement de Synthèse de Joyaux Ultimes
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Synthétiser les Joyaux Ultimes et obtenir des récompenses pendant l’événement !
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,Synthétiser les Joyaux Ultimes et obtenir des récompenses pendant l’événement !
 ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Niveau Spécialiste 1
 ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Niveau Spécialiste 2
 ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Niveau Spécialiste 3

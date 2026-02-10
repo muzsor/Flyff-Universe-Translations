@@ -1339,12 +1339,12 @@ PROPQUEST_INC_110067,We must defeat more than that.,Nous devons vaincre plus de 
 PROPQUEST_INC_110068,"Our barrier is safe for now, but there appears to be another army approaching much closer now. This one is a far graver threat than any we have ever faced.","Notre barrière est sûre pour le moment, mais une autre armée s'approche à grande vitesse maintenant. Il s'agit d'une plus grande menace que toutes les précédentes."
 PROPQUEST_INC_110069,We must prepare for this battle. Speak to Auxilior as soon as possible.,Nous devons nous préparer pour cette bataille. Parlez à Auxilior dès que possible.
 PROPQUEST_INC_110070,There is no time to waste. We must strengthen our magic barrier and gather materials. Slay some Augu and gather what little Crystal Essence they may have shared from the Glacial Augu.,Il n'y a pas de temps à perdre. Nous devons renforcer notre barrière magique et récupérer des matériaux. Allez tuer des Augu et récupérez de l'Essence de Cristal qu'ils ont pu obtenir de l'Augu Glacial.
-PROPQUEST_INC_110071,"Once you do, bring us a hammer from a Lord Yetti. This is a formidable weapon that we can use to defend ourselves.",Une fois que ce sera fait, rapporte-nous un marteau de Seigneur Yetti. C’est une arme redoutable que nous pourrons utiliser pour nous défendre
+PROPQUEST_INC_110071,"Once you do, bring us a hammer from a Lord Yetti. This is a formidable weapon that we can use to defend ourselves.","Une fois que ce sera fait, rapporte-nous un marteau de Seigneur Yetti. C’est une arme redoutable que nous pourrons utiliser pour nous défendre"
 PROPQUEST_INC_110072,Prepare for Battle! (1),"Aux armes, citoyens ! (1)"
 PROPQUEST_INC_110073,Let's go then.,"Bien, allons-y."
 PROPQUEST_INC_110074,It's time to face off against the Mammoths. The most fearsome and terrible creature I have ever laid my eyes upon in this place.,Il est temps de confronter les Mammouths. Ce sont les créatures les plus effrayantes et terribles que j'aie pu voir ici.
 PROPQUEST_INC_110075,This will not be an easy battle. May Rhisis be with you.,Cette bataille ne sera pas facile. Que Rhisis vous protège.
-PROPQUEST_INC_110076,"Kill 100 Cannibal Mammoths and last but not least, the Lord Mammoth. ",Tuez 100 Mammouths cannibales et, pour finir, le Seigneur Mammouth.
+PROPQUEST_INC_110076,"Kill 100 Cannibal Mammoths and last but not least, the Lord Mammoth. ","Tuez 100 Mammouths cannibales et, pour finir, le Seigneur Mammouth."
 PROPQUEST_INC_110077,You are truly a great warrior and an even greater friend. We owe our lives to you.,Vous êtes véritablement un guerrier d'exception et un ami estimé. Nous vous devons nos vies.
 PROPQUEST_INC_110078,We must battle on. I believe in you.,Nous devons continuer de nous battre. Je crois en vous.
 PROPQUEST_INC_110079,"We are safe now. I know this may not be much, but take this as a sign of our appreciation. You will always be remembered here.","Nous sommes en sécurité pour le moment. Je sais que ce n'est pas grand chose, mais prenez ceci en gage de notre gratitude. Nous ne vous oublierons jamais."
@@ -1748,7 +1748,7 @@ PROPQUEST_INC_132045,Wonderful! The $QUEST_END_ITEM_NAME$ is said to swim near Z
 PROPQUEST_INC_132046,You've found the $QUEST_END_ITEM_NAME$! Surely your love will be blessed to last forever.,Vous avez trouvé le $QUEST_END_ITEM_NAME$ ! Votre amour sera sûrement béni pour durer éternellement.
 PROPQUEST_INC_132047,"I don't see the $QUEST_END_ITEM_NAME$. If you have trouble finding it, search near Zaoma in the Leren Mountains.","Je ne vois pas le $QUEST_END_ITEM_NAME$. Si vous avez du mal à le trouver, cherchez près de Zaoma dans les Montagnes Leren."
 PROPQUEST_INC_132048,Bring $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!,Ramenez-moi le $QUEST_END_ITEM_NAME$ pour prouver la force de votre amour !
-PROPQUEST_INC_132049,Kill Giggleboxes,Tuez les Gigglebox
+PROPQUEST_INC_132049,Kill Giggle Boxes,Tuez les Gigglebox
 PROPQUEST_INC_132084,Kill Trangfoma,Tuez les Trangfoma
 PROPQUEST_INC_132085,Kill Doridoma,Tuez les Doridoma
 PROPQUEST_INC_132052,Kill Scorpicon,Tuez les Scorpic
@@ -2156,7 +2156,7 @@ PROPQUEST_INC_150103,"I can’t thank you enough for your help. While you were g
 PROPQUEST_INC_150104,Gather 10 Abandoned Serial Number Chains,Rassemblez 10 Chaînes de Numéro de Série Abandonnées
 PROPQUEST_INC_150105,Proficiency Test,Test de Compétence
 PROPQUEST_INC_150106,"Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it.","Hé ! Halte ! Qui êtes-vous ? …Quelle histoire. Suspicieux. Seriez-vous un espion Lycan ? Sinon, prouvez-le."
-PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.","Vainquez 20 Lawolf des Plaines et alors je vous croirai."
+PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.",Vainquez 20 Lawolf des Plaines et alors je vous croirai.
 PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,Hmph ! Je le savais. Vous devez être un espion !
 PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,Quoi ? Vous n’êtes même pas capable de ça ? Pathétique. Je ne peux pas vous laisser entrer dans le village ainsi.
 PROPQUEST_INC_150110,(Hmm… seems stronger than me…),(Hmm… semble plus fort que moi…)
@@ -2333,7 +2333,7 @@ PROPQUEST_INC_150280,"Ha, they barely know me better than some stranger, and now
 PROPQUEST_INC_150281,"Ugh, fine, whatever. Yeah, I’ve been hanging out with the wolves. The other kids here don’t get me, and this village is doomed sooner or later. What’s the point? If you want to drag me back, then deal with all my friends first.","Ugh, très bien, peu importe. Oui, j’ai traîné avec les loups. Les autres enfants ici ne me comprennent pas, et ce village est condamné tôt ou tard. À quoi bon ? Si tu veux me ramener, alors occupe-toi d’abord de tous mes amis."
 PROPQUEST_INC_150282,Hah! Chickened out already?,Hah ! Tu as déjà eu peur ?
 PROPQUEST_INC_150283,"If you can’t do it, just pretend you never saw me and walk away.","Si tu ne peux pas le faire, fais comme si tu ne m’avais jamais vu et pars."
-PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,J-Je suis désolé… Juste… s’il te plaît, ne me fais pas de mal…
+PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,"J-Je suis désolé… Juste… s’il te plaît, ne me fais pas de mal…"
 PROPQUEST_INC_150285,Kill 5 Captain Kyouchish and obtain 1 “Lycan Orders”,Tuez 5 Capitaines Garde Lycan et obtenez 1 « Ordres Lycan »
 PROPQUEST_INC_150286,A Good Friend Is… 3,Un Bon Ami Est… 3
 PROPQUEST_INC_150287,W-What? I said I was wrong already. What now? You want me to read this?,Q-Quoi ? J’ai déjà dit que j’avais tort. Et maintenant ? Tu veux que je lise ça ?
@@ -2569,7 +2569,7 @@ PROPQUEST_INC_150516,Now I can finally rest easy until the next ship arrives. Th
 PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,Tuez 30 Capitaines Garde Lycan
 PROPQUEST_INC_150518,Honor of a Warrior 1,Honneur d’un Guerrier : Bataille acharnée
 PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?","Si vous vous appelez guerrier de Kaillun, abattre des Lawolf des Plaines n’est qu’un échauffement. Voulez-vous vous prouver ?"
-PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.","Très bien alors. Occupez-vous de ces bêtes et revenez."
+PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.",Très bien alors. Occupez-vous de ces bêtes et revenez.
 PROPQUEST_INC_150521,"If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth.","Si c’est trop, ne vous forcez pas. Nettoyer les imbéciles imprudents demande plus de travail que ça ne vaut."
 PROPQUEST_INC_150522,Good. This shouldn’t take you long.,Bien. Cela ne devrait pas vous prendre longtemps.
 PROPQUEST_INC_150523,Great job. Now I can truly call you a warrior.,Excellent travail. Maintenant je peux vraiment vous appeler guerrier.

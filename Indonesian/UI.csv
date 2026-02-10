@@ -325,28 +325,28 @@ UI_MESSENGER_HARDPLAY,Addict Mode,Addict Mode
 UI_MESSENGER_REST,Resting / Vending,Resting / Vending
 UI_MESSENGER_EAT,Eating,Eating
 UI_MESSENGER_MOVE,Moving,Moving
-UI_MESSENGER_FRIEND,Friend,Friend
+UI_MESSENGER_FRIEND,Friend,Teman
 UI_MESSENGER_SORT_CHANNEL,Ch.,Ch.
 UI_MESSENGER_SORT_STATE,State,State
 UI_MESSENGER_SORT_LEVEL,Level,Level
 UI_MESSENGER_SORT_NAME,Name,Nama
 UI_MESSENGER_SORT_JOB,Job,Job
 UI_INSTANTMSG_JOIN,has logged into the game.,telah masuk ke dalam game.
-UI_OPTION_JOIN_NOTIFICATION,Message alarm,Message alarm
-UI_MESSENGER_MENU_MESSAGE,Message,Message
+UI_OPTION_JOIN_NOTIFICATION,Message alarm,Pesan Alarm
+UI_MESSENGER_MENU_MESSAGE,Message,Pesan
 UI_MESSENGER_MENU_UNBLOCK,Unblock,Unblock
 UI_MESSENGER_MENU_BLOCK,Block,Block
 UI_MESSENGER_MENU_DELETE,Delete,Hapus
 UI_MESSENGER_MENU_MOVE,Move,Move
-UI_MESSENGER_MENU_TAGSEND,Send a memo,Send a memo
+UI_MESSENGER_MENU_TAGSEND,Send a memo,Kirim Memo
 UI_MESSENGER_ADD_FRIEND,Add a new friend,Tambahkan teman baru
 UI_ADDFRIEND_TITLE,Add friend,Tambah teman
-UI_ADDFRIEND_NAME,Enter Player Name,Enter Player Name
-UI_READMEMO_TITLE,Message Window,Message Window
+UI_ADDFRIEND_NAME,Enter Player Name,Masukkan Nama Pemain
+UI_READMEMO_TITLE,Message Window,Pesan Jendela
 UI_SENDMEMO_TITLE,Message Sending Window,Message Sending Window
 UI_POST_TITLE,Post,Post
-UI_POST_TAB_SEND,Send Mail,Send Mail
-UI_POST_TAB_RECEIVE,Inbox,Inbox
+UI_POST_TAB_SEND,Send Mail,Kirim Mail
+UI_POST_TAB_RECEIVE,Inbox,Kotak Masuk
 UI_OPTION_UISCALE,Scale,Scale
 UI_OPTION_TEXTSCALE,Font Size,Font Size
 UI_IGNORELIST_TITLE,Ignore List,Ignore List
@@ -382,9 +382,9 @@ UI_POSTREAD_MAILEXPIRED,Mail Expired,Mail Expired
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s penya to recover it.,Email ini kedaluwarsa %d hari yang lalu. Kamu harus membayar %s penya untuk memulihkannya.
 UI_QUEST_CANCEL,Remove quest,Hapus quest
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,Batalkan Quest yang Sedang Berlangsung
-UI_QUEST_ALLQUESTS,All Quests,All Quests
+UI_QUEST_ALLQUESTS,All Quests,Semua Quest
 UI_QUEST_INPROGRESS,In Progress,In Progress
-UI_QUEST_COMPLETED,Completed,Completed
+UI_QUEST_COMPLETED,Completed,Selesai
 UI_QUEST_LIST,Quest List,Quest List
 UI_QUEST_DETAIL,Quest Details,Quest Details
 UI_QUEST_REWARDS,Reward List,Reward List
@@ -409,8 +409,8 @@ UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,Waktu Tersisa: #b%d menit#nb
 UI_QUEST_LIMIT_TIMEOUT,#bYou exceeded the time limit#nb,#bKamu melampaui batas waktu#nb
 UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,Kalahkan %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_ITEM,%s #cffc32f07#b%d/%d#nb#nc,%s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PATROL,%s Search,%s Search
-UI_QUEST_COMPLETE_TEXT,[Complete],[Complete]
+UI_QUEST_PATROL,%s Search,%s Cari
+UI_QUEST_COMPLETE_TEXT,[Complete],[Selesai]
 UI_QUEST_NODISGUISE,Transformed into a human,Berubah menjadi manusia
 UI_QUEST_DISGUISE,Transformed into %s,Diubah menjadi %s
 UI_QUEST_SKILLLVL,%s Skill Level #b(%d/%d)#nb,%s Skill Level #b(%d/%d)#nb
@@ -501,7 +501,7 @@ UI_GUILDINVITE_TITLE,Invite to Guild,Invite to Guild
 UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Do you accept?,%s mengundang kamu untuk bergabung dengan guild %s. Apakah kamu menerima?
 UI_GUILD_JOINQUESTION,%s wants to join your guild. Do you accept?,%s ingin bergabung dengan guildmu. Apakah kamu menerima?
 UI_GUILDBANK_TITLE,Guild Safebox,Guild Safebox
-UI_GUILDBANK_SUPPORT,Support,Support
+UI_GUILDBANK_SUPPORT,Support,Dukungan
 UI_GUILDBANK_CLOAK,Cloak,Cloak
 UI_GUILDBANK_ITEM,Item,Item
 UI_GUILDMERIT_TITLE,Guild Contributing,Guild Contributing
@@ -513,7 +513,7 @@ UI_GUILDBANKLOG_ADDITEM,Add Item,Add Item
 UI_GUILDBANKLOG_REMOVEITEM,Remove Item,Remove Item
 UI_GUILDBANKLOG_ADDGOLD,Deposit Penya,Deposit Penya
 UI_GUILDBANKLOG_REMOVEGOLD,Withdraw Penya,Withdraw Penya
-UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Add
+UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,Tambah
 UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,Remove
 UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,Deposit Penya
 UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,Withdraw Penya
@@ -545,7 +545,7 @@ UI_GUILD_WAR_WON,Won:,Won:
 UI_GUILD_WAR_LOST,Lost:,Lost:
 UI_GUILD_WAR_GAVEUP,Gave Up:,Gave Up:
 UI_GUILD_WAR_TIMELEFT,Time Left:,Time Left:
-UI_OPTION_THEME,Theme,Theme
+UI_OPTION_THEME,Theme,Tema
 UI_HOME_PROLOGUE,Prologue,Prologue
 UI_SKILL_PLUS_TIP,Upgrade Skill Level,Tingkatkan Tingkat Skill
 UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
@@ -559,7 +559,7 @@ UI_WARNING,Warning,Warning
 UI_SKILL_CONFIRM_QUESTION,Confirm changes to skill points?,Konfirmasikan perubahan pada skill poin?
 UI_OPTION_VIBRATIONS,Vibrations,Vibrations
 UI_INVENTORY_SORT,Sort Item,Sort Item
-UI_ITEM_DURATION_TITLE,Item Duration,IDurasi Item
+UI_ITEM_DURATION_TITLE,Item Duration,Durasi Item
 UI_ITEM_DURATION_TIME_LEFT,Time Left,Waktu tersisa
 UI_QUERY_EQUIP_TITLE,View,View
 UI_OPTION_EQUIP_VIEW,Equipment View,Equipment View
@@ -572,15 +572,15 @@ UI_DROP_FILTER_SETTINGS,Pick Up item settings,Ambil pengaturan item
 UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
 UI_DROP_FILTER_0,Weapons,Weapons
 UI_DROP_FILTER_1,Armor,Armor
-UI_DROP_FILTER_2,Accessory,Accessory
+UI_DROP_FILTER_2,Accessory,Aksesori
 UI_DROP_FILTER_3,Power Dice,Power Dice
 UI_DROP_FILTER_4,Mineral,Mineral
-UI_DROP_FILTER_5,Element Card,Element Card
-UI_DROP_FILTER_6,Socket Card,Socket Card
+UI_DROP_FILTER_5,Element Card,Kartu Element
+UI_DROP_FILTER_6,Socket Card,Kartu Soket
 UI_DROP_FILTER_7,Quest,Quest
 UI_DROP_FILTER_8,Booty,Booty
 UI_DROP_FILTER_CAT_MATERIAL,Material ,Material
-UI_DROP_FILTER_9,Food,Food
+UI_DROP_FILTER_9,Food,Makanan
 UI_DROP_FILTER_10,FP Potion,FP Potion
 UI_DROP_FILTER_11,Buff,Buff
 UI_DROP_FILTER_12,Pet,Pet
@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Menggunakan: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Tidak ada batas waktu
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Waktu Tunggu untuk digunakan kembali: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Konfirmasi Kebangkitan
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Pemain lain sedang mencoba untuk membangkitkan kamu. Apakah kamu ingin dibangkitkan?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Mengatur Efek
 UI_TOOLTIP_BLOCKRATE,Block,Block
 UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
@@ -632,15 +632,15 @@ UI_PRIVATE_SHOP_UNIT_PRICE,Unit price,Harga Unit
 UI_PRIVATE_SHOP_OPEN,Will you open your shop?,Apakah kamu akan membuka tokomu?
 UI_PRIVATE_SHOP_CLOSE,Will you close your shop?,Apakah kamu akan menutup tokomu?
 UI_PERSONAL_SHOP_TITLE,%s's Private Shop,Toko Pribadi %s
-UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Buy Item
+UI_PRIVATE_SHOP_BUY_TITLE,Buy Item,Beli Item
 UI_PRIVATE_SHOP_BUY,Purchase,Purchase
 UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Total Cost
 UI_PERSONAL_SHOP_CHAT_TITLE,Chatting,Chatting
 UI_PERSONAL_SHOP_CHAT_USER,User,User
-UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Message
+UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Pesan
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Input
 UI_PERSONAL_SHOP_CHAT_DIALOG,Dialog,Dialog
-UI_PERSONAL_SHOP_CHAT_INFO,Information,Information
+UI_PERSONAL_SHOP_CHAT_INFO,Information,Informasi
 UI_PERSONAL_SHOP_CHAT_SEND,Send,Kirim
 UI_PERSONAL_SHOP_JOIN,%s has just logged in.,%s baru saja logged in.
 UI_PERSONAL_SHOP_LEAVE,%s has disconnected.,%s telah disconnected.
@@ -648,14 +648,14 @@ UI_PERSONAL_SHOP_SALE,Character: %s has purchased %s(%d) for %lld penya.,"Karakt
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,Konfirmasi Penjualan Item Premium
 UI_CONFIRM_SELL_PREMIUM_MSG,"This is a Premium Item. Are you sure?\nOnce it is sold, it cannot be recovered.","Ini adalah Barang Premium. Apakah kamu yakin?\nSetelah dijual, itu tidak dapat dipulihkan."
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Soul-Linked]
-UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],Account-Linked]
+UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Linked]
 UI_BEAUTY_SHOP_TITLE,Hair Shop,Toko Rambut
 UI_BEAUTY_SHOP_RESET,Reset,Reset
-UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Hair Color
-UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Hair Style
+UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Warna Rambut
+UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Gaya Rambut
 UI_BEAUTY_SHOP_PREVIEW,Preview,Preview
-UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Style Price:
-UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Color Price:
+UI_BEAUTY_SHOP_STYLE_PRICE,Style Price:,Harga Gaya:
+UI_BEAUTY_SHOP_COLOR_PRICE,Color Price:,Harga Warna:
 UI_BEAUTY_SHOP_TOTAL_PRICE,Total:,Total:
 UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,Confirm Purchase
 UI_OPTION_TRADE,Trade Requests,Permintaan Transaksi
@@ -702,7 +702,7 @@ UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Hapus Element upgrading
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirm Removal
 UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,"Upgrading element dari Weapon akan dihapus dan 1,000,000 Penya akan dibayarkan dari inventory."
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Kamu dapat menggunakan item Premium.
-UI_REVIVAL_REVIVAL,Original Place,Original Place
+UI_REVIVAL_REVIVAL,Original Place,Tempat Asli
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,Kamu akan dihidupkan tepat dimana kamu mati.
 UI_COMMITEM_DIALOG_TITLE,Use Item,Gunakan Item
 UI_RESTATE_CONFIRM_TITLE,Confirm Re-Stat,Setuju Re-Stat
@@ -716,13 +716,13 @@ UI_RESTATE_CONFIRM_STA_LOW,50 Stamina (STA) points will be refunded to you. Do y
 UI_RESTATE_CONFIRM_DEX_LOW,50 Dexterity (DEX) points will be refunded to you. Do you want to continue?,50 poin Dexterity (DEX) akan dikembalikan padamu. Apakah kamu ingin melanjutkannya?
 UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be refunded to you. Do you want to continue?,50 poin Intelligence (INT) akan dikembalikan padamu. Apakah kamu ingin melanjutkannya?
 UI_OPTION_BATTLEBGM,Battle Music,Battle Music
-UI_OPTION_VOICES,Japanese Voices,Japanese Voices
+UI_OPTION_VOICES,Japanese Voices,Suara Jepang
 UI_PK_CONFIRM_TITLE,P.K,P.K
 UI_PK_CONFIRM,You are about to commit a crime. Do you attack?,Kamu akan melakukan tindakan kriminal. Lanjutkan serangan?
-UI_BANK_ENTERPASS_TITLE,Bank Password,Bank Password
+UI_BANK_ENTERPASS_TITLE,Bank Password,Kata Sandi Bank
 UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 Digits),Masukkan PIN Bank (4 Digit)
 UI_BANK_ENTERPASS_PIN,PIN,PIN
-UI_BANK_ENTERPASS_CHANGE,Change,Change
+UI_BANK_ENTERPASS_CHANGE,Change,Ganti
 UI_BANK_CHANGEPASS_TITLE,Bank PIN,Bank PIN
 UI_BANK_CHANGEPASS_MSG,Set/Change Bank PIN (4 Digits),Atur/Ubah Pin Bank (4 Digit)
 UI_BANK_CHANGEPASS_OLD,Old PIN:,PIN Lama:
@@ -745,8 +745,8 @@ UI_CASHSHOP_GSC,General Sales Conditions,General Sales Conditions
 UI_CASHSHOP_SHOWALL,Show All,Semua
 UI_CASHSHOP_SEARCH,Search:,Cari:
 UI_CASHSHOP_SORT_DEFAULT,Default,Default
-UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Name (A - Z)
-UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Name (Z - A)
+UI_CASHSHOP_SORT_NAME_ASC,Name (A - Z),Nama (A - Z)
+UI_CASHSHOP_SORT_NAME_DESC,Name (Z - A),Nama (Z - A)
 UI_CASHSHOP_SORT_PRICE_ASC,Price (Low > High),Harga (Rendah > Tinggi)
 UI_CASHSHOP_SORT_PRICE_DESC,Price (High > Low),Harga (Tinggi > Rendah)
 UI_CASHSHOP_ITEMCOUNT,#b%d#nb items in the category.,#b%d#nb item dalam kategori.
@@ -1054,16 +1054,16 @@ UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Cooldown: %.2d:%.2d (PVP)
 UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Casting Time: %.2d:%.2d
 UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
-UI_NEWCHAR_FACE,Face,Face
-UI_NEWCHAR_HAIR,Hair,Hair
-UI_NEWCHAR_HAIR_COLOR,Hair Color,Hair Color
+UI_NEWCHAR_FACE,Face,Muka
+UI_NEWCHAR_HAIR,Hair,Rambut
+UI_NEWCHAR_HAIR_COLOR,Hair Color,Warna Rambut
 UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press the Scroll Lock Key to toggle.,%dX Zoom. Tekan Tombol Scroll Lock untuk beralih.
 UI_KEYBIND_CHAR_CONTROL,Movement Keys,Movement Keys
 UI_KEYBIND_MOVE_FORWARD,Move Forward,Move Forward
 UI_KEYBIND_MOVE_BACKWARD,Move Backward,Move Backward
 UI_KEYBIND_TURN_LEFT,Turn Left,Turn Left
 UI_KEYBIND_TURN_RIGHT,Turn Right,Turn Right
-UI_KEYBIND_JUMP,Jump,Jump
+UI_KEYBIND_JUMP,Jump,Lompat
 UI_KEYBIND_WALK,Toggle Run/Walk,Toggle Run/Walk
 UI_KEYBIND_SKILL_COMBO,Action Slot,Action Slot
 UI_KEYBIND_CLEAR_TARGET,Clear Target,Clear Target
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consumables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Play time
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Connection series
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Total connection
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Login Streak
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Login Rewards
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Achievement ini terikat pada akun Anda.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster untuk membunuh: %s.
@@ -1288,14 +1288,14 @@ UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Bua
 UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Apakah Anda akan membuat vendor?
 UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
 UI_TIMEINFO_TITLE,Info,Info
-UI_TIMEINFO_SERVER,Current Server,Current Server
-UI_TIMEINFO_TIME,Current Time,Current Time
-UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
-UI_TIMEINFO_SESSION,Session Duration,Session Duration
+UI_TIMEINFO_SERVER,Current Server,Server Saat Ini
+UI_TIMEINFO_TIME,Current Time,Waktu Saat Ini
+UI_TIMEINFO_CONNECTION,Connection Time,Waktu Koneksi
+UI_TIMEINFO_SESSION,Session Duration,Durasi Sesi
 UI_CHAT_TITLE,Chat,Chat
 UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Your Language
+UI_CHAT_VIEW_LANGUAGES,View Languages,Lihat Bahasa
+UI_CHAT_YOUR_LANGUAGE,Your Language,Bahasa Anda
 UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
 UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
 UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,Tidak ada lagi item untuk diperdagangkan! Stok kosong!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Peringkat Thief Santa Hunt
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Tetap online selama %s menit
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Kehadiran Natal
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Kehadiran Natal
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,Selesaikan misi Sinterklas setiap hari! Hanya selama Liburan Natal jadi jangan lewatkan satu hari pun!
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Tangkap Santa Pencuri!
 UI_APP_LOTTERY_START,Spin!,Spin!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,Dan %d lagi
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click atau Right Click untuk melihat isi.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click untuk melihat isi.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Tekan dan tahan tombol untuk melihat isi.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Total koneksi premium
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Total koneksi premium
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probabilitas
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Info probabilitas hadiah premium
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
@@ -2220,14 +2220,14 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
+UI_SUN,Sunday,Minggu
+UI_MON,Monday,Senin
+UI_TUE,Tuesday,Selasa
+UI_WED,Wednesday,Rabu
+UI_THU,Thursday,Kamis
+UI_FRI,Friday,Jumat
+UI_SAT,Saturday,Sabtu
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Informasi Kalgas Assault
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
 UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
@@ -2256,8 +2256,8 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time,
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
+UI_BLACK,Black,Hitam
+UI_WHITE,White,Putih
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
@@ -2330,24 +2330,24 @@ UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Privacy Policy
 UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
 UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
 UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Diperlukan) Silakan masukkan tanggal lahir kamu
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Diperlukan) Saya setuju
 UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
 UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates and updates about Flyff Universe and related services published on Flyff Universe,(Opsional) Saya setuju untuk menerima iklan dan pembaruan serta informasi terbaru tentang Flyff Universe dan layanan terkait yang dipublikasikan di Flyff Universe
 UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
 UI_SERVICE_AGREEMENT_EMAIL,Email,Email
-UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
+UI_SERVICE_AGREEMENT_PHONE,Phone,Telepon
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Apakah Anda penduduk California?
 UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Setuju Semua
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Silakan masukkan tanggal lahir yang valid.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Anda harus berusia minimal 16 tahun untuk memainkan permainan ini.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Silakan masukkan kode pos yang valid.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
@@ -2357,25 +2357,25 @@ UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
 UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
-UI_COUPON_CODE,Coupon Code,Coupon Code
+UI_COUPON_ENTER,Please enter your coupon code.,Silakan masukkan kode kupon Anda.
+UI_COUPON_CODE,Coupon Code,Kode Kupon
 UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Claim
 UI_COUPON_CODE_PAGE,Claim code ,Claim code 
 UI_COUPON_LOGS_PAGE,Used coupons ,Used coupons 
-UI_COUPON_LOGS_CODE,Code ,Code 
+UI_COUPON_LOGS_CODE,Code ,Kode 
 UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
+UI_MENU_SAVE,Save changes,Simpan perubahan
+UI_MENU_EDIT,Edit the menu,Edit menu
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Apakah kamu mengkonfirmasi?
+UI_DELETEACCOUNT_TITLE,Delete Account,Hapus Akun
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Kata sandi untuk menghapus akun\nMasukkan kata sandi
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Apakah Anda mengonfirmasi?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
@@ -2385,7 +2385,7 @@ UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
 UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
-UI_PARTY_READY_CHECK,Ready,Ready
+UI_PARTY_READY_CHECK,Ready,Siap
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
 UI_PARTY_READY_PROMPT,Are you ready?,Apakah kamu siap?
@@ -2402,8 +2402,8 @@ UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
 UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
 UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Seller
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Nama Item (A - Z)
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Nama Item (Z - A)
 UI_SEARCHSHOP_LOCATION,Show Location,Show Location
 UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
 UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
@@ -2421,7 +2421,7 @@ UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Nama Pemain
 UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nama
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
@@ -2431,7 +2431,7 @@ UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
 UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
 UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
 UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
-UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
+UI_PVPCONTEST_MANUALMATCH_READY,Ready,Siap
 UI_BATTLEPASS_BONUS,Bonus,Bonus
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Poin
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rank
@@ -2452,8 +2452,8 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Hari Ini)
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,TIDAK ADA
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
@@ -2477,7 +2477,7 @@ UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tourn
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
 UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalender
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rank
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Reward
@@ -2494,7 +2494,7 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rank
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Tanggal Terakhir
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Tidak ada
@@ -2529,7 +2529,7 @@ UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
 UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
 UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximum Skill Points
 UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Total Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
+UI_COUPLE_SINGLE,You are single.,Kamu masih lajang.
 UI_COUPLE_TABPARTNER,Partner,Partner
 UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
@@ -2577,7 +2577,7 @@ UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
 UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
+UI_LIFE_PRODUCTION_TAB,Production,Produksi
 UI_LIFE_TITLE,Life,Life
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
@@ -2611,18 +2611,18 @@ UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
 UI_WAITING,Waiting,Waiting
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
 UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Details,Details
+UI_LIFE_RECIPES_CATEGORY,Category,Kategori
+UI_LIFE_RECIPES_DETAILS,Details,Detail
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
+UI_LIFE_PRODUCTION_TITLE,Production,Produksi
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
 UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
-UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
-UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
+UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Komposisi
+UI_LIFE_RECIPE_CATEGORY_1,Drink,Minuman
 UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
 UI_ALL,All,All
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
@@ -2635,14 +2635,14 @@ UI_LIFE_MASTERY_ORDINALY_TREE,Tree that you can see anywhere. You can obtain Com
 UI_LIFE_MASTERY_REGULAR_TREE,Regular looking Tree. You can obtain Common-Uncommon Trees.,Regular looking Tree. You can obtain Common-Uncommon Trees.
 UI_LIFE_MASTERY_ORDINALY_ORE,Ore that you can see anywhere. You can obtain Common Ores.,Ore that you can see anywhere. You can obtain Common Ores.
 UI_LIFE_MASTERY_REGULAR_ORE,Regular looking Ore. You can obtain Common-Uncommon Ores.,Regular looking Ore. You can obtain Common-Uncommon Ores.
-UI_PRODUCTION_INGREDIENT,Ingredient,Ingredient
-UI_PRODUCTION_FOOD,Food,Food
+UI_PRODUCTION_INGREDIENT,Ingredient,Komposisi
+UI_PRODUCTION_FOOD,Food,Makanan
 UI_PRODUCTION_BUFF,Buff,Buff
-UI_PRODUCTION_DRINK,Drink,Drink
+UI_PRODUCTION_DRINK,Drink,Minuman
 UI_PRODUCTION_REFRESHER,Refresher,Refresher
 UI_PRODUCTION_PILL,Pill,Pill
 UI_PRODUCTION_FURNITURE,Furniture,Furniture
-UI_PRODUCTION_ACCESSORY,Accessory,Accessory
+UI_PRODUCTION_ACCESSORY,Accessory,Aksesori
 UI_PRODUCTION_COUPLERING,Couple Ring,Couple Ring
 UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
 UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Quality: %s
@@ -2675,7 +2675,7 @@ UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Smithing
 UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success Rate +%d%%
 UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
 UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Waktu Produksi:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
@@ -2788,7 +2788,7 @@ UI_TARGET_HEALTH,Health: ,Health:
 UI_TARGET_PENYA,- Penya: ,- Penya: 
 UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
 UI_MENU_REFRESH,Refresh,Refresh
-UI_MENU_MESSAGE,Message,Message
+UI_MENU_MESSAGE,Message,Pesan
 UI_MENU_SUMMON,Summon,Summon
 UI_MENU_KICK,Kick,Kick
 UI_MENU_SNOOP,Snoop,Snoop
@@ -3062,7 +3062,7 @@ UI_GENERIC_1,Setting 1,Setting 1
 UI_GENERIC_2,Setting 2,Setting 2
 UI_GENERIC_3,Setting 3,Setting 3
 UI_GENERIC_4,Setting 4,Setting 4
-UI_SBX_TIME,Time,Time
+UI_SBX_TIME,Time,Waktu
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
 UI_SSAO_SHD_STR,Strength,Strength
 UI_SSAO_SHD_MAX_D,Max Distance,Max Distance
@@ -3080,7 +3080,7 @@ UI_ATTR_LANDSCAPE,Landscapes: ,Landscapes:
 UI_ATTR_PING,Ping: ,Ping: 
 UI_ATTR_FPS,FPS: ,FPS: 
 UI_CCU,CCU,CCU
-UI_APP_ACCOUNT_TIP,Manage your account,Manage your account
+UI_APP_ACCOUNT_TIP,Manage your account,Kelola akun Anda
 UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3rd Anniversary Pass
 UI_BATTLEPASS_REPEAT,Repeat,Repeat
 UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Failure: #b%s#nb
@@ -3091,20 +3091,20 @@ UI_QUEST_CONSUMABLE_ITEM_COUNT,Number of Consumption Items Usage #cffc32f07#b%d/
 UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Personal statue created
 UI_FORCEWEEKLYLIFESTYLERESET,forceweeklylifestylereset,forceweeklylifestylereset
 UI_SHOP_REFRESH_IN,Refresh in,Refresh in
-UI_DAYS_MON,Mon,Mon
-UI_DAYS_TUE,Tue,Tue
-UI_DAYS_WED,Wed,Wed
-UI_DAYS_THU,Thu,Thu
-UI_DAYS_FRI,Fri,Fri
-UI_DAYS_SAT,Sat,Sat
-UI_DAYS_SUN,Sun,Sun
+UI_DAYS_MON,Mon,Sen
+UI_DAYS_TUE,Tue,Sel
+UI_DAYS_WED,Wed,Rab
+UI_DAYS_THU,Thu,Kam
+UI_DAYS_FRI,Fri,Jum
+UI_DAYS_SAT,Sat,Sab
+UI_DAYS_SUN,Sun,Min
 UI_SEARCHPARTY_LEVEL,Lv.,Lv.
 UI_RANKING_UNIT1,st,st
 UI_RANKING_UNIT2,nd,nd
 UI_RANKING_UNIT3,rd,rd
 UI_RANKING_UNIT4,th,th
-UI_KALGAS_BLACK,Black,Black
-UI_KALGAS_WHITE,White,White
+UI_KALGAS_BLACK,Black,Hitam
+UI_KALGAS_WHITE,White,Putih
 UI_KALGAS_TEAM,Team,Team
 UI_WARDROBE_NONE,None,Tidak ada
 UI_ACHIEVEMENT_SLOTS_N,slot(s),slot(s)
@@ -3124,14 +3124,14 @@ UI_PVPMATCHRECAP_LOSER,Loser,Loser
 UI_PVPMATCHRECAP_TOTAL,Total,Total
 UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Revolutionary's Secret Journal
 UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded.","The journal's pages were lost during attacks by monsters from around the world.\nIf you help recover its contents, you will surely be rewarded."
-UI_BTN_ADD_ALL,Add all,Add all
+UI_BTN_ADD_ALL,Add all,Tambah Semua
 UI_FULL_COLLECTION_REWARD,Full collection Reward,Full collection Reward
 UI_ADD_ALL_CONFIRM,The letters will be automatically registered in top-down order. Continue?,The letters will be automatically registered in top-down order. Continue?
 UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Item or Penya has been removed. Wait %d sec(s).
 UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
-UI_OPTION_MAIL_EVERYONE,Everyone,Everyone
-UI_OPTION_MAIL_FRIENDS,Friends,Friends
-UI_OPTION_MAIL_SYSTEM,System Only,System Only
+UI_OPTION_MAIL_EVERYONE,Everyone,Semua Orang
+UI_OPTION_MAIL_FRIENDS,Friends,Teman-teman
+UI_OPTION_MAIL_SYSTEM,System Only,Hanya Sistem
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Number of Consumption Items Usage,Number of Consumption Items Usage
@@ -3223,18 +3223,18 @@ UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Select batch synthes
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
+UI_TOOLTIP_SWD,Sword,Pedang
 UI_TOOLTIP_AXE,Axe,Axe
 UI_TOOLTIP_CHE,Stick,Stick
 UI_TOOLTIP_KNU,Knuckle,Knuckle
 UI_TOOLTIP_WAN,Wand,Wand
 UI_TOOLTIP_STA,Staff,Staff
 UI_TOOLTIP_YOY,Yo-Yo,Yo-Yo
-UI_TOOLTIP_BOW,Bow,Bow
+UI_TOOLTIP_BOW,Bow,Busur panah
 UI_TOOLTIP_MAGICBOTH,Wand or Staff,Wand or Staff
 UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo or Bow
 UI_TOOLTIP_SWAXE,Sword or Axe,Sword or Axe
-UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,Weapon
+UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,Senjata
 UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
 UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Additional Skill Page
 UI_SKILL_CHANGEPAGE_TOOLTIP,Swap skill pages.,Swap skill pages.
@@ -3247,7 +3247,7 @@ UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
 UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,Waktu:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Tutup
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

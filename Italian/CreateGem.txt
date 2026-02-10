@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Create Jewel #nb#nc
-Create jewels by dismantling weapons with a required level of 60 or higher. The number of jewels created depends on the weapon's upgrade level (+1 to +10) and required level. The success rate also depends on the weapon's upgrade level. #b#cffff0000If the conversion fails, the weapon is destroyed and no jewels are created.#nc#nb
+﻿#b#cff0000ff Crea Gioiello #nb#nc
+Crea gioielli smontando armi con un livello richiesto pari o superiore a 60. Il numero di gioielli creati dipende dal livello di potenziamento dell'arma (+1 a +10) e dal livello richiesto. Il tasso di successo dipende anche dal livello di potenziamento dell'arma. #b#cffff0000Se la conversione fallisce, l'arma viene distrutta e non vengono creati gioielli.#nc#nb

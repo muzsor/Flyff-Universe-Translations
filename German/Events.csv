@@ -1,46 +1,46 @@
 ﻿Key,English,German
-UI_EVENT_EXPBOOST,Exp Boost!,Exp Boost!
+UI_EVENT_EXPBOOST,EXP Boost!,EXP Boost!
 UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,Zubehör Aufrüsten!
 UI_EVENT_WEAPONPIERCING,Weapon Piercing!,Waffe sockeln!
-UI_EVENT_PARTYEXPBOOST,Party Exp Boost!,Gruppe-EXP-Boost!
+UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,Gruppe-EXP-Boost!
 UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,Finde den Goldenen Aibatt!
 UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,Töte das Goldene Aibatt in Dungeons und erhalte Drop Boni!
 UI_EVENT_NIGHTBOOST,Night Boost!,Nacht Boost!
-UI_EVENT_NIGHTBOOST_DESC,+30% Exp when it's night in game!,"+30% Exp, wenn es im Spiel Nacht ist!"
-UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 Exp!!,Es ist Nacht! x1.3 Exp!!
-UI_EVENT_NIGHTBOOST_DAY,"Sun is here, x1.3 Exp is over...","Die Sonne ist da, x1.3 Exp ist vorbei..."
+UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,"+30% Exp, wenn es im Spiel Nacht ist!"
+UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,Es ist Nacht! x1.3 Exp!!
+UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...","Die Sonne ist da, x1.3 Exp ist vorbei..."
 UI_EVENT_EASTER,Easter Event,Oster Event
 UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,"Beende Eggcellent's Meadow, um rosa Ostereier zu bekommen!"
 UI_EVENT_SPRING,Spring Event!,Frühlings-Event!
-UI_EVENT_DIAMONDINTHESKY,Diamond in the sky,Wie ein Diamant am Himmel
+UI_EVENT_DIAMONDINTHESKY,Diamond in the Sky,Wie ein Diamant am Himmel
 UI_EVENT_DIAMONDINTHESKY_DESC,Destroy the stars in the night sky to obtain star fragments!,"Zerstöre die Sterne am Nachthimmel, um Sternfragmente zu erhalten!"
-UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out.. Find them in the sky!,Die Nacht ist gekommen! Die Sterne kommen heraus... Finde sie am Himmel!
+UI_EVENT_DIAMONDINTHESKY_NIGHT,Night has come! The stars are coming out. Find them in the sky!,Die Nacht ist gekommen! Die Sterne kommen heraus... Finde sie am Himmel!
 UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing.","Die Nacht ist vorbei, die Sterne verschwinden."
 UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,Dungeon-Münzen-Rabatt!
 UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,"Gebt weniger Dungeon-Münzen aus, wenn ihr Missionen annehmt oder Dungeons betretet!"
-UI_EVENT_ANNIVERSARY,1 Year Anniversary!,1 Jahr Jubiläum!
-UI_EVENT_ANNIVERSARY_DESC,FlyFF Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 1 Jahr alt! Ein großes Dankeschön an alle unsere Spieler, die diesen Meilenstein möglich gemacht haben!"
-UI_EVENT_ANNIVERSARY_ATTENDANCE,1 Year Anniversary Attendance,1 Jahr Jubiläum Teilnahme
-UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Login each day for 40 minutes and receive rewards!,Melde dich jeden Tag für 40 Minuten an und erhalte Belohnungen!
+UI_EVENT_ANNIVERSARY,1st Anniversary!,1 Jahr Jubiläum!
+UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 1 Jahr alt! Ein großes Dankeschön an alle unsere Spieler, die diesen Meilenstein möglich gemacht haben!"
+UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,1 Jahr Jubiläum Teilnahme
+UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Melde dich jeden Tag für 40 Minuten an und erhalte Belohnungen!
 UI_EVENT_FWC,Flyff World Championship,Flyff Weltmeisterschaft
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,FWC Level Erreichen
 UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,Erreiche neue Level während des Events und erhalte Belohnungen! Nur auf dem Flyff World Weltmeisterschaft Server!
-UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear at the [FWC Manager] Ava to get more rewards!,"Tausche FWC-Ausrüstung bei Ava, der [FWC-Managerin], um weitere Belohnungen zu erhalten!"
-UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted Exp and Drops and attempt to win exceptional prizes!","Die #bFlyff Weltmeisterschaft#nb ist ein globaler Wettbewerb, der bis zum 7. September 2023 stattfindet. Tritt diesem Server mit erhöhter Exp und Drops bei und versuche, außergewöhnliche Preise zu gewinnen!"
+UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,"Tausche FWC-Ausrüstung bei Ava, der [FWC-Managerin], um weitere Belohnungen zu erhalten!"
+UI_EVENT_FWC_DESC,"The #bFlyff World Championship#nb is a global competition held until September 7th, 2023. Join this server with boosted EXP and Drops and compete for exceptional prizes!","Die #bFlyff Weltmeisterschaft#nb ist ein globaler Wettbewerb, der bis zum 7. September 2023 stattfindet. Tritt diesem Server mit erhöhter Exp und Drops bei und versuche, außergewöhnliche Preise zu gewinnen!"
 UI_EVENT_MOCOMOCHI,Mocomochi!,Mocomochi!
 UI_EVENT_UPGRADING,Upgrading!,Aufwerten!
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Glücksauslosung
-UI_EVENT_LUCKYCAPSULE_DESC,Earn coins by defeating monsters or completing quests for the Gacha Machine NPC and receive exceptional rewards!,"Verdiene Münzen, indem du Monster besiegst oder Quests für den Gacha Maschine NPC erledigst, und erhalte außergewöhnliche Belohnungen!"
+UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quests, then spend them at the Gacha Machine to receive exceptional rewards!","Verdiene Münzen, indem du Monster besiegst oder Quests für den Gacha Maschine NPC erledigst, und erhalte außergewöhnliche Belohnungen!"
 UI_EVENT_DROPBOOST,Drop Boost!,Drop Boost!
 UI_EVENT_SUITPIERCING,Suit Piercing!,Oberteil Sockeln!
 UI_EVENT_MUSICFESTIVAL,Flyff Music Festival!,Flyff Musik Festival!
-UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them to NPC Bach,Sammle Musiknoten und Notenrollen von Monstern und tausche sie bei NPC Bach ein.
+UI_EVENT_MUSICFESTIVAL_DESC,Collect Music Notes and Music Score Scrolls from monsters and exchange them with Bach.,Sammle Musiknoten und Notenrollen von Monstern und tausche sie bei NPC Bach ein.
 UI_EVENT_EXPBOOST_DESC_30,+30% Experience!,+30% Erfahrung!
 UI_EVENT_PARTYEXPBOOST_DESC_30,+30% Party Experience!,+30% Gruppen-Erfahrung!
-UI_EVENT_SECRETBOOST,Secret boost!,Geheimer Boost!
+UI_EVENT_SECRETBOOST,Secret Boost!,Geheimer Boost!
 UI_EVENT_RESCUE,Rescue Private Leo!,Rette den Gefreiten Löwe!
 UI_EVENT_STONERAIN,Stone Rain!,Steinregen!
-UI_EVENT_STONERAIN_DESC,Drop upgrade stones pieces!,Drop Upgrade Steinteile!
+UI_EVENT_STONERAIN_DESC,Monsters drop upgrade stone pieces!,Drop Upgrade Steinteile!
 UI_EVENT_LUCKYRPS,Lucky RPS Event,Lucky RPS Event
 UI_EVENT_SERVICEMIGRATION,September Connect,September Connect
 UI_EVENT_SURVEY,Player Survey! Aim for special rewards!,Spieler-Umfrage! Gewinne besondere Belohnungen!
@@ -53,12 +53,12 @@ UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,Halloween Weltbosse
 UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,Fangt den diebischen Weihnachtsmann
 UI_EVENT_NEWYEAR,New Year,Neujahr
 UI_EVENT_BOSSDROPBOOST,Boss Drop Boost!,Boss Drop Boost!
-UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop+20%!,Dungeon Boss Drop+20%!
+UI_EVENT_BOSSDROPBOOST_DESC_20,Dungeon Boss Drop Rate +20%!,Dungeon Boss Drop Rate +20%!
 UI_EVENT_WEATHERBOOST,Weather Boost!,Wetter Boost!
 UI_EVENT_13SURVEY,1.3 Update Survey! Aim for special rewards!,1.3 Umfrage aktualisieren! Holt euch besondere Belohnungen!
 UI_EVENT_ATTACK_OF_THE_SNOW_CLONES,Attack of the Snow Clones,Angriff der Schneeklone
 UI_EVENT_LETTER_COLLECTION,2024 Valentine's Day,2024 Valentinstag
-UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!!!,"Tausche mit einem Freund oder einer Freundin Buchstaben aus, um die unten stehenden Sätze zu vervollständigen!!!"
+UI_EVENT_LETTER_COLLECTION_DESC,Exchange letters with a loved one or friend to complete the phrases below!,"Tausche mit einem Freund oder einer Freundin Buchstaben aus, um die unten stehenden Sätze zu vervollständigen!!!"
 UI_EVENT_LETTER_COLLECTION_PT50,50 points,50 Punkte
 UI_EVENT_LETTER_COLLECTION_PT100,100 points,100 Punkte
 UI_EVENT_LETTER_COLLECTION_PT150,150 points,150 Punkte
@@ -66,10 +66,10 @@ UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 Punkte
 UI_EVENT_CANDYEVENT,Candy Event,Candy Event
 UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Frühlings 2024 Event
 UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Angriff der hungrigen Monster
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Tägliche Verbindung
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Lasst uns das 2. Jubiläum von Flyff Universe feiern!
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Login,Tägliche Verbindung
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate the 2nd anniversary of Flyff Universe!,Lasst uns das 2. Jubiläum von Flyff Universe feiern!
 UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2. Jubiläum!
-UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 2 Jahre alt! Ein riesiges Dankeschön an alle Spieler, die diesen Meilenstein möglich gemacht haben!"
+UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 2 Jahre alt! Ein riesiges Dankeschön an alle Spieler, die diesen Meilenstein möglich gemacht haben!"
 UI_EVENT_ANNIVERSARY2_CAKE,Cake,Kuchen
 UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Ehering der Legende
 UI_EVENT_EXPBOOST_DESC_100,Experience x2!,Experience x2!
@@ -78,38 +78,40 @@ UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,Instanz Dungeon Coo
 UI_EVENT_UPGRADEBOOST,Upgrade Boost!,Upgrade Boost!
 UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,Upgrade Chance x2!
 UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
-UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon and own a permanent costume!,Sammle EXP und Event-Gegenstände im Dungeon und sichere dir ein dauerhaftes Kostüm!
+UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,Sammle EXP und Event-Gegenstände im Dungeon und sichere dir ein dauerhaftes Kostüm!
 UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Rolle deine Glückswürfel!
-UI_EVENT_ROLL_DICE_DESC,Complete Daily Quests to earn an opportunity to roll the dice for rewards!,"Schließe die täglichen Quests ab, um die Chance zu erhalten, die Würfel für Belohnungen zu rollen!"
+UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!","Schließe die täglichen Quests ab, um die Chance zu erhalten, die Würfel für Belohnungen zu rollen!"
 UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,20. Jubiläum von Flyff
-UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th anniversary!,Feiere das 20. Jubiläum von Flyff!
-UI_EVENT_PIRATESHIP,Plunder the treasure from the Pirate Ship!,Plündere den Schatz vom Piratenschiff!
+UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,Feiere das 20. Jubiläum von Flyff!
+UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,Plündere den Schatz vom Piratenschiff!
 UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
 UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Feier zum 1.4.1-Update
-UI_EVENT_145_ATTENDANCE,Login Event,Login Event
-UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Logge dich jeden Tag 30 Minuten ein und erhalte Belohnungen!
+UI_EVENT_145_ATTENDANCE,Playtime Event,Playtime Event
+UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Logge dich jeden Tag 30 Minuten ein und erhalte Belohnungen!
 UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Meisterschafts-Event
 UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Erhöht deine life Sammel mastery um 20%!
 UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Meisterschafts-Event
 UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Erhöht deine life herstellungs mastery um 20%!
 UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
-UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Erhöht deine ganze life mastery Erfahrung um 20%!
+UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,Erhöht deine ganze life mastery Erfahrung um 20%!
 UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
 UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Erhöht deine life Sammel-Geschwindigkeit um 20%!
 UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
 UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Erhöht deine life Herstellungs-Geschwindigkeit um 20%!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Event zur Reduzierung der Haltbarkeitskosten beim life sammeln!
-UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces by 1 the durability cost when gathering!,Verringert die Haltbarkeitskosten beim Sammeln um 1!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Marchant Renewal Event!,Event zur Erneuerung des Warenbestandes des wandernden Händlers
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The wandering merchant's renewal will occur 30 minutes earlier during the event!,Die Erneuerung des Sortiments des wandernden Händlers erfolgt während des Events 30 Minuten früher!
-UI_EVENT_LIFEGATHERINGSPAWN,Increased Life Gathering Spawn Event!,Erhöhtes Life Sammel Spawn Event!
-UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,Increase gathering objects spawn count by 20%!,Erhöhe die Anzahl der Sammelobjekte um 20 %!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Items!,Items des wandernden Händlers!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The maximum item count in the wandering merchant's shop has been increased by 2 during the event!,Die maximale Anzahl an Gegenständen im Laden des wandernden Händlers wurde während des Events um 2 erhöht!
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,Event zur Reduzierung der Haltbarkeitskosten beim life sammeln!
+UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,Verringert die Haltbarkeitskosten beim Sammeln um 1!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,Event zur Erneuerung des Warenbestandes des wandernden Händlers
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,Die Erneuerung des Sortiments des wandernden Händlers erfolgt während des Events 30 Minuten früher!
+UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,Erhöhtes Life Sammel Spawn Event!
+UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,Erhöhe die Anzahl der Sammelobjekte um 20 %!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,Items des wandernden Händlers!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,Die maximale Anzahl an Gegenständen im Laden des wandernden Händlers wurde während des Events um 2 erhöht!
 UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3. Jubiläums-Event: Field Boss
 UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Vorhersage Event
-UI_EVENT_FWC_PREDICTION_DESC,FWC Championship Prediction Event!,FWC-Meisterschaft Vorhersage-Event!
-UI_EVENT_TIMETOUPGRADE,It's time to Upgrade!,Es ist Zeit zum Aufwerten!
-UI_EVENT_TIMETOUPGRADE_DESC,"Achieve each upgrade level of 1~10 once during the event to receive rewards. Upon clearing all 10 stages, receive an Ultimate Accessory Selection Box.","Erreiche während des Events einmal jede Aufwertungsstufe von 1 bis 10, um Belohnungen zu erhalten. Wenn du alle 10 Stufen abgeschlossen hast, erhältst du eine Auswahlbox für ein Ultimatives Accessoire."
+UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC-Meisterschaft Vorhersage-Event!
+UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,Es ist Zeit zum Aufwerten!
+UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,"Erreiche während des Events einmal jede Aufwertungsstufe von 1 bis 10, um Belohnungen zu erhalten. Wenn du alle 10 Stufen abgeschlossen hast, erhältst du eine Auswahlbox für ein Ultimatives Accessoire."
 UI_EVENT_PTS,Public Test Server,Öffentlicher Testserver
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the discord for more information.","Die Raten sind erhöht, die Dungeon-Abklingzeiten sind reduziert und vieles mehr! Für weitere Informationen besuche den Discord."
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Die Raten sind erhöht, die Dungeon-Abklingzeiten sind reduziert und vieles mehr! Für weitere Informationen besuche den Discord."
+UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 Valentine's Day
+UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item."

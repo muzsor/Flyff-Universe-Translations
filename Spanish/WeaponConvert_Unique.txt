@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Unique Weapon Conversion #nb#nc
-You can convert a normal weapon (level 60 or higher required to wield) into a Unique weapon by using 1 Jewel corresponding to the weapon's required level and 1 Shining Power Dice. If the conversion fails, all materials are destroyed.
+﻿#b#cff0000ff Conversión de armas únicas #nb#nc
+Puedes convertir un arma normal (nivel 60 o superior) en un arma única usando una joya correspondiente al nivel requerido y un dado de poder brillante. Si la conversión falla, se destruyen todos los materiales.

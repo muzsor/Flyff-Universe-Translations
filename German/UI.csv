@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Benutze: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Kein Zeitlimit
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Wartezeit bis zur Wiederverwendung: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Wiederbelebung akzeptieren
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Ein anderer Spieler versucht dich wiederzubeleben. Möchtest du annehmen?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Set Effekt
 UI_TOOLTIP_BLOCKRATE,Block,Blocken
 UI_OPTION_FIELDVIEW_AUTO,Auto,automatisch
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Verbrauchsgegenstände
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titel & Abzeichen
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Spielzeit
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Anmeldeserie
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Gesamte Verbindungen
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Anmeldeserie
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Gesamte Verbindungen
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Beschreibung
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Dieser Erfolg ist accountgebunden.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Zu tötende Monster: %s.
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Abzeichen: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,Es gibt keine Items mehr zum Tauschen. Das Lager ist leer!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Thief Santa Jagd Rangliste
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Sei %s Minuten online
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Weihnachts-Teilnahme
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Weihnachts-Teilnahme
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,"Erfülle jeden Tag die Aufgabe des Weihnachtsmanns! Nur während der Weihnachtsfeiertage, also verpasse keinen Tag!"
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Fang den Thief Santa!
 UI_APP_LOTTERY_START,Spin!,Drehen!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,Und %d mehr
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Umschalt+Linksklick oder Rechtsklick zum Anzeigen des Inhalts.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Umschalt+Linke Maustaste zum Anzeigen des Inhalts.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,"Lang drücken, um den Inhalt anzuzeigen."
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Premium-Gesamtanschluss
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium-Gesamtanschluss
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Wahrscheinlichkeit
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Informationen zur Gewinnwahrscheinlichkeit
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Rohe Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphen
@@ -2220,13 +2220,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_SUN,Sunday,Sonntag
+UI_MON,Monday,Montag
+UI_TUE,Tuesday,Dienstag
+UI_WED,Wednesday,Mittwoch
+UI_THU,Thursday,Donnerstag
+UI_FRI,Friday,Freitag
+UI_SAT,Saturday,Samstag
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
@@ -2256,8 +2256,8 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time,
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
+UI_BLACK,Black,Schwarz
+UI_WHITE,White,Weiß
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
@@ -2268,7 +2268,7 @@ UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
 UI_RAINBOWRACE_FRIEND_NAME,Name,Name
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Anwendung
 UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
 UI_RAINBOWRACE_SPEED,SPEED,SPEED
@@ -2344,10 +2344,10 @@ UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Bitte geben Sie ein gültiges Geburtsdatum ein.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,"Um dieses Spiel spielen zu können, müssen Sie mindestens 16 Jahre alt sein."
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,"Um fortfahren zu können, müssen Sie die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren."
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Bitte geben Sie eine gültige Postleitzahl ein.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
@@ -2357,9 +2357,9 @@ UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
 UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
+UI_COUPON_ENTER,Please enter your coupon code.,Bitte geben Sie Ihren Gutscheincode ein.
 UI_COUPON_CODE,Coupon Code,Coupon Code
-UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Die Schlüssel sehen folgendermaßen aus:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Abholen
 UI_COUPON_CODE_PAGE,Claim code ,Claim code 
 UI_COUPON_LOGS_PAGE,Used coupons ,Used coupons 
@@ -2368,13 +2368,13 @@ UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
+UI_MENU_SAVE,Save changes,Speichern Änderungen
+UI_MENU_EDIT,Edit the menu,Menü bearbeiten
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
+UI_DELETEACCOUNT_TITLE,Delete Account,Konto Löschen
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Passwort zum Löschen des Kontos\nGeben Sie das Passwort ein
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,Bestätigst du?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
@@ -2385,7 +2385,7 @@ UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
 UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
-UI_PARTY_READY_CHECK,Ready,Ready
+UI_PARTY_READY_CHECK,Ready,Bereit
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
 UI_PARTY_READY_PROMPT,Are you ready?,Bist du bereit?
@@ -2431,7 +2431,7 @@ UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
 UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
 UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
 UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Observers,Observers
-UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
+UI_PVPCONTEST_MANUALMATCH_READY,Ready,Bereit
 UI_BATTLEPASS_BONUS,Bonus,Skill
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Punkte
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rang
@@ -2442,7 +2442,7 @@ UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
-UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
+UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Dritter Platz
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
@@ -2452,7 +2452,7 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Heute)
 UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
@@ -2494,7 +2494,7 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rang
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Datum Letzte
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,kein
@@ -2577,7 +2577,7 @@ UI_COUPLE_MOTION_TITLE,Couple Motion,Couple Motion
 UI_COUPLE_MOTION_REQUEST,Your partner is requesting the %s motion. Do you accept?,Your partner is requesting the %s motion. Do you accept?
 UI_APP_LIFE_TIP,Opens life contents window.,Opens life contents window.
 UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
+UI_LIFE_PRODUCTION_TAB,Production,Produktion
 UI_LIFE_TITLE,Life,Life
 UI_LIFE_MASTERY_EFFECT,Mastery Effect,Mastery Effect
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Harvesting,Identified Harvesting
@@ -2610,19 +2610,19 @@ UI_TIMES,%d time(s),%d time(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
 UI_WAITING,Waiting,Waiting
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
+UI_LIFE_RECIPES,Recipes,Rezepte
+UI_LIFE_RECIPES_CATEGORY,Category,Kategorie
 UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Kein Rezept ausgewählt
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
+UI_LIFE_PRODUCTION_TITLE,Production,Produktion
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success rate,Success rate
 UI_LIFE_PRODUCTION_TIME,Production time per cycle,Production time per cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d\nRequired Title: ,Required Mastery: %d\nRequired Title: 
-UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Ingredient
-UI_LIFE_RECIPE_CATEGORY_1,Drink,Drink
+UI_LIFE_RECIPE_CATEGORY_0,Ingredient,Zutat
+UI_LIFE_RECIPE_CATEGORY_1,Drink,Trinken
 UI_LIFE_RECIPE_CATEGORY_2,Pill,Pill
 UI_ALL,All,Alle
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
@@ -2728,7 +2728,7 @@ UI_CREATENPC_AGRESSIVE,Aggressive,Aggressiv
 UI_CREATENPC_NOWNER,No Owner,Kein Besitzer
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
-UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
+UI_CREATEITEM_TIME,Time (Sec),Zeit (Sek)
 UI_CREATEITEM_CHARGED,Charged,Aufgeladen
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
@@ -2761,9 +2761,9 @@ UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
 UI_CHARINFO_HOUSING_SLOTS,Pet inventory slots,Pet Inventar Slots
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Applying a Blessing will make the item soul-bound. Do you wish to continue?
-UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
+UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Da das Rezept nicht vollständig verstanden wird, wird jeweils nur eine Zutat verwendet."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest abgeschlossen
-UI_TELEPORT_ARENA,Do you want to exit the arena?,Do you want to exit the arena?
+UI_TELEPORT_ARENA,Do you want to exit the arena?,Möchtest du die Arena beenden?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
@@ -2773,10 +2773,10 @@ UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanentes Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank:,Gilden Ranking
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
-UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Spring Points: %d Pts
-UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
-UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
-UI_JAN2024_POINT_NAME,Spring Points,Spring Points
+UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Punkte Frühling: %d Pts
+UI_QUEST_PT_JAN2024_2,Spring Points: ????,Punkte Frühling: ????
+UI_EVENT_JAN2024_NAME,Spring Point Exchange,Punkte Frühling Austausch
+UI_JAN2024_POINT_NAME,Spring Points,Punkte Frühling
 UI_POINTS,%d Pts,%d Pts
 UI_QUEST_ATTEMPT_GATHERING,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
 UI_STANDBY,Standby,Standby
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,"Wahrsche
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026-Neujahrspass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In deiner Garderobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Nicht in deiner Garderobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

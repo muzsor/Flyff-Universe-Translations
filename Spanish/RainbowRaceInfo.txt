@@ -1,12 +1,12 @@
-﻿#b Rainbow Race Information #nb
-Rainbow Race is an interactive and intense flying competition open to all players.
-Participants must use their own flying mount during the race.
+﻿#b Información de Rainbow Race #nb
+Rainbow Race es una competición de vuelo interactiva e intensa, abierta a todos los jugadores.
+Los participantes deben usar su propia montura voladora durante la carrera.
 
-#iNote: The application fee is non-refundable. Each player must provide their own flying mount.#ni
+#iNota: La tarifa de solicitud no es reembolsable. Cada jugador debe traer su propia montura voladora.#ni
 
-Rewards:
-  - First Place: Title, Mount, and Rainbow Race First Place Box.
-  - Second Place: Rainbow Race Second Place Box.
-  - Third Place: Rainbow Race Third Place Box.
-  - Fourth to Tenth Place: Rainbow Race Honorable Box.
-  - All Other Participants: Participation Reward.
+Recompensas:
+  - Primer Lugar: Título, Montar, y Rainbow Race First Place Box.
+  - Segundo Lugar: Rainbow Race Second Place Box.
+  - Tercer lugar: Rainbow Race Third Place Box.
+  - Del cuarto al décimo lugar: Rainbow Race Honorable Box.
+  - Todos los demás participantes: Recompensa por participación.

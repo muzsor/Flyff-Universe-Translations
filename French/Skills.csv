@@ -584,7 +584,7 @@ PROPSKILL_TXT_150083,Damnation Surge,Vague de damnation
 PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Suit le nombre d'affaiblissements de type Affaiblissement appliqués, multipliant les bonus accordés."
 PROPSKILL_TXT_150085,Sleep at full charge,Sommeil à charge complète
 PROPSKILL_TXT_150087,Shield,Bouclier
-PROPSKILL_TXT_150088,Enhanced Blinkpool,Téléportation amélioré
+PROPSKILL_TXT_150088,Enhanced Blinkpool,Téléportation améliorée
 PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,La vitesse de déplacement est temporairement augmentée après avoir utilisé la Téléportation.
 PROPSKILL_TXT_150090,Additional damage disable,Dégâts supplémentaires sur désactivation
 PROPSKILL_TXT_150091,Additional damage weaken,Dégâts supplémentaires sur affaiblissement
@@ -808,11 +808,11 @@ PROPSKILL_TXT_150228,Duration Increase,Augmentation de la durée
 PROPSKILL_TXT_150229,Celestial Barrier,Barrière céleste
 PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui accorde à toi et tes alliés proches une résistance élémentaire. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150234,Heaven's Step,Pas céleste
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui accorde à toi et tes alliés proches une esquive et un blocage accrus. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
-PROPSKILL_TXT_150239,Gloria Patri,Gloire à la Nation 
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui soigne périodiquement toi et tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui accorde à toi et tes alliés proches une esquive et un blocage accrus. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
+PROPSKILL_TXT_150239,Gloria Patri,Gloria Patri
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui soigne périodiquement toi et tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150244,Kyrie Eleison,Prière de miséricorde
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui augmente la régénération vitale de toi et de tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui augmente la régénération vitale de toi et de tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150249,Flow of Salvation,Flot de Rédemption
 PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Insuffle le Flot de Rédemption dans ta cible, la guérissant et se propageant aux cibles proches si ce sont des alliés, ou infligeant des dégâts sinon."
 PROPSKILL_TXT_150251,Increased Healing,Soins augmentés

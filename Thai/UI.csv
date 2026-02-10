@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,ใช้: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,ไม่จำกัดเวลา
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,รอเพื่อใช้อีกครั้ง: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,ยืนยันการฟื้นคืนชีพ
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,ผู้เล่นคนอื่นพยายามชุบชีวิตคุณ คุณต้องการที่จะฟื้นคืนชีพ?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,ตั้งค่าเอฟเฟ็กต์
 UI_TOOLTIP_BLOCKRATE,Block,บล็อค
 UI_OPTION_FIELDVIEW_AUTO,Auto,อัตโนมัติ
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,วัสดุสิ้นเปล
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,อีเว้นท์
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,ระยะเวลาการเล่น
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,ซีรี่ส์การเชื่อมต่อ
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,การเชื่อมต่อทั้งหมด
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,ซีรี่ส์การเชื่อมต่อ
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,การเชื่อมต่อทั้งหมด
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,ความสำเร็จนี้ผูกกับบัญชีของคุณ
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,มอนสเตอร์ที่ต้องสังหาร: %s
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,ป้าย:#b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,ไม่มีรายการให้แลกเปลี่ยนอีกต่อไป! หมดสต๊อก!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,การจัดอันดับ Thief Santa Hunt 
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,ออนไลน์ %s นาที
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,การเข้าร่วมคริสต์มาส
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,การเข้าร่วมคริสต์มาส
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,ทำภารกิจของ Santa ให้สำเร็จในแต่ละวัน! เฉพาะช่วงวันหยุดคริสต์มาส ห้ามพลาดสักวันเดียว!
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,จับ Thief Santa!
 UI_APP_LOTTERY_START,Spin!,หมุน!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,และ %d มากขึ้น
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+คลิกซ้ายหรือคลิกขวาเพื่อดูเนื้อหา
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+คลิกซ้ายเพื่อดูเนื้อหา
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,กดค้างเพื่อดูเนื้อหา
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,การเชื่อมต่อแบบพรีเมี่ยม
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,การเชื่อมต่อแบบพรีเมี่ยม
 UI_ACHIEVEMENTS_PROBABILITY,Probability,ความเป็นไปได้
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,รายละเอียดความเป็นไปได้ของรางวัลพรีเมี่ยม
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,กระดานสถานะ
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

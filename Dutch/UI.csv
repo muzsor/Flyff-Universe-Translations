@@ -13,14 +13,14 @@ UI_HOME_CREDITS,Credits,Credits
 UI_HOME_OR,Or,Or
 UI_HOME_LOGIN_DOTS,Email:,Email:
 UI_HOME_PASSWORD,Password:,Wachtwoord:
-UI_HOME_RECOVER,Forgot password?,Forgot password?
+UI_HOME_RECOVER,Forgot password?,Wachtwoord vergeten?
 UI_SELECTSERVER_TITLE,Select Server,Server Selecteren
 UI_SELECTSERVER_BACK,Back,Terug
 UI_SELECTSERVER_NEXT,Next,Volgende
 UI_SELECTSERVER_FULL,full,vol
 UI_SELECTSERVER_BUSY,busy,bezig
 UI_SELECTSERVER_BEST,best,best
-UI_SELECTSERVER_NEWNAME,Please enter another name:,Please enter another name:
+UI_SELECTSERVER_NEWNAME,Please enter another name:,Voer een andere naam in:
 UI_SELECTSERVER_NAMETITLE,Character Name,Character Name
 UI_CHARLIST_TITLE,Characters,Karakters
 UI_CHARLIST_PLAY,Play,Speel
@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Gebruik: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Geen Tijdslimiet
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Wachttijd voor hergebruik: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Herrijzing Bevestigen
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Een andere speler probeert je weer tot leven te wekken. Wil je opgewekt worden?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Set Effect
 UI_TOOLTIP_BLOCKRATE,Block,Blokkeren
 UI_OPTION_FIELDVIEW_AUTO,Auto,Automatisch
@@ -820,7 +820,7 @@ UI_MAP_MARK_ADD,Add Mark,Add Mark
 UI_MAP_MARK_DELETE,Delete,Verwijder
 UI_MAP_MARK_DELETE_ALL,Delete All,Verwijder Alles
 UI_MAP_MARK_PUT_CHAT,Put it in the chat,Put it in the chat
-UI_MAP_MARK_CHANGE_NAME,Name Change,Name Change
+UI_MAP_MARK_CHANGE_NAME,Name Change,Naamswijziging
 UI_MAP_MARK,Position,Positie
 UI_MAP_MARK_NAME_TITLE,Position Name Change,Position Name Change
 UI_MAP_MARK_NAME_INPUT,Please put new name,Please put new name
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consumables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titles & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Events
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Speeltijd
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Verbindingseries
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Total connection
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Verbindingseries
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Login Rewards
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Beschrijving
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,This achievement is bound to your account.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monster(s) to kill: %s.
@@ -1288,14 +1288,14 @@ UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Cre
 UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Will you create a vendor?
 UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
 UI_TIMEINFO_TITLE,Info,Info
-UI_TIMEINFO_SERVER,Current Server,Current Server
-UI_TIMEINFO_TIME,Current Time,Current Time
+UI_TIMEINFO_SERVER,Current Server,Huidige Server
+UI_TIMEINFO_TIME,Current Time,Huidige Tijd
 UI_TIMEINFO_CONNECTION,Connection Time,Connection Time
 UI_TIMEINFO_SESSION,Session Duration,Session Duration
 UI_CHAT_TITLE,Chat,Chat
 UI_CHAT_FILTERS,Filters,Filters
-UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Your Language
+UI_CHAT_VIEW_LANGUAGES,View Languages,Talen Bekijken
+UI_CHAT_YOUR_LANGUAGE,Your Language,Jouw Taal
 UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
 UI_INVENTORY_PUTCHAT,Link in Chat,Link in Chat
 UI_INVENTORY_LOCK,Mark Favorite,Mark Favorite
@@ -1345,7 +1345,7 @@ UI_BOUNTYINPUT_LABEL_REWARD,Reward,Reward
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Total
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Comment
 UI_BOUNTYLIST_TITLE,Bounty List,Bounty List
-UI_BOUNTYLIST_HEADER_NAME,Name,Name
+UI_BOUNTYLIST_HEADER_NAME,Name,Naam
 UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
 UI_BOUNTYLIST_HEADER_REWARD,Reward,Reward
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Time left
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,There are no more items to trade! Stock is empty!
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Thief Santa Hunt Ranking
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Stay online %s minutes
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Christmas Attendance
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Christmas Daily Quests
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Catch the Thief Santa!
 UI_APP_LOTTERY_START,Spin!,Spin!
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,And %d more
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+Left Click or Right Click to view content.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+Left Click to view content.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Long Press to view content.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Premium total connection
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium Login Rewards
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probability
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Raw Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphs
@@ -2220,13 +2220,13 @@ UI_KALGAS_ASSAULT_ENTERTIME_DESC,Do you want to enter the Kalgas Assault?\n\nTim
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d,Can't enter yet Kalgas Assault.\n\nEntry Star: %02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Todays Kalgas Assault is already start.,Todays Kalgas Assault is already start.
 UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected.","#cff0000ffRegistration#nc\nTime until registration:\n %s \nTime until entry:\n %s \nMinimum Level: %d\n\nCurrent number of registered players: %d\n\n※ Only users who have registered for Kalgas Assault can participate.\n※ You will not be able to enter after the time limit has passed.\n※ Maximum 200 players per an instance (100 vs 100)\n※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.\n※ Teams will be randomly selected."
-UI_SUN,Sunday,Sunday
-UI_MON,Monday,Monday
-UI_TUE,Tuesday,Tuesday
-UI_WED,Wednesday,Wednesday
-UI_THU,Thursday,Thursday
-UI_FRI,Friday,Friday
-UI_SAT,Saturday,Saturday
+UI_SUN,Sunday,Zondag
+UI_MON,Monday,Maandag
+UI_TUE,Tuesday,Dinsdag
+UI_WED,Wednesday,Woensdag
+UI_THU,Thursday,Donderdag
+UI_FRI,Friday,Vrijdag
+UI_SAT,Saturday,Zaterdag
 UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
 UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
 UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
@@ -2241,13 +2241,13 @@ UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
 UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranglijst
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
-UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
+UI_KALGAS_ASSAULT_RANK_NAME,Name,Naam
+UI_KALGAS_ASSAULT_RANK_POINT,Point,Punt
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count : %d,Kill Count : %d
 UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Revival
 UI_KALGAS_ASSAULT_REVIVAL_COUNT,After : %d,After : %d
-UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Starting Point
+UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Starting Point,Uitgangspunt
 UI_KALGAS_ASSAULT_REVIVAL_GOLD,Use gold coin x%d,Use gold coin x%d
 UI_KALGAS_ASSAULT_REVIVAL_SILVER,Use silver coin,Use silver coin
 UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Time until Kalgas appears
@@ -2256,8 +2256,8 @@ UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time,
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Unfortunately the winner is not decided.
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","After %d seconds, you will be automatically moved to town."
-UI_BLACK,Black,Black
-UI_WHITE,White,White
+UI_BLACK,Black,Zwart
+UI_WHITE,White,Wit
 UI_DRAW,Draw,Draw
 UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Entry for Kalgas Assault will close in %d minutes.,Entry for Kalgas Assault will close in %d minutes.
@@ -2345,7 +2345,7 @@ UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,C
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
 UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Je moet minimaal 16 jaar oud zijn om het spel te kunnen spelen.
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
 UI_ROLL_AND_MOVE_START,START,START
@@ -2368,12 +2368,12 @@ UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Save changes
-UI_MENU_EDIT,Edit the menu,Edit the menu
+UI_MENU_SAVE,Save changes,Wijzigingen opslaan
+UI_MENU_EDIT,Edit the menu,Het menu bewerken
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
 UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
-UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
+UI_DELETEACCOUNT_TITLE,Delete Account,Verwijder Account
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,Bevestigt u?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
@@ -2442,7 +2442,7 @@ UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
-UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
+UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Derde plaats
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
@@ -2452,7 +2452,7 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
-UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Today)
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Vandaag)
 UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
@@ -2477,7 +2477,7 @@ UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tourn
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
 UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalender
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rang
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Reward
@@ -2494,7 +2494,7 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rang
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Laatste Datum
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Geen
@@ -2718,7 +2718,7 @@ UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Cooking. #cffc32f07
 UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemy. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Carpentry. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Smithing. #cffc32f07#b%d/%d#nb#nc
-UI_CHAT_COPYNAME,Copy name,Copy name
+UI_CHAT_COPYNAME,Copy name,Kopieer naam
 UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
@@ -2728,7 +2728,7 @@ UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
 UI_CREATENPC_NOWNER,No Owner,No Owner
 UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
-UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
+UI_CREATEITEM_TIME,Time (Sec),Tijd (Sec)
 UI_CREATEITEM_CHARGED,Charged,Charged
 UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
@@ -3247,7 +3247,7 @@ UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
 UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
 UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Recap,Dungeon Recap
-UI_DUNGEONTIMERECAP_TIME,Time:,Time:
+UI_DUNGEONTIMERECAP_TIME,Time:,Tijd:
 UI_DUNGEONTIMERECAP_CLOSE,Close,Sluiten
 UI_DUNGEONTIMERECAP_HELP_1,"You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears.","You become Gold Tier if you reach the boss room within %d minutes. In the Gold Tier, the strongest boss appears."
 UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears.","You become Silver Tier if you reach the boss room between %d to %d minutes. In the Silver Tier, a stronger version of the normal boss appears."
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

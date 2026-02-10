@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,使用: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,時間制限無し
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,再使用までの待機時間：%.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,復活の確認
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,あなたを復活させようとしています。復活しますか？
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,セット効果
 UI_TOOLTIP_BLOCKRATE,Block,ブロック
 UI_OPTION_FIELDVIEW_AUTO,Auto,自動
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,消耗品
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,称号とバッジ
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,イベント
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,プレイ時間
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,連続接続
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,合計接続数
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,連続接続
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,合計接続数
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,この実績はアカウントにリンクされています。
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,倒すモンスター: %s
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,バッジ: #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,在庫が空っぽになってしまいました...！
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,偽サンタ討伐ランキング
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,%s分間オンラインを継続
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,クリスマス出席
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,クリスマス出席
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,毎日、サンタのクエストをクリアしよう。クリスマス期間中だけ！お見逃しなく
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,怪盗サンタを捕らえよ！
 UI_APP_LOTTERY_START,Spin!,回す
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,さらに %d
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Shift+左クリックまたは右クリックでコンテンツを表示します。
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Shift+左クリックでコンテンツを表示します。
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,長押しして view コンテンツ。
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,プレミアムトータル接続
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,プレミアムトータル接続
 UI_ACHIEVEMENTS_PROBABILITY,Probability,確率
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,プレミアム賞品確率情報
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,出席クーポンを購入する
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,接続クーポン購入
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,出席クーポンを購入する
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,接続クーポン購入
 UI_STATBOARD_TITLE,Statboard,スタットボード
 UI_STATBOARD_RAW,Raw Stats,素ステータス
 UI_STATBOARD_GRAPHS,Graphs,グラフ
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance to
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In your wardrobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Not in your wardrobe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

@@ -1,2 +1,2 @@
-﻿#b#cff0000ffRemove Blessing#nb#nc
-Remove the Blessing from an item. #b#cffff0000This action cannot be undone.#nc#nb
+﻿#b#cff0000ffBorrar Bendición#nb#nc
+Quitar la bendición de un objeto. #b#cffff0000Esta acción no se puede deshacer.#nc#nb

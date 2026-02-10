@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Utiliser : %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Pas de limite de temps
 UI_TOOLTIP_COOLTIME,Waiting Time for reuse: %.2d:%.2d,Temps d'attente avant la réutilisation: %.2d:%.2d
 UI_RESURRECTION_TITLE,Resurrection Confirm,Confirmation de la résurrection
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you. Do you want to be resurrected?,Un autre joueur essaie de vous ressusciter. Voulez-vous être ressuscité ?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?,Another player is trying to resurrect you (skill level %d). Do you want to be resurrected?
 UI_TOOLTIP_EQUIPSET,Set Effect,Bonus
 UI_TOOLTIP_BLOCKRATE,Block,Bloquer
 UI_OPTION_FIELDVIEW_AUTO,Auto,Auto
@@ -1129,8 +1129,8 @@ UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Consommables
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titres & Badges
 UI_ACHIEVEMENTS_EVENTS_TAB,Events,Évènements
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,Temps de jeu
-UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Connection series,Connexions consécutives
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Total connection,Connexions totales
+UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,Connexions consécutives
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,Connexions totales
 UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,Ce succès est lié à votre compte.
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monstre(s) à tuer : %s.
@@ -1541,7 +1541,7 @@ UI_ACCEPTTERMS,I accept the terms.,J'accepte les termes.
 UI_ACCEPTTERMS_READ,Read,Lire
 UI_ACCEPTTERMS_TITLE,Accept Terms,Accepter les Termes
 UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Veuillez accepter les Termes et Conditions.
-UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Affiche le Menu du Battle Pass.
+UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Affiche le Menu du Passe de combat.
 UI_BATTLEPASS_REWARD,Reward,Récompense
 UI_BATTLEPASS_MISSION,Mission,Mission
 UI_BATTLEPASS_DAILY,Daily,Quotidien
@@ -1564,12 +1564,12 @@ UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Cueillir des Baies
 UI_BATTLEPASS_MISSION_RAISEPET,Raise Pet to %s,Améliorer un Familier à %s
 UI_BATTLEPASS_POINTS,Points,Points
 UI_BATTLEPASS_PASSGRADE,Pass Grade,Niveau de Pass
-UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Fin de la saison de %s : #b%s#nb (heure serveur)\nLimite de points hebdomadaire : #b%d / %d#nb\n#iLes points gagnés durant les missions de saison ne sont pas comptés dans la limite hebdomadaire.#ni\n#iCertaines récompenses de Battle Pass sont augmentées à partir du niveau %d#ni
+UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Fin de la saison de %s : #b%s#nb (heure serveur)\nLimite de points hebdomadaire : #b%d / %d#nb\n#iLes points gagnés durant les missions de saison ne sont pas comptés dans la limite hebdomadaire.#ni\n#iCertaines récompenses du Passe de combat sont augmentées à partir du niveau %d#ni
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Acheter le Pass étendu
 UI_BATTLEPASS_CLAIM,Claim Rewards,Recevoir les Récompenses
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,Des récompenses de base pour tout le monde !
-UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Des récompenses supplémentaires disponibles avec le Battle Pass étendu !
-UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,"Félicitations, vous avez terminé le Battle Pass !"
+UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Des récompenses supplémentaires disponibles avec le Passe de combat étendu !
+UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,"Félicitations, vous avez terminé le Passe de combat !"
 UI_GUILDCOMBAT80_CANCEL_TITLE,Lv80 GS - Cancel Application,GdG niv. 80 - Annuler l'inscription
 UI_GUILDCOMBAT80_CANCEL_MSG,Do you want to withdraw from the Level 80 Guild Siege?,Voulez-vous vous retirer de la Guerre de Guildes niveau 80 ?
 UI_GUILDCOMBAT80_JOIN_MSG,Do you join the Level 80 Guild Siege?,Voulez-vous rejoindre la Guerre de Guildes niveau 80 ?
@@ -1686,7 +1686,7 @@ UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge : #b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,Il n'y a plus rien à échanger ! Rupture de stock !
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Classement Chasse au Père Noël Voleur
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Rester connecté %s minutes
-UI_CHRISTMAS_ATTENDANCE,Christmas Attendance,Connexion de Noël
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Connexion de Noël
 UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,"Terminez les quêtes journalières du Père Noël ! Ces quêtes sont exclusives aux vacances de Noël, ne ratez pas un jour !"
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Attrapez le Père Noël Voleur !
 UI_APP_LOTTERY_START,Spin!,Lancer !
@@ -1698,7 +1698,7 @@ UI_APP_LOTTERY_FREESPINTIMER_READY,You can spin the wheel!!,Vous pouvez faire to
 UI_LUCKYROULETTE,Lucky Roulette,Roue de la Chance
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to get 120 lottery coins to spend in the Lottery Wheel!,Jouez 24 heures pour obtenir 120 pièces de loterie à dépenser à la Roue de Loterie !
 UI_LUNAR_NEW_YEAR,Lunar New Year,Nouvel An Lunaire
-UI_BATTLEPASS,Battle Pass,Battle Pass
+UI_BATTLEPASS,Battle Pass,Passe de combat
 UI_EVENTPASS,Update Pass,Pass Lunaire
 UI_ANNIVERSARYPASS,1 Year Anniversary Pass,Pass du Premier Anniversaire
 UI_TOOLTIP_BATTLEPASS,Expire at the end of %s.,Expire au début de la prochaine saison de %s.
@@ -2150,11 +2150,11 @@ UI_STORAGE_MORE,And %d more,Et %d de plus
 UI_STORAGE_VIEW,Shift+Left Click or Right Click to view content.,Maj+Clic gauche ou Clic droit pour afficher le contenu.
 UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Maj+Clic gauche pour afficher le contenu.
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Appuyez longuement pour afficher le contenu.
-UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium total connection,Connexions totales Premium
+UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Connexions totales Premium
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probabilité
 UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase attendance coupon,Purchase attendance coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase connection coupon,Purchase connection coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
 UI_STATBOARD_TITLE,Statboard,Panneau de statistiques
 UI_STATBOARD_RAW,Raw Stats,Statistiques brutes
 UI_STATBOARD_GRAPHS,Graphs,Graphiques
@@ -3274,3 +3274,4 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance d�
 UI_NEWYEARPASS_2026,2026 New Year Pass,Pass Nouvel An 2026
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,Dans votre garde-robe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Pas dans votre garde-robe
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%

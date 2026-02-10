@@ -20,7 +20,7 @@ CHARACTER_INC_000072,Isruel,依丝露尔
 CHARACTER_INC_000075,Ismeralda,依丝美达
 CHARACTER_INC_000083,Flaris Pang,帕里胖胖
 CHARACTER_INC_000091,Jeff,杰夫
-CHARACTER_INC_000099,[High-Dwarpet] Tucani,[高阶矮人族]哆卡
+CHARACTER_INC_000099,[High-Dwarpet] Tucani,[高阶矮人族] 哆卡
 CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
 CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Wise-man] Kimel
 CHARACTER_INC_000111,[Pepoview] Brodeay,[帕佩团] 布罗威
@@ -89,12 +89,12 @@ CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[弓箭手教官] 亨特
 CHARACTER_INC_000344,[Acrobat Master] Pyre,[弓箭手大师] 飞蕊
 CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[弓箭手训练助教] 塔利尔
 CHARACTER_INC_000348,[Jester Master] Lorein,[暗杀者首领] 萝丽安
-CHARACTER_INC_000350,[Jester Priest] Homeit,[暗杀祭司]胡梅
-CHARACTER_INC_000352,[Jester Guardian] Heingard,[暗杀守护使者]海音卡萝德
+CHARACTER_INC_000350,[Jester Priest] Homeit,[暗杀祭司] 胡梅
+CHARACTER_INC_000352,[Jester Guardian] Heingard,[暗杀守护使者] 海音卡萝德
 CHARACTER_INC_000354,[Ranger Master] Eliff,[游侠首领] 艾莉芙
-CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高阶矮人族]利绮安
-CHARACTER_INC_000358,[Ranger Priest] Rupim,[游侠祭司]芦苹
-CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[游侠守护使者]卡伊雷雅德
+CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高阶矮人族] 利绮安
+CHARACTER_INC_000358,[Ranger Priest] Rupim,[游侠祭司] 芦苹
+CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[游侠守护使者] 卡伊雷雅德
 CHARACTER_INC_000362,Santa,圣诞老人
 CHARACTER_INC_000364,Priest,华伦泰神父
 CHARACTER_INC_000366,Hans,杰佛瑞
@@ -117,35 +117,35 @@ CHARACTER_INC_000414,Nein,罗殷
 CHARACTER_INC_000418,Banker Pang,仓库管理员胖胖
 CHARACTER_INC_000420,Guild Siege Merchant,公会战商人
 CHARACTER_INC_000430,Furan,后兰
-CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[公会战管理员]法兰奇
-CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[公会战管理员]多拿里斯
+CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[公会战管理员] 法兰奇
+CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[公会战管理员] 多拿里斯
 CHARACTER_INC_000438,[Santa] Buruto,[圣诞]布鲁托
 CHARACTER_INC_000440,[Santa] Aramy,[圣诞]亚罗梅
 CHARACTER_INC_000442,[Santa] Atto,[圣诞]亚妥
 CHARACTER_INC_000444,[Probationer Cook] Juglin,[试用厨师] 笛林亚特
 CHARACTER_INC_000454,Hachal,哈查尔
-CHARACTER_INC_000458,[Great Magician] Laola,[大魔导士]拉宇
+CHARACTER_INC_000458,[Great Magician] Laola,[大魔导士] 拉宇
 CHARACTER_INC_000460,[Dreadpet Manager] Himadel,赫玛顿尔
 CHARACTER_INC_000462,[Dreadpet Manager] Gornus,勾勒努斯
 CHARACTER_INC_000464,[Dreadpet Manager] Kanane,卡哪内
 CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[战士教官] 玛斯滕
-CHARACTER_INC_000468,[Mercenary Master] Andy,[战士大师]安迪凯
-CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高阶矮人族]克罗
-CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[战士训练助教]辉羽
+CHARACTER_INC_000468,[Mercenary Master] Andy,[战士大师] 安迪凯
+CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高阶矮人族] 克罗
+CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[战士训练助教] 辉羽
 CHARACTER_INC_000474,[Assist Drillmaster] Elic,[圣职者教官] 埃里克
-CHARACTER_INC_000476,[Assist Master] Maki,[圣职者大师]马奇
-CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高阶矮人族]克利培
-CHARACTER_INC_000480,[Assist Instructor] Kidmen,[圣职者训练助教]凯德蔓
-CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高阶矮人族]海珊
+CHARACTER_INC_000476,[Assist Master] Maki,[圣职者大师] 马奇
+CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高阶矮人族] 克利培
+CHARACTER_INC_000480,[Assist Instructor] Kidmen,[圣职者训练助教] 凯德蔓
+CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高阶矮人族] 海珊
 CHARACTER_INC_000484,Rudvihil,萝特泰斯
 CHARACTER_INC_000486,Ancimys,安瑟麦斯
 CHARACTER_INC_000488,[Historian] Martinyc,[历史学家] 玛缇雅克
 CHARACTER_INC_000490,[Mayor of Flarine],[帕里市长]
 CHARACTER_INC_000492,[Public Official of Flarine],[帕里公务员]
 CHARACTER_INC_000494,[Novelist] Gergantes,[小说家] 格甘特斯
-CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔导士教官]艾文
-CHARACTER_INC_000498,[Magician Master] Hee,[魔导士大师]海恩
-CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔导士训练助教]洛帕兹
+CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔导士教官] 艾文
+CHARACTER_INC_000498,[Magician Master] Hee,[魔导士大师] 海恩
+CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔导士训练助教] 洛帕兹
 CHARACTER_INC_000502,Helgar,海格乐
 CHARACTER_INC_000504,Heltung,哈顿
 CHARACTER_INC_000506,Strange Collector,诡异的收藏家
@@ -153,8 +153,8 @@ CHARACTER_INC_000508,[BowlMerchant] Bowler,保罗克
 CHARACTER_INC_000510,JeongHwa,吉哈娃
 CHARACTER_INC_000512,Porgo,柏洛格
 CHARACTER_INC_000514,[Mayor of Saint City],[晨光市长]
-CHARACTER_INC_000516,[Chairman of History Society] Gothante,[历史研究会长]扎森特
-CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[档案管理员]鲁巴迦丽
+CHARACTER_INC_000516,[Chairman of History Society] Gothante,[历史研究会长] 扎森特
+CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[档案管理员] 鲁巴迦丽
 CHARACTER_INC_000520,Colar,凯乐拉
 CHARACTER_INC_000522,Amadolka,艾玛都卡
 CHARACTER_INC_000524,Nina,妮娜
@@ -164,24 +164,24 @@ CHARACTER_INC_000530,Loyah,乐亚
 CHARACTER_INC_000532,Mayun,马润
 CHARACTER_INC_000534,Sotta,苏丹
 CHARACTER_INC_000536,[Knight Master] Karandur,[骑士首领] 卡朗杜
-CHARACTER_INC_000538,[Knight Wise-man] Hormes,[骑士贤者]霍鲁美斯.凯德
+CHARACTER_INC_000538,[Knight Wise-man] Hormes,[骑士贤者] 霍鲁美斯.凯德
 CHARACTER_INC_000540,Kurmin,库鲁米．韩森
-CHARACTER_INC_000542,[Knight Priest] Lobiet,[骑士祭司]拉薇特.黎
+CHARACTER_INC_000542,[Knight Priest] Lobiet,[骑士祭司] 拉薇特.黎
 CHARACTER_INC_000544,[Knight Guardian] Boneper,[骑士守护使者] 波内佩拉
 CHARACTER_INC_000546,[Blade Master] Corel,[刀锋战士首领] 科瑞尔
-CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[刀锋战士贤者]加布里
+CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[刀锋战士贤者] 加布里
 CHARACTER_INC_000550,Ata,阿塔
-CHARACTER_INC_000552,[Blade Priest] Jeperdy,[刀锋战士祭司]杰普迪
+CHARACTER_INC_000552,[Blade Priest] Jeperdy,[刀锋战士祭司] 杰普迪
 CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[刀锋战士守护使者] 桑希里特
 CHARACTER_INC_000556,[Billposter Master] Ride,[暴力技师首领] 瑞得
-CHARACTER_INC_000558,[Billposter Wise-man] Domek,[暴力技师贤者]道麦
+CHARACTER_INC_000558,[Billposter Wise-man] Domek,[暴力技师贤者] 道麦
 CHARACTER_INC_000560,Segho,佩辛
-CHARACTER_INC_000562,[Billposter Priest] Fera,[暴力技师祭司]菲拉
+CHARACTER_INC_000562,[Billposter Priest] Fera,[暴力技师祭司] 菲拉
 CHARACTER_INC_000564,[Billposter Guardian] Capafe,[暴力技师守护使者] 卡帕菲
 CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守护使者首领] 爱岚德
-CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守护使者贤者]可伯内特
+CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守护使者贤者] 可伯内特
 CHARACTER_INC_000570,Teshar,特莎
-CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守护使者祭司]海登
+CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守护使者祭司] 海登
 CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[守护使者] 隆波艾达
 CHARACTER_INC_000576,[Psykeeper Master] Cylor,[精神使者首领] 赛乐
 CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[精神使者贤者] 可林
@@ -253,12 +253,12 @@ CHARACTER_INC_100020,Mysterious Robed Girl,神秘长袍少女
 CHARACTER_INC_000697,[Chip Merchant] Waforu,[战斗商人] 华弗
 CHARACTER_INC_100021,Azria Pang,雪地胖胖
 CHARACTER_INC_001260,Lifeguard Jennifer,救生员詹妮弗
-CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80公会战管理员]阿特拉斯
-CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60公会战管理员]奥利维娅
+CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80公会战管理员] 阿特拉斯
+CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60公会战管理员] 奥利维娅
 CHARACTER_INC_100024,Polar Bear,北极熊
 CHARACTER_INC_100025,Fu Lion King,狮王
 CHARACTER_INC_100026,Cupid,丘比特
-CHARACTER_INC_100027,[Master Quests] Leila,[大师进阶]蕾拉
+CHARACTER_INC_100027,[Master Quests] Leila,[大师进阶] 蕾拉
 CHARACTER_INC_000722,Secret Room Manager,深渊之塔管理员
 CHARACTER_INC_000723,Leren Chasm Guard,乐雅裂痕守卫
 CHARACTER_INC_000724,Rhisis Catacombs Guard,莱斯神之墓守卫
@@ -270,8 +270,8 @@ CHARACTER_INC_100028,Kebaras Pang,卡巴拉斯胖胖
 CHARACTER_INC_100029,Pink Easter Bunny,Pink Easter Bunny
 CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
 CHARACTER_INC_100031,Birthday Baker,Birthday Baker
-CHARACTER_INC_100032,[FWC Manager] Ava,[FWC Manager] Ava
-CHARACTER_INC_100033,Gacha Machine,Gacha Machine
+CHARACTER_INC_100032,[FWC Manager] Ava,[FWC管理员] Ava
+CHARACTER_INC_100033,Gacha Machine,扭蛋机
 CHARACTER_INC_100034,Bach,巴赫
 CHARACTER_INC_100035,Private Leo,Private Leo
 CHARACTER_INC_100036,Noah,Noah
@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,塔卢斯
 CHARACTER_INC_002005,Inventor Remi,发明家蕾米
 CHARACTER_INC_002006,Sunny Pang,阳光胖胖
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Guild House Manager] Lousiana
+CHARACTER_INC_000772,[Guild House Manager] Lousiana,[公会房屋管理员] Lousiana
 CHARACTER_INC_000773,Santa,圣诞老人
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,卡尔加斯突袭管理员
@@ -345,14 +345,14 @@ CHARACTER_INC_003244,[Guild House NPC] Lane,[Guild House NPC] Lane
 CHARACTER_INC_003245,[Guild House NPC] Runni,[Guild House NPC] Runni
 CHARACTER_INC_003246,[Guild House NPC] Pang,[Guild House NPC] Pang
 CHARACTER_INC_000774,Orphanage Keeper,Orphanage Keeper
-CHARACTER_INC_003247,Guest Book,Guest Book
+CHARACTER_INC_003247,Guest Book,访客留言簿
 CHARACTER_INC_003248,Bomida,Bomida
 CHARACTER_INC_003249,Negie,Negie
 CHARACTER_INC_100100,Templates,Templates
 CHARACTER_INC_100101,Props,Props
 CHARACTER_INC_100102,NPCs,NPCs
 CHARACTER_INC_000775,Chonjang,Chonjang
-CHARACTER_INC_000776,[Event] Chonjang,[Event] Chonjang
+CHARACTER_INC_000776,[Event] Chonjang,[活动] Chonjang
 CHARACTER_INC_000777,Defconn,Defconn
 CHARACTER_INC_000778,Anna,Anna
 CHARACTER_INC_000779,Sea Shell,Sea Shell
@@ -381,25 +381,25 @@ CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
 CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
 CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
 CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
+CHARACTER_INC_150007,[Eillun Guard] Gard,[艾尔伦士兵] Gard
+CHARACTER_INC_150008,[Eillun Guard] Liont,[艾尔伦士兵] Liont
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[艾尔伦士兵] Serkan
+CHARACTER_INC_150010,[Eillun Guard] Kras,[艾尔伦士兵] Kras
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[艾尔伦士兵] Maeron
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[艾尔伦士兵] Kerion
+CHARACTER_INC_150013,[Eillun Guard] Raon,[艾尔伦士兵] Raon
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[艾尔伦士兵] Dreon
+CHARACTER_INC_150015,[Eillun Guard] Merk,[艾尔伦士兵] Merk
+CHARACTER_INC_150016,[Captain] Baron,[队长] Baron
 CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
+CHARACTER_INC_150018,[Elder] Ayr,[长者] Ayr
+CHARACTER_INC_150019,[Elder] Traitus,[长者] Traitus
+CHARACTER_INC_150020,[Elder] Melak,[长者] Melak
+CHARACTER_INC_150021,[Elder] Silar,[长者] Silar
+CHARACTER_INC_150022,[Elder] Ebron,[长者] Ebron
+CHARACTER_INC_150023,[Elder] Luteon,[长者] Luteon
 CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
+CHARACTER_INC_150025,[Jewel Manager] Teron,[珠宝管理员] Teron
 CHARACTER_INC_150026,Haret,Haret
 CHARACTER_INC_150027,Domir,Domir
 CHARACTER_INC_150028,Toran,Toran
@@ -418,13 +418,13 @@ CHARACTER_INC_150040,Kaela,Kaela
 CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
 CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
-CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
-CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
+CHARACTER_INC_150044,[Mysterious] ??? ,[未知] ??? 
+CHARACTER_INC_150045,[Expedition] Beck,[远征队] Beck
 CHARACTER_INC_150046,Asylum Guard,庇护所守卫
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
+CHARACTER_INC_150047,Mysterious Adventurer,神秘冒险者
 CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
-CHARACTER_INC_150051,[Post Office] Cheirang,[Post Office] Cheirang
+CHARACTER_INC_150051,[Post Office] Cheirang,[事务所] Cheirang
 CHARACTER_INC_150052,[Village Chief] Huntrang,[村长] 亨特朗
-CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
+CHARACTER_INC_150053,[Arena Manager] Aerin,[竞技场管理员] Aerin
