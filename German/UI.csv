@@ -2384,7 +2384,7 @@ UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Enthalte Suchwort
 UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exaktes Suchwort
 UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Entfernung zum Shop
 UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Anzahl # von Items: %d
-UI_SEARCHSHOP_NOSHOP,No shop matching your search.,Kein Shop nach deinen Kritierien gefunden.
+UI_SEARCHSHOP_NOSHOP,No shop matching your search.,Kein Shop nach deinen Kriterien gefunden.
 UI_PARTY_READY_CHECK,Ready,Bereit
 UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Starte einen Bereitschaftscheck für alle Party Mitglieder.
 UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Bist du sicher, dass du einen Bereitschaftscheck für alle Party Mitglieder starten möchtest?
@@ -2397,8 +2397,8 @@ UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
 UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
 UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
 UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Verkäufer Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Verkäufer Name (Z - A)
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Verkäufername (A - Z)
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Verkäufername (Z - A)
 UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
 UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Verkäufer
@@ -2537,7 +2537,7 @@ UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you
 UI_COUPLE_PROPOSE,Propose,Propose
 UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Request to form a couple with the recipient using the inserted couple ring.
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Benötigtes Couple Level: %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Benötigtes Couple Punkte: %d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Benötigte Couple-Punkte: %d
 UI_COUPLEBANK_TITLE,Couple Storage,Couple Lager
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topaz
 UI_ULTIMATE_JEWEL_RUBY,Ruby,Ruby
@@ -2750,7 +2750,7 @@ UI_GENERALAWAKE_START,Start,Starten
 UI_GENERALAWAKE_HEADERITEM,Item to awake,Zu erweckendes Item
 UI_GENERALAWAKESLOT_INDEX,Stat %d,Stat %d
 UI_SEARCHSHOP_TELEPORT_TITLE,Teleport to the Shop,Zum Shop teleportieren
-UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Mcöhtest du dich zum Shop teleportieren?
+UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Möchtest du dich zum Shop teleportieren?
 UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
 UI_SEARCHSHOP_ADVERTISED,Advertised,Beworben
 UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Your Shop Advertisement item will be consumed and disappear when closing the shop.
