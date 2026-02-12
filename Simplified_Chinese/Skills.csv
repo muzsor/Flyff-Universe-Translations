@@ -423,7 +423,7 @@ PROPSKILL_TXT_100074,A portion of the damage dealt to this monster is reflected 
 PROPSKILL_TXT_100075,Siren's Call,塞壬的召唤
 PROPSKILL_TXT_100076,The Siren draws you closer. Your pain is her pain.,塞壬将你拉近，感受与它同样的痛苦。
 PROPSKILL_TXT_100077,Double Vision,双瞳
-PROPSKILL_TXT_100078,You're seeing double. And feeling double..,你看到的是双重的，承受的是双倍的...
+PROPSKILL_TXT_100078,You're seeing double. And feeling double..,眼前重影交错，痛觉亦成倍叠加..
 PROPSKILL_TXT_100079,Pack Tactics,怪海战术
 PROPSKILL_TXT_100080,This monster stays loyal to the pack.,怪物们都对彼此很忠诚。
 PROPSKILL_TXT_100081,A well of gravity considerably slows and damages you.,使你大幅减速并造成伤害的重力旋涡。
@@ -704,66 +704,66 @@ PROPSKILL_TXT_140064,Trap: Debuff,陷阱：减益
 PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,部署一个陷阱，造成伤害并有15%的概率使目标减速。
 PROPSKILL_TXT_140066,Pit,陷坑
 PROPSKILL_TXT_140067,You have stepped on a trap.,你踩到了一个陷阱。
-PROPSKILL_TXT_140068,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140069,Crowd Controller,Crowd Controller
-PROPSKILL_TXT_140071,Trap: DoT,Trap: DoT
-PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,Deploy a trap that deals continuous damage.
-PROPSKILL_TXT_140073,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140076,Trap: AoE,Trap: AoE
-PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,Deploy a trap that deals damage in the designated area.
-PROPSKILL_TXT_140078,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140081,Trap: Binding,Trap: Binding
-PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,Deploy a trap that immobilizes the target.
-PROPSKILL_TXT_140083,Skilled Installation,Skilled Installation
-PROPSKILL_TXT_140086,Trap: Blast,Trap: Blast
-PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,Deploy a trap that pushes the target away.
-PROPSKILL_TXT_140088,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140091,Marked Prey,Marked Prey
-PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.
-PROPSKILL_TXT_140093,Advanced Trap,Advanced Trap
-PROPSKILL_TXT_140094,Increases your traps’ range.,Increases your traps’ range.
-PROPSKILL_TXT_140095,Devastating Sting,Devastating Sting
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,Increases damage dealt by normal attacks.
-PROPSKILL_TXT_140097,Nearby Shot,Nearby Shot
-PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Increased damage for auto attacks when you more than 5m from your target.
-PROPSKILL_TXT_140099,Feeble Arms,Feeble Arms
-PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,Monsters take less damages from you but have higher drop rates.
-PROPSKILL_TXT_150142,Four Strikes,Four Strikes
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage."
-PROPSKILL_TXT_150144,Auto Attack Stacks,Auto Attack Stacks
-PROPSKILL_TXT_150145,Execution of Justice,Execution of Justice
-PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Leap forward, knocking nearby enemies towards you and reducing their movement speed."
-PROPSKILL_TXT_150147,Leap of Faith,Leap of Faith
-PROPSKILL_TXT_150148,Hero's Emergence,Hero's Emergence
-PROPSKILL_TXT_150149,Faction Collapse,Faction Collapse
-PROPSKILL_TXT_150150,Lillith's Gaze,Lillith's Gaze
-PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","Gaze upon your target, slowing them down and forcing them to move towards you."
-PROPSKILL_TXT_150152,Sure Gaze,Sure Gaze
-PROPSKILL_TXT_150153,Slowing,Slowing
-PROPSKILL_TXT_150155,Cimetiere's Scream,Cimetiere's Scream
-PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence."
-PROPSKILL_TXT_150158,Debuff Chance,Debuff Chance
-PROPSKILL_TXT_150160,Aether Rend,Aether Rend
-PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.
-PROPSKILL_TXT_150162,Additional Buffs,Additional Buffs
+PROPSKILL_TXT_140068,Proficient Traps,陷阱专精
+PROPSKILL_TXT_140069,Crowd Controller,控场大师
+PROPSKILL_TXT_140071,Trap: DoT,陷阱: 持续伤害
+PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,部署一个陷阱，对范围内的敌人造成持续伤害。
+PROPSKILL_TXT_140073,Proficient Traps,陷阱专精
+PROPSKILL_TXT_140076,Trap: AoE,陷阱: 范围
+PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,在指定区域部署一个陷阱，对范围内的敌人造成伤害。
+PROPSKILL_TXT_140078,Proficient Traps,陷阱专精
+PROPSKILL_TXT_140081,Trap: Binding,陷阱: 致盲
+PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,部署一个陷阱，使目标陷入定身状态。
+PROPSKILL_TXT_140083,Skilled Installation,熟练部署
+PROPSKILL_TXT_140086,Trap: Blast,陷阱: 爆裂
+PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,部署一个陷阱，将目标击退。
+PROPSKILL_TXT_140088,Proficient Traps,陷阱专精
+PROPSKILL_TXT_140091,Marked Prey,标记猎物
+PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,对陷入陷阱并处于陷坑减益状态的敌人，普通攻击的暴击伤害提升。
+PROPSKILL_TXT_140093,Advanced Trap,进阶陷阱
+PROPSKILL_TXT_140094,Increases your traps’ range.,提升陷阱的作用范围。
+PROPSKILL_TXT_140095,Devastating Sting,毁灭蛰刺
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks.,提升普通攻击造成的伤害。
+PROPSKILL_TXT_140097,Nearby Shot,近程射击
+PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,当与目标距离超过5米时，普通攻击的伤害提升。
+PROPSKILL_TXT_140099,Feeble Arms,虚弱之臂
+PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,怪物对你造成的伤害降低，但掉落物品的概率提升。
+PROPSKILL_TXT_150142,Four Strikes,连击四式
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","你的普通攻击会叠加层数，达到4层时自动引爆，造成额外伤害。"
+PROPSKILL_TXT_150144,Auto Attack Stacks,普攻叠层
+PROPSKILL_TXT_150145,Execution of Justice,正义处决
+PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","向前跃起，将附近敌人拉向你身前并降低其移动速度。"
+PROPSKILL_TXT_150147,Leap of Faith,信仰之跃
+PROPSKILL_TXT_150148,Hero's Emergence,英雄新生
+PROPSKILL_TXT_150149,Faction Collapse,阵营崩陷
+PROPSKILL_TXT_150150,Lillith's Gaze,莉莉丝的凝视
+PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","凝视目标，使其减速并被迫向你移动。"
+PROPSKILL_TXT_150152,Sure Gaze,坚定凝视
+PROPSKILL_TXT_150153,Slowing,减速
+PROPSKILL_TXT_150155,Cimetiere's Scream,西梅泰尔的尖啸
+PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","在目标区域短暂召唤西梅泰尔之灵，对周围敌人造成伤害并有概率施加沉默效果。"
+PROPSKILL_TXT_150158,Debuff Chance,减益概率
+PROPSKILL_TXT_150160,Aether Rend,以太撕裂
+PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,移除目标身上的若干控制与虚弱减益效果，移除数量取决于【邪能爆裂】与【诅咒奔涌】的当前叠层数。此技能将消耗上述两种技能的所有叠层，其伤害随你身上的减益与虚弱效果强度提升。
+PROPSKILL_TXT_150162,Additional Buffs,增益追加
 PROPSKILL_TXT_150163,Additional Damage,额外伤害
 PROPSKILL_TXT_150165,Yo-Yo Storm,轮舞飓风
 PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,原地旋转飞轮，持续攻击周围所有敌人。
-PROPSKILL_TXT_150167,Extended Range,Extended Range
-PROPSKILL_TXT_150169,CC Attack,CC Attack
+PROPSKILL_TXT_150167,Extended Range,距离增加
+PROPSKILL_TXT_150169,CC Attack,控场打击
 PROPSKILL_TXT_150170,Toxic Cloud,毒雾
 PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.",向目标区域投掷毒瓶，生成一片毒雾，对范围内敌人造成伤害并有概率使其中毒。
-PROPSKILL_TXT_150172,Extended Range,Extended Range
-PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
-PROPSKILL_TXT_150175,Bloody Rush,Bloody Rush
-PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","Rush forward, causing slicing and bleeding the first enemy hit."
-PROPSKILL_TXT_150177,Enhanced Dash,Enhanced Dash
-PROPSKILL_TXT_150178,Strong Impact,Strong Impact
-PROPSKILL_TXT_150179,Bloody Release,Bloody Release
-PROPSKILL_TXT_150180,Cross of Blood,Cross of Blood
-PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits."
+PROPSKILL_TXT_150172,Extended Range,距离增加
+PROPSKILL_TXT_150174,Gas Cloud,瘴雾
+PROPSKILL_TXT_150175,Bloody Rush,血涌突袭
+PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","向前突进，对首个命中的敌人造成切割伤害并附加流血效果。"
+PROPSKILL_TXT_150177,Enhanced Dash,强力冲锋
+PROPSKILL_TXT_150178,Strong Impact,强力冲击
+PROPSKILL_TXT_150179,Bloody Release,血液释放
+PROPSKILL_TXT_150180,Cross of Blood,血十字
+PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","凝聚血力猛踏地面，对周围敌人造成伤害并施加流血效果。蓄力至满后，踏击将额外造成多次打击。"
 PROPSKILL_TXT_150183,Berserk,狂暴
-PROPSKILL_TXT_150184,Knockback,Knockback
+PROPSKILL_TXT_150184,Knockback,击退
 PROPSKILL_TXT_150185,Bloody Thorn,Bloody Thorn
 PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,Knocks back and causes bleeding with an explosion. Charging increases range.
 PROPSKILL_TXT_150187,Critical Hit,Critical Hit
@@ -803,8 +803,8 @@ PROPSKILL_TXT_150222,DoT Resistance,DoT Resistance
 PROPSKILL_TXT_150223,Area Increase,Area Increase
 PROPSKILL_TXT_150224,Soul of Rhisis,莱斯神之魂
 PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提供伤害减免。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
-PROPSKILL_TXT_150226,Effect Increase,Effect Increase
-PROPSKILL_TXT_150228,Duration Increase,Duration Increase
+PROPSKILL_TXT_150226,Effect Increase,效果增强
+PROPSKILL_TXT_150228,Duration Increase,持续时间延长
 PROPSKILL_TXT_150229,Celestial Barrier,天界屏障
 PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提供元素抗性。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150234,Heaven's Step,天界步履
@@ -858,15 +858,15 @@ PROPSKILL_TXT_150297,Casting Time Reduction,Casting Time Reduction
 PROPSKILL_TXT_150298,Range Enhancement,Range Enhancement
 PROPSKILL_TXT_150300,Enlightenment,Enlightenment
 PROPSKILL_TXT_150301,Increases knuckle damage.,提升拳套伤害。
-PROPSKILL_TXT_150302,Quick Movement,Quick Movement
+PROPSKILL_TXT_150302,Quick Movement,快速移动
 PROPSKILL_TXT_150303,Critical Damage,暴击伤害
-PROPSKILL_TXT_150304,Knuckle Power,Knuckle Power
+PROPSKILL_TXT_150304,Knuckle Power,拳套之力
 PROPSKILL_TXT_150305,Bubble's Blessing,波卜尔的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.,Casts an aura that increases allies’ magic attack and critical damage. Can be re-cast to cancel.
 PROPSKILL_TXT_150309,Range Extension,Range Extension
-PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
+PROPSKILL_TXT_150310,Touch of Rhisis,莱斯神之触
 PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
-PROPSKILL_TXT_150315,Ire of Iblis,Ire of Iblis
+PROPSKILL_TXT_150315,Ire of Iblis,伊普利之怒
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.
 PROPSKILL_TXT_150320,Meditate,冥想
 PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel."
@@ -891,19 +891,19 @@ PROPSKILL_TXT_150339,Increased Chance,Increased Chance
 PROPSKILL_TXT_150341,Increased Toxins,Increased Toxins
 PROPSKILL_TXT_150342,Toxic Fury,剧毒狂怒
 PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,使自身中毒，以牺牲防御为代价换取能力提升。
-PROPSKILL_TXT_150345,Maintain Addiction,Maintain Addiction
-PROPSKILL_TXT_150346,No Pain No Gain,No Pain No Gain
-PROPSKILL_TXT_150347,Toxic Analogy,Toxic Analogy
-PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,Reduces damage taken from poisoned enemies.
-PROPSKILL_TXT_150349,Master of Toxins,Master of Toxins
-PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,Increase your damage against poisoned enemies.
-PROPSKILL_TXT_150351,Risk Management,Risk Management
-PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,Becoming invisible has a chance to remove your own poison.
-PROPSKILL_TXT_150353,Dual Ego,Dual Ego
-PROPSKILL_TXT_150354,CC Attack,CC Attack
-PROPSKILL_TXT_150355,Far Shot,Far Shot
-PROPSKILL_TXT_150356,Party Buff,Party Buff
-PROPSKILL_TXT_150357,Slowing,Slowing
+PROPSKILL_TXT_150345,Maintain Addiction,维系成瘾
+PROPSKILL_TXT_150346,No Pain No Gain,无痛无获
+PROPSKILL_TXT_150347,Toxic Analogy,毒理同化
+PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,降低来自中毒敌人的伤害。
+PROPSKILL_TXT_150349,Master of Toxins,毒素大师
+PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,提升你对中毒敌人的伤害。
+PROPSKILL_TXT_150351,Risk Management,风险管理
+PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,进入隐身状态时，有一定概率移除自身的中毒效果。
+PROPSKILL_TXT_150353,Dual Ego,分魂并生
+PROPSKILL_TXT_150354,CC Attack,控场攻击
+PROPSKILL_TXT_150355,Far Shot,狙击
+PROPSKILL_TXT_150356,Party Buff,团队增益
+PROPSKILL_TXT_150357,Slowing,减速
 PROPSKILL_TXT_150358,Incinerate,Incinerate
 PROPSKILL_TXT_150359,Increased Elemental,Increased Elemental
 PROPSKILL_TXT_150360,Additional Burn Damage,Additional Burn Damage
@@ -924,15 +924,15 @@ PROPSKILL_TXT_150378,Stormveil Cloak,Stormveil Cloak
 PROPSKILL_TXT_150379,EVA Storm,EVA Storm
 PROPSKILL_TXT_150380,Increased Shock Chance,Increased Shock Chance
 PROPSKILL_TXT_150381,Thunder Strike,雷霆之怒
-PROPSKILL_TXT_150382,Water Counter,Water Counter
-PROPSKILL_TXT_150383,Voltguard,Voltguard
-PROPSKILL_TXT_150384,Stone Pillar,Stone Pillar
+PROPSKILL_TXT_150382,Water Counter,水之反制
+PROPSKILL_TXT_150383,Voltguard,伏特卫盾
+PROPSKILL_TXT_150384,Stone Pillar,岩突柱
 PROPSKILL_TXT_150385,Increased Explosion Range,Increased Explosion Range
 PROPSKILL_TXT_150386,Swampy Area,Swampy Area
 PROPSKILL_TXT_150387,Electric Counter,Electric Counter
 PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.","Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them."
 PROPSKILL_TXT_150389,Suffocation,Suffocation
-PROPSKILL_TXT_150390,Sleeping,Sleeping
+PROPSKILL_TXT_150390,Sleeping,沉睡
 PROPSKILL_TXT_150391,Paralyzed,Paralyzed
 PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","You are sleeping, and will be awaken once you take damage."
 PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","You are paralyzed, physical damage is increased and magical damage is decreased."
@@ -941,7 +941,7 @@ PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,You are 
 PROPSKILL_TXT_150396,Raging Storm,Raging Storm
 PROPSKILL_TXT_150397,Zephyr's Grace,Zephyr's Grace
 PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,Gain shields when you use Gale or Gust.
-PROPSKILL_TXT_150399,Gust,Gust
+PROPSKILL_TXT_150399,Gust,阵风
 PROPSKILL_TXT_150400,The skill's range increases.,The skill's range increases.
 PROPSKILL_TXT_150401,Skill cooldown is reduced.,Skill cooldown is reduced.
 PROPSKILL_TXT_150402,Skill damage increases proportionally to the shield's defense.,Skill damage increases proportionally to the shield's defense.
@@ -1146,10 +1146,10 @@ PROPSKILL_TXT_150609,Nen Release,念气释放
 PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,消耗一定力量，移除所有的念气叠加。
 PROPSKILL_TXT_150611,Divinecross,神圣十字
 PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.",对目标施加神圣之力，记录其期间承受的最高单次伤害，并在效果结束时复制该伤害的至多75%。此减益效果可通过再次按键主动提前结束。
-PROPSKILL_TXT_150613,Increased Multiplier,Increased Multiplier
-PROPSKILL_TXT_150614,Reduced PvP Cooldown,Reduced PvP Cooldown
-PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,Cooldown is reduced in PvP.
-PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,Up to 100% of the recorded hit is replicated.
+PROPSKILL_TXT_150613,Increased Multiplier,系数提升
+PROPSKILL_TXT_150614,Reduced PvP Cooldown,PvP冷却降低
+PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,PvP冷却缩减。
+PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,最多复制记录伤害的100%。
 PROPSKILL_TXT_150617,First Player Level 190 Buff,First Player Level 190 Buff
 PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,Enjoy Exp+15% until level 164!
-PROPSKILL_TXT_150619,Stun duration is increased.,Stun duration is increased.
+PROPSKILL_TXT_150619,Stun duration is increased.,眩晕持续时间延长。
