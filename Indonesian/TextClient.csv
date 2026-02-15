@@ -9,7 +9,7 @@ TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Apakah ka
 TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,Perangkat terputus. Silakan login kembali dalam 10 detik.
 TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Channel ini sedang penuh, mohon tunggu sebentar atau pilih channel lain."
 TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Nama karakter sudah digunakan.
-TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster terdeteksi!!!
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster terdeteksi!
 TEXTCLIENT_APP_MAP,World Map,World Map
 TEXTCLIENT_APP_OPTION,Options,Opsi
 TEXTCLIENT_APP_LOGOUT,Logout,Logout
