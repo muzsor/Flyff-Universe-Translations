@@ -561,7 +561,7 @@ TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give i
 TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!
 TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is offline.
 TEXTCLIENT_COUPLERING_ERR02,You can not teleport to %s from here.
-TEXTCLIENT_COUPLERING_ERR03,You can not teleport to who is flying.
+TEXTCLIENT_COUPLERING_ERR03,You can not teleport to a player who is flying.
 TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.
 TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s
 TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?
