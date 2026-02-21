@@ -1981,48 +1981,48 @@ PROPITEM_TXT_003960,Legendary Golden Staff,Legendary Golden Staff
 PROPITEM_TXT_003962,Legendary Golden Bow,Legendary Golden Bow
 PROPITEM_TXT_003964,Legendary Golden Yo-Yo,Legendary Golden Yo-Yo
 PROPITEM_TXT_003966,First Refresher,First Refresher
-PROPITEM_TXT_003967,MP 65 Recovery,MP 65 Recovery
+PROPITEM_TXT_003967,MP 65 Recovery,Memulihkan 65 MP
 PROPITEM_TXT_003968,Second Refresher,Second Refresher
-PROPITEM_TXT_003969,MP 125 Recovery,MP 125 Recovery
+PROPITEM_TXT_003969,MP 125 Recovery,Memulihkan 125 MP
 PROPITEM_TXT_003970,Third Refresher,Third Refresher
-PROPITEM_TXT_003971,MP 185 Recovery,MP 185 Recovery
+PROPITEM_TXT_003971,MP 185 Recovery,Memulihkan 185 MP
 PROPITEM_TXT_003972,Fourth Refresher,Fourth Refresher
-PROPITEM_TXT_003973,MP 245 Recovery,MP 245 Recovery
+PROPITEM_TXT_003973,MP 245 Recovery,Memulihkan 245 MP
 PROPITEM_TXT_003974,Fifth Refresher,Fifth Refresher
-PROPITEM_TXT_003975,MP 315 Recovery,MP 315 Recovery
+PROPITEM_TXT_003975,MP 315 Recovery,Memulihkan 315 MP
 PROPITEM_TXT_003976,Sixth Refresher,Sixth Refresher
-PROPITEM_TXT_003977,MP 375 Recovery,MP 375 Recovery
+PROPITEM_TXT_003977,MP 375 Recovery,Memulihkan 375 MP
 PROPITEM_TXT_003978,Seventh Refresher,Seventh Refresher
-PROPITEM_TXT_003979,MP 450 Recovery,MP 450 Recovery
+PROPITEM_TXT_003979,MP 450 Recovery,Memulihkan 450 MP
 PROPITEM_TXT_003980,Eighth Refresher,Eighth Refresher
-PROPITEM_TXT_003981,MP 525 Recovery,MP 525 Recovery
+PROPITEM_TXT_003981,MP 525 Recovery,Memulihkan 525 MP
 PROPITEM_TXT_003982,Ninth Refresher,Ninth Refresher
-PROPITEM_TXT_003983,MP 600 Recovery,MP 600 Recovery
+PROPITEM_TXT_003983,MP 600 Recovery,Memulihkan 600 MP
 PROPITEM_TXT_003984,Tenth Refresher,Tenth Refresher
-PROPITEM_TXT_003985,MP 675 Recovery,MP 675 Recovery
+PROPITEM_TXT_003985,MP 675 Recovery,Memulihkan 675 MP
 PROPITEM_TXT_003986,Antidote Potion,Antidote Potion
 PROPITEM_TXT_003987,A poison antidote. This vial will instantly cure poison effects when consumed.,Sebuah penawar racun. Vial ini akan langsung menyembuhkan efek racun saat dikonsumsi.
 PROPITEM_TXT_003988,Cure Disease Potion,Cure Disease Potion
-PROPITEM_TXT_003990,Water Bottle,Water Bottle
-PROPITEM_TXT_003992,Oil Bottle,Oil Bottle
+PROPITEM_TXT_003990,Water Bottle,Botol Air
+PROPITEM_TXT_003992,Oil Bottle,Botol Minyak
 PROPITEM_TXT_003994,VitalDrink 100,VitalDrink 100
-PROPITEM_TXT_003995,FP 60 Recovery,FP 60 Recovery
+PROPITEM_TXT_003995,FP 60 Recovery,Memulihkan 60 FP
 PROPITEM_TXT_003996,VitalDrink 200,VitalDrink 200
-PROPITEM_TXT_003997,FP 120 Recovery,FP 120 Recovery
+PROPITEM_TXT_003997,FP 120 Recovery,Memulihkan 120 FP
 PROPITEM_TXT_003998,VitalDrink 300,VitalDrink 300
-PROPITEM_TXT_003999,FP 180 Recovery,FP 180 Recovery
+PROPITEM_TXT_003999,FP 180 Recovery,Memulihkan 180 FP
 PROPITEM_TXT_004000,VitalDrink 400,VitalDrink 400
-PROPITEM_TXT_004001,FP 240 Recovery,FP 240 Recovery
+PROPITEM_TXT_004001,FP 240 Recovery,Memulihkan 240 FP
 PROPITEM_TXT_004002,VitalDrink 500,VitalDrink 500
-PROPITEM_TXT_004003,FP 300 Recovery,FP 300 Recovery
+PROPITEM_TXT_004003,FP 300 Recovery,Memulihkan 300 FP
 PROPITEM_TXT_004004,VitalDrink 600,VitalDrink 600
-PROPITEM_TXT_004005,FP 368 Recovery,FP 368 Recovery
+PROPITEM_TXT_004005,FP 368 Recovery,Memulihkan 368 FP
 PROPITEM_TXT_004006,VitalDrink 700,VitalDrink 700
-PROPITEM_TXT_004007,FP 450 Recovery,FP 450 Recovery
+PROPITEM_TXT_004007,FP 450 Recovery,Memulihkan 450 FP
 PROPITEM_TXT_004008,VitalDrink 800,VitalDrink 800
-PROPITEM_TXT_004009,FP 520 Recovery,FP 520 Recovery
+PROPITEM_TXT_004009,FP 520 Recovery,Memulihkan 520 FP
 PROPITEM_TXT_004010,VitalDrink 900,VitalDrink 900
-PROPITEM_TXT_004011,FP 590 Recovery,FP 590 Recovery
+PROPITEM_TXT_004011,FP 590 Recovery,Memulihkan 590 FP
 PROPITEM_TXT_004012,Poison Immunity Potion,Poison Immunity Potion
 PROPITEM_TXT_004013,Short Immunity from Potion,Short Immunity from Potion
 PROPITEM_TXT_004014,Demol Earring +1,Demol Earring +1
@@ -2061,85 +2061,85 @@ PROPITEM_TXT_004046,Gore Necklace +5,Gore Necklace +5
 PROPITEM_TXT_004047,+386 Max. HP Necklace,+386 Max. HP Necklace
 PROPITEM_TXT_004048,Gore Necklace +6,Gore Necklace +6
 PROPITEM_TXT_004049,+458 Max. HP Necklace,+458 Max. HP Necklace
-PROPITEM_TXT_004050,Mental Necklace +1,Mental Necklace +1
+PROPITEM_TXT_004050,Mental Necklace +1,Kalung Mental +1
 PROPITEM_TXT_004051,+57 Max. MP Necklace,57 Max. MP Necklace
-PROPITEM_TXT_004052,Mental Necklace +2,Mental Necklace +2
+PROPITEM_TXT_004052,Mental Necklace +2,Kalung Mental +2
 PROPITEM_TXT_004053,+79 Max. MP Necklace,+79 Max. MP Necklace
-PROPITEM_TXT_004054,Mental Necklace +3,Mental Necklace +3
+PROPITEM_TXT_004054,Mental Necklace +3,Kalung Mental +3
 PROPITEM_TXT_004055,+108 Max. MP Necklace,+108 Max. MP Necklace
-PROPITEM_TXT_004056,Mental Necklace +4,Mental Necklace +4
+PROPITEM_TXT_004056,Mental Necklace +4,Kalung Mental +4
 PROPITEM_TXT_004057,+144 Max. MP Necklace,+144 Max. MP Necklace
-PROPITEM_TXT_004058,Mental Necklace +5,Mental Necklace +5
+PROPITEM_TXT_004058,Mental Necklace +5,Kalung Mental +5
 PROPITEM_TXT_004059,+180 Max. MP Necklace,+180 Max. MP Necklace
-PROPITEM_TXT_004060,Mental Necklace +6,Mental Necklace +6
+PROPITEM_TXT_004060,Mental Necklace +6,Kalung Mental +6
 PROPITEM_TXT_004061,+223 Max. MP Necklace,+223 Max. MP Necklace
-PROPITEM_TXT_004062,Peision Necklace +1,Peision Necklace +1
+PROPITEM_TXT_004062,Peision Necklace +1,Kalung Peision +1
 PROPITEM_TXT_004063,+130 Max. FP Necklace,+130 Max. FP Necklace
-PROPITEM_TXT_004064,Peision Necklace +2,Peision Necklace +2
+PROPITEM_TXT_004064,Peision Necklace +2,Kalung Peision +2
 PROPITEM_TXT_004065,+168 Max. FP Necklace,+168 Max. FP Necklace
-PROPITEM_TXT_004066,Peision Necklace +3,Peision Necklace +3
+PROPITEM_TXT_004066,Peision Necklace +3,Kalung Peision +3
 PROPITEM_TXT_004067,+218 Max. FP Necklace,+218 Max. FP Necklace
-PROPITEM_TXT_004068,Peision Necklace +4,Peision Necklace +4
+PROPITEM_TXT_004068,Peision Necklace +4,Kalung Peision +4
 PROPITEM_TXT_004069,+282 Max. FP Necklace,+282 Max. FP Necklace
-PROPITEM_TXT_004070,Peision Necklace +5,Peision Necklace +5
+PROPITEM_TXT_004070,Peision Necklace +5,Kalung Peision +5
 PROPITEM_TXT_004071,+346 Max. FP Necklace,+346 Max. FP Necklace
-PROPITEM_TXT_004072,Peision Necklace +6,Peision Necklace +6
+PROPITEM_TXT_004072,Peision Necklace +6,Kalung Peision +6
 PROPITEM_TXT_004073,+424 Max. FP Necklace,+424 Max. FP Necklace
-PROPITEM_TXT_004074,Vigor Ring +1,Vigor Ring +1
+PROPITEM_TXT_004074,Vigor Ring +1,Cincin Vigor +1
 PROPITEM_TXT_004075,STR +2 Ring,STR +2 Ring
-PROPITEM_TXT_004076,Vigor Ring +2,Vigor Ring +2
+PROPITEM_TXT_004076,Vigor Ring +2,Cincin Vigor +2
 PROPITEM_TXT_004077,STR +3 Ring,STR +3 Ring
-PROPITEM_TXT_004078,Vigor Ring +3,Vigor Ring +3
+PROPITEM_TXT_004078,Vigor Ring +3,Cincin Vigor +3
 PROPITEM_TXT_004079,STR +4 Ring,STR +4 Ring
-PROPITEM_TXT_004080,Vigor Ring +4,Vigor Ring +4
+PROPITEM_TXT_004080,Vigor Ring +4,Cincin Vigor +4
 PROPITEM_TXT_004081,STR +5 Ring,STR +5 Ring
-PROPITEM_TXT_004082,Vigor Ring +5,Vigor Ring +5
+PROPITEM_TXT_004082,Vigor Ring +5,Cincin Vigor +5
 PROPITEM_TXT_004083,STR +6 Ring,STR +6 Ring
-PROPITEM_TXT_004084,Vigor Ring +6,Vigor Ring +6
+PROPITEM_TXT_004084,Vigor Ring +6,Cincin Vigor +6
 PROPITEM_TXT_004085,STR +7 Ring,STR +7 Ring
-PROPITEM_TXT_004086,Intelli Ring +1,Intelli Ring +1
+PROPITEM_TXT_004086,Intelli Ring +1,Cincin Intelli +1
 PROPITEM_TXT_004087,INT +2 Ring,INT +2 Ring
-PROPITEM_TXT_004088,Intelli Ring +2,Intelli Ring +2
+PROPITEM_TXT_004088,Intelli Ring +2,Cincin Intelli +2
 PROPITEM_TXT_004089,INT +3 Ring,INT +3 Ring
-PROPITEM_TXT_004090,Intelli Ring +3,Intelli Ring +3
+PROPITEM_TXT_004090,Intelli Ring +3,Cincin Intelli +3
 PROPITEM_TXT_004091,INT +4 Ring,INT +4 Ring
-PROPITEM_TXT_004092,Intelli Ring +4,Intelli Ring +4
+PROPITEM_TXT_004092,Intelli Ring +4,Cincin Intelli +4
 PROPITEM_TXT_004093,INT +5 Ring,INT +5 Ring
-PROPITEM_TXT_004094,Intelli Ring +5,Intelli Ring +5
+PROPITEM_TXT_004094,Intelli Ring +5,Cincin Intelli +5
 PROPITEM_TXT_004095,INT +6 Ring,INT +6 Ring
-PROPITEM_TXT_004096,Intelli Ring +6,Intelli Ring +6
+PROPITEM_TXT_004096,Intelli Ring +6,Cincin Intelli +6
 PROPITEM_TXT_004097,INT +7 Ring,INT +7 Ring
-PROPITEM_TXT_004098,Arek Ring +1,Arek Ring +1
+PROPITEM_TXT_004098,Arek Ring +1,Cincin Arek +1
 PROPITEM_TXT_004099,DEX +2 Ring,DEX +2 Ring
-PROPITEM_TXT_004100,Arek Ring +2,Arek Ring +2
+PROPITEM_TXT_004100,Arek Ring +2,Cincin Arek +2
 PROPITEM_TXT_004101,DEX +3 Ring,DEX +3 Ring
-PROPITEM_TXT_004102,Arek Ring +3,Arek Ring +3
+PROPITEM_TXT_004102,Arek Ring +3,Cincin Arek +3
 PROPITEM_TXT_004103,DEX +4 Ring,DEX +4 Ring
-PROPITEM_TXT_004104,Arek Ring +4,Arek Ring +4
+PROPITEM_TXT_004104,Arek Ring +4,Cincin Arek +4
 PROPITEM_TXT_004105,DEX +5 Ring,DEX +5 Ring
-PROPITEM_TXT_004106,Arek Ring +5,Arek Ring +5
+PROPITEM_TXT_004106,Arek Ring +5,Cincin Arek +5
 PROPITEM_TXT_004107,DEX +6 Ring,DEX +6 Ring
-PROPITEM_TXT_004108,Arek Ring +6,Arek Ring +6
+PROPITEM_TXT_004108,Arek Ring +6,Cincin Arek +6
 PROPITEM_TXT_004109,DEX +7 Ring,DEX +7 Ring
-PROPITEM_TXT_004110,Stam Ring +1,Stam Ring +1
+PROPITEM_TXT_004110,Stam Ring +1,Cincin Stam +1
 PROPITEM_TXT_004111,STA +2 Ring,STA +2 Ring
-PROPITEM_TXT_004112,Stam Ring +2,Stam Ring +2
+PROPITEM_TXT_004112,Stam Ring +2,Cincin Stam +2
 PROPITEM_TXT_004113,STA +3 Ring,STA +3 Ring
-PROPITEM_TXT_004114,Stam Ring +3,Stam Ring +3
+PROPITEM_TXT_004114,Stam Ring +3,Cincin Stam +3
 PROPITEM_TXT_004115,STA +4 Ring,STA +4 Ring
-PROPITEM_TXT_004116,Stam Ring +4,Stam Ring +4
+PROPITEM_TXT_004116,Stam Ring +4,Cincin Stam +4
 PROPITEM_TXT_004117,STA +5 Ring,STA +5 Ring
-PROPITEM_TXT_004118,Stam Ring +5,Stam Ring +5
+PROPITEM_TXT_004118,Stam Ring +5,Cincin Stam +5
 PROPITEM_TXT_004119,STA +6 Ring,STA +6 Ring
-PROPITEM_TXT_004120,Stam Ring +6,Stam Ring +6
+PROPITEM_TXT_004120,Stam Ring +6,Cincin Stam +6
 PROPITEM_TXT_004121,STA +7 Ring,STA +7 Ring
-PROPITEM_TXT_004122,Vigor Ring +0,Vigor Ring +0
+PROPITEM_TXT_004122,Vigor Ring +0,Cincin Vigor +0
 PROPITEM_TXT_004123,STR +1 Ring,STR +1 Ring
-PROPITEM_TXT_004124,Intelli Ring +0,Intelli Ring +0
+PROPITEM_TXT_004124,Intelli Ring +0,Cincin Intelli +0
 PROPITEM_TXT_004125,INT +1 Ring,INT +1 Ring
-PROPITEM_TXT_004126,Stam Ring +0,Stam Ring +0
+PROPITEM_TXT_004126,Stam Ring +0,Cincin Stam +0
 PROPITEM_TXT_004127,STA +1 Ring,STA +1 Ring
-PROPITEM_TXT_004128,Arek Ring +0,Arek Ring +0
+PROPITEM_TXT_004128,Arek Ring +0,Cincin Arek +0
 PROPITEM_TXT_004129,DEX +1 Ring,DEX +1 Ring
 PROPITEM_TXT_004130,Mighteer +1,Mighteer +1
 PROPITEM_TXT_004131,+120 Damage Earring,+120 Damage Earring
@@ -2187,88 +2187,88 @@ PROPITEM_TXT_004181,DEX +20 Ring,DEX +20 Ring
 PROPITEM_TXT_004182,Dexion +3,Dexion +3
 PROPITEM_TXT_004183,DEX +30 Ring,DEX +30 Ring
 PROPITEM_TXT_004184,Meteor,Meteor
-PROPITEM_TXT_004185,All Stats +10 Ring,All Stats +10 Ring
+PROPITEM_TXT_004185,All Stats +10 Ring,Semua Stat +10 Cincin
 PROPITEM_TXT_004186,Meteofy,Meteofy
-PROPITEM_TXT_004187,All Stats +20 Ring,All Stats +20 Ring
+PROPITEM_TXT_004187,All Stats +20 Ring,Semua Stat +20 Cincin
 PROPITEM_TXT_004188,P.K STR Penalty,P.K STR Penalty
 PROPITEM_TXT_004190,P.K STA Penalty,P.K STA Penalty
 PROPITEM_TXT_004192,P.K INT Penalty,P.K INT Penalty
 PROPITEM_TXT_004194,P.K DEX Penalty,P.K DEX Penalty
 PROPITEM_TXT_004198,Lollipop,Lollipop
-PROPITEM_TXT_004199,Recovers 70 HP,Recovers 70 HP
-PROPITEM_TXT_004200,Biscuit,Biscuit
-PROPITEM_TXT_004201,Recovers 140 HP,Recovers 140 HP
-PROPITEM_TXT_004202,Chocolate Bar,Chocolate Bar
-PROPITEM_TXT_004203,Recovers 200 HP,Recovers 200 HP
+PROPITEM_TXT_004199,Recovers 70 HP,Memulihkan 70 HP
+PROPITEM_TXT_004200,Biscuit,Biskuit
+PROPITEM_TXT_004201,Recovers 140 HP,Memulihkan 140 HP
+PROPITEM_TXT_004202,Chocolate Bar,Cokelat Batangan
+PROPITEM_TXT_004203,Recovers 200 HP,Memulihkan 200 HP
 PROPITEM_TXT_004204,Milk,Susu
-PROPITEM_TXT_004205,Recovers 260 HP,Recovers 260 HP
-PROPITEM_TXT_004206,Roll Bread,Roll Bread
-PROPITEM_TXT_004207,Recovers 330 HP,Recovers 330 HP
+PROPITEM_TXT_004205,Recovers 260 HP,Memulihkan 260 HP
+PROPITEM_TXT_004206,Roll Bread,Roti Gulung
+PROPITEM_TXT_004207,Recovers 330 HP,Memulihkan 330 HP
 PROPITEM_TXT_004208,Hot Dog,Hot Dog
-PROPITEM_TXT_004209,Recovers 429 HP,Recovers 429 HP
+PROPITEM_TXT_004209,Recovers 429 HP,Memulihkan 429 HP
 PROPITEM_TXT_004210,Super Hot Dog,Super Hot Dog
-PROPITEM_TXT_004211,Recovers ALL HP,Recovers ALL HP
+PROPITEM_TXT_004211,Recovers ALL HP,Memulihkan SEMUA HP
 PROPITEM_TXT_004212,Pizza,Pizza
-PROPITEM_TXT_004213,Recovers 584 HP,Recovers 584 HP
+PROPITEM_TXT_004213,Recovers 584 HP,Memulihkan 584 HP
 PROPITEM_TXT_004214,Kimbap,Kimbap
-PROPITEM_TXT_004215,Recovers 724 HP,Recovers 724 HP
+PROPITEM_TXT_004215,Recovers 724 HP,Memulihkan 724 HP
 PROPITEM_TXT_004216,Chicken Stick,Stik Ayam
-PROPITEM_TXT_004217,Recover 970 HP,Recover 970 HP
+PROPITEM_TXT_004217,Recover 970 HP,Memulihkan 970 HP
 PROPITEM_TXT_004218,Star Candy,Star Candy
-PROPITEM_TXT_004219,Recover 1200 HP,Recover 1200 HP
+PROPITEM_TXT_004219,Recover 1200 HP,Memulihkan 1200 HP
 PROPITEM_TXT_004220,Meat Skewer,Meat Skewer
-PROPITEM_TXT_004221,Recovers 120 HP,Recovers 120 HP
+PROPITEM_TXT_004221,Recovers 120 HP,Memulihkan 120 HP
 PROPITEM_TXT_004222,Barbecue,Barbecue
-PROPITEM_TXT_004223,Recovers 160 HP,Recovers 160 HP
+PROPITEM_TXT_004223,Recovers 160 HP,Memulihkan 160 HP
 PROPITEM_TXT_004224,Seafood Pancake,Seafood Pancake
-PROPITEM_TXT_004225,Recovers 230 HP,Recovers 230 HP
+PROPITEM_TXT_004225,Recovers 230 HP,Memulihkan 230 HP
 PROPITEM_TXT_004226,Fish Soup,Sup Ikan
-PROPITEM_TXT_004227,Recovers 300 HP,Recovers 300 HP
+PROPITEM_TXT_004227,Recovers 300 HP,Memulihkan 300 HP
 PROPITEM_TXT_004228,Sausage Casserole,Sausage Casserole
-PROPITEM_TXT_004229,Recovers 370 HP,Recovers 370 HP
+PROPITEM_TXT_004229,Recovers 370 HP,Memulihkan 370 HP
 PROPITEM_TXT_004230,Fish Stew,Fish Stew
-PROPITEM_TXT_004231,Recovers 514 HP,Recovers 514 HP
+PROPITEM_TXT_004231,Recovers 514 HP,Memulihkan 514 HP
 PROPITEM_TXT_004232,Steamed Seafood,Steamed Seafood
-PROPITEM_TXT_004233,Recovers 670 HP,Recovers 670 HP
+PROPITEM_TXT_004233,Recovers 670 HP,Memulihkan 670 HP
 PROPITEM_TXT_004234,Meat Salad,Meat Salad
-PROPITEM_TXT_004235,Recovers 1300 HP,Recovers 1300 HP
+PROPITEM_TXT_004235,Recovers 1300 HP,Memulihkan 1300 HP
 PROPITEM_TXT_004236,Gratin,Gratin
-PROPITEM_TXT_004237,Recovers 1750 HP,Recovers 1750 HP
+PROPITEM_TXT_004237,Recovers 1750 HP,Memulihkan 1750 HP
 PROPITEM_TXT_004238,Seafood Pizza,Seafood Pizza
-PROPITEM_TXT_004239,Recovers 1450 HP,Recovers 1450 HP
+PROPITEM_TXT_004239,Recovers 1450 HP,Memulihkan 1450 HP
 PROPITEM_TXT_004240,Orange Juice,Jus Jeruk
-PROPITEM_TXT_004241,Recovers 60 HP,Recovers 60 HP
+PROPITEM_TXT_004241,Recovers 60 HP,Memulihkan 60 HP
 PROPITEM_TXT_004242,Strawberry Shake,Strawberry Shake
-PROPITEM_TXT_004243,Recovers 110 HP,Recovers 110 HP
+PROPITEM_TXT_004243,Recovers 110 HP,Memulihkan 110 HP
 PROPITEM_TXT_004244,Pineapple Cone,Pineapple Cone
 PROPITEM_TXT_004246,Banana Jujubar,Banana Jujubar
-PROPITEM_TXT_004247,Recovers 210 HP,Recovers 210 HP
-PROPITEM_TXT_004248,Fruit Juice,Fruit Juice
+PROPITEM_TXT_004247,Recovers 210 HP,Memulihkan 210 HP
+PROPITEM_TXT_004248,Fruit Juice,Jus Buah
 PROPITEM_TXT_004250,Fruit Icewater,Fruit Icewater
-PROPITEM_TXT_004251,Recovers 334 HP,Recovers 334 HP
+PROPITEM_TXT_004251,Recovers 334 HP,Memulihkan 334 HP
 PROPITEM_TXT_004252,Fruit Parfait,Fruit Parfait
-PROPITEM_TXT_004253,Recovers 452 HP,Recovers 452 HP
+PROPITEM_TXT_004253,Recovers 452 HP,Memulihkan 452 HP
 PROPITEM_TXT_004254,Fruit Sherbet,Fruit Sherbet
 PROPITEM_TXT_004256,Icecream Cake,Icecream Cake
-PROPITEM_TXT_004257,Recovers 1170 HP,Recovers 1170 HP
+PROPITEM_TXT_004257,Recovers 1170 HP,Memulihkan 1170 HP
 PROPITEM_TXT_004258,Fruit Punch,Fruit Punch
-PROPITEM_TXT_004259,Recovers 1500 HP,Recovers 1500 HP
-PROPITEM_TXT_004260,Gray Pill,Gray Pill
-PROPITEM_TXT_004261,Recovers 1200 HP,Recovers 1200 HP
-PROPITEM_TXT_004262,Yellow Pill,Yellow Pill
-PROPITEM_TXT_004263,Recover 2000 HP,Recover 2000 HP
-PROPITEM_TXT_004264,Blue Pill,Blue Pill
-PROPITEM_TXT_004265,Recovers 4000 HP,Recovers 4000 HP
-PROPITEM_TXT_004266,Red Pill,Red Pill
-PROPITEM_TXT_004267,Recovers 8000 HP,Recovers 8000 HP
-PROPITEM_TXT_004268,Gold Pill,Gold Pill
-PROPITEM_TXT_004269,Recovers 15000 HP,Recovers 15000 HP
+PROPITEM_TXT_004259,Recovers 1500 HP,Memulihkan 1500 HP
+PROPITEM_TXT_004260,Gray Pill,Pil Abu-abu
+PROPITEM_TXT_004261,Recovers 1200 HP,Memulihkan 1200 HP
+PROPITEM_TXT_004262,Yellow Pill,Pil Kuning
+PROPITEM_TXT_004263,Recover 2000 HP,Memulihkan 2000 HP
+PROPITEM_TXT_004264,Blue Pill,Pil Biru
+PROPITEM_TXT_004265,Recovers 4000 HP,Memulihkan 4000 HP
+PROPITEM_TXT_004266,Red Pill,Pil Merah
+PROPITEM_TXT_004267,Recovers 8000 HP,Memulihkan 8000 HP
+PROPITEM_TXT_004268,Gold Pill,Pil Emas
+PROPITEM_TXT_004269,Recovers 15000 HP,Memulihkan 15000 HP
 PROPITEM_TXT_004270,Hot Ddukguk,Hot Ddukguk
-PROPITEM_TXT_004271,Recovers 9999 HP,Recovers 9999 HP
+PROPITEM_TXT_004271,Recovers 9999 HP,Memulihkan 9999 HP
 PROPITEM_TXT_004272,Fresh Ddukguk,Fresh Ddukguk
-PROPITEM_TXT_004273,Recovers 9999 FP,Recovers 9999 FP
+PROPITEM_TXT_004273,Recovers 9999 FP,Memulihkan 9999 FP
 PROPITEM_TXT_004274,Sweet Ddukguk,Sweet Ddukguk
-PROPITEM_TXT_004275,Recovers 9999 MP,Recovers 9999 MP
+PROPITEM_TXT_004275,Recovers 9999 MP,Memulihkan 9999 MP
 PROPITEM_TXT_004276,Mineral,Mineral
 PROPITEM_TXT_004278,Erons,Erons
 PROPITEM_TXT_004280,Krasec,Krasec
@@ -2398,48 +2398,48 @@ PROPITEM_TXT_004410,Grop Card,Grop Card
 PROPITEM_TXT_004411,Recovers 100 HP with each kill (When placed in a pierced suit),Recovers 100 HP with each kill (When placed in a pierced suit)
 PROPITEM_TXT_004412,Pererty Card,Pererty Card
 PROPITEM_TXT_004413,Recovers 140 HP with each kill (When placed in a pierced suit),Recovers 140 HP with each kill (When placed in a pierced suit)
-PROPITEM_TXT_004414,Tper Card,Tper Card
+PROPITEM_TXT_004414,Tper Card,Kartu Tper
 PROPITEM_TXT_004415,Recovers 30 MP with each kill (When placed in a pierced suit),Recovers 30 MP with each kill (When placed in a pierced suit)
-PROPITEM_TXT_004416,Jemss Card,Jemss Card
+PROPITEM_TXT_004416,Jemss Card,Kartu Jemss
 PROPITEM_TXT_004417,Recovers 70 MP with each kill (When placed in a pierced suit),Recovers 70 MP with each kill (When placed in a pierced suit)
-PROPITEM_TXT_004418,Tniss Card,Tniss Card
+PROPITEM_TXT_004418,Tniss Card,Kartu Tniss
 PROPITEM_TXT_004419,Recovers 30 FP with each kill (When placed in a pierced suit),Recovers 30 FP with each kill (When placed in a pierced suit)
-PROPITEM_TXT_004420,Jedin Card,Jedin Card
+PROPITEM_TXT_004420,Jedin Card,Kartu Jedin
 PROPITEM_TXT_004421,Recovers 60 FP with each kill (When placed in a pierced suit),Recovers 60 FP with each kill (When placed in a pierced suit)
-PROPITEM_TXT_004422,Hitar Card,Hitar Card
+PROPITEM_TXT_004422,Hitar Card,Kartu Hitar
 PROPITEM_TXT_004423,"Recovers 30 HP, MP, and FP with each kill (When placed in a pierced suit)","Recovers 30 HP, MP, and FP with each kill (When placed in a pierced suit)"
-PROPITEM_TXT_004424,Sunse Card,Sunse Card
+PROPITEM_TXT_004424,Sunse Card,Kartu Sunse
 PROPITEM_TXT_004425,"Recovers 50 HP, MP, and FP with each kill (When placed in a pierced suit)","Recovers 50 HP, MP, and FP with each kill (When placed in a pierced suit)"
-PROPITEM_TXT_004426,Sunhung Card,Sunhung Card
+PROPITEM_TXT_004426,Sunhung Card,Kartu Sunhung
 PROPITEM_TXT_004427,+2% Moving Speed (When placed in a pierced suit),+2% Moving Speed (When placed in a pierced suit)
-PROPITEM_TXT_004428,Whabe Card,Whabe Card
+PROPITEM_TXT_004428,Whabe Card,Kartu Whabe
 PROPITEM_TXT_004429,+5% Moving Speed (When placed in a pierced suit),+5% Moving Speed (When placed in a pierced suit)
-PROPITEM_TXT_004430,Hachon Card,Hachon Card
+PROPITEM_TXT_004430,Hachon Card,Kartu Hachon
 PROPITEM_TXT_004431,STR +1 (When placed in a pierced suit),STR +1 (When placed in a pierced suit)
-PROPITEM_TXT_004432,Buklu Card,Buklu Card
+PROPITEM_TXT_004432,Buklu Card,Kartu Buklu
 PROPITEM_TXT_004433,STR +2 (When placed in a pierced suit),STR +2 (When placed in a pierced suit)
-PROPITEM_TXT_004434,Hosoo Card,Hosoo Card
+PROPITEM_TXT_004434,Hosoo Card,Kartu Hosoo
 PROPITEM_TXT_004435,STA +1 (When placed in a pierced suit),STA +1 (When placed in a pierced suit)
-PROPITEM_TXT_004436,Giha Card,Giha Card
+PROPITEM_TXT_004436,Giha Card,Kartu Giha
 PROPITEM_TXT_004437,STA +2 (When placed in a pierced suit),STA +2 (When placed in a pierced suit)
-PROPITEM_TXT_004438,Senmul Card,Senmul Card
+PROPITEM_TXT_004438,Senmul Card,Kartu Senmul
 PROPITEM_TXT_004439,DEX +1 (When placed in a pierced suit),DEX +1 (When placed in a pierced suit)
-PROPITEM_TXT_004440,Bulmul Card,Bulmul Card
+PROPITEM_TXT_004440,Bulmul Card,Kartu Bulmul
 PROPITEM_TXT_004441,DEX +2 (When placed in a pierced suit),DEX +2 (When placed in a pierced suit)
-PROPITEM_TXT_004442,Gunmul Card,Gunmul Card
+PROPITEM_TXT_004442,Gunmul Card,Kartu Gunmul
 PROPITEM_TXT_004443,INT +1 (When placed in a pierced suit),INT +1 (When placed in a pierced suit)
-PROPITEM_TXT_004444,Munmul Card,Munmul Card
+PROPITEM_TXT_004444,Munmul Card,Kartu Munmul
 PROPITEM_TXT_004445,INT +2 (When placed in a pierced suit),INT +2 (When placed in a pierced suit)
-PROPITEM_TXT_004446,Bodi Card,Bodi Card
+PROPITEM_TXT_004446,Bodi Card,Kartu Bodi
 PROPITEM_TXT_004447,All Stats +1 (When placed in a pierced suit),All Stats +1 (When placed in a pierced suit)
-PROPITEM_TXT_004448,Gldiro Card,Gldiro Card
+PROPITEM_TXT_004448,Gldiro Card,Kartu Gldiro
 PROPITEM_TXT_004449,All Stats +2 (When placed in a pierced suit),All Stats +2 (When placed in a pierced suit)
 PROPITEM_TXT_004450,Skill Poster,Skill Poster
-PROPITEM_TXT_004451,Needed to use Billposter skills,Needed to use Billposter skills
+PROPITEM_TXT_004451,Needed to use Billposter skills,Diperlukan untuk menggunakan skill Billposter
 PROPITEM_TXT_004452,Bless Poster,Bless Poster
-PROPITEM_TXT_004453,Needed to use Ringmaster skills,Needed to use Ringmaster skills
+PROPITEM_TXT_004453,Needed to use Ringmaster skills,Diperlukan untuk menggunakan skill Ringmaster
 PROPITEM_TXT_004454,Arrows,Arrows
-PROPITEM_TXT_004455,A quiver of arrows,A quiver of arrows
+PROPITEM_TXT_004455,A quiver of arrows,Sebuah anak panah
 PROPITEM_TXT_004456,Collector,Collector
 PROPITEM_TXT_004457,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a low amount of materials.","Item ini memungkinkanmu untuk mengumpulkan Mineral, Erons, Krasec, dan Guru dari Catcher. Mengumpulkan sejumlah kecil bahan."
 PROPITEM_TXT_004458,V3 Collector,V3 Collector
@@ -2448,7 +2448,7 @@ PROPITEM_TXT_004462,Ultra Collector,Ultra Collector
 PROPITEM_TXT_200000,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a moderate amount of materials.","Item ini memungkinkanmu untuk mengumpulkan Mineral, Erons, Krasec, dan Guru dari Catcher. Mengumpulkan bahan dalam jumlah sedang."
 PROPITEM_TXT_200001,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a high amount of materials.","Item ini memungkinkanmu untuk mengumpulkan Mineral, Erons, Krasec, dan Guru dari Catcher. Mengumpulkan sejumlah besar bahan."
 PROPITEM_TXT_200002,"This item allows you to collect Mineral, Erons, Krasec and Guru from Catchers. Collects a very high amount of materials.","Item ini memungkinkanmu untuk mengumpulkan Mineral, Erons, Krasec, dan Guru dari Catcher. Mengumpulkan jumlah material yang sangat tinggi."
-PROPITEM_TXT_004464,Return,Return
+PROPITEM_TXT_004464,Return,Kembali
 PROPITEM_TXT_004465,Teleport to the nearest town. (Takes 5 min. to cast),Teleport ke kota terdekat. (Membutuhkan waktu 5 menit untuk casting)
 PROPITEM_TXT_004466,Remantis Laccotte,Remantis Laccotte
 PROPITEM_TXT_004467,"A favorite of fine food connoisseurs throughout Madrigal, this delectable dish completely restores your Health Points (HP). Delicious!!","Favorit para pecinta makanan lezat di seluruh Madrigal, hidangan lezat ini sepenuhnya memulihkan Poin Kesehatan (HP) kamu. Lezat!!"
@@ -2476,7 +2476,7 @@ PROPITEM_TXT_004488,Common Bank 30,Common Bank 30
 PROPITEM_TXT_004490,Activition,Activition
 PROPITEM_TXT_004491,Provides unlimited Action Slot skills. Lasts 1 Hour.,Memberikan Action Slot skills tanpa batas. Berlangsung 1 Jam.
 PROPITEM_TXT_004494,Transy,Transy
-PROPITEM_TXT_004495,Changes Sex,Changes Sex
+PROPITEM_TXT_004495,Changes Sex,Mengganti jenis kelamin
 PROPITEM_TXT_004496,Rocket Cracker,Rocket Cracker
 PROPITEM_TXT_004497,"This Rocket blasts off to the sky and leaves a trail of high flying, sparkly explosions in its wake.",Roket ini meluncur ke langit dan meninggalkan jejak ledakan terbang tinggi dan gemerlap di belakangnya.
 PROPITEM_TXT_004498,Heart Cracker,Heart Cracker
@@ -2490,11 +2490,11 @@ PROPITEM_TXT_004505,"A Magic Stone that increases your Attack Power (ATK) by 20%
 PROPITEM_TXT_004514,Cloak of Strong,Cloak of Strong
 PROPITEM_TXT_004515,STR Cloak,STR Cloak
 PROPITEM_TXT_004516,Cloak of Accord,Cloak of Accord
-PROPITEM_TXT_004517,STA and INT Cloak,STA and INT Cloak
+PROPITEM_TXT_004517,STA and INT Cloak,Jubah STA dan INT
 PROPITEM_TXT_004518,Cloak of Quick,Cloak of Quick
-PROPITEM_TXT_004519,DEX and STR Cloak,DEX and STR Cloak
+PROPITEM_TXT_004519,DEX and STR Cloak,Jubah DEX dan STR
 PROPITEM_TXT_004520,Cloak of Wisdom,Cloak of Wisdom
-PROPITEM_TXT_004521,INT Cloak,INT Cloak
+PROPITEM_TXT_004521,INT Cloak,Jubah INT
 PROPITEM_TXT_004530,Tineined Stone,Tineined Stone
 PROPITEM_TXT_004531,Magic Stone for removing Attributes,Magic Stone for removing Attributes
 PROPITEM_TXT_004532,Firea Stone,Firea Stone
@@ -2569,7 +2569,7 @@ PROPITEM_TXT_004648,Sakdong Shoes (F),Sakdong Shoes (F)
 PROPITEM_TXT_004650,Scroll of Name Change,Scroll of Name Change
 PROPITEM_TXT_004651,"This scroll allows you to change your character name. Simply double-click the scroll to activate it, then choose a new character name and press OK.","Gulir ini memungkinkanmu untuk mengubah nama karaktermu. Cukup klik dua kali gulir untuk mengaktifkannya, lalu pilih nama karakter baru dan tekan OK."
 PROPITEM_TXT_004652,Scroll of Class Change,Scroll of Class Change
-PROPITEM_TXT_004653,Changes Job,Changes Job
+PROPITEM_TXT_004653,Changes Job,Mengganti job
 PROPITEM_TXT_004654,Scroll of Holy,Scroll of Holy
 PROPITEM_TXT_004655,Recovers from any negative status condition.,Sembuh dari kondisi status negatif apa pun.
 PROPITEM_TXT_004656,Scroll of Forgive,Scroll of Forgive
@@ -2671,55 +2671,55 @@ PROPITEM_TXT_004752,[80] Scroll of Amplification ES,Scroll of Amplification ES80
 PROPITEM_TXT_004753,Increases Exp gain by 50% (x1.5) for 1h. This item is not stackable.,Meningkatkan perolehan Exp sebesar 50% (x1.5) selama 1 jam. Item ini tidak dapat ditumpuk.
 PROPITEM_TXT_004754,[120] Scroll of Amplification ES,Scroll of Amplification ES120
 PROPITEM_TXT_004772,Ball of Crown (5),Ball of Crown (5)
-PROPITEM_TXT_004773,Summons Lv.5 monsters,Summons Lv.5 monsters
+PROPITEM_TXT_004773,Summons Lv.5 monsters,Memanggil monster Lv.5
 PROPITEM_TXT_004774,Ball of Crown (10),Ball of Crown (10)
-PROPITEM_TXT_004775,Summons Lv.10 monsters,Summons Lv.10 monsters
+PROPITEM_TXT_004775,Summons Lv.10 monsters,Memanggil monster Lv.10
 PROPITEM_TXT_004776,Ball of Crown (15),Ball of Crown (15)
-PROPITEM_TXT_004777,Summons Lv. 15 monsters,Summons Lv. 15 monsters
+PROPITEM_TXT_004777,Summons Lv. 15 monsters,Memanggil monster Lv.15
 PROPITEM_TXT_004778,Ball of Crown (20),Ball of Crown (20)
-PROPITEM_TXT_004779,Summons Lv. 20 monsters,Summons Lv. 20 monsters
+PROPITEM_TXT_004779,Summons Lv. 20 monsters,Memanggil monster Lv.20
 PROPITEM_TXT_004780,Ball of Crown (25),Ball of Crown (25)
-PROPITEM_TXT_004781,Summons Lv. 25 monsters,Summons Lv. 25 monsters
+PROPITEM_TXT_004781,Summons Lv. 25 monsters,Memanggil monster Lv.25
 PROPITEM_TXT_004782,Ball of Crown (30),Ball of Crown (30)
-PROPITEM_TXT_004783,Summons Lv. 30 monsters,Summons Lv. 30 monsters
+PROPITEM_TXT_004783,Summons Lv. 30 monsters,Memanggil monster Lv.30
 PROPITEM_TXT_004784,Ball of Crown (35),Ball of Crown (35)
-PROPITEM_TXT_004785,Summons Lv. 35 monsters,Summons Lv. 35 monsters
+PROPITEM_TXT_004785,Summons Lv. 35 monsters,Memanggil monster Lv.35
 PROPITEM_TXT_004786,Ball of Crown (40),Ball of Crown (40)
-PROPITEM_TXT_004787,Summons Lv. 40 monsters,Summons Lv. 40 monsters
+PROPITEM_TXT_004787,Summons Lv. 40 monsters,Memanggil monster Lv.40
 PROPITEM_TXT_004788,Ball of Crown (45),Ball of Crown (45)
-PROPITEM_TXT_004789,Summons Lv. 45 monsters,Summons Lv. 45 monsters
+PROPITEM_TXT_004789,Summons Lv. 45 monsters,Memanggil monster Lv.45
 PROPITEM_TXT_004790,Ball of Crown (50),Ball of Crown (50)
-PROPITEM_TXT_004791,Summons Lv. 50 monsters,Summons Lv. 50 monsters
+PROPITEM_TXT_004791,Summons Lv. 50 monsters,Memanggil monster Lv.50
 PROPITEM_TXT_004792,Ball of Crown (55),Ball of Crown (55)
-PROPITEM_TXT_004793,Summons Lv. 55 monsters,Summons Lv. 55 monsters
+PROPITEM_TXT_004793,Summons Lv. 55 monsters,Memanggil monster Lv.55
 PROPITEM_TXT_004794,Ball of Crown (60),Ball of Crown (60)
-PROPITEM_TXT_004795,Summons Lv. 60 monsters,Summons Lv. 60 monsters
+PROPITEM_TXT_004795,Summons Lv. 60 monsters,Memanggil monster Lv.60
 PROPITEM_TXT_004796,Ball of Crown (65),Ball of Crown (65)
-PROPITEM_TXT_004797,Summons Lv. 65 monsters,Summons Lv. 65 monsters
+PROPITEM_TXT_004797,Summons Lv. 65 monsters,Memanggil monster Lv.65
 PROPITEM_TXT_004798,Ball of Crown (70),Ball of Crown (70)
-PROPITEM_TXT_004799,Summons Lv. 70 monsters,Summons Lv. 70 monsters
+PROPITEM_TXT_004799,Summons Lv. 70 monsters,Memanggil monster Lv.70
 PROPITEM_TXT_004800,Box of Wish,Box of Wish
 PROPITEM_TXT_004801,What on earth is in the box?,What on earth is in the box?
 PROPITEM_TXT_004802,Clothes Test,Clothes Test
-PROPITEM_TXT_004803,Item for tesing costumes,Item for tesing costumes
-PROPITEM_TXT_004804,Blue Sailor (M),Blue Sailor (M)
-PROPITEM_TXT_004805,Blue Sailor Set for Male Chracaters,Blue Sailor Set for Pria Chracaters
-PROPITEM_TXT_004806,Green Sailor (M),Green Sailor (M)
-PROPITEM_TXT_004807,Green Sailor set for Male Characters,Green Sailor set for Pria Characters
-PROPITEM_TXT_004808,Purple Sailor (M),Purple Sailor (M)
-PROPITEM_TXT_004809,Purple Sailor set for Male Characters,Purple Sailor set for Pria Characters
-PROPITEM_TXT_004810,Red Sailor (M),Red Sailor (M)
-PROPITEM_TXT_004811,Red Sailor set for Male Characters,Red Sailor set for Pria Characters
-PROPITEM_TXT_004812,Green Sailor (F),Green Sailor (F)
-PROPITEM_TXT_004813,Green Sailor set for Female Characters,Green Sailor set for Wanita Characters
-PROPITEM_TXT_004814,Blue Sailor (F),Blue Sailor (F)
-PROPITEM_TXT_004815,Blue Sailor set for Female Characters,Blue Sailor set for Wanita Characters
-PROPITEM_TXT_004816,Purple Sailor (F),Purple Sailor (F)
-PROPITEM_TXT_004817,Purple Sailor set for Female Characters,Purple Sailor set for Wanita Characters
-PROPITEM_TXT_004818,Red Sailor (F),Red Sailor (F)
-PROPITEM_TXT_004819,Red Sailor set for Female Characters,Red Sailor set for Wanita Characters
-PROPITEM_TXT_004820,Uniform (M),Uniform (M)
-PROPITEM_TXT_004821,Uniform set for Male Characters,Uniform set for Pria Characters
+PROPITEM_TXT_004803,Item for tesing costumes,Item untuk mencoba kostum
+PROPITEM_TXT_004804,Blue Sailor (M),Pelaut Biru (M)
+PROPITEM_TXT_004805,Blue Sailor Set for Male Chracaters,Pelaut Biru set untuk karakter laki-laki
+PROPITEM_TXT_004806,Green Sailor (M),Pelaut Hijau (M)
+PROPITEM_TXT_004807,Green Sailor set for Male Characters,Pelaut Hijau set untuk karakter laki-laki
+PROPITEM_TXT_004808,Purple Sailor (M),Pelaut Ungu (M)
+PROPITEM_TXT_004809,Purple Sailor set for Male Characters,Pelaut Ungu set untuk karakter laki-laki
+PROPITEM_TXT_004810,Red Sailor (M),Pelaut Merah (M)
+PROPITEM_TXT_004811,Red Sailor set for Male Characters,Pelaut Merah set untuk karakter laki-laki
+PROPITEM_TXT_004812,Green Sailor (F),Pelaut Hijau (F)
+PROPITEM_TXT_004813,Green Sailor set for Female Characters,Pelaut Hijau set untuk karakter perempuan
+PROPITEM_TXT_004814,Blue Sailor (F),Pelaut Biru (F)
+PROPITEM_TXT_004815,Blue Sailor set for Female Characters,Pelaut Biru set untuk karakter perempuan
+PROPITEM_TXT_004816,Purple Sailor (F),Pelaut Ungu (F)
+PROPITEM_TXT_004817,Purple Sailor set for Female Characters,Pelaut Ungu set untuk karakter perempuan
+PROPITEM_TXT_004818,Red Sailor (F),Pelaut Merah (F)
+PROPITEM_TXT_004819,Red Sailor set for Female Characters,Pelaut Merah set untuk karakter perempuan
+PROPITEM_TXT_004820,Uniform (M),Seragam (M)
+PROPITEM_TXT_004821,Uniform set for Male Characters,Seragam set untuk karakter laki-laki
 PROPITEM_TXT_004822,Dark Nurse 2,Dark Nurse 2
 PROPITEM_TXT_004823,Dark Nurse 2 set for Female Characters,Dark Nurse 2 set untuk Karakter Perempuan
 PROPITEM_TXT_004824,Pink Nurse,Pink Nurse
@@ -2947,7 +2947,7 @@ PROPITEM_TXT_005090,Cloak 18,Jubah 18
 PROPITEM_TXT_005092,Cloak 19,Jubah 19
 PROPITEM_TXT_005094,Cloak 20,Jubah 20
 PROPITEM_TXT_005096,School Event Gift,School Event Gift
-PROPITEM_TXT_005098,Gaia Cloak,Gaia Cloak
+PROPITEM_TXT_005098,Gaia Cloak,Jubah Gaia
 PROPITEM_TXT_005100,Space Samurai Cloak,Space Samurai Cloak
 PROPITEM_TXT_005102,Dragon Cloak of the Initiate,Dragon Cloak of the Initiate
 PROPITEM_TXT_005103,The Initiate's Dragon Cloak increases all base stats by +5 and HP Max by +100. The Seal of the Dragon is prominently displayed.,The Initiate's Dragon Cloak meningkatkan all base stats by +5 and HP Max by +100. The Seal of the Dragon ditampilkan dengan jelas.
@@ -2958,23 +2958,23 @@ PROPITEM_TXT_005107,The Master's Dragon Cloak increases all base stats by +7 and
 PROPITEM_TXT_005108,Dragon Cloak of the Hero,Dragon Cloak of the Hero
 PROPITEM_TXT_005109,The Hero's Dragon Cloak increases all base stats by +8 and HP Max by +400. The Seal of the Dragon is prominently displayed.,The Hero's Dragon Cloak meningkatkan all base stats by +8 and HP Max by +400. The Seal of the Dragon ditampilkan dengan jelas.
 PROPITEM_TXT_005114,Blinkwing of Flaris,Blinkwing of Flaris
-PROPITEM_TXT_005115,Teleport to Flaris,Teleport to Flaris
+PROPITEM_TXT_005115,Teleport to Flaris,Teleport ke Flaris
 PROPITEM_TXT_005116,Blinkwing of Saint Morning,Blinkwing of Saint Morning
-PROPITEM_TXT_005117,Teleport to Saint Morning,Teleport to Saint Morning
+PROPITEM_TXT_005117,Teleport to Saint Morning,Teleport ke Saint Morning
 PROPITEM_TXT_005118,Town Blinkwing,Town Blinkwing
-PROPITEM_TXT_005119,Teleport to the nearest town,Teleport to the nearest town
+PROPITEM_TXT_005119,Teleport to the nearest town,Teleport ke the kota terdekat
 PROPITEM_TXT_005120,Blinkwing of Darkon,Blinkwing of Darkon
-PROPITEM_TXT_005121,Teleport to Darkon,Teleport to Darkon
+PROPITEM_TXT_005121,Teleport to Darkon,Teleport ke Darkon
 PROPITEM_TXT_005122,Blinkwing of Darkon 1,Blinkwing of Darkon 1
-PROPITEM_TXT_005123,Teleport to Darkon 1,Teleport to Darkon 1
+PROPITEM_TXT_005123,Teleport to Darkon 1,Teleport ke Darkon 1
 PROPITEM_TXT_005124,Blinkwing of Darkon 3,Blinkwing of Darkon 3
-PROPITEM_TXT_005125,Teleport to Darkon 3,Teleport to Darkon 3
+PROPITEM_TXT_005125,Teleport to Darkon 3,Teleport ke Darkon 3
 PROPITEM_TXT_005126,Blinkwing of Dekane,Blinkwing of Dekane
-PROPITEM_TXT_005127,Teleport to the Dekane Mine,Teleport to the Dekane Mine
+PROPITEM_TXT_005127,Teleport to the Dekane Mine,Teleport ke Dekane Mine
 PROPITEM_TXT_005128,Blinkwing of Mars,Blinkwing of Mars
-PROPITEM_TXT_005129,Teleport to the Mars Dungeon,Teleport to the Mars Dungeon
+PROPITEM_TXT_005129,Teleport to the Mars Dungeon,Teleport ke Mars Dungeon
 PROPITEM_TXT_005130,Magic Broom,Magic Broom
-PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,Flying Broom paling dasar. Kecepatan Maksimum: 29 km/jam.
+PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,Sapu terbang paling dasar. Kecepatan Maksimum: 29 km/jam.
 PROPITEM_TXT_005132,Kestrel Broom,Kestrel Broom
 PROPITEM_TXT_005133,Similar to the Magic Broom but with a little added style and speed! Maximum Speed: 33 km/h.,Mirip dengan Magic Broom tetapi dengan sedikit style dan style tambahan! Kecepatan Maksimum: 33 km/jam.
 PROPITEM_TXT_005134,Flicker Broom,Flicker Broom
@@ -3022,11 +3022,11 @@ PROPITEM_TXT_005298,Mon-Book 3,Mon-Book 3
 PROPITEM_TXT_005299,Quest Item: Book about the organziation and movements of Super Giant Monsters.,Item Quest: Buku tentang organisasi dan pergerakan Super Giant Monsters.
 PROPITEM_TXT_005314,Nyanyang,Nyanyang
 PROPITEM_TXT_005315,Giant Nyangnyang's favorite food. Can be found wherever Giant Nyangnyang is.,Makanan favorit Giant Nyangnyang. Dapat ditemukan dimanapun Giant Nyangnyang berada.
-PROPITEM_TXT_005316,Unknown Letter,Unknown Letter
+PROPITEM_TXT_005316,Unknown Letter,Surat Tidak Dikenal
 PROPITEM_TXT_005317,Quest Item: A mysterious and unpleasant letter.,Item Quest: Surat misterius dan tidak menyenangkan.
-PROPITEM_TXT_005318,Unknown Certificate,Unknown Certificate
+PROPITEM_TXT_005318,Unknown Certificate,Sertifikat Tidak Dikenal
 PROPITEM_TXT_005319,Quest Item: A mysterious and unpleasant certificate.,Item Quest: Sertifikat misterius dan tidak menyenangkan.
-PROPITEM_TXT_005320,Office Document,Office Document
+PROPITEM_TXT_005320,Office Document,Dokumen Kantor
 PROPITEM_TXT_005396,Scholarship Application,Scholarship Application
 PROPITEM_TXT_005397,Quest Item: Martinyc's application for a scholarship.,Item Quest: Aplikasi Martinyc untuk beasiswa.
 PROPITEM_TXT_005398,Stone Piece of Flaris,Stone Piece of Flaris
@@ -3053,7 +3053,7 @@ PROPITEM_TXT_005420,Mysterious Black Gem,Mysterious Black Gem
 PROPITEM_TXT_005421,Quest Item: Black gem found in the center of the Hill of Shade.,Item Quest: Black gem ditemukan di tengah Hill of Shade.
 PROPITEM_TXT_005422,Mysterious Red Gem,Mysterious Red Gem
 PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,Item Quest: Red gem ditemukan di tengah Field of Bubble.
-PROPITEM_TXT_005424,Book of Laola,Book of Laola
+PROPITEM_TXT_005424,Book of Laola,Buku Laola
 PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,Item Quest: Sebuah buku yang tampaknya berguna untuk Gothante.
 PROPITEM_TXT_005426,Scroll of Gothante,Scroll of Gothante
 PROPITEM_TXT_005427,Quest Item: Scroll with important information for Matinyc.,Item Quest: Gulir dengan informasi penting untuk Matinyc..
@@ -3063,12 +3063,12 @@ PROPITEM_TXT_005472,Mark of Hero,Mark of Hero
 PROPITEM_TXT_005473,Quest Item: Mark that proves that you are qualifed to follow in the Heroes' footsteps.,Item Quest: Tandai yang membuktikan bahwa kamu memenuhi syarat untuk mengikuti jejak para Pahlawan.
 PROPITEM_TXT_005482,Venel Heart,Venel Heart
 PROPITEM_TXT_005483,Quest Item: A Heart that contains the essence of the Heroes of the Past.,Item Quest: Hati yang berisi esensi dari Heroes of the Past.
-PROPITEM_TXT_005484,Book of Technique,Book of Technique
+PROPITEM_TXT_005484,Book of Technique,Buku Teknik
 PROPITEM_TXT_005485,Quest Item: Book about the techniques of your 1st Job.,Item Quest: Buku tentang teknik Job pertamamu.
 PROPITEM_TXT_005486,Label of Technique,Label of Technique
 PROPITEM_TXT_005488,Nomination of Master,Nomination of Master
 PROPITEM_TXT_005489,Quest Item: Recommendation from a Master to continue to your 2nd Job.,Item Quest: Rekomendasi dari Master untuk melanjutkan Job ke-2mu.
-PROPITEM_TXT_005490,Ren Ring,Ren Ring
+PROPITEM_TXT_005490,Ren Ring,Cincin Ren
 PROPITEM_TXT_005491,Quest Item: Ren stole this ring from the Jester Curenen.,Quest Item: Ren mencuri cincin ini dari Jester Curenen.
 PROPITEM_TXT_005492,Stamped Scroll,Stamped Scroll
 PROPITEM_TXT_005493,Quest Item: A scroll with the stamp of a hero. Needed for the test in the Altar of Hero.,Item Quest: Gulungan dengan cap pahlawan. Dibutuhkan untuk ujian di Altar of Hero.
@@ -3076,20 +3076,20 @@ PROPITEM_TXT_005494,Letter of Hynan,Letter of Hynan
 PROPITEM_TXT_005495,Quest Item: Hynan wrote this letter to his parents after they died.,Item Quest: Hynan menulis surat ini kepada orang tuanya setelah mereka meninggal.
 PROPITEM_TXT_005496,History Book of Heroes,History Book of Heroes
 PROPITEM_TXT_005497,Quest Item: A complete history of the Heroes written by Radion.,Item Quest: Sejarah lengkap para Pahlawan yang ditulis oleh Radion.
-PROPITEM_TXT_005498,Red Bang Head,Red Bang Head
+PROPITEM_TXT_005498,Red Bang Head,Kepala Red Bang
 PROPITEM_TXT_005499,Quest Item: Head of the Red Bang thief.,Item Quest: Kepala Red Bang thief.
 PROPITEM_TXT_005500,Luda Safe,Luda Safe
 PROPITEM_TXT_005501,Quest Item: Luda is saving money in this safe to get his girlfriend a gift.,Item Quest: Luda menyimpan uang di brankas ini untuk mendapatkan hadiah dari pacarnya.
 PROPITEM_TXT_005502,Meteoritill,Meteoritill
 PROPITEM_TXT_005503,Quest Item: A material best used for making weapons and armor.,Item Quest: Bahan yang paling baik digunakan untuk membuat senjata dan baju besi.
-PROPITEM_TXT_005504,Script,Script
+PROPITEM_TXT_005504,Script,Naskah
 PROPITEM_TXT_005505,Quest Item: The newest play from the Pepoview Troupe. The Sky of Madrigal.,Item Quest: Permainan terbaru dari Pepoview Troupe. Langit Madrigal.
-PROPITEM_TXT_005506,Lesson 1,Lesson 1
-PROPITEM_TXT_005507,Manner and Attitude,Manner and Attitude
-PROPITEM_TXT_005508,Lesson 2,Lesson 2
-PROPITEM_TXT_005509,Common Knowledge and Sense,Common Knowledge and Sense
-PROPITEM_TXT_005510,Lesson 3,Lesson 3
-PROPITEM_TXT_005511,Health,Health
+PROPITEM_TXT_005506,Lesson 1,Pelajaran 1
+PROPITEM_TXT_005507,Manner and Attitude,Tingkah laku dan Sikap
+PROPITEM_TXT_005508,Lesson 2,Pelajaran 2
+PROPITEM_TXT_005509,Common Knowledge and Sense,Pengetahuan Umum dan Akal Sehat
+PROPITEM_TXT_005510,Lesson 3,Pelajaran 3
+PROPITEM_TXT_005511,Health,Kesehatan
 PROPITEM_TXT_005512,1st Portrait Clue,1st Portrait Clue
 PROPITEM_TXT_005513,Quest Item: A scary potrait. Who would paint something like that?,Item Quest: Potret yang menakutkan. Siapa yang akan melukis sesuatu seperti itu?
 PROPITEM_TXT_005514,2nd Portrait Clue,2nd Portrait Clue
@@ -3141,10 +3141,10 @@ PROPITEM_TXT_005562,Necklace of Lord Bang,Necklace of Lord Bang
 PROPITEM_TXT_005563,Quest Item: The necklace of the leader of the Red Bang Troupe.,Item Quest: Kalung pemimpin Red Bang Troupe.
 PROPITEM_TXT_005564,Emerald Mantis Egg,Emerald Mantis Egg
 PROPITEM_TXT_005565,Quest Item: Rare egg that comes from an Emerald Mantis only once a year.,Item Quest: Telur langka yang berasal dari Emerald Mantis hanya setahun sekali.
-PROPITEM_TXT_005566,Grape of Flaris,Grape of Flaris
+PROPITEM_TXT_005566,Grape of Flaris,Anggur Flaris
 PROPITEM_TXT_005567,"Quest Item: Grapes for making a powerful, and rare wine.",Item Quest: Anggur untuk membuat anggur yang kuat dan langka.
-PROPITEM_TXT_005568,Grape of Saint Morning,Grape of Saint Morning
-PROPITEM_TXT_005570,Grape of Darkon,Grape of Darkon
+PROPITEM_TXT_005568,Grape of Saint Morning,Anggur Saint Morning
+PROPITEM_TXT_005570,Grape of Darkon,Anggur Darkon
 PROPITEM_TXT_005572,Beaujolai of Flaris,Beaujolai of Flaris
 PROPITEM_TXT_005573,Beaujolai red wine,Beaujolai red wine
 PROPITEM_TXT_005574,Beaujolai of Saint Morning,Beaujolai of Saint Morning
@@ -3291,7 +3291,7 @@ PROPITEM_TXT_005808,Ribenuum,Ribenuum
 PROPITEM_TXT_005809,Quest Item: Metal that Dwarpets are most familiar with.,Item Quest: Logam yang paling dikenal Dwarpet.
 PROPITEM_TXT_005810,Pure Ribenuum,Pure Ribenuum
 PROPITEM_TXT_005811,Quest Item: A pure form of the metal that Dwarpets are most familiar with.,Item Quest: Bentuk murni dari logam yang paling dikenal oleh Dwarpet.
-PROPITEM_TXT_005812,Andre Card,Andre Card
+PROPITEM_TXT_005812,Andre Card,Kartu Andre
 PROPITEM_TXT_005814,Triduum,Triduum
 PROPITEM_TXT_005815,Quest Item: Used to refine Ribenuum,Item Quest: Digunakan untuk memurnikan Ribenuum
 PROPITEM_TXT_005818,Puran Necklace,Puran Necklace
@@ -3433,14 +3433,14 @@ PROPITEM_TXT_006072,Gift Box 1,Gift Box 1
 PROPITEM_TXT_006074,Gift Box 2,Gift Box 2
 PROPITEM_TXT_006076,PSP,PSP
 PROPITEM_TXT_006078,Love Letter,Love Letter
-PROPITEM_TXT_006079,Love Letter from Boboku to Julia.,Love Letter from Boboku to Julia.
+PROPITEM_TXT_006079,Love Letter from Boboku to Julia.,Surat cinta dari Boboku untuk Julia.
 PROPITEM_TXT_006080,Reply to the Love Letter.,Reply to the Love Letter.
-PROPITEM_TXT_006081,Julia's reply to Boboku.,Julia's reply to Boboku.
-PROPITEM_TXT_006084,Key of Kebaras Island,Key of Kebaras Island
+PROPITEM_TXT_006081,Julia's reply to Boboku.,Surat balasan Julia kepada Boboku.
+PROPITEM_TXT_006084,Key of Kebaras Island,Kunci Pulau Kebaras
 PROPITEM_TXT_006085,Quest Item: The way to get off of Kebaras Island.,Item Quest: Cara keluar dari Pulau Kebaras.
 PROPITEM_TXT_006086,Bead of Sin,Bead of Sin
 PROPITEM_TXT_006087,Quest Item: Turn these in to get the Key of Kebaras Island.,Item Quest: Serahkan ini untuk mendapatkan Kunci Pulau Kebaras.
-PROPITEM_TXT_006088,No Disguise,No Disguise
+PROPITEM_TXT_006088,No Disguise,Tidak Menyamar
 PROPITEM_TXT_006089,Return to normal form,Return to normal form
 PROPITEM_TXT_006090,Divine Shield,Divine Shield
 PROPITEM_TXT_006091,Protects you from all damage,Protects you from all damage
@@ -3941,7 +3941,7 @@ PROPITEM_TXT_007268,Male Police set + Police Club,Male Police set + Police Club
 PROPITEM_TXT_007269,Police set for Male characters. Comes with a Police Club.,Police set untuk karakter pria. Hadir dengan Police Club.
 PROPITEM_TXT_007270,Female Police set + Police Club,Female Police set + Police Club
 PROPITEM_TXT_007271,Police set for Female characters. Comes with a Police Club.,Police set untuk karakter wanita. Hadir dengan Police Club.
-PROPITEM_TXT_007272,Sword of Iblis,Sword of Iblis
+PROPITEM_TXT_007272,Sword of Iblis,Pedang Iblis
 PROPITEM_TXT_007273,A mighty blade sharpened on the lives of enemies,Sebuah pisau perkasa ysng mengambil nyawa banyak musuh
 PROPITEM_TXT_007274,Great Sword of Iblis,Great Sword of Iblis
 PROPITEM_TXT_007275,A strong and mysterious Great Sword,Great Sword yang kuat dan misterius
@@ -4106,9 +4106,9 @@ PROPITEM_TXT_007529,Bloody Staff,Bloody Staff
 PROPITEM_TXT_007531,Bloody Bow,Bloody Bow
 PROPITEM_TXT_007533,Bloody Yo-Yo,Bloody Yo-Yo
 PROPITEM_TXT_007535,Secret Medicine 1,Secret Medicine 1
-PROPITEM_TXT_007536,Recovers 1000 HP,Recovers 1000 HP
+PROPITEM_TXT_007536,Recovers 1000 HP,Memulihkan 1000 HP
 PROPITEM_TXT_007537,Secret Medicine 2,Secret Medicine 2
-PROPITEM_TXT_007538,Recovers 1000 MP,Recovers 1000 MP
+PROPITEM_TXT_007538,Recovers 1000 MP,Memulihkan 1000 MP
 PROPITEM_TXT_007540,Polar Bear,Polar Bear
 PROPITEM_TXT_007541,A Polar Bear that follows its master around and picks up dropped items,Polar Bear yang mengikuti tuannya berkeliling dan mengambil barang-barang yang dijatuhkan
 PROPITEM_TXT_007544,Rice Cake,Rice Cake
@@ -5372,7 +5372,7 @@ PROPITEM_TXT_010212,Panda Shoes (M),Panda Shoes (M)
 PROPITEM_TXT_020346,Purple Gothic Hat for Male Characters.,Purple Gothic Hat for Male Characters.
 PROPITEM_TXT_011178,Detective Shoes (F),Detective Shoes (F)
 PROPITEM_TXT_012317,This Cloak has a full length depiction of the flag of Uruguay on it. ,Cloak ini memiliki penggambaran penuh dari bendera Uruguay di atasnya. 
-PROPITEM_TXT_009554,Hands (M),Hands (M)
+PROPITEM_TXT_009554,Hands (M),Tangan (M)
 PROPITEM_TXT_016881,Vampire Shoes (F),Vampire Shoes (F)
 PROPITEM_TXT_017061,Stylish Santa Hat (M),Stylish Santa Hat (M)
 PROPITEM_TXT_011798,Cloak of the Sheep,Cloak of the Sheep
@@ -5669,7 +5669,7 @@ PROPITEM_TXT_009734,Brown Sandal (F),Brown Sandal (F)
 PROPITEM_TXT_017053,Stylish Santa Hat (F),Stylish Santa Hat (F)
 PROPITEM_TXT_014224,Colosseum Champion's Hat (F),Colosseum Champion's Hat (F)
 PROPITEM_TXT_010177,This Cloak has a full length depiction of the flag of United Kingdom on it. ,Cloak ini memiliki penggambaran penuh bendera Inggris di atasnya. 
-PROPITEM_TXT_009562,Hands (F),Hands (F)
+PROPITEM_TXT_009562,Hands (F),Tangan (F)
 PROPITEM_TXT_015863,Shinigami Gloves (F),Shinigami Gloves (F)
 PROPITEM_TXT_011806,Cloak of the Pig,Cloak of the Pig
 PROPITEM_TXT_017915,Blue Bunny Yukata Hat (M),Blue Bunny Yukata Hat (M)
@@ -6541,13 +6541,13 @@ PROPITEM_TXT_008954,Mental Necklace,Mental Necklace
 PROPITEM_TXT_008955,Increases Max MP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan Max MP. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
 PROPITEM_TXT_008956,Peision Necklace,Peision Necklace
 PROPITEM_TXT_008957,Increases Max FP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan Max FP. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
-PROPITEM_TXT_008958,Vigor Ring,Vigor Ring
+PROPITEM_TXT_008958,Vigor Ring,Cincin Vigor
 PROPITEM_TXT_008959,Increases STR. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan STR. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
-PROPITEM_TXT_008960,Intelli Ring,Intelli Ring
+PROPITEM_TXT_008960,Intelli Ring,Cincin Intelli
 PROPITEM_TXT_008961,Increases INT. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan INT. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
-PROPITEM_TXT_008962,Arek Ring,Arek Ring
+PROPITEM_TXT_008962,Arek Ring,Cincin Arek
 PROPITEM_TXT_008963,Increases DEX. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan DEX. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
-PROPITEM_TXT_008964,Stam Ring,Stam Ring
+PROPITEM_TXT_008964,Stam Ring,Cincin Stam
 PROPITEM_TXT_008965,Increases STA. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Meningkatkan STA. Dapat ditingkatkan dengan Power Dice 8 atau 10 hingga level 20.
 PROPITEM_TXT_100141,Zupeslayer,Zupeslayer
 PROPITEM_TXT_100142,Demonizer,Demonizer
@@ -16051,19 +16051,19 @@ PROPITEM_TXT_725180,Luxury Chair Single Pack,Luxury Chair Single Pack
 PROPITEM_TXT_725181,Luxury Bed Single Pack,Luxury Bed Single Pack
 PROPITEM_TXT_725182,Cloak of Algeria,Cloak of Algeria
 PROPITEM_TXT_725183,This Cloak has a full length depiction of the flag of Algeria on it.,This Cloak has a full length depiction of the flag of Algeria on it.
-PROPITEM_TXT_725184,Cloak of Egypt,Cloak of Egypt
+PROPITEM_TXT_725184,Cloak of Egypt,Jubah Egypt
 PROPITEM_TXT_725185,This Cloak has a full length depiction of the flag of Egypt on it.,This Cloak has a full length depiction of the flag of Egypt on it.
-PROPITEM_TXT_725186,Cloak of India,Cloak of India
+PROPITEM_TXT_725186,Cloak of India,Jubah India
 PROPITEM_TXT_725187,This Cloak has a full length depiction of the flag of India on it.,This Cloak has a full length depiction of the flag of India on it.
-PROPITEM_TXT_725188,Cloak of Indonesia,Cloak of Indonesia
+PROPITEM_TXT_725188,Cloak of Indonesia,Jubah Indonesia
 PROPITEM_TXT_725189,This Cloak has a full length depiction of the flag of Indonesia on it.,This Cloak has a full length depiction of the flag of Indonesia on it.
-PROPITEM_TXT_725190,Cloak of Morocco,Cloak of Morocco
+PROPITEM_TXT_725190,Cloak of Morocco,Jubah Morocco
 PROPITEM_TXT_725191,This Cloak has a full length depiction of the flag of Morocco on it.,This Cloak has a full length depiction of the flag of Morocco on it.
-PROPITEM_TXT_725192,Cloak of Sweden,Cloak of Sweden
+PROPITEM_TXT_725192,Cloak of Sweden,Jubah Swedia
 PROPITEM_TXT_725193,This Cloak has a full length depiction of the flag of Sweden on it.,This Cloak has a full length depiction of the flag of Sweden on it.
-PROPITEM_TXT_725194,Cloak of Tunisia,Cloak of Tunisia
+PROPITEM_TXT_725194,Cloak of Tunisia,Jubah Tunisia
 PROPITEM_TXT_725195,This Cloak has a full length depiction of the flag of Tunisia on it.,This Cloak has a full length depiction of the flag of Tunisia on it.
-PROPITEM_TXT_725196,Cloak of Turkey,Cloak of Turkey
+PROPITEM_TXT_725196,Cloak of Turkey,Jubah Turki
 PROPITEM_TXT_725197,This Cloak has a full length depiction of the flag of Turkey on it.,This Cloak has a full length depiction of the flag of Turkey on it.
 PROPITEM_TXT_725198,Big Wave Surfing Red Set,Big Wave Surfing Red Set
 PROPITEM_TXT_725199,Big Wave Surfing Red Set (M),Big Wave Surfing Red Set (M)
@@ -17789,11 +17789,11 @@ PROPITEM_TXT_133408,Fish Sauce (D),Fish Sauce (D)
 PROPITEM_TXT_133409,Fish Sauce (C),Fish Sauce (C)
 PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,Sauce made from fish. You can use it in various dishes.
 PROPITEM_TXT_133411,Lollipop (C),Lollipop (C)
-PROPITEM_TXT_133412,Recovers 84 HP,Recovers 84 HP
+PROPITEM_TXT_133412,Recovers 84 HP,Memulihkan 84 HP
 PROPITEM_TXT_133413,Meat Skewer (C),Meat Skewer (C)
-PROPITEM_TXT_133414,Recovers 144 HP,Recovers 144 HP
+PROPITEM_TXT_133414,Recovers 144 HP,Memulihkan 144 HP
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
-PROPITEM_TXT_133416,Recovers 144 HP,Recovers 144 HP
+PROPITEM_TXT_133416,Recovers 144 HP,Memulihkan 144 HP
 PROPITEM_TXT_133417,Fish Ball (D),Fish Ball (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
 PROPITEM_TXT_133419,Fish Ball (C),Fish Ball (C)
@@ -17803,37 +17803,37 @@ PROPITEM_TXT_133422,Fish Ball (A),Fish Ball (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Fish Ball (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
 PROPITEM_TXT_133425,Seafood Pancake (C),Seafood Pancake (C)
-PROPITEM_TXT_133426,Recovers 276 HP,Recovers 276 HP
+PROPITEM_TXT_133426,Recovers 276 HP,Memulihkan 276 HP
 PROPITEM_TXT_133427,Seafood Pancake (B),Seafood Pancake (B)
 PROPITEM_TXT_133428,Seafood Pancake (A),Seafood Pancake (A)
 PROPITEM_TXT_133429,Seafood Pancake (A+),Seafood Pancake (A+)
-PROPITEM_TXT_133430,Recovers 299 HP,Recovers 299 HP
-PROPITEM_TXT_133431,Fish Soup (C),Fish Soup (C)
-PROPITEM_TXT_133432,Recovers 360 HP,Recovers 360 HP
-PROPITEM_TXT_133433,Fish Soup (B),Fish Soup (B)
-PROPITEM_TXT_133434,Fish Soup (A),Fish Soup (A)
-PROPITEM_TXT_133435,Fish Soup (A+),Fish Soup (A+)
-PROPITEM_TXT_133436,Recovers 390 HP,Recovers 390 HP
-PROPITEM_TXT_133437,Roll Bread (C),Roll Bread (C)
-PROPITEM_TXT_133438,Recovers 396 HP,Recovers 396 HP
+PROPITEM_TXT_133430,Recovers 299 HP,Memulihkan 299 HP
+PROPITEM_TXT_133431,Fish Soup (C),Sup Ikan (C)
+PROPITEM_TXT_133432,Recovers 360 HP,Memulihkan 360 HP
+PROPITEM_TXT_133433,Fish Soup (B),Sup Ikan (B)
+PROPITEM_TXT_133434,Fish Soup (A),Sup Ikan (A)
+PROPITEM_TXT_133435,Fish Soup (A+),Sup Ikan (A+)
+PROPITEM_TXT_133436,Recovers 390 HP,Memulihkan 390 HP
+PROPITEM_TXT_133437,Roll Bread (C),Roti Gulung (C)
+PROPITEM_TXT_133438,Recovers 396 HP,Memulihkan 396 HP
 PROPITEM_TXT_133439,Sausage Casserole (C),Sausage Casserole (C)
-PROPITEM_TXT_133440,Recovers 444 HP,Recovers 444 HP
+PROPITEM_TXT_133440,Recovers 444 HP,Memulihkan 444 HP
 PROPITEM_TXT_133441,Hot Dog (C),Hot Dog (C)
-PROPITEM_TXT_133442,Recovers 515 HP,Recovers 515 HP
+PROPITEM_TXT_133442,Recovers 515 HP,Memulihkan 515 HP
 PROPITEM_TXT_133443,Fish Stew (C),Fish Stew (C)
-PROPITEM_TXT_133444,Recovers 617 HP,Recovers 617 HP
+PROPITEM_TXT_133444,Recovers 617 HP,Memulihkan 617 HP
 PROPITEM_TXT_133445,Fish Stew (B),Fish Stew (B)
 PROPITEM_TXT_133446,Fish Stew (A),Fish Stew (A)
 PROPITEM_TXT_133447,Fish Stew (A+),Fish Stew (A+)
-PROPITEM_TXT_133448,Recovers 668 HP,Recovers 668 HP
+PROPITEM_TXT_133448,Recovers 668 HP,Memulihkan 668 HP
 PROPITEM_TXT_133449,Pizza (C),Pizza (C)
-PROPITEM_TXT_133450,Recovers 701 HP,Recovers 701 HP
+PROPITEM_TXT_133450,Recovers 701 HP,Memulihkan 701 HP
 PROPITEM_TXT_133451,Steamed Seafood (C),Steamed Seafood (C)
-PROPITEM_TXT_133452,Recovers 804 HP,Recovers 804 HP
+PROPITEM_TXT_133452,Recovers 804 HP,Memulihkan 804 HP
 PROPITEM_TXT_134671,Steamed Seafood (B),Steamed Seafood (B)
 PROPITEM_TXT_133453,Steamed Seafood (A),Steamed Seafood (A)
 PROPITEM_TXT_133454,Steamed Seafood (A+),Steamed Seafood (A+)
-PROPITEM_TXT_133455,Recovers 871 HP,Recovers 871 HP
+PROPITEM_TXT_133455,Recovers 871 HP,Memulihkan 871 HP
 PROPITEM_TXT_133456,Grilled Mackerel (D),Grilled Mackerel (D)
 PROPITEM_TXT_133457,A nicely grilled mackerel.,A nicely grilled mackerel.
 PROPITEM_TXT_133458,Grilled Mackerel (C),Grilled Mackerel (C)
@@ -17843,7 +17843,7 @@ PROPITEM_TXT_133461,Grilled Mackerel (A),Grilled Mackerel (A)
 PROPITEM_TXT_133462,Grilled Mackerel (A+),Grilled Mackerel (A+)
 PROPITEM_TXT_133463,A nicely grilled mackerel.,A nicely grilled mackerel.
 PROPITEM_TXT_133464,Chicken Stick (C),Stik Ayam (C)
-PROPITEM_TXT_133465,Recovers 1164 HP,Recovers 1164 HP
+PROPITEM_TXT_133465,Recovers 1164 HP,Memulihkan 1164 HP
 PROPITEM_TXT_133466,Fried Squid (D),Fried Squid (D)
 PROPITEM_TXT_133467,A dish made from fried squid.,A dish made from fried squid.
 PROPITEM_TXT_133468,Fried Squid (C),Fried Squid (C)
@@ -17853,7 +17853,7 @@ PROPITEM_TXT_133471,Fried Squid (A),Fried Squid (A)
 PROPITEM_TXT_133472,Fried Squid (A+),Fried Squid (A+)
 PROPITEM_TXT_133473,A dish made from fried squid.,A dish made from fried squid.
 PROPITEM_TXT_133474,Star Candy (C),Star Candy (C)
-PROPITEM_TXT_133475,Recovers 1440 HP,Recovers 1440 HP
+PROPITEM_TXT_133475,Recovers 1440 HP,Memulihkan 1440 HP
 PROPITEM_TXT_133476,Fish Cutlet (D),Fish Cutlet (D)
 PROPITEM_TXT_133477,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
 PROPITEM_TXT_133478,Fish Cutlet (C),Fish Cutlet (C)
@@ -17863,13 +17863,13 @@ PROPITEM_TXT_133481,Fish Cutlet (A),Fish Cutlet (A)
 PROPITEM_TXT_133482,Fish Cutlet (A+),Fish Cutlet (A+)
 PROPITEM_TXT_133483,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
 PROPITEM_TXT_133484,Meat Salad (C),Meat Salad (C)
-PROPITEM_TXT_133485,Recovers 1560 HP,Recovers 1560 HP
+PROPITEM_TXT_133485,Recovers 1560 HP,Memulihkan 1560 HP
 PROPITEM_TXT_133486,Seafood Pizza (C),Seafood Pizza (C)
-PROPITEM_TXT_133487,Recovers 1740 HP,Recovers 1740 HP
+PROPITEM_TXT_133487,Recovers 1740 HP,Memulihkan 1740 HP
 PROPITEM_TXT_133488,Seafood Pizza (B),Seafood Pizza (B)
 PROPITEM_TXT_133489,Seafood Pizza (A),Seafood Pizza (A)
 PROPITEM_TXT_133490,Seafood Pizza (A+),Seafood Pizza (A+)
-PROPITEM_TXT_133491,Recovers 1885 HP,Recovers 1885 HP
+PROPITEM_TXT_133491,Recovers 1885 HP,Memulihkan 1885 HP
 PROPITEM_TXT_133492,Fried Shrimp (D),Fried Shrimp (D)
 PROPITEM_TXT_133493,A dish made from fried shrimp.,A dish made from fried shrimp.
 PROPITEM_TXT_133494,Fried Shrimp (C),Fried Shrimp (C)
@@ -17887,13 +17887,13 @@ PROPITEM_TXT_133505,Shrimp Fried Rice (A),Shrimp Fried Rice (A)
 PROPITEM_TXT_133506,Shrimp Fried Rice (A+),Shrimp Fried Rice (A+)
 PROPITEM_TXT_133507,Fried rice with shrimp inside.,Fried rice with shrimp inside.
 PROPITEM_TXT_133508,Gratin (C),Gratin (C)
-PROPITEM_TXT_133509,Recovers 2100 HP,Recovers 2100 HP
+PROPITEM_TXT_133509,Recovers 2100 HP,Memulihkan 2100 HP
 PROPITEM_TXT_133510,Coral Island Curry (C),Coral Island Curry (C)
-PROPITEM_TXT_133511,Recovers 2400 HP,Recovers 2400 HP
+PROPITEM_TXT_133511,Recovers 2400 HP,Memulihkan 2400 HP
 PROPITEM_TXT_133512,Coral Island Curry (B),Coral Island Curry (B)
 PROPITEM_TXT_133513,Coral Island Curry (A),Coral Island Curry (A)
 PROPITEM_TXT_133514,Coral Island Curry (A+),Coral Island Curry (A+)
-PROPITEM_TXT_133515,Recovers 2600 HP,Recovers 2600 HP
+PROPITEM_TXT_133515,Recovers 2600 HP,Memulihkan 2600 HP
 PROPITEM_TXT_133516,Tuna Sushi (D),Tuna Sushi (D)
 PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi made with tuna on top.
 PROPITEM_TXT_133518,Tuna Sushi (C),Tuna Sushi (C)
@@ -18023,135 +18023,135 @@ PROPITEM_TXT_133641,Pine Oil (B),Pine Oil (B)
 PROPITEM_TXT_133642,Pine Oil (A),Pine Oil (A)
 PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,This oil is harvested from pine trees. It has many uses.
 PROPITEM_TXT_133644,VitalDrink 100 (C),VitalDrink 100 (C)
-PROPITEM_TXT_133645,FP 72 Recovery,FP 72 Recovery
+PROPITEM_TXT_133645,FP 72 Recovery,Memulihkan 72 FP
 PROPITEM_TXT_133646,VitalDrink 200 (C),VitalDrink 200 (C)
-PROPITEM_TXT_133647,FP 144 Recovery,FP 144 Recovery
+PROPITEM_TXT_133647,FP 144 Recovery,Memulihkan 144 FP
 PROPITEM_TXT_133648,VitalDrink 200 (B),VitalDrink 200 (B)
 PROPITEM_TXT_133649,VitalDrink 200 (A),VitalDrink 200 (A)
 PROPITEM_TXT_133650,VitalDrink 200 (A+),VitalDrink 200 (A+)
-PROPITEM_TXT_133651,FP 156 Recovery,FP 156 Recovery
+PROPITEM_TXT_133651,FP 156 Recovery,Memulihkan 156 FP
 PROPITEM_TXT_133652,First Refresher (C),First Refresher (C)
 PROPITEM_TXT_133653,MP 78 Recovery,MP 78 Recovery
-PROPITEM_TXT_133654,Gray Pill (C),Gray Pill (C)
-PROPITEM_TXT_133655,Recovers 1320 HP,Recovers 1320 HP
-PROPITEM_TXT_133656,Gray Pill (B),Gray Pill (B)
-PROPITEM_TXT_133657,Gray Pill (A),Gray Pill (A)
-PROPITEM_TXT_133658,Gray Pill (A+),Gray Pill (A+)
-PROPITEM_TXT_133659,Recovers 1380 HP,Recovers 1380 HP
+PROPITEM_TXT_133654,Gray Pill (C),Pil Abu-abu (C)
+PROPITEM_TXT_133655,Recovers 1320 HP,Memulihkan 1320 HP
+PROPITEM_TXT_133656,Gray Pill (B),Pil Abu-abu (B)
+PROPITEM_TXT_133657,Gray Pill (A),Pil Abu-abu (A)
+PROPITEM_TXT_133658,Gray Pill (A+),Pil Abu-abu (A+)
+PROPITEM_TXT_133659,Recovers 1380 HP,Memulihkan 1380 HP
 PROPITEM_TXT_133660,Second Refresher (C),Second Refresher (C)
-PROPITEM_TXT_133661,MP 150 Recovery,MP 150 Recovery
+PROPITEM_TXT_133661,MP 150 Recovery,Memulihkan 150 FP
 PROPITEM_TXT_133662,Second Refresher (B),Second Refresher (B)
 PROPITEM_TXT_133663,Second Refresher (A),Second Refresher (A)
 PROPITEM_TXT_133664,Second Refresher (A+),Second Refresher (A+)
-PROPITEM_TXT_133665,MP 163 Recovery,MP 163 Recovery
+PROPITEM_TXT_133665,MP 163 Recovery,Memulihkan 163 FP
 PROPITEM_TXT_133666,VitalDrink 300 (C),VitalDrink 300 (C)
-PROPITEM_TXT_133667,FP 216 Recovery,FP 216 Recovery
+PROPITEM_TXT_133667,FP 216 Recovery,Memulihkan 216 FP
 PROPITEM_TXT_133668,VitalDrink 300 (B),VitalDrink 300 (B)
 PROPITEM_TXT_133669,VitalDrink 300 (A),VitalDrink 300 (A)
 PROPITEM_TXT_133670,VitalDrink 300 (A+),VitalDrink 300 (A+)
-PROPITEM_TXT_133671,FP 234 Recovery,FP 234 Recovery
+PROPITEM_TXT_133671,FP 234 Recovery,Memulihkan 234 FP
 PROPITEM_TXT_133672,VitalDrink 400 (C),VitalDrink 400 (C)
-PROPITEM_TXT_133673,FP 288 Recovery,FP 288 Recovery
+PROPITEM_TXT_133673,FP 288 Recovery,Memulihkan 288 FP
 PROPITEM_TXT_133674,VitalDrink 400 (B),VitalDrink 400 (B)
 PROPITEM_TXT_133675,VitalDrink 400 (A),VitalDrink 400 (A)
 PROPITEM_TXT_133676,VitalDrink 400 (A+),VitalDrink 400 (A+)
-PROPITEM_TXT_133677,FP 312 Recovery,FP 312 Recovery
+PROPITEM_TXT_133677,FP 312 Recovery,Memulihkan 312 FP
 PROPITEM_TXT_133678,VitalDrink 500 (C),VitalDrink 500 (C)
-PROPITEM_TXT_133679,FP 360 Recovery,FP 360 Recovery
+PROPITEM_TXT_133679,FP 360 Recovery,Memulihkan 360 FP
 PROPITEM_TXT_133680,VitalDrink 500 (B),VitalDrink 500 (B)
 PROPITEM_TXT_133681,VitalDrink 500 (A),VitalDrink 500 (A)
 PROPITEM_TXT_133682,VitalDrink 500 (A+),VitalDrink 500 (A+)
-PROPITEM_TXT_133683,FP 390 Recovery,FP 390 Recovery
+PROPITEM_TXT_133683,FP 390 Recovery,Memulihkan 390 FP
 PROPITEM_TXT_133684,VitalDrink 600 (C),VitalDrink 600 (C)
-PROPITEM_TXT_133685,FP 442 Recovery,FP 442 Recovery
+PROPITEM_TXT_133685,FP 442 Recovery,Memulihkan 442 FP
 PROPITEM_TXT_133686,VitalDrink 600 (B),VitalDrink 600 (B)
 PROPITEM_TXT_133687,VitalDrink 600 (A),VitalDrink 600 (A)
 PROPITEM_TXT_133688,VitalDrink 600 (A+),VitalDrink 600 (A+)
-PROPITEM_TXT_133689,FP 478 Recovery,FP 478 Recovery
+PROPITEM_TXT_133689,FP 478 Recovery,Memulihkan 478 FP
 PROPITEM_TXT_133690,VitalDrink 700 (C),VitalDrink 700 (C)
-PROPITEM_TXT_133691,FP 540 Recovery,FP 540 Recovery
+PROPITEM_TXT_133691,FP 540 Recovery,Memulihkan 540 FP
 PROPITEM_TXT_133692,VitalDrink 700 (B),VitalDrink 700 (B)
 PROPITEM_TXT_133693,VitalDrink 700 (A),VitalDrink 700 (A)
 PROPITEM_TXT_133694,VitalDrink 700 (A+),VitalDrink 700 (A+)
-PROPITEM_TXT_133695,FP 585 Recovery,FP 585 Recovery
+PROPITEM_TXT_133695,FP 585 Recovery,Memulihkan 585 FP
 PROPITEM_TXT_133696,VitalDrink 800 (C),VitalDrink 800 (C)
-PROPITEM_TXT_133697,FP 624 Recovery,FP 624 Recovery
+PROPITEM_TXT_133697,FP 624 Recovery,Memulihkan 624 FP
 PROPITEM_TXT_133698,VitalDrink 800 (B),VitalDrink 800 (B)
 PROPITEM_TXT_133699,VitalDrink 800 (A),VitalDrink 800 (A)
 PROPITEM_TXT_133700,VitalDrink 800 (A+),VitalDrink 800 (A+)
-PROPITEM_TXT_133701,FP 676 Recovery,FP 676 Recovery
-PROPITEM_TXT_133702,Yellow Pill (C),Yellow Pill (C)
-PROPITEM_TXT_133703,Recovers 2200 HP,Recovers 2200 HP
-PROPITEM_TXT_133704,Yellow Pill (B),Yellow Pill (B)
-PROPITEM_TXT_133705,Yellow Pill (A),Yellow Pill (A)
-PROPITEM_TXT_133706,Yellow Pill (A+),Yellow Pill (A+)
-PROPITEM_TXT_133707,Recovers 2300 HP,Recovers 2300 HP
-PROPITEM_TXT_133708,Blue Pill (C),Blue Pill (C)
-PROPITEM_TXT_133709,Recovers 4400 HP,Recovers 4400 HP
-PROPITEM_TXT_133710,Blue Pill (B),Blue Pill (B)
-PROPITEM_TXT_133711,Blue Pill (A),Blue Pill (A)
-PROPITEM_TXT_133712,Blue Pill (A+),Blue Pill (A+)
-PROPITEM_TXT_133713,Recovers 4600 HP,Recovers 4600 HP
-PROPITEM_TXT_133714,Red Pill (C),Red Pill (C)
-PROPITEM_TXT_133715,Recovers 8800 HP,Recovers 8800 HP
-PROPITEM_TXT_133716,Red Pill (B),Red Pill (B)
-PROPITEM_TXT_133717,Red Pill (A),Red Pill (A)
-PROPITEM_TXT_133718,Red Pill (A+),Red Pill (A+)
-PROPITEM_TXT_133719,Recovers 9200 HP,Recovers 9200 HP
+PROPITEM_TXT_133701,FP 676 Recovery,Memulihkan 676 FP
+PROPITEM_TXT_133702,Yellow Pill (C),Pil Kuning (C)
+PROPITEM_TXT_133703,Recovers 2200 HP,Memulihkan 2200 HP
+PROPITEM_TXT_133704,Yellow Pill (B),Pil Kuning (B)
+PROPITEM_TXT_133705,Yellow Pill (A),Pil Kuning (A)
+PROPITEM_TXT_133706,Yellow Pill (A+),Pil Kuning (A+)
+PROPITEM_TXT_133707,Recovers 2300 HP,Memulihkan 2300 HP
+PROPITEM_TXT_133708,Blue Pill (C),Pil Biru (C)
+PROPITEM_TXT_133709,Recovers 4400 HP,Memulihkan 4400 HP
+PROPITEM_TXT_133710,Blue Pill (B),Pil Biru (B)
+PROPITEM_TXT_133711,Blue Pill (A),Pil Biru (A)
+PROPITEM_TXT_133712,Blue Pill (A+),Pil Biru (A+)
+PROPITEM_TXT_133713,Recovers 4600 HP,Memulihkan 4600 HP
+PROPITEM_TXT_133714,Red Pill (C),Pil Merah (C)
+PROPITEM_TXT_133715,Recovers 8800 HP,Memulihkan 8800 HP
+PROPITEM_TXT_133716,Red Pill (B),Pil Merah (B)
+PROPITEM_TXT_133717,Red Pill (A),Pil Merah (A)
+PROPITEM_TXT_133718,Red Pill (A+),Pil Merah (A+)
+PROPITEM_TXT_133719,Recovers 9200 HP,Memulihkan 9200 HP
 PROPITEM_TXT_133720,Third Refresher (C),Third Refresher (C)
-PROPITEM_TXT_133721,MP 222 Recovery,MP 222 Recovery
+PROPITEM_TXT_133721,MP 222 Recovery,Memulihkan 222 MP
 PROPITEM_TXT_133722,Third Refresher (B),Third Refresher (B)
 PROPITEM_TXT_133723,Third Refresher (A),Third Refresher (A)
 PROPITEM_TXT_133724,Third Refresher (A+),Third Refresher (A+)
-PROPITEM_TXT_133725,MP 241 Recovery,MP 241 Recovery
+PROPITEM_TXT_133725,MP 241 Recovery,Memulihkan 241 MP
 PROPITEM_TXT_133726,Fourth Refresher (C),Fourth Refresher (C)
-PROPITEM_TXT_133727,MP 294 Recovery,MP 294 Recovery
+PROPITEM_TXT_133727,MP 294 Recovery,Memulihkan 294 MP
 PROPITEM_TXT_133728,Fourth Refresher (B),Fourth Refresher (B)
 PROPITEM_TXT_133729,Fourth Refresher (A),Fourth Refresher (A)
 PROPITEM_TXT_133730,Fourth Refresher (A+),Fourth Refresher (A+)
-PROPITEM_TXT_133731,MP 319 Recovery,MP 319 Recovery
+PROPITEM_TXT_133731,MP 319 Recovery,Memulihkan 319 MP
 PROPITEM_TXT_133732,Fifth Refresher (C),Fifth Refresher (C)
-PROPITEM_TXT_133733,MP 378 Recovery,MP 378 Recovery
+PROPITEM_TXT_133733,MP 378 Recovery,Memulihkan 378 MP
 PROPITEM_TXT_133734,Fifth Refresher (B),Fifth Refresher (B)
 PROPITEM_TXT_133735,Fifth Refresher (A),Fifth Refresher (A)
 PROPITEM_TXT_133736,Fifth Refresher (A+),Fifth Refresher (A+)
-PROPITEM_TXT_133737,MP 410 Recovery,MP 410 Recovery
+PROPITEM_TXT_133737,MP 410 Recovery,Memulihkan 410 MP
 PROPITEM_TXT_133738,Sixth Refresher (C),Sixth Refresher (C)
-PROPITEM_TXT_133739,MP 450 Recovery,MP 450 Recovery
+PROPITEM_TXT_133739,MP 450 Recovery,Memulihkan 450 MP
 PROPITEM_TXT_133740,Sixth Refresher (B),Sixth Refresher (B)
 PROPITEM_TXT_133741,Sixth Refresher (A),Sixth Refresher (A)
 PROPITEM_TXT_133742,Sixth Refresher (A+),Sixth Refresher (A+)
-PROPITEM_TXT_133743,MP 488 Recovery,MP 488 Recovery
+PROPITEM_TXT_133743,MP 488 Recovery,Memulihkan 418 MP
 PROPITEM_TXT_133744,Seventh Refresher (C),Seventh Refresher (C)
-PROPITEM_TXT_133745,MP 540 Recovery,MP 540 Recovery
+PROPITEM_TXT_133745,MP 540 Recovery,Memulihkan 510 MP
 PROPITEM_TXT_133746,Seventh Refresher (B),Seventh Refresher (B)
 PROPITEM_TXT_133747,Seventh Refresher (A),Seventh Refresher (A)
 PROPITEM_TXT_133748,Seventh Refresher (A+),Seventh Refresher (A+)
-PROPITEM_TXT_133749,MP 585 Recovery,MP 585 Recovery
+PROPITEM_TXT_133749,MP 585 Recovery,Memulihkan 585 MP
 PROPITEM_TXT_133750,VitalDrink 900 (C),VitalDrink 900 (C)
-PROPITEM_TXT_133751,FP 708 Recovery,FP 708 Recovery
+PROPITEM_TXT_133751,FP 708 Recovery,Memulihkan 708 FP
 PROPITEM_TXT_133752,VitalDrink 900 (B),VitalDrink 900 (B)
 PROPITEM_TXT_133753,VitalDrink 900 (A),VitalDrink 900 (A)
 PROPITEM_TXT_133754,VitalDrink 900 (A+),VitalDrink 900 (A+)
-PROPITEM_TXT_133755,FP 767 Recovery,FP 767 Recovery
+PROPITEM_TXT_133755,FP 767 Recovery,Memulihkan 767 FP
 PROPITEM_TXT_133756,Ninth Refresher (C),Ninth Refresher (C)
-PROPITEM_TXT_133757,MP 720 Recovery,MP 720 Recovery
+PROPITEM_TXT_133757,MP 720 Recovery,Memulihkan 720 MP
 PROPITEM_TXT_133758,Ninth Refresher (B),Ninth Refresher (B)
 PROPITEM_TXT_133759,Ninth Refresher (A),Ninth Refresher (A)
 PROPITEM_TXT_133760,Ninth Refresher (A+),Ninth Refresher (A+)
-PROPITEM_TXT_133761,MP 780 Recovery,MP 780 Recovery
+PROPITEM_TXT_133761,MP 780 Recovery,Memulihkan 780 MP
 PROPITEM_TXT_133762,Tenth Refresher (C),Tenth Refresher (C)
-PROPITEM_TXT_133763,MP 810 Recovery,MP 810 Recovery
+PROPITEM_TXT_133763,MP 810 Recovery,Memulihkan 810 MP
 PROPITEM_TXT_133764,Tenth Refresher (B),Tenth Refresher (B)
 PROPITEM_TXT_133765,Tenth Refresher (A),Tenth Refresher (A)
 PROPITEM_TXT_133766,Tenth Refresher (A+),Tenth Refresher (A+)
-PROPITEM_TXT_133767,MP 878 Recovery,MP 878 Recovery
-PROPITEM_TXT_133768,Gold Pill (C),Gold Pill (C)
-PROPITEM_TXT_133769,Recovers 16500 HP,Recovers 16500 HP
-PROPITEM_TXT_133770,Gold Pill (B),Gold Pill (B)
-PROPITEM_TXT_133771,Gold Pill (A),Gold Pill (A)
-PROPITEM_TXT_133772,Gold Pill (A+),Gold Pill (A+)
-PROPITEM_TXT_133773,Recovers 17250 HP,Recovers 17250 HP
+PROPITEM_TXT_133767,MP 878 Recovery,Memulihkan 878 MP
+PROPITEM_TXT_133768,Gold Pill (C),Pil Emas (C)
+PROPITEM_TXT_133769,Recovers 16500 HP,Memulihkan 16500 HP
+PROPITEM_TXT_133770,Gold Pill (B),Pil Emas (B)
+PROPITEM_TXT_133771,Gold Pill (A),Pil Emas (A)
+PROPITEM_TXT_133772,Gold Pill (A+),Pil Emas (A+)
+PROPITEM_TXT_133773,Recovers 17250 HP,Memulihkan 17250 HP
 PROPITEM_TXT_133774,Shining Gold Pill,Shining Gold Pill
 PROPITEM_TXT_133775,A shining gold pill.,A shining gold pill.
 PROPITEM_TXT_133776,Shining Gold Pill (C),Shining Gold Pill (C)
@@ -19007,11 +19007,11 @@ PROPITEM_TXT_134626,Master's Diamond Ring,Master's Diamond Ring
 PROPITEM_TXT_134627,Cooking Egg,Cooking Egg
 PROPITEM_TXT_134628,These eggs are used for cooking.,These eggs are used for cooking.
 PROPITEM_TXT_134629,Eighth Refresher (C),Eighth Refresher (C)
-PROPITEM_TXT_134630,MP 630 Recovery,MP 630 Recovery
+PROPITEM_TXT_134630,MP 630 Recovery,Memulihkan 630 MP
 PROPITEM_TXT_134631,Eighth Refresher (B),Eighth Refresher (B)
 PROPITEM_TXT_134632,Eighth Refresher (A),Eighth Refresher (A)
 PROPITEM_TXT_134633,Eighth Refresher (A+),Eighth Refresher (A+)
-PROPITEM_TXT_134634,MP 683 Recovery,MP 683 Recovery
+PROPITEM_TXT_134634,MP 683 Recovery,Memulihkan 683 MP
 PROPITEM_TXT_134635,Enduky +4,Enduky +4
 PROPITEM_TXT_134636,Enduky +5,Enduky +5
 PROPITEM_TXT_134637,Handmade Silver Ring (C),Handmade Silver Ring (C)
@@ -19056,7 +19056,7 @@ PROPITEM_TXT_134672,Brilliant Amethyst,Brilliant Amethyst
 PROPITEM_TXT_134673,Sausage Casserole (B),Sausage Casserole (B)
 PROPITEM_TXT_134674,Sausage Casserole (A),Sausage Casserole (A)
 PROPITEM_TXT_134675,Sausage Casserole (A+),Sausage Casserole (A+)
-PROPITEM_TXT_134676,Recovers 481 HP,Recovers 481 HP
+PROPITEM_TXT_134676,Recovers 481 HP,Memulihkan 481 HP
 PROPITEM_TXT_726143,[Event] Pumpkin Ball,[Event] Pumpkin Ball
 PROPITEM_TXT_726144,"The Pumpkin Ball contains a mysterious substance, and when thrown at a pumpkin, it will neutralize the pumpkin.","The Pumpkin Ball contains a mysterious substance, and when thrown at a pumpkin, it will neutralize the pumpkin."
 PROPITEM_TXT_726145,[Event] Pumpkin Treat Box,[Event] Pumpkin Treat Box
@@ -23359,11 +23359,11 @@ PROPITEM_TXT_134822,A Select Box filled with FWC snack items. You can choose 1 i
 PROPITEM_TXT_134823,2025 FWC PopCorn Select box,2025 FWC PopCorn Select box
 PROPITEM_TXT_134824,A Select Box filled with variety FWC buff items. You can choose 1 item from it,A Select Box filled with variety FWC buff items. You can choose 1 item from it
 PROPITEM_TXT_134825,FWC Red Hot Fries,FWC Red Hot Fries
-PROPITEM_TXT_134826,Recovers 9999 HP,Recovers 9999 HP
+PROPITEM_TXT_134826,Recovers 9999 HP,Memulihkan 9999 HP
 PROPITEM_TXT_134827,FWC BBQ Fries,FWC BBQ Fries
-PROPITEM_TXT_134828,Recovers 9999 FP,Recovers 9999 FP
+PROPITEM_TXT_134828,Recovers 9999 FP,Memulihkan 9999 FP
 PROPITEM_TXT_134829,FWC Sparkling Lemon Water,FWC Sparkling Lemon Water
-PROPITEM_TXT_134830,Recovers 9999 MP,Recovers 9999 MP
+PROPITEM_TXT_134830,Recovers 9999 MP,Memulihkan 9999 MP
 PROPITEM_TXT_134831,FWC Special combo,FWC Special combo
 PROPITEM_TXT_134832,20% HP recovered upon use,20% HP recovered upon use
 PROPITEM_TXT_134833,2025 FWC Red PopCorn,2025 FWC Red PopCorn
@@ -24967,7 +24967,7 @@ PROPITEM_TXT_135016,Jewel (3) Select Box,Jewel (3) Select Box
 PROPITEM_TXT_135017,Select which Jewel you want!,Select which Jewel you want!
 PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,Scroll of increased Jewel synthesis chance Select Box
 PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,Select which Jewel Synthesis Chance Scroll you want!
-PROPITEM_TXT_902176,Muran Sword,Muran Sword
+PROPITEM_TXT_902176,Muran Sword,Pedang Muran
 PROPITEM_TXT_902177,Muran Axe,Muran Axe
 PROPITEM_TXT_902178,Muran Big Sword,Muran Big Sword
 PROPITEM_TXT_902179,Muran Big Axe,Muran Big Axe
@@ -24979,7 +24979,7 @@ PROPITEM_TXT_902184,Muran Staff,Muran Staff
 PROPITEM_TXT_902185,Muran Wand,Muran Wand
 PROPITEM_TXT_902186,Muran Shield,Muran Shield
 PROPITEM_TXT_902187,Muran Force Gem,Muran Force Gem
-PROPITEM_TXT_902188,Muran Book,Muran Book
+PROPITEM_TXT_902188,Muran Book,Buku Muran
 PROPITEM_TXT_902189,Muran  Weapon Set,Muran  Weapon Set
 PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,Select which Muran Weapon you want to receive!
 PROPITEM_TXT_902191,Muran Guardian Lion,Muran Guardian Lion

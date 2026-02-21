@@ -10,7 +10,7 @@ PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all t
 PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,Kamu bisa mengumpulkan $QUEST_END_ITEM_NAME$ dekat jembatan di utara.
 PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,Anda dapat mengumpulkan Unknowns Certificates di dekat Bangs.
 PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,Kamu bisa mengumpulkan Nyannyang didekat Giant Nyangnyang
-PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,Kamu bisa mengumpulkan The Office Documents di dekat Mias
+PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,Kamu bisa mengumpulkan Dokumen Kantor di dekat Mia
 PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,Kamu tidak ingin mengumpulkannya? Oke
 PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,Kamu butuh lebih banyak $QUEST_END_ITEM_NAME$.
 PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,Kamu tidak memiliki cukup $QUEST_END_ITEM_NAME$.
@@ -51,14 +51,14 @@ PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,Liquor for Dunkan
 PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,dunkan membutuhkanmu untuk mengumpulkan Golden Wing untuk membuat Liquor baru. Bisakah kamu membantu?
 PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan ingin Golden Wing
 PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,Sweet Dessert
-PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian membutuhkanmu untuk mengumpulkan Blue Honey untuk membuat Dessert baru. Bisakah ukah kamu membantu?
-PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian butuh Blue Honey
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian membutuhkanmu untuk mengumpulkan Madu Biru untuk membuat Dessert baru. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian butuh Madu Biru
 PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Blessed Doll
-PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children membutuhkanmu untuk mengumpulkan Mia Doll sebagai hadiah bagi anak-anak. Bisakah kamu membantu?
-PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children ingin Mia Doll
-PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Lost Documents
-PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia membutuhkanmu untuk mengembalikan Office Documents yang dicuri para Mia. Bisakah kamu membantu?
-PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia ingin Office Document yang dicuri oleh para Mia
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children membutuhkanmu untuk mengumpulkan Boneka Mia sebagai hadiah bagi anak-anak. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children ingin Boneka Mia
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Dokumen yang Hilang
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia membutuhkanmu untuk mengembalikan Dokumen Kantor yang dicuri para Mia. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia ingin Dokumen Kantor yang dicuri oleh para Mia
 PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,Brightly Burning Flame
 PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman membutuhkanmu untuk mengumpulkan Furious Matches untuk digunakan pada tanur tempanya. Bisakah kamu membantu?
 PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman ingin Furious Matches

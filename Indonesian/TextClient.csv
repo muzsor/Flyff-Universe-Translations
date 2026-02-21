@@ -27,7 +27,7 @@ TEXTCLIENT_EXIT,Do you want to exit the program?,Apakah kamu ingin keluar dari p
 TEXTCLIENT_DISCONNECTED,Disconnected from the server.,Terputus dari server.
 TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,Pembuatan karakter dinonaktifkan di server ini.
 TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,Tampaknya ada kekuatan jahat yang mengaburkan visimu tentang area tersebut.
-TEXTCLIENT_ITEM_DESC,Description:,Keterangan:
+TEXTCLIENT_ITEM_DESC,Description:,Deskripsi:
 TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,Nama ini mengandung karakter yang tidak sah.
 TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,Nama ini mengandung kata-kata yang tidak sah.
 TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,Alamat internet publikmu telah diblokir. Hubungi administrator untuk informasi lebih lanjut.
