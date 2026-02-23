@@ -1358,306 +1358,306 @@ UI_GACHA_OPEN,Open,Bukas
 UI_GACHA_QUANTITY_MAX,Max,Pinakamalaki
 UI_GACHA_RESET,Reset,I-reset
 UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, a gift box, a gacha box or an housing pack in the item slot.","I-drag at i-drop ang isang item pack, isang gift box, isang gacha box o isang housing pack sa item slot."
-UI_GACHA_DESC_ITEMPACK,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.
-UI_GACHA_DESC_GIFTBOX,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.
-UI_GACHA_DESC_GACHA,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.
-UI_GACHA_DESC_RESET,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.
-UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.","If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d."
-UI_GACHA_DESC_GLOBAL,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.
-UI_GACHA_DESC_INFO,For more information please check our General Sales Conditions in the Cash Shop.,For more information please check our General Sales Conditions in the Cash Shop.
-UI_GACHA_LASTITEM,Last item,Last item
-UI_GACHA_PREVIEW,PREVIEW,PREVIEW
-UI_GACHA_SOLDOUT,Sold out,Sold out
-UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Welcome to the world of		\nFlyff Online!
-UI_WELCOME_BTN,Let's go!,Let's go!
-UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
-UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Incoming Damage
-UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Damage Redirection
-UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Incoming Healing
-UI_TOOLTIP_ELEMENT,Element: %s,Element: %s
-UI_APP_BOT_TIP,Bot Simulation,Bot Simulation
+UI_GACHA_DESC_ITEMPACK,When opening the package you will receive #ball#nb items listed below. You can open several packages in a row.,Kapag binuksan mo ang pakete matatanggap mo ang #ball#nb na mga item na nakalista sa ibaba. Maaari kang magbukas ng ilang pakete nang sunod-sunod.
+UI_GACHA_DESC_GIFTBOX,When opening the box you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.,Kapag binuksan mo ang kahon makakatanggap ka ng #bone#nb na mga item na nakalista sa ibaba ayon sa mga posibilidad. Maaari kang magbukas ng ilang kahon nang sunod-sunod.
+UI_GACHA_DESC_GACHA,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to get #ball#nb the items listed below. The gacha is then reinitialized.,Kapag binuksan mo ang gacha makakatanggap ka ng #bone#nb na mga item na nakalista sa ibaba. Kapag natanggap na ang isang item aalisin ito sa gacha. Maaari kang magbukas ng ilang gacha nang sunod-sunod. Kung magbubukas ka ng sapat na gacha #bguaranteed#nb kang makakakuha ng #ball#nb na mga item na nakalista sa ibaba. Pagkatapos nito muling i-i-initialize ang gacha.
+UI_GACHA_DESC_RESET,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.,Kung nais mo - maaari mo ring #b boluntaryong i-reset ang gacha#nb simula sa %d na pagbubukas.
+UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.","Kung nais mo, maaari mo ring #b boluntaryong i-reset ang gacha#nb simula sa %d na pagbubukas, sa pinakamataas na tagal na %d."
+UI_GACHA_DESC_GLOBAL,When opening the gacha you will receive #bone#nb of the items listed below. Once an item has been received it is removed from the gacha. You can open several gachas in a row. This box is shared between #ball the players#nb and the last one to open it gets the item below. The gacha is then reinitialized.,Kapag binuksan mo ang gacha makakatanggap ka ng #bone#nb ng mga item na nakalista sa ibaba. Kapag natanggap na ang isang item aalisin ito sa gacha. Maaari kang magbukas ng ilang gacha nang sunod-sunod. Ang kahon na ito ay pinaghahatian ng #ball ang mga manlalaro#nb at ang huling magbukas nito ang makakakuha ng item sa ibaba. Pagkatapos ay muling ini-initialize ang gacha.
+UI_GACHA_DESC_INFO,For more information please check our General Sales Conditions in the Cash Shop.,Para sa karagdagang impormasyon pakitingnan ang aming Pangkalahatang Kundisyon ng Pagbebenta sa Cash Shop.
+UI_GACHA_LASTITEM,Last item,Huling item
+UI_GACHA_PREVIEW,PREVIEW,PAUNANG SULYAP
+UI_GACHA_SOLDOUT,Sold out,Naubos na
+UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Maligayang pagdating sa mundo ng		\nFlyff Online!
+UI_WELCOME_BTN,Let's go!,Tara na!
+UI_TUTORIAL_MSG,Do you want the tutorial?,Gusto mo ba ng tutorial?
+UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Papapasok na pinsala
+UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Paglilipat ng Pinsala
+UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Papapasok na Pagpapagaling
+UI_TOOLTIP_ELEMENT,Element: %s,Elemento: %s
+UI_APP_BOT_TIP,Bot Simulation,Simulasyon ng Bot
 UI_TOOLTIP_DST_EXP,Monster Exp,Monster Exp
 UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,Item Drop Rate
-UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Auto Attack FP Recovery
-UI_TOOLTIP_DST_AUTOHP,HP Recovery %d%% Below %d%%,HP Recovery %d%% Below %d%%
-UI_OPTION_MYNAME,My Name,My Name
-UI_OPTION_OTHERNAME,Others Name,Others Name
-UI_OPTION_NPCNAME,NPCs Name,NPCs Name
-UI_TOOLTIP_DST_RECOVERY_EXP,Exp Lost,Exp Lost
-UI_GUILD_NAME_COLOR,Guild Name Color,Guild Name Color
-UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Spirit Strike
-UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Steal FP
-UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,HP Bar Damage History
-UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Damage+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Remove Level Reduction
-UI_MSGBOX_CONFIRM,Confirm,Confirm
-UI_CHANGECHAR_TITLE,Change Character,Change Character
-UI_CHANGECHAR_MSG,Select character and channel:,Select character and channel:
-UI_CHARINFO_EXPRATE,Exp Rate,Exp Rate
-UI_CHARINFO_EXPRATE_TIP,Your personal Exp rate. Does not include server and event rates.,Your personal Exp rate. Does not include server and event rates.
-UI_TOOLTIP_ITEM_BINDING,Binding,Binding
-UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,This material makes the target item Soul-Bound.
-UI_BINDING_NOTICE,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc
-UI_BINDING_MESSAGE,This item is now bound to your character.,This item is now bound to your character.
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Soul-Bound]
-UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Can be unbound.
-UI_BINDING_TITLE,Binding,Binding
-UI_BINDING_CONFIRM,Do you want to continue?,Do you want to continue?
-UI_UNBINDING_TITLE,Unbinding,Pakawalan
-UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Confirm Unbinding
-UI_UNBINDING_MSG,Do you confirm the removal of #ball item improvements#nb to unbind the item?,Do you confirm the removal of #ball item improvements#nb to unbind the item?
-UI_UNBINDING_LABEL,Place an item in the slot below:,Place an item in the slot below:
-UI_ELEMENT_CHANGE_SLOT,Place an item here to change it's elemental attribute.,Place an item here to change it's elemental attribute.
-UI_ELEMENT_CHANGE_TIP,Change to %s Element,Change to %s Element
-UI_EXPSTOP_RELOAD,Reload,Reload
-UI_EXPSTOP_BTN,Lock Exp,Lock Exp
-UI_EXPSTOP_BTN_TIP,Stop gaining experience from killed monsters. You still get experience from quests.,Stop gaining experience from killed monsters. You still get experience from quests.
-UI_EXPSTOP_RELOAD_TITLE,Exp Lock Reload,Exp Lock Reload
-UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?","You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?"
-UI_EXPSTOP_RELOAD_LABEL,Monsters:,Monsters:
-UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Will you pay %s Penya to reload the Exp Lock gauge?
-UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Ranking
+UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Awtomatikong Pag-atake: Pagbawi ng FP
+UI_TOOLTIP_DST_AUTOHP,HP Recovery %d%% Below %d%%,HP Pagbawi %d%% Nasa ibaba ng %d%%
+UI_OPTION_MYNAME,My Name,Aking Pangalan
+UI_OPTION_OTHERNAME,Others Name,Ibang Pangalan
+UI_OPTION_NPCNAME,NPCs Name,Pangalan ng NPC
+UI_TOOLTIP_DST_RECOVERY_EXP,Exp Lost,Nawalang Exp
+UI_GUILD_NAME_COLOR,Guild Name Color,Kulay ng Pangalan ng Guild
+UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Pagsalakay ng Espiritu
+UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Magnakaw ng FP
+UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,Kasaysayan ng Pinsala sa HP Bar
+UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Pinsala+%d%%
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Alisin ang Pagbaba ng Antas
+UI_MSGBOX_CONFIRM,Confirm,Kumpirmahin
+UI_CHANGECHAR_TITLE,Change Character,Palitan ang Character
+UI_CHANGECHAR_MSG,Select character and channel:,Pumili ng character at channel:
+UI_CHARINFO_EXPRATE,Exp Rate,Rate ng Karanasan
+UI_CHARINFO_EXPRATE_TIP,Your personal Exp rate. Does not include server and event rates.,Ang iyong personal na rate ng karanasan. Hindi kasama ang mga rate ng server at ng kaganapan.
+UI_TOOLTIP_ITEM_BINDING,Binding,Pagbubuklod
+UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,Ang materyal na ito ay ginagawang Soul-Bound ang target na item.
+UI_BINDING_NOTICE,#cffff0000This operation will bind the item to your character. You can cancel with a Scroll of Unbinding.#nc,#cffff0000Ang operasyong ito ay ikakabit ang bagay sa iyong karakter. Maaari mong kanselahin ito gamit ang Scroll of Unbinding.#nc
+UI_BINDING_MESSAGE,This item is now bound to your character.,Ang item na ito ay ngayon ay nakakabit sa iyong karakter.
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[Nakatalaga sa kaluluwa]
+UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,Maaaring pakawalan.
+UI_BINDING_TITLE,Binding,Pagbubuklod
+UI_BINDING_CONFIRM,Do you want to continue?,Gusto mo bang magpatuloy?
+UI_UNBINDING_TITLE,Unbinding,Pagpapakawala
+UI_UNBINDING_MSG_TITLE,Confirm Unbinding,Kumpirmahin ang Pagpapakawala
+UI_UNBINDING_MSG,Do you confirm the removal of #ball item improvements#nb to unbind the item?,Kumpirmahin mo ba ang pagtanggal ng #ball item improvements#nb upang pakawalan ang item?
+UI_UNBINDING_LABEL,Place an item in the slot below:,Ilagay ang isang item sa slot sa ibaba:
+UI_ELEMENT_CHANGE_SLOT,Place an item here to change it's elemental attribute.,Ilagay ang isang item dito upang baguhin ang katangian ng elemento nito.
+UI_ELEMENT_CHANGE_TIP,Change to %s Element,Baguhin sa %s Elemento
+UI_EXPSTOP_RELOAD,Reload,Mag-reload
+UI_EXPSTOP_BTN,Lock Exp,I-lock ang Exp
+UI_EXPSTOP_BTN_TIP,Stop gaining experience from killed monsters. You still get experience from quests.,Itigil ang pagkuha ng karanasan mula sa mga napatay na halimaw. Makakakuha ka pa rin ng karanasan mula sa mga quest.
+UI_EXPSTOP_RELOAD_TITLE,Exp Lock Reload,I-lock ang ekspansyon at muling mag-load
+UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?","Maaari mong itigil ang pagkuha ng karanasan; ang presyo ay #b%d Penya#nb bawat halimaw na pinatay para ma-reload ang sukatan. Ilan ang gusto mong patayin na halimaw?"
+UI_EXPSTOP_RELOAD_LABEL,Monsters:,Halimaw:
+UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Babayaran mo ba si %s Penya para punuin muli ang sukatan ng Exp Lock?
+UI_ARENA_RANKING_TITLE,Arena Ranking,Ranggo ng Arena
 UI_ARENA_RANKING_NAME,Name,Pangalan
 UI_ARENA_RANKING_LEVEL,Level,Lebel
-UI_ARENA_RANKING_JOB,Job,Job
-UI_ARENA_RANKING_KILLS,Kills,Kills
-UI_ARENA_RANKING_DEATHS,Deaths,Deaths
-UI_ARENA_RANKING_RATIO,Ratio,Ratio
-UI_ARENA_RANKING_DIFF,Difference,Difference
-UI_ARENA_RANKING_PERFECT,Perfect,Perfect
-UI_ARENA_RANKING_LASTUPDATE,Last update:,Last update:
-UI_ARENA_RANKING_RANK,Your rank:,Your rank:
-UI_ARENA_RANKING_NORANK,not ranked,not ranked
-UI_ARENA_REWARD_TITLE,Arena Reward,Arena Reward
-UI_ARENA_REWARD_DESCHDR,Description,Description
-UI_ARENA_REWARD_DESC,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.
-UI_ARENA_REWARD_PRIZEHDR,Prize Details,Prize Details
-UI_ARENA_REWARD_RESETHDR,Next reset,Next reset
-UI_PARTY_MINLEVEL,Min Level,Min Level
-UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.,Minimum party member level required to receive experience.
-UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Affected by master player)#ni
-UI_PARTY_EXPBONUS,Exp Bonus,Exp Bonus
-UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.","Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking."
+UI_ARENA_RANKING_JOB,Job,Trabaho
+UI_ARENA_RANKING_KILLS,Kills,Patay
+UI_ARENA_RANKING_DEATHS,Deaths,Kamatayan
+UI_ARENA_RANKING_RATIO,Ratio,Rasyon
+UI_ARENA_RANKING_DIFF,Difference,Pagkakaiba
+UI_ARENA_RANKING_PERFECT,Perfect,Perpekto
+UI_ARENA_RANKING_LASTUPDATE,Last update:,Huling pag-update:
+UI_ARENA_RANKING_RANK,Your rank:,Iyong ranggo:
+UI_ARENA_RANKING_NORANK,not ranked,walang ranggo
+UI_ARENA_REWARD_TITLE,Arena Reward,Gantimpala sa Arena
+UI_ARENA_REWARD_DESCHDR,Description,Paglalarawan
+UI_ARENA_REWARD_DESC,Fight other players in the arena and win in order to move up in the ranking.\nThe ranking will reset each week and the players at the top will earn rewards.,Makipaglaban sa ibang manlalaro sa arena at manalo upang umangat sa ranggo.\nAng ranggo ay magre-reset bawat linggo at ang mga manlalaro sa tuktok ay makakatanggap ng gantimpala.
+UI_ARENA_REWARD_PRIZEHDR,Prize Details,Detalye ng Gantimpala
+UI_ARENA_REWARD_RESETHDR,Next reset,Susunod na pag-reset
+UI_PARTY_MINLEVEL,Min Level,Minimum na antas
+UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.,Minimum na antas ng miyembro ng party na kinakailangan upang makatanggap ng karanasan.
+UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Naapektuhan ng master player)#ni
+UI_PARTY_EXPBONUS,Exp Bonus,Bonus sa pag-exp
+UI_PARTY_EXPBONUS_TIP,"Experience Bonus that you get with the Party. Active members are those who participate in the current combat. Contribution includes attacking, healing and tanking.","Bonus sa karanasan na nakukuha mo sa Party. Ang mga aktibong miyembro ay yaong nakikilahok sa kasalukuyang laban. Kasama sa kontribusyon ang pag-atake, pagpapagaling, at pagtatanggol."
 UI_PARTY_EXPBONUS_ACTIVE,x Active,x Active
-UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Blessed items cannot be dropped or traded.
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
-UI_OPTION_ONECLICKATTACK,Single Click to Attack,Single Click to Attack
-UI_GEM_CREATE,Extract,Extract
-UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,Combat Power Ranking
-UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,Remaining: %d / %d
-UI_ACHIEVEMENT_SOLDOUT,Sold out,Sold out
-UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,Power Dice 4/6/12
-UI_SHININGDICE_PIERCING,Power Dice 8/10,Power Dice 8/10
-UI_CRAFTPETCANDY_MAT,Harvested Berry,Harvested Berry
-UI_CRAFTPETCANDY_CANDY,Pet Candy,Pet Candy
-UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc
-UI_TOOLTIP_DURATION,Duration:,Duration:
+UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Ang mga pinagpalang bagay ay hindi maaaring mahulog o maipagpalit.
+UI_TOOLTIP_BLESSING,Goddess Blessing,Pagpalain ng Diyosa
+UI_OPTION_ONECLICKATTACK,Single Click to Attack,Isang pag-click para umatake
+UI_GEM_CREATE,Extract,Kunin ang diwa
+UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,Pangkat-ranggo ng kapangyarihan sa laban
+UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,Nananatili: %d / %d
+UI_ACHIEVEMENT_SOLDOUT,Sold out,Naubos na
+UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,Makapangyarihang Dadu 4/6/12
+UI_SHININGDICE_PIERCING,Power Dice 8/10,Makapangyarihang Dadu 8/10
+UI_CRAFTPETCANDY_MAT,Harvested Berry,Nakuhang Berry
+UI_CRAFTPETCANDY_CANDY,Pet Candy,Matamis na Alay sa Alagang Hayop
+UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000Ang resulta ng Makapangyarihang Dadu ay magiging Nakakabit din.#nc
+UI_TOOLTIP_DURATION,Duration:,Tagal:
 UI_TOOLTIP_DURATION_ONLINE,(Online),(Online)
-UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(Offline counted)
-UI_TOOLTIP_DURATION_EQUIP,(After first use),(After first use)
-UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Shop Time:
-UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Can be worn over another cloak.
-UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,Only Game Masters can login. Please use the public client to play.
+UI_TOOLTIP_DURATION_OFFLINE,(Offline counted),(Offline bilang)
+UI_TOOLTIP_DURATION_EQUIP,(After first use),(Pagkatapos ng unang paggamit)
+UI_TOOLTIP_DURATION_VENDOR,Shop Time:,Oras ng Tindahan:
+UI_TOOLTIP_VISUAL_CLOAK,Can be worn over another cloak.,Maaaring isuot sa ibabaw ng ibang kapa.
+UI_MESSAGE_ADMINCLIENT,Only Game Masters can login. Please use the public client to play.,Tanging ang mga Game Master lamang ang maaaring mag-login. Mangyaring gamitin ang pampublikong kliyente upang maglaro.
 UI_CONVERTWEAP_WEAPON,Weapon,Sandata
-UI_CONVERTWEAP_WEAPON_TIP,Place a General Weapon in the window to upgrade it to a Unique Weapon.,Place a General Weapon in the window to upgrade it to a Unique Weapon.
-UI_CONVERTWEAP_DICE,Shining Power Dice,Shining Power Dice
-UI_CONVERTWEAP_DICE_TIP,You need to use a Shining Power Dice.,You need to use a Shining Power Dice.
-UI_CONVERTWEAP_GEM,Jewel,Jewel
-UI_CONVERTWEAP_GEM_TIP,Please use the correct Jewels.,Please use the correct Jewels.
-UI_TRANSMUTE_TITLE,Wardrobe,Wardrobe
-UI_TRANSMUTE_DESTROY,"This procedure will make your item account-linked, only removable with a Revert Transmutation Scroll. Are you sure you want to continue?","This procedure will make your item account-linked, only removable with a Revert Transmutation Scroll. Are you sure you want to continue?"
-UI_TRANSMUTE_PRIMARY,Primary Item,Primary Item
-UI_TRANSMUTE_HEADER,You have #b%d#nb Wardrobe items.,You have #b%d#nb Wardrobe items.
-UI_TRANSMUTE_INFO,Add more items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,Add more items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.
+UI_CONVERTWEAP_WEAPON_TIP,Place a General Weapon in the window to upgrade it to a Unique Weapon.,Ilagay ang isang Karaniwang Sandata sa bintana upang i-upgrade ito sa isang Natatanging Sandata.
+UI_CONVERTWEAP_DICE,Shining Power Dice,Makapangyarihang Dadu
+UI_CONVERTWEAP_DICE_TIP,You need to use a Shining Power Dice.,Kailangan mong gumamit ng Makapangyarihang Dadu.
+UI_CONVERTWEAP_GEM,Jewel,Hiyas
+UI_CONVERTWEAP_GEM_TIP,Please use the correct Jewels.,Mangyaring gamitin ang tamang Hiyas.
+UI_TRANSMUTE_TITLE,Wardrobe,Almari ng Kasuotan
+UI_TRANSMUTE_DESTROY,"This procedure will make your item account-linked, only removable with a Revert Transmutation Scroll. Are you sure you want to continue?","Ang prosesong ito ay gagawing naka-link sa account ang iyong item, at maaari lamang alisin gamit ang Revert Transmutation Scroll. Sigurado ka bang gusto mong magpatuloy?"
+UI_TRANSMUTE_PRIMARY,Primary Item,Pangunahing Item
+UI_TRANSMUTE_HEADER,You have #b%d#nb Wardrobe items.,Mayroon kang #b%d#nb na item sa Almari ng Kasuotan.
+UI_TRANSMUTE_INFO,Add more items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,Magdagdag ng higit pang mga item sa iyong Almari ng Kasuotan sa pamamagitan ng paggamit ng \na #bScroll of Transmutation#nb sa isang item.
 UI_TRANSMUTE_OUTPUT,Output,Output
-UI_TRANSMUTE_PRIMARY_TIP,Place an item to add a visual transmutation to.,Place an item to add a visual transmutation to.
-UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,Place an item to sacrifice for the appearance.
+UI_TRANSMUTE_PRIMARY_TIP,Place an item to add a visual transmutation to.,Maglagay ng isang bagay upang magdagdag ng biswal na transmutasyon dito.
+UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,Maglagay ng isang bagay upang isakripisyo para sa hitsura.
 UI_TELEPORT_BTN,Let's go!,Let's go!
-UI_TELEPORT_WHERE,Where do you want to go?,Where do you want to go?
-UI_CASHSHOP_BONUS,Bonus,Bonus
-UI_CASHSHOP_TOTAL,Total,Total
-UI_CASHSHOP_FRAME_TITLE,Top-Up,Top-Up
-UI_CASHSHOP_MINIMIZE,Minimize,Minimize
-UI_GACHA_DESC_SELECT,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.
-UI_CASHSHOP_CASHBACK_DESC,#b[Server Group Purchase Event]#nb\nYou will get back a % of the fCoins spent on this product depending on how many products have been purchased on this server during the event period! Check our website for more information.,#b[Server Group Purchase Event]#nb\nYou will get back a % of the fCoins spent on this product depending on how many products have been purchased on this server during the event period! Check our website for more information.
-UI_CASHSHOP_CASHBACK_CURRENT,Server Purchases: %d = #b%d%% fCoins Back#nb,Server Purchases: %d = #b%d%% fCoins Back#nb
+UI_TELEPORT_WHERE,Where do you want to go?,Saan mo gustong pumunta??
+UI_CASHSHOP_BONUS,Bonus,Karagdagang gantimpala
+UI_CASHSHOP_TOTAL,Total,Kabuuan 
+UI_CASHSHOP_FRAME_TITLE,Top-Up,Mag-top up
+UI_CASHSHOP_MINIMIZE,Minimize,Minimahin
+UI_GACHA_DESC_SELECT,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.,Piliin kung aling item ang nais mong matanggap pagkatapos ay pindutin ang Buksan. Maaari ka lamang makatanggap ng #bone item#nb.
+UI_CASHSHOP_CASHBACK_DESC,#b[Server Group Purchase Event]#nb\nYou will get back a % of the fCoins spent on this product depending on how many products have been purchased on this server during the event period! Check our website for more information.,#b[Kaganapan sa Pagbili ng Grupo ng Server]#nb\nMakakakuha ka ng % ng mga fCoins na ginastos sa produktong ito depende sa dami ng mga produktong nabili sa server na ito sa panahon ng kaganapan! Bisitahin ang aming website para sa karagdagang impormasyon.
+UI_CASHSHOP_CASHBACK_CURRENT,Server Purchases: %d = #b%d%% fCoins Back#nb,Pagbili ng Server: %d = #b%d%% fCoins Bumalik#nb
 UI_CASHSHOP_CASHBACK_STEP,%d purchases: %d%% fCoins Back,%d purchases: %d%% fCoins Back
-UI_TOOLTIP_DST_BLEED_POISON_RESIST,Bleed & Poison Resist,Bleed & Poison Resist
-UI_COMBATPOWER_RANKING_PRIZE,Highest ranked players per job will receive exclusive prizes! Check our website for more information.,Highest ranked players per job will receive exclusive prizes! Check our website for more information.
-UI_GIANTHUNT_RANKING_TITLE,Giant Hunt Ranking,Giant Hunt Ranking
-UI_GIANTHUNT_RANKING_PRIZE,Highest ranked players will receive exclusive prizes! Check our website for more information.\n\nYour hunting point: #b%d#nb,Highest ranked players will receive exclusive prizes! Check our website for more information.\n\nYour hunting point: #b%d#nb
-UI_GIANTHUNT_RANKING_POS,(Top %d%%),(Top %d%%)
-UI_GIANT_HUNT_POINT,Hunting point,Hunting point
-UI_PURCHASE_EVENT_DESC,Receive rewards after spending specific #bfCoins#nb amount goals in the Cash Shop! Amount and rewards are counted per character.,Receive rewards after spending specific #bfCoins#nb amount goals in the Cash Shop! Amount and rewards are counted per character.
-UI_PURCHASE_EVENT_TIME,End of the Event Period:,End of the Event Period:
+UI_TOOLTIP_DST_BLEED_POISON_RESIST,Bleed & Poison Resist,Lumalaban sa Pagdurugo at Lason
+UI_COMBATPOWER_RANKING_PRIZE,Highest ranked players per job will receive exclusive prizes! Check our website for more information.,Ang mga manlalaro na may pinakamataas na ranggo sa bawat trabaho ay makakatanggap ng eksklusibong premyo! Bisitahin ang aming website para sa karagdagang impormasyon.
+UI_GIANTHUNT_RANKING_TITLE,Giant Hunt Ranking,Ranggo ng Giant Hunt
+UI_GIANTHUNT_RANKING_PRIZE,Highest ranked players will receive exclusive prizes! Check our website for more information.\n\nYour hunting point: #b%d#nb,Ang mga manlalaro na may pinakamataas na ranggo ay makakatanggap ng eksklusibong premyo! Bisitahin ang aming website para sa karagdagang impormasyon.\n\nAng iyong hunting point: #b%d#nb
+UI_GIANTHUNT_RANKING_POS,(Top %d%%),(Tuktok %d%%)
+UI_GIANT_HUNT_POINT,Hunting point,Punto ng pangangaso
+UI_PURCHASE_EVENT_DESC,Receive rewards after spending specific #bfCoins#nb amount goals in the Cash Shop! Amount and rewards are counted per character.,Makakatanggap ng mga gantimpala pagkatapos gumastos ng tiyak na #bfCoins#nb na halaga sa Cash Shop! Ang halaga at mga gantimpala ay binibilang bawat karakter.
+UI_PURCHASE_EVENT_TIME,End of the Event Period:,Katapusan ng Panahon ng Kaganapan:
 UI_CASHSHOP_CURRENCY,fCoins,fCoins
-UI_PURCHASE_EVENT_MEMBERS,Guild Members,Guild Members
-UI_PURCHASE_EVENT_COMPLETED,This purchase event has been completed!,This purchase event has been completed!
-UI_PURCHASE_EVENT_GUILD,#bAll Guild Members#nb receive rewards after some members spent specific #bfCoins#nb amount goals in the Cash Shop!,#bAll Guild Members#nb receive rewards after some members spent specific #bfCoins#nb amount goals in the Cash Shop!
-UI_TOOLTIP_NEW_UPGRADE_EFFECT,This weapon has alternative upgrade effects.,This weapon has alternative upgrade effects.
-UI_CAPTCHA_TITLE,Challenge,Challenge
-UI_CAPTCHA_DESC,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.
+UI_PURCHASE_EVENT_MEMBERS,Guild Members,Mga Miyembro ng Guild
+UI_PURCHASE_EVENT_COMPLETED,This purchase event has been completed!,Natapos na ang kaganapan sa pagbili na ito!
+UI_PURCHASE_EVENT_GUILD,#bAll Guild Members#nb receive rewards after some members spent specific #bfCoins#nb amount goals in the Cash Shop!,#bLahat ng Miyembro ng Guild#nb ay makakatanggap ng mga gantimpala pagkatapos gumastos ng ilang miyembro ng tiyak na #bfCoins#nb na halaga sa Cash Shop!
+UI_TOOLTIP_NEW_UPGRADE_EFFECT,This weapon has alternative upgrade effects.,Ang sandatang ito ay may alternatibong epekto ng pag-upgrade.
+UI_CAPTCHA_TITLE,Challenge,Hamon
+UI_CAPTCHA_DESC,Please complete the following captcha. We use challenges to provide a fair game to all our players by preventing bots and cheats.,Pakisagot ang sumusunod na captcha. Ginagamit namin ang mga hamon upang magbigay ng patas na laro sa lahat ng aming mga manlalaro sa pamamagitan ng pagpigil sa mga bot at pandaraya.
 UI_OTP_TITLE,Two Factor Auth,Two Factor Auth
-UI_OTP_MSG,Please enter the 6-digits code from your Two Factor Auth App.,Please enter the 6-digits code from your Two Factor Auth App.
-UI_OTP_CODE,Code:,Code:
-UI_CHARINFO_LINK,Link Account,Link Account
-UI_KEEPTIMEEQUIP_CONFIRM,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?
-UI_TOOLTIP_PICKUPSPEED,Loot Speed:,Loot Speed:
-UI_LINKACCOUNT,You will lose your character if you clear your cookies. Register now to always access your character and unlock all game features?,You will lose your character if you clear your cookies. Register now to always access your character and unlock all game features?
-UI_TOOLTIP_EXPIRED,This item has expired.,This item has expired.
-UI_CHAT_NOTALK,Mute,Mute
-UI_CHAT_TALK,Unmute,Unmute
-UI_CHAT_IGNORE,Ignore,Ignore
-UI_CHAT_UNIGNORE,Unignore,Unignore
-UI_SELECTSERVER_US,America,America
-UI_SELECTSERVER_EU,Europe,Europe
-UI_SELECTSERVER_ASIA,Asia,Asia
-UI_SELECTSERVER_LABEL,Select your Server and Channel:,Select your Server and Channel:
-UI_GUILDBANK_BAGS,Bags,Bags
-UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,Use Guild Extra Bags to expand the Guild Bank.
-UI_UPGRADECARD_UNSAFE,Without Scroll of EProtect you will lose the item in case of failure.,Without Scroll of EProtect you will lose the item in case of failure.
-UI_WORLD_LOCK,Locked,Locked
-UI_WORLD_UNLOCK,Unlocked,Unlocked
-UI_GUILD_LASTSEEN,Last Seen:,Last Seen:
-UI_PET_STAT,Stat,Stat
-UI_PET_STAT_NONE,None,None
-UI_PET_ENERGY,Energy,Energy
-UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want to continue?,#bThe pet in the window will be destroyed.#nb Do you want to continue?
-UI_PET_TIER,Tier,Tier
-UI_PET_USE_SKILL,Grace,Grace
-UI_PET_SKILL_TOOLTIP,Use your pet's grace skill. Consumes energy and depletes the progress bar. There is a draggable key in the Motion window.,Use your pet's grace skill. Consumes energy and depletes the progress bar. There is a draggable key in the Motion window.
-UI_PET_RESTAT_TITLE,Pet Reroll,Pet Reroll
-UI_PET_RESTAT_BUTTON,Reroll,Reroll
-UI_PET_RESTAT_DISCARD,Discard,Discard
-UI_PET_RESTAT_KEEP,Keep,Keep
-UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.
-UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Are you sure you want to discard this result?
-UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you sure you want to keep this result?
+UI_OTP_MSG,Please enter the 6-digits code from your Two Factor Auth App.,Ipasok ang 6 na digit na code mula sa iyong Two Factor Auth App.
+UI_OTP_CODE,Code:,Kodigo:
+UI_CHARINFO_LINK,Link Account,I-link ang Account
+UI_KEEPTIMEEQUIP_CONFIRM,The item will be limited in time after the first use and cannot be traded anymore. Do you confirm?,Ang item ay magiging limitado sa oras pagkatapos ng unang paggamit at hindi na maaaring ipagpalit. Kumpirmahin mo ba?
+UI_TOOLTIP_PICKUPSPEED,Loot Speed:,Bilis ng Pagkuha:
+UI_LINKACCOUNT,You will lose your character if you clear your cookies. Register now to always access your character and unlock all game features?,Mawawala ang iyong karakter kung i-clear mo ang iyong cookies. Magrehistro ngayon upang palaging ma-access ang iyong karakter at i-unlock ang lahat ng mga tampok ng laro?
+UI_TOOLTIP_EXPIRED,This item has expired.,Ang item na ito ay nag-expire na.
+UI_CHAT_NOTALK,Mute,I-Mute
+UI_CHAT_TALK,Unmute,Alisin ang pag-mute
+UI_CHAT_IGNORE,Ignore,Balewalain
+UI_CHAT_UNIGNORE,Unignore,itigil ang pagbalewala
+UI_SELECTSERVER_US,America,Amerika
+UI_SELECTSERVER_EU,Europe,Europa
+UI_SELECTSERVER_ASIA,Asia,Asya
+UI_SELECTSERVER_LABEL,Select your Server and Channel:,Piliin ang iyong Server at Channel:
+UI_GUILDBANK_BAGS,Bags,Mga Bag
+UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,Gamitin ang Guild Extra Bags upang palawakin ang Guild Bank.
+UI_UPGRADECARD_UNSAFE,Without Scroll of EProtect you will lose the item in case of failure.,Kung wala kang Scroll of EProtect mawawala sa iyo ang bagay kapag nabigo.
+UI_WORLD_LOCK,Locked,Naka-lock
+UI_WORLD_UNLOCK,Unlocked,Hindi naka-lock
+UI_GUILD_LASTSEEN,Last Seen:,Huling Nakita:
+UI_PET_STAT,Stat,Estadistika
+UI_PET_STAT_NONE,None,Wala
+UI_PET_ENERGY,Energy,Enerhiya
+UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want to continue?,#bAng alagang hayop sa window ay mawawasak.#nb Gusto mo bang magpatuloy?
+UI_PET_TIER,Tier,Antas
+UI_PET_USE_SKILL,Grace,Biyaya
+UI_PET_SKILL_TOOLTIP,Use your pet's grace skill. Consumes energy and depletes the progress bar. There is a draggable key in the Motion window.,Gamitin ang kasanayan ng iyong alagang hayop. Kumakain ng enerhiya at nagpapababa ng progress bar. Mayroong isang draggable key sa Motion window.
+UI_PET_RESTAT_TITLE,Pet Muling simulan,Muling pag-roll ng alagang hayop
+UI_PET_RESTAT_BUTTON,Reroll,Muling pag-roll
+UI_PET_RESTAT_DISCARD,Discard,Itapon
+UI_PET_RESTAT_KEEP,Keep,Panatilihin
+UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Sigurado ka bang gusto mong muling i-roll ang antas na ito? Ang resulta ay maaaring mas mataas o mas mababa kaysa sa kasalukuyang antas.
+UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Sigurado ka bang gusto mong itapon ang resulta na ito?
+UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Sigurado ka bang gusto mong panatilihin ang resulta na ito?
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,Block Penetration
-UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,How many Pet Candies do you want to use?
-UI_NAMEMISSING_TITLE,Name Missing,Name Missing
-UI_NAMEMISSING_MSG,Please enter a name for your character.,Please enter a name for your character.
-UI_ACCEPTTERMS,I accept the terms.,I accept the terms.
-UI_ACCEPTTERMS_READ,Read,Read
-UI_ACCEPTTERMS_TITLE,Accept Terms,Accept Terms
-UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Please accept the Terms and Conditions.
-UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Displays the Battle Pass Menu.
-UI_BATTLEPASS_REWARD,Reward,Reward
-UI_BATTLEPASS_MISSION,Mission,Mission
-UI_BATTLEPASS_DAILY,Daily,Daily
-UI_BATTLEPASS_WEEKLY,Weekly,Weekly
-UI_BATTLEPASS_SEASON,Season,Season
-UI_BATTLEPASS_MISSION_KILLMONSTER,Hunt Monsters Lv.%s+,Hunt Monsters Lv.%s+
-UI_BATTLEPASS_MISSION_KILLMONSTER2,Hunt %s,Hunt %s
-UI_BATTLEPASS_MISSION_KILLGIANT,Hunt Giant or Violet Monster Lv.%s+,Hunt Giant or Violet Monster Lv.%s+
-UI_BATTLEPASS_MISSION_CHEER,Cheer a Player,Cheer a Player
-UI_BATTLEPASS_MISSION_COLLECT,Collect on a Catcher Monster,Collect on a Catcher Monster
-UI_BATTLEPASS_MISSION_LOGIN,Login Today,Login Today
-UI_BATTLEPASS_MISSION_KILLSUPER,Hunt Boss Monster,Hunt Boss Monster
-UI_BATTLEPASS_MISSION_SPENDGOLD,Spend Penya,Spend Penya
-UI_BATTLEPASS_MISSION_SAFETYSMELT,Try Safe Upgrade,Try Safe Upgrade
-UI_BATTLEPASS_MISSION_GUILDCOMBAT,Join Guild Siege,Join Guild Siege
-UI_BATTLEPASS_MISSION_DUEL,Do a Duel,Do a Duel
-UI_BATTLEPASS_MISSION_GUILDWAR,Do a Guild Duel,Do a Guild Duel
-UI_BATTLEPASS_MISSION_ARENA,Kill or Die in the Arena,Kill or Die in the Arena
-UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Harvest Berries
-UI_BATTLEPASS_MISSION_RAISEPET,Raise Pet to %s,Raise Pet to %s
-UI_BATTLEPASS_POINTS,Points,Points
-UI_BATTLEPASS_PASSGRADE,Pass Grade,Pass Grade
-UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni
-UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Purchase Extended Pass
-UI_BATTLEPASS_CLAIM,Claim Rewards,Claim Rewards
-UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,Basic rewards for everyone!
-UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Additional rewards available with the Extended Battle Pass!
-UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,Congratulations for completing the Battle Pass!
-UI_GUILDCOMBAT80_CANCEL_TITLE,Lv80 GS - Cancel Application,Lv80 GS - Cancel Application
-UI_GUILDCOMBAT80_CANCEL_MSG,Do you want to withdraw from the Level 80 Guild Siege?,Do you want to withdraw from the Level 80 Guild Siege?
-UI_GUILDCOMBAT80_JOIN_MSG,Do you join the Level 80 Guild Siege?,Do you join the Level 80 Guild Siege?
-UI_GUILDCOMBAT60_CANCEL_TITLE,Lv60 GS - Cancel Application,Lv60 GS - Cancel Application
+UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,Gaano karaming Pet Candies ang gusto mong gamitin?
+UI_NAMEMISSING_TITLE,Name Missing,Pangalan Nawawala
+UI_NAMEMISSING_MSG,Please enter a name for your character.,Mangyaring maglagay ng pangalan para sa iyong karakter.
+UI_ACCEPTTERMS,I accept the terms.,Sang-ayon ako sa mga tuntunin.
+UI_ACCEPTTERMS_READ,Read,Basahin
+UI_ACCEPTTERMS_TITLE,Accept Terms,Tanggapin ang Mga Tuntunin
+UI_ACCEPTTERMS_MSG,Please accept the Terms and Conditions.,Mangyaring tanggapin ang Mga Tuntunin at Kundisyon.
+UI_APP_BATTLEPASS_TIP,Displays the Battle Pass Menu.,Ipinapakita ang Menu ng Battle Pass.
+UI_BATTLEPASS_REWARD,Reward,Gantimpala
+UI_BATTLEPASS_MISSION,Mission,Misyon
+UI_BATTLEPASS_DAILY,Daily,Araw-araw
+UI_BATTLEPASS_WEEKLY,Weekly,Lingguhan
+UI_BATTLEPASS_SEASON,Season,Panahon
+UI_BATTLEPASS_MISSION_KILLMONSTER,Hunt Monsters Lv.%s+,Manghuli ng mga Halimaw Lv.%s+
+UI_BATTLEPASS_MISSION_KILLMONSTER2,Hunt %s,Manghuli ng %s
+UI_BATTLEPASS_MISSION_KILLGIANT,Hunt Giant or Violet Monster Lv.%s+,Manghuli ng Higante o Violet na Halimaw Lv.%s+
+UI_BATTLEPASS_MISSION_CHEER,Cheer a Player,Palakpakan ang Isang Manlalaro
+UI_BATTLEPASS_MISSION_COLLECT,Collect on a Catcher Monster,Kolektahin sa isang Catcher Monster
+UI_BATTLEPASS_MISSION_LOGIN,Login Today,Mag-login Ngayon
+UI_BATTLEPASS_MISSION_KILLSUPER,Hunt Boss Monster,Manghuli ng Boss na Halimaw
+UI_BATTLEPASS_MISSION_SPENDGOLD,Spend Penya,Gumastos ng Penya
+UI_BATTLEPASS_MISSION_SAFETYSMELT,Try Safe Upgrade,Subukan ang Ligtas na Pag-upgrade
+UI_BATTLEPASS_MISSION_GUILDCOMBAT,Join Guild Siege,Sali sa Guild Siege
+UI_BATTLEPASS_MISSION_DUEL,Do a Duel,Magsagawa ng Duel
+UI_BATTLEPASS_MISSION_GUILDWAR,Do a Guild Duel,Magsagawa ng Guild Duel
+UI_BATTLEPASS_MISSION_ARENA,Kill or Die in the Arena,Pumatay o Mamatay sa Arena
+UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,Anihin ang Berries
+UI_BATTLEPASS_MISSION_RAISEPET,Raise Pet to %s,Pataas ang Alagang Hayop sa %s
+UI_BATTLEPASS_POINTS,Points,Puntos
+UI_BATTLEPASS_PASSGRADE,Pass Grade,Pasa na Grado
+UI_BATTLEPASS_INFO,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Katapusan ng %s na season: #b%s#nb (Oras ng Server)\nLimit ng puntos para sa linggong ito: #b%d / %d#nb\n#iAng mga puntos na nakuha sa pamamagitan ng mga misyon ng Season ay hindi kasama sa lingguhang limitasyon.#ni\n#iAng ilang gantimpala ay napapabuti pagkatapos maabot ang isang antas %d#ni
+UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,Bumili ng Pinalawig na Pass
+UI_BATTLEPASS_CLAIM,Claim Rewards,Kunin ang Mga Gantimpala
+UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,Pangunahing gantimpala para sa lahat!
+UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,Karagdagang gantimpala na magagamit sa Pinalawig na Battle Pass!
+UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,Binabati kita sa pagkumpleto ng Battle Pass!
+UI_GUILDCOMBAT80_CANCEL_TITLE,Lv80 GS - Cancel Application,Lv80 GS - Kanselahin ang Aplikasyon
+UI_GUILDCOMBAT80_CANCEL_MSG,Do you want to withdraw from the Level 80 Guild Siege?,Gusto mo bang umatras mula sa Level 80 Guild Siege?
+UI_GUILDCOMBAT80_JOIN_MSG,Do you join the Level 80 Guild Siege?,Sumali ka ba sa Level 80 Guild Siege?
+UI_GUILDCOMBAT60_CANCEL_TITLE,Lv60 GS - Cancel Application,Lv60 GS - Kanselahin ang Aplikasyon
 UI_GUILDCOMBAT60_CANCEL_MSG,Do you want to withdraw from the Level 60 Guild Siege?,Do you want to withdraw from the Level 60 Guild Siege?
-UI_GUILDCOMBAT60_JOIN_MSG,Do you join the Level 60 Guild Siege?,Do you join the Level 60 Guild Siege?
-UI_GUILDCOMBATBOARD_TITLE1,Level 80 GS Information,Level 80 GS Information
-UI_GUILDCOMBATBOARD_TITLE2,Level 60 GS Information,Level 60 GS Information
-UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Level 80 GS,Apply for Level 80 GS
-UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Level 60 GS,Apply for Level 60 GS
-UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds
-UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds
-UI_GUILDCOMBAT_STATE_TITLE1,Level 80 GS Applications,Level 80 GS Applications
-UI_GUILDCOMBAT_STATE_TITLE2,Level 60 GS Applications,Level 60 GS Applications
-UI_GUILDCOMBAT_SELECT_TITLE1,Level 80 GS Line Up,Level 80 GS Line Up
-UI_GUILDCOMBAT_SELECT_TITLE2,Level 60 GS Line Up,Level 60 GS Line Up
-UI_GUILDCOMBAT_RESULT_TITLE1,Level 80 Guild & Member Ranking,Level 80 Guild & Member Ranking
-UI_GUILDCOMBAT_RESULT_TITLE2,Level 60 Guild & Member Ranking,Level 60 Guild & Member Ranking
-UI_GUILDCOMBAT_RANKING_TITLE1,Level 80 Guild Member Ranking,Level 80 Guild Member Ranking
-UI_GUILDCOMBAT_RANKING_TITLE2,Level 60 Guild Member Ranking,Level 60 Guild Member Ranking
-UI_OPTION_EVENTLIGHT,Event Light,Event Light
-UI_LEVELREACH,Level Reach,Level Reach
-UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!"
-UI_LEVELREACH_LVL01,Level 1,Level 1
-UI_LEVELREACH_LVL02,Level 2,Level 2
-UI_LEVELREACH_LVL15,Level 15,Level 15
-UI_LEVELREACH_LVL16,Level 16,Level 16
-UI_LEVELREACH_LVL20,Level 20,Level 20
-UI_LEVELREACH_LVL30,Level 30,Level 30
-UI_LEVELREACH_LVL40,Level 40,Level 40
-UI_LEVELREACH_LVL45,Level 45,Level 45
-UI_LEVELREACH_LVL60,Level 60,Level 60
-UI_LEVELREACH_LVL80,Level 80,Level 80
-UI_LEVELREACH_LVL100,Level 100,Level 100
-UI_LEVELREACH_LVL110,Level 110,Level 110
-UI_LEVELREACH_LVL120,Level 120,Level 120
-UI_LEVELREACH_LVL125,Level 125,Level 125
-UI_LEVELREACH_LVL126,Level 126,Level 126
-UI_LEVELREACH_LVL130,Level 130,Level 130
-UI_LEVELREACH_LVL131,Level 131,Level 131
-UI_LEVELREACH_LVL135,Level 135,Level 135
-UI_LEVELREACH_LVL136,Level 136,Level 136
-UI_LEVELREACH_LVL139,Level 139,Level 139
-UI_LEVELREACH_LVL140,Level 140,Level 140
-UI_LEVELREACH_LVL141,Level 141,Level 141
-UI_LEVELREACH_LVL143,Level 143,Level 143
-UI_LEVELREACH_LVL145,Level 145,Level 145
-UI_LEVELREACH_LVL147,Level 147,Level 147
-UI_LEVELREACH_LVL149,Level 149,Level 149
-UI_LEVELREACH_LVL150,Level 150,Level 150
-UI_LEVELREACH_LVL152,Level 152,Level 152
-UI_LEVELREACH_LVL154,Level 154,Level 154
-UI_LEVELREACH_LVL156,Level 156,Level 156
-UI_LEVELREACH_LVL158,Level 158,Level 158
-UI_LEVELREACH_LVL160,Level 160,Level 160
-UI_LEVELREACH_LVL161,Level 161,Level 161
-UI_LEVELREACH_LVL162,Level 162,Level 162
-UI_LEVELREACH_LVL163,Level 163,Level 163
-UI_LEVELREACH_LVL164,Level 164,Level 164
-UI_LEVELREACH_LVL165,Level 165,Level 165
-UI_LEVELREACH_LVL169,Level 169,Level 169
-UI_LEVELREACH_LVL172,Level 172,Level 172
-UI_LEVELREACH_LVL175,Level 175,Level 175
-UI_LEVELREACH_LVL178,Level 178,Level 178
-UI_LEVELREACH_LVL181,Level 181,Level 181
-UI_LEVELREACH_LVL184,Level 184,Level 184
-UI_LEVELREACH_LVL187,Level 187,Level 187
-UI_LEVELREACH_LVL190,Level 190,Level 190
+UI_GUILDCOMBAT60_JOIN_MSG,Do you join the Level 60 Guild Siege?,Sasali ka ba sa pagsalakay ng guild sa Antas 60?
+UI_GUILDCOMBATBOARD_TITLE1,Level 80 GS Information,Impormasyon sa Level 80 GS
+UI_GUILDCOMBATBOARD_TITLE2,Level 60 GS Information,Impormasyon sa Level 60 GS
+UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Level 80 GS,Mag-apply para sa Level 80 GS
+UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Level 60 GS,Mag-apply para sa Level 60 GS
+UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,Mga Blue Chips - Nanalo na Guild: 34 x bilang ng mga kalahok na guild - Ikalawang Guild: 24 x bilang ng mga kalahok na guild - Ikatlong Guild: 14 x bilang ng mga kalahok na guild - Ikaapat na Guild: 8 x bilang ng mga kalahok na guild - Ikalimang Guild: 4 x bilang ng mga kalahok na guild
+UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,Mga Blue Chips - Nanalo na Guild: 32 x bilang ng mga kalahok na guild - Ikalawang Guild: 22 x bilang ng mga kalahok na guild - Ikatlong Guild: 12 x bilang ng mga kalahok na guild - Ikaapat na Guild: 7 x bilang ng mga kalahok na guild - Ikalimang Guild: 3 x bilang ng mga kalahok na guild
+UI_GUILDCOMBAT_STATE_TITLE1,Level 80 GS Applications,Mga Aplikasyon sa Level 80 GS
+UI_GUILDCOMBAT_STATE_TITLE2,Level 60 GS Applications,Mga Aplikasyon sa Level 60 GS
+UI_GUILDCOMBAT_SELECT_TITLE1,Level 80 GS Line Up,Line Up ng Level 80 GS
+UI_GUILDCOMBAT_SELECT_TITLE2,Level 60 GS Line Up,Line Up ng Level 60 GS
+UI_GUILDCOMBAT_RESULT_TITLE1,Level 80 Guild & Member Ranking,Ranggo ng Guild at Miyembro sa Level 80
+UI_GUILDCOMBAT_RESULT_TITLE2,Level 60 Guild & Member Ranking,Ranggo ng Guild at Miyembro sa Level 60
+UI_GUILDCOMBAT_RANKING_TITLE1,Level 80 Guild Member Ranking,Ranggo ng Miyembro ng Guild sa Level 80
+UI_GUILDCOMBAT_RANKING_TITLE2,Level 60 Guild Member Ranking,Ranggo ng Miyembro ng Guild sa Level 60
+UI_OPTION_EVENTLIGHT,Event Light,Iliwan ng Kaganapan
+UI_LEVELREACH,Level Reach,Antas na Abot
+  UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Abutin ang mga bagong antas sa panahon ng kaganapan at tumanggap ng mga gantimpala! Ang bilang ng mga gantimpala ay limitado sa bawat antas kaya magmadali. Unang dumating, unang makakakuha!"
+  UI_LEVELREACH_LVL01,Level 1,Antas 1
+UI_LEVELREACH_LVL02,Level 2,Antas 2
+UI_LEVELREACH_LVL15,Level 15,Antas 15
+UI_LEVELREACH_LVL16,Level 16,Antas 16
+UI_LEVELREACH_LVL20,Level 20,Antas 20
+UI_LEVELREACH_LVL30,Level 30,Antas 30
+UI_LEVELREACH_LVL40,Level 40,Antas 40
+UI_LEVELREACH_LVL45,Level 45,Antas 45
+UI_LEVELREACH_LVL60,Level 60,Antas 60
+UI_LEVELREACH_LVL80,Level 80,Antas 80
+UI_LEVELREACH_LVL100,Level 100,Antas 100
+UI_LEVELREACH_LVL110,Level 110,Antas 110
+UI_LEVELREACH_LVL120,Level 120,Antas 120
+UI_LEVELREACH_LVL125,Level 125,Antas 125
+UI_LEVELREACH_LVL126,Level 126,Antas 126
+UI_LEVELREACH_LVL130,Level 130,Antas 130
+UI_LEVELREACH_LVL131,Level 131,Antas 131
+UI_LEVELREACH_LVL135,Level 135,Antas 135
+UI_LEVELREACH_LVL136,Level 136,Antas 136
+UI_LEVELREACH_LVL139,Level 139,Antas 139
+UI_LEVELREACH_LVL140,Level 140,Antas 140
+UI_LEVELREACH_LVL141,Level 141,Antas 141
+UI_LEVELREACH_LVL143,Level 143,Antas 143
+UI_LEVELREACH_LVL145,Level 145,Antas 145
+UI_LEVELREACH_LVL147,Level 147,Antas 147
+UI_LEVELREACH_LVL149,Level 149,Antas 149
+UI_LEVELREACH_LVL150,Level 150,Antas 150
+UI_LEVELREACH_LVL152,Level 152,Antas 152
+UI_LEVELREACH_LVL154,Level 154,Antas 154
+UI_LEVELREACH_LVL156,Level 156,Antas 156
+UI_LEVELREACH_LVL158,Level 158,Antas 158
+UI_LEVELREACH_LVL160,Level 160,Antas 160
+UI_LEVELREACH_LVL161,Level 161,Antas 161
+UI_LEVELREACH_LVL162,Level 162,Antas 162
+UI_LEVELREACH_LVL163,Level 163,Antas 163
+UI_LEVELREACH_LVL164,Level 164,Antas 164
+UI_LEVELREACH_LVL165,Level 165,Antas 165
+UI_LEVELREACH_LVL169,Level 169,Antas 169
+UI_LEVELREACH_LVL172,Level 172,Antas 172
+UI_LEVELREACH_LVL175,Level 175,Antas 175
+UI_LEVELREACH_LVL178,Level 178,Antas 178
+UI_LEVELREACH_LVL181,Level 181,Antas 181
+UI_LEVELREACH_LVL184,Level 184,Antas 184
+UI_LEVELREACH_LVL187,Level 187,Antas 187
+UI_LEVELREACH_LVL190,Level 190,Antas 190
 UI_GIANTHUNTING,Giant Hunting,Giant Hunting
 UI_WORLDCUP,GET'EM B'ALL,GET'EM B'ALL
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,GET'EM B'ALL Scoreboard
 UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild points! Guilds will receive #brewards according to their rank#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nGuild members who scores less than 50 points cannot receive reward.,Collect #bSoccer Balls#nb from monsters to increase your guild points! Guilds will receive #brewards according to their rank#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nGuild members who scores less than 50 points cannot receive reward.
-UI_WORLDCUP_POINTS,GET'EM B'ALL Points,GET'EM B'ALL Points
-UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,Guild Rank: %d - Guild Points: %d - Your Points: %d
-UI_MSGBOX_COPY,Copy,Copy
-UI_MSGBOX_COPY_CONFIRM,Copied to Clipboard,Copied to Clipboard
-UI_DUNGEON_TITLE,Dungeon,Dungeon
-UI_DUNGEON_EASY,Easy,Easy
-UI_DUNGEON_MEDIUM,Medium,Medium
-UI_DUNGEON_HARD,Hard,Hard
-UI_DUNGEON_LOW_DROPS,Low drops,Low drops
-UI_DUNGEON_NORMAL_DROPS,Normal drops,Normal drops
-UI_DUNGEON_HIGH_DROPS,Increased drops,Increased drops
-UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,Defeat the boss!
-UI_DUNGEON_ENTRANCE_SOLO,Solo,Solo
-UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Party or Solo
-UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,Guild or Solo
-UI_DUNGEON_ENTRANCE,Entrance: %s,Entrance: %s
+UI_WORLDCUP_POINTS,GET'EM B'ALL Points,GET'EM B'ALL Puntos
+UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,Ranggo ng Guild: %d - Mga Punto ng Gilda: %d - Iyong Mga Punto: %d
+UI_MSGBOX_COPY,Copy,Kopyahin
+UI_MSGBOX_COPY_CONFIRM,Copied to Clipboard,Nakopya sa Clipboard
+UI_DUNGEON_TITLE,Dungeon,Piitan
+UI_DUNGEON_EASY,Easy,Nadali
+UI_DUNGEON_MEDIUM,Medium,Katamtaman
+UI_DUNGEON_HARD,Hard,Mahirap
+UI_DUNGEON_LOW_DROPS,Low drops,Mababang patak
+UI_DUNGEON_NORMAL_DROPS,Normal drops,Karaniwang patak
+UI_DUNGEON_HIGH_DROPS,Increased drops,Tumaas na patak
+UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,Talunin ang boss!
+UI_DUNGEON_ENTRANCE_SOLO,Solo,Nag-iisa
+UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Partido o Nag-iisa
+UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,Guild o Nag-iisa
+UI_DUNGEON_ENTRANCE,Entrance: %s,Pasukan: %s
 UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,Minimum Level: %d
 UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,Maximum Level: %d
 UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,Minimum Creator Level: %d
