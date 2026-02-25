@@ -17788,9 +17788,9 @@ PROPITEM_TXT_133407,A dish made by boiling rice in water.,A dish made by boiling
 PROPITEM_TXT_133408,Fish Sauce (D),Fish Sauce (D)
 PROPITEM_TXT_133409,Fish Sauce (C),Fish Sauce (C)
 PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,Sauce made from fish. You can use it in various dishes.
-PROPITEM_TXT_133411,Lollipop (C),Lollipop (C)
+PROPITEM_TXT_133411,Lollipop (C),Lolly (C)
 PROPITEM_TXT_133412,Recovers 84 HP,Herstelt 84 HP
-PROPITEM_TXT_133413,Meat Skewer (C),Meat Skewer (C)
+PROPITEM_TXT_133413,Meat Skewer (C),Vlees Spies (C)
 PROPITEM_TXT_133414,Recovers 144 HP,Herstelt 144 HP
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
 PROPITEM_TXT_133416,Recovers 144 HP,Herstelt 144 HP
@@ -17802,37 +17802,37 @@ PROPITEM_TXT_133421,Fish Ball (B),Fish Ball (B)
 PROPITEM_TXT_133422,Fish Ball (A),Fish Ball (A)
 PROPITEM_TXT_133423,Fish Ball (A+),Fish Ball (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
-PROPITEM_TXT_133425,Seafood Pancake (C),Seafood Pancake (C)
+PROPITEM_TXT_133425,Seafood Pancake (C),Zeevruchten Pannenkoek (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Herstelt 276 HP
-PROPITEM_TXT_133427,Seafood Pancake (B),Seafood Pancake (B)
-PROPITEM_TXT_133428,Seafood Pancake (A),Seafood Pancake (A)
-PROPITEM_TXT_133429,Seafood Pancake (A+),Seafood Pancake (A+)
+PROPITEM_TXT_133427,Seafood Pancake (B),Zeevruchten Pannenkoek (B)
+PROPITEM_TXT_133428,Seafood Pancake (A),Zeevruchten Pannenkoek (A)
+PROPITEM_TXT_133429,Seafood Pancake (A+),Zeevruchten Pannenkoek (A+)
 PROPITEM_TXT_133430,Recovers 299 HP,Herstelt 299 HP
-PROPITEM_TXT_133431,Fish Soup (C),Fish Soup (C)
+PROPITEM_TXT_133431,Fish Soup (C),Vissensoep (C)
 PROPITEM_TXT_133432,Recovers 360 HP,Herstelt 360 HP
-PROPITEM_TXT_133433,Fish Soup (B),Fish Soup (B)
-PROPITEM_TXT_133434,Fish Soup (A),Fish Soup (A)
-PROPITEM_TXT_133435,Fish Soup (A+),Fish Soup (A+)
+PROPITEM_TXT_133433,Fish Soup (B),Vissensoep (B)
+PROPITEM_TXT_133434,Fish Soup (A),Vissensoep (A)
+PROPITEM_TXT_133435,Fish Soup (A+),Vissensoep (A+)
 PROPITEM_TXT_133436,Recovers 390 HP,Herstelt 390 HP
 PROPITEM_TXT_133437,Roll Bread (C),Roll Bread (C)
 PROPITEM_TXT_133438,Recovers 396 HP,Herstelt 396 HP
-PROPITEM_TXT_133439,Sausage Casserole (C),Sausage Casserole (C)
+PROPITEM_TXT_133439,Sausage Casserole (C),Braadpan Worst (C)
 PROPITEM_TXT_133440,Recovers 444 HP,Herstelt 444 HP
 PROPITEM_TXT_133441,Hot Dog (C),Hot Dog (C)
 PROPITEM_TXT_133442,Recovers 515 HP,Herstelt 515 HP
-PROPITEM_TXT_133443,Fish Stew (C),Fish Stew (C)
+PROPITEM_TXT_133443,Fish Stew (C),Vissen Stoofpot (C)
 PROPITEM_TXT_133444,Recovers 617 HP,Herstelt 617 HP
-PROPITEM_TXT_133445,Fish Stew (B),Fish Stew (B)
-PROPITEM_TXT_133446,Fish Stew (A),Fish Stew (A)
-PROPITEM_TXT_133447,Fish Stew (A+),Fish Stew (A+)
+PROPITEM_TXT_133445,Fish Stew (B),Vissen Stoofpot (B)
+PROPITEM_TXT_133446,Fish Stew (A),Vissen Stoofpot (A)
+PROPITEM_TXT_133447,Fish Stew (A+),Vissen Stoofpot (A+)
 PROPITEM_TXT_133448,Recovers 668 HP,Herstelt 668 HP
 PROPITEM_TXT_133449,Pizza (C),Pizza (C)
 PROPITEM_TXT_133450,Recovers 701 HP,Herstelt 701 HP
-PROPITEM_TXT_133451,Steamed Seafood (C),Steamed Seafood (C)
+PROPITEM_TXT_133451,Steamed Seafood (C),Gestoomde Zeevruchten (C)
 PROPITEM_TXT_133452,Recovers 804 HP,Herstelt 804 HP
-PROPITEM_TXT_134671,Steamed Seafood (B),Steamed Seafood (B)
-PROPITEM_TXT_133453,Steamed Seafood (A),Steamed Seafood (A)
-PROPITEM_TXT_133454,Steamed Seafood (A+),Steamed Seafood (A+)
+PROPITEM_TXT_134671,Steamed Seafood (B),Gestoomde Zeevruchten (B)
+PROPITEM_TXT_133453,Steamed Seafood (A),Gestoomde Zeevruchten (A)
+PROPITEM_TXT_133454,Steamed Seafood (A+),Gestoomde Zeevruchten (A+)
 PROPITEM_TXT_133455,Recovers 871 HP,Herstelt 871 HP
 PROPITEM_TXT_133456,Grilled Mackerel (D),Grilled Mackerel (D)
 PROPITEM_TXT_133457,A nicely grilled mackerel.,A nicely grilled mackerel.
@@ -17852,7 +17852,7 @@ PROPITEM_TXT_133470,Fried Squid (B),Fried Squid (B)
 PROPITEM_TXT_133471,Fried Squid (A),Fried Squid (A)
 PROPITEM_TXT_133472,Fried Squid (A+),Fried Squid (A+)
 PROPITEM_TXT_133473,A dish made from fried squid.,A dish made from fried squid.
-PROPITEM_TXT_133474,Star Candy (C),Star Candy (C)
+PROPITEM_TXT_133474,Star Candy (C),Stersnoep (C)
 PROPITEM_TXT_133475,Recovers 1440 HP,Herstelt 1440 HP
 PROPITEM_TXT_133476,Fish Cutlet (D),Fish Cutlet (D)
 PROPITEM_TXT_133477,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
@@ -17862,13 +17862,13 @@ PROPITEM_TXT_133480,Fish Cutlet (B),Fish Cutlet (B)
 PROPITEM_TXT_133481,Fish Cutlet (A),Fish Cutlet (A)
 PROPITEM_TXT_133482,Fish Cutlet (A+),Fish Cutlet (A+)
 PROPITEM_TXT_133483,A dish made by frying minced fish meat.,A dish made by frying minced fish meat.
-PROPITEM_TXT_133484,Meat Salad (C),Meat Salad (C)
+PROPITEM_TXT_133484,Meat Salad (C),Vlees Salade (C)
 PROPITEM_TXT_133485,Recovers 1560 HP,Herstelt 1560 HP
-PROPITEM_TXT_133486,Seafood Pizza (C),Seafood Pizza (C)
+PROPITEM_TXT_133486,Seafood Pizza (C),Zeevruchten Pizza (C)
 PROPITEM_TXT_133487,Recovers 1740 HP,Herstelt 1740 HP
-PROPITEM_TXT_133488,Seafood Pizza (B),Seafood Pizza (B)
-PROPITEM_TXT_133489,Seafood Pizza (A),Seafood Pizza (A)
-PROPITEM_TXT_133490,Seafood Pizza (A+),Seafood Pizza (A+)
+PROPITEM_TXT_133488,Seafood Pizza (B),Zeevruchten Pizza (B)
+PROPITEM_TXT_133489,Seafood Pizza (A),Zeevruchten Pizza (A)
+PROPITEM_TXT_133490,Seafood Pizza (A+),Zeevruchten Pizza (A+)
 PROPITEM_TXT_133491,Recovers 1885 HP,Herstelt 1885 HP
 PROPITEM_TXT_133492,Fried Shrimp (D),Fried Shrimp (D)
 PROPITEM_TXT_133493,A dish made from fried shrimp.,A dish made from fried shrimp.
@@ -18045,41 +18045,41 @@ PROPITEM_TXT_133663,Second Refresher (A),Second Refresher (A)
 PROPITEM_TXT_133664,Second Refresher (A+),Second Refresher (A+)
 PROPITEM_TXT_133665,MP 163 Recovery,Herstelt 163 MP
 PROPITEM_TXT_133666,VitalDrink 300 (C),VitalDrink 300 (C)
-PROPITEM_TXT_133667,FP 216 Recovery,Herstelt 216 MP
+PROPITEM_TXT_133667,FP 216 Recovery,Herstelt 216 FP
 PROPITEM_TXT_133668,VitalDrink 300 (B),VitalDrink 300 (B)
 PROPITEM_TXT_133669,VitalDrink 300 (A),VitalDrink 300 (A)
 PROPITEM_TXT_133670,VitalDrink 300 (A+),VitalDrink 300 (A+)
-PROPITEM_TXT_133671,FP 234 Recovery,Herstelt 234 MP
+PROPITEM_TXT_133671,FP 234 Recovery,Herstelt 234 FP
 PROPITEM_TXT_133672,VitalDrink 400 (C),VitalDrink 400 (C)
-PROPITEM_TXT_133673,FP 288 Recovery,Herstelt 288 MP
+PROPITEM_TXT_133673,FP 288 Recovery,Herstelt 288 FP
 PROPITEM_TXT_133674,VitalDrink 400 (B),VitalDrink 400 (B)
 PROPITEM_TXT_133675,VitalDrink 400 (A),VitalDrink 400 (A)
 PROPITEM_TXT_133676,VitalDrink 400 (A+),VitalDrink 400 (A+)
-PROPITEM_TXT_133677,FP 312 Recovery,Herstelt 312 MP
+PROPITEM_TXT_133677,FP 312 Recovery,Herstelt 312 FP
 PROPITEM_TXT_133678,VitalDrink 500 (C),VitalDrink 500 (C)
-PROPITEM_TXT_133679,FP 360 Recovery,Herstelt 360 MP
+PROPITEM_TXT_133679,FP 360 Recovery,Herstelt 360 FP
 PROPITEM_TXT_133680,VitalDrink 500 (B),VitalDrink 500 (B)
 PROPITEM_TXT_133681,VitalDrink 500 (A),VitalDrink 500 (A)
 PROPITEM_TXT_133682,VitalDrink 500 (A+),VitalDrink 500 (A+)
-PROPITEM_TXT_133683,FP 390 Recovery,Herstelt 390 MP
+PROPITEM_TXT_133683,FP 390 Recovery,Herstelt 390 FP
 PROPITEM_TXT_133684,VitalDrink 600 (C),VitalDrink 600 (C)
-PROPITEM_TXT_133685,FP 442 Recovery,Herstelt 442 MP
+PROPITEM_TXT_133685,FP 442 Recovery,Herstelt 442 FP
 PROPITEM_TXT_133686,VitalDrink 600 (B),VitalDrink 600 (B)
 PROPITEM_TXT_133687,VitalDrink 600 (A),VitalDrink 600 (A)
 PROPITEM_TXT_133688,VitalDrink 600 (A+),VitalDrink 600 (A+)
-PROPITEM_TXT_133689,FP 478 Recovery,Herstelt 478 MP
+PROPITEM_TXT_133689,FP 478 Recovery,Herstelt 478 FP
 PROPITEM_TXT_133690,VitalDrink 700 (C),VitalDrink 700 (C)
-PROPITEM_TXT_133691,FP 540 Recovery,Herstelt 540 MP
+PROPITEM_TXT_133691,FP 540 Recovery,Herstelt 540 FP
 PROPITEM_TXT_133692,VitalDrink 700 (B),VitalDrink 700 (B)
 PROPITEM_TXT_133693,VitalDrink 700 (A),VitalDrink 700 (A)
 PROPITEM_TXT_133694,VitalDrink 700 (A+),VitalDrink 700 (A+)
-PROPITEM_TXT_133695,FP 585 Recovery,Herstelt 585 MP
+PROPITEM_TXT_133695,FP 585 Recovery,Herstelt 585 FP
 PROPITEM_TXT_133696,VitalDrink 800 (C),VitalDrink 800 (C)
-PROPITEM_TXT_133697,FP 624 Recovery,Herstelt 624 MP
+PROPITEM_TXT_133697,FP 624 Recovery,Herstelt 624 FP
 PROPITEM_TXT_133698,VitalDrink 800 (B),VitalDrink 800 (B)
 PROPITEM_TXT_133699,VitalDrink 800 (A),VitalDrink 800 (A)
 PROPITEM_TXT_133700,VitalDrink 800 (A+),VitalDrink 800 (A+)
-PROPITEM_TXT_133701,FP 676 Recovery,Herstelt 676 MP
+PROPITEM_TXT_133701,FP 676 Recovery,Herstelt 676 FP
 PROPITEM_TXT_133702,Yellow Pill (C),Yellow Pill (C)
 PROPITEM_TXT_133703,Recovers 2200 HP,Herstelt 2200 HP
 PROPITEM_TXT_133704,Yellow Pill (B),Yellow Pill (B)
