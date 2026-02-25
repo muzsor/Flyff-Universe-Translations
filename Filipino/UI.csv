@@ -569,7 +569,7 @@ UI_TRADE_TITLE,Trade,Kalakal
 UI_TRADE_PENYA,Penya,Penya
 UI_DROP_FILTER_TITLE,Pick Up Pet,Kumuha ng Alagang Hayop
 UI_DROP_FILTER_SETTINGS,Pick Up item settings,Mga Setting sa Pagkuha ng Bagay
-UI_DROP_FILTER_CAT_EQUIPMENT,Kagamitan,Kagamitan
+UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
 UI_DROP_FILTER_0,Weapons,Armas
 UI_DROP_FILTER_1,Armor,Armadura
 UI_DROP_FILTER_2,Accessory,Alahas
@@ -808,7 +808,7 @@ UI_CHANGE_SEX_TITLE,Change Sex,Palitan ang Kasarian
 UI_CHANGE_SEX_FACE,Change Face,Palitan ang Mukha
 UI_ITEM_TRANSY_TITLE,Transy for Item,Transy para sa Bagay
 UI_ITEM_TRANSY_SEX,Change Sex of Item,Palitan ang Kasarian ng Bagay
-UI_ITEM_TRANSY_PUT,Please input an item which you want to change,Paki-input ang isang bagay na nais mong baguhin
+UI_ITEM_TRANSY_PUT,Please input an item which you want to change.,Paki-input ang isang bagay na nais mong baguhin
 UI_ITEM_TRANSY_PUT1,Please input an item on the left column.,Paki-input ang isang bagay sa kaliwang kolum.
 UI_CHANGE_NAME_TITLE,Change Name,Palitan ang Pangalan
 UI_CHANGE_NAME_INPUT,Enter your new name,Ilagay ang iyong bagong pangalan
@@ -2440,7 +2440,7 @@ UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Preliminary
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
+UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Third Place
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
