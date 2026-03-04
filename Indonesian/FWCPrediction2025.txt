@@ -33,4 +33,4 @@
 5. Periode Pertukaran Item (Okt 23 – Nov 6, 14 hari)
  * Deskripsi: Pengguna dapat menukar Koin Juara yang mereka peroleh dengan item di toko eksklusif acara.
  * Periode: Penukaran tersedia untuk waktu terbatas selama 2 minggu setelah turnamen berakhir.
- * Catatan: Koin Champion akan kedaluwarsa jika tidak digunakan dalam periode pertukaran.
+ * Catatan: Koin Juara akan kedaluwarsa jika tidak digunakan dalam periode pertukaran.
