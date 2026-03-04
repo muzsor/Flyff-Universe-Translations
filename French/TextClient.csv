@@ -348,7 +348,7 @@ TEXTCLIENT_SKILLWAITTIME,Please wait.,Cette technique n'est pas encore disponibl
 TEXTCLIENT_SKILL_SELF,You use %s.,Vous utilisez : %s.
 TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
 TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s utilise : %s.
-TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s lance %s (%s) sur vous.
 TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Vous n'êtes pas autorisé à consulter cet équipement.
 TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,Vous devez redémarrer le jeu pour que toutes les modifications prennent effet.
 TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,Vous êtes déjà en train d'utiliser cet objet. Réessayez quand les effets se seront dissipés. 
