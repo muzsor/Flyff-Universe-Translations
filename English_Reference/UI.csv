@@ -2301,11 +2301,11 @@ UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery
 UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration
 UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s)
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Allies' HP Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Allies' ATK Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies' DEF Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies' Attack Speed Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies' Casting Speed Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance
@@ -2633,8 +2633,8 @@ UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Com
 UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.
 UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.
 UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rocks commonly found throughout the world. Yield Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rocks with a typical appearance. Yield Common-Uncommon ores.
+UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.
+UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.
 UI_PRODUCTION_INGREDIENT,Ingredients
 UI_PRODUCTION_FOOD,Food
 UI_PRODUCTION_BUFF,Buffs
@@ -2705,9 +2705,9 @@ UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rar
 UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rocks with a unique appearance. Yield Common-Rare ores.
-UI_LIFE_MASTERY_RARE_ORE,Rare rocks that is difficult to find. Yield Common-Very Rare ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rocks known to few. Yield Rare-Very Rare ores.
+UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.
+UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
@@ -2783,7 +2783,7 @@ UI_STANDBY,Standby
 UI_DEAD,Dead
 UI_NOW_SPECTATING,Spectating %s
 UI_EASTER_EGG_MISSION,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Rocks commonly found throughout the world. Yield Common ores.
+UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.
 UI_TARGET_HEALTH,Health: 
 UI_TARGET_PENYA,- Penya: 
 UI_ACHIEVEMENTS_LIFE_TAB,Life

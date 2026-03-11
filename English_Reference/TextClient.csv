@@ -614,7 +614,7 @@ TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 
 TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d Penya to apply to the siege
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d Penya to apply to the siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d Penya to apply to the siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.
 TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.
