@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Shining Power Dice Creation #nb#nc
-#bShining Power Dice 4#nb is created by merging 5x Power Dice 4 and 5x Power Dice 8.
-#bShining Power Dice 6#nb is created by merging 5x Power Dice 6 and 5x Power Dice 8.
-#bShining Power Dice 12#nb is created by using Power Dice 12 or Power Dice 10 in the process.
+#b#cff0000ff 闪亮骰子制作 #nb#nc
+#b闪亮4点精炼骰子#nb 由5个 4点精炼骰子 和5个 8点精炼骰子 合成。
+#b闪亮6点精炼骰子#nb 由5个 6点精炼骰子 和5个 8点精炼骰子 合成。
+#bShining 闪亮12点精炼骰子#nb 合成过程中需要使用 12点精炼骰子 或 10点精炼骰子。
