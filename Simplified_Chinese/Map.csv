@@ -87,9 +87,9 @@ PROPMAP_TXT_100062,Envy Depths (Extra Hard),渴望深渊 (困难)
 PROPMAP_TXT_100063,Envy Depths (Nightmare),渴望深渊 (噩梦)
 PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),堕落圣域 (噩梦)
 PROPMAP_TXT_100065,Envy Depths (Medium),渴望深渊 (中等)
-PROPMAP_TXT_100066,Eggcellent's Meadow,Eggcellent's Meadow
-PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),Eggcellent's Meadow (Medium)
-PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),Eggcellent's Meadow (Hard)
+PROPMAP_TXT_100066,Eggcellent's Meadow,彩蛋草原
+PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),彩蛋草原 (中等)
+PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),彩蛋草原 (困难)
 PROPMAP_TXT_100069,Leren Chasm (Story),乐雅裂痕 (剧情)
 PROPMAP_TXT_100070,Rhisis Catacombs (Story),莱斯神之墓 (剧情)
 PROPMAP_TXT_100071,Envy Depths (Story),渴望深渊 (剧情)
@@ -100,8 +100,8 @@ PROPMAP_TXT_100074,The Wilds (Story),荒野 (剧情)
 PROPMAP_TXT_100075,The Wilds,荒野
 PROPMAP_TXT_230001,Instance,副本
 PROPMAP_TXT_100076,FWC Arena,FWC竞技场
-PROPMAP_TXT_100081,Leren Chasm (Cursed),Leren Chasm (Cursed)
-PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),Rhisis Catacombs (Cursed)
+PROPMAP_TXT_100081,Leren Chasm (Cursed),乐雅裂痕 (诅咒)
+PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),莱斯神之墓 (诅咒)
 PROPMAP_TXT_100083,Envy Depths (Cursed),渴望深渊 (诅咒)
 PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),堕落圣域 (诅咒)
 PROPMAP_TXT_100085,Storm Peak (Cursed),风暴之巅 (诅咒)
@@ -116,34 +116,34 @@ PROPMAP_TXT_200008,Pet Tamer,宠物驯练师
 PROPMAP_TXT_200009,Beach House (S),海滩小屋 (小)
 PROPMAP_TXT_200010,Beach House (M),海滩小屋 (中)
 PROPMAP_TXT_200011,Beach House (L),海滩小屋 (大)
-PROPMAP_TXT_200012,Kalgas Assault Realm,Kalgas Assault Realm
-PROPMAP_TXT_200013,Darken House,Darken House
+PROPMAP_TXT_200012,Kalgas Assault Realm,卡尔加斯突袭战场
+PROPMAP_TXT_200013,Darken House,达肯小屋
 PROPMAP_TXT_100086,2nd Anniversary,2nd Anniversary
 PROPMAP_TXT_100087,2nd Anniversary (Medium),2nd Anniversary (Medium)
 PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Hard)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Easy)
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Medium)
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Hard)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[活动] 渴望深渊 (简单)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[活动] 渴望深渊 (中等)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[活动] 渴望深渊 (困难)
 PROPMAP_TXT_100089,Lv.15+,Lv.15+
 PROPMAP_TXT_100090,Lv.20+,Lv.20+
 PROPMAP_TXT_100091,Lv.80+,Lv.80+
 PROPMAP_TXT_100092,Lv.100+,Lv.100+
 PROPMAP_TXT_100093,Lv.25+,Lv.25+
 PROPMAP_TXT_100097,Lv.120+,Lv.120+
-PROPMAP_TXT_200014,Fall House,Fall House
-PROPMAP_TXT_200015,Fall House (S),Fall House (S)
-PROPMAP_TXT_200016,Fall House (M),Fall House (M)
-PROPMAP_TXT_200017,Fall House (L),Fall House (L)
-PROPMAP_TXT_200018,Blank House (Couple),Blank House (Couple)
-PROPMAP_TXT_200019,Beach House (Couple),Beach House (Couple)
-PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
-PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
-PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
+PROPMAP_TXT_200014,Fall House,秋日小屋
+PROPMAP_TXT_200015,Fall House (S),秋日小屋 (小)
+PROPMAP_TXT_200016,Fall House (M),秋日小屋 (中)
+PROPMAP_TXT_200017,Fall House (L),秋日小屋 (大)
+PROPMAP_TXT_200018,Blank House (Couple),空白小屋 (伴侣)
+PROPMAP_TXT_200019,Beach House (Couple),海滩小屋 (伴侣)
+PROPMAP_TXT_200020,Darken House (Couple),达肯小屋 (伴侣)
+PROPMAP_TXT_200021,Forest House (Couple),森林小屋 (伴侣)
+PROPMAP_TXT_200022,Fall House (Couple),秋日小屋 (伴侣)
 PROPMAX_TXT_200023,Herneos,赫涅奥斯
 PROPMAP_TXT_200024,Boss Monster Raid,Boss讨伐战
-PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
-PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,[活动] 万圣节副本
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[活动] 万圣节副本 (普通)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[活动] 万圣节副本 (困难)
 PROPMAP_TXT_200025,Snowfield,雪原
 PROPMAX_TXT_200026,Ankou's Asylum,安库的庇护所
 PROPMAP_TXT_200027,Kaillun Temple,凯伦神殿
