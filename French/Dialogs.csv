@@ -483,7 +483,7 @@ NPC_000531,Draw your weapon and cut down everything that stands in your way! A M
 NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.","Les trois plus grandes qualités d'un Mercenaire sont l'instinct, la force et la dextérité. Souviens-t'en !"
 NPC_000533,"Hello, my friend. It is my pleasure to make your acquaintance. My name is Hyuit Jenive and I am a sergeant of the Madrigal Job Training Center. I help train Vagrants to become Mercenaries, after Mustang signs off on them, of course. ","Je m'appelle Hyuit Jenive, et j'aide les courageux Vagabonds de Madrigal à devenir de redoutables Mercenaires."
 NPC_000534,"Keep your pride, courage and hope!","Préserve ta fierté, ton courage et ton espoir !"
-NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Si vous vous posez la moindre question sur la ville, je suis là pour vous répondre."
+NPC_000535,"Welcome! If you need any help or information, please don't hesitate to ask.","Bienvenue! Si vous avez la moindre question sur la ville, je suis là pour vous répondre."
 NPC_000539,"Hi there, I have a quest for you!",Que venez-vous faire ici ?
 NPC_000540,Welcome to Madrigal. You look lost! Is there anything I can help you with?,"Bienvenue à Madrigal. Vous avez l'air perdu ! Puis-je vous aider ?"
 NPC_000541,"I am Is, and I am one of the guides in Flarine City. If you need any help or information, just ask me or my twin sisters!","Je m'appelle Is Trinity, et je suis en charge de renseigner les nouveaux aventuriers de Madrigal."
@@ -545,7 +545,7 @@ NPC_000618,Are you a Vagrant? Do you need weapons or armor? I've got what you ne
 NPC_000619,"Hello, potential customer! Thanks for stopping by! Please, feel free to look at my collection of Vagrant weapons and armor. Careful though, you touch it, you buy it!",Ma boutique regorge d'équipements de qualité pour les Vagabonds. Hé hé.
 NPC_000620,"My name is Luda and I run the Vagrant Store of Flarine. I opened this shop after Boboku and Boboko stopped selling Vagrant items. Now I corner the market, hahaha!",Mon nom est Luda. Il n'y a pas meilleur personne que moi pour équiper les Vagabonds.
 NPC_000621,Be careful out there. I wouldn't want to lose a potential customer! *Chuckles*,Bonne continuation en Madrigal !
-NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe !"
+NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!","Boissons, fioles, mantras, conjurations, flèches … C'est ici que ça se passe ! Venez tous ! Faites vos provisions ici ! Vous en aurez besoin !"
 NPC_000623,"Listen carefully, here's what I need you to do.","Écoutez attentivement, voici ce que j'ai besoin que vous fassiez."
 NPC_000624,"Going somewhere? You look a little unprepared, so I'd think twice about leaving Flarine without stocking up on supplies. Good thing for you, I'm here. So, whaddya need?",Je n'arrive pas à croire que mon petit frère Roony ait un lien avec cet incident… Il est parti en grommelant qu'il ne reviendrait plus jamais.
 NPC_000625,"Who am I? I'm Lui Keraldine, of course. My friends call me Handsome Lui. Since we're not friends, why don't you just call me Lui. If you buy something from my General Store here, I *might* let you call me Handsome.","Je m'appelle Lui Keraldine, mais les habitants de Flarine me surnomment Lui le Magnifique. (rires)"
@@ -840,11 +840,11 @@ NPC_000916,I will give you a seedling if you bring me leaves.,Je t'échangerai u
 NPC_000917,"I will give you a Pine Tree if you bring me 1,000 leaves.",Tu recevras un Arbre à pin si tu m'apportes 1000 Feuilles.
 NPC_000918,My name is Pinedryad.,Je suis la Dryade des Pins
 NPC_000919,I hope everything goes well with you!,Je t'offrirai un arbre si tu me ramènes des Feuilles.
-NPC_000974,Raising your own pet takes patience and dedication. Are you ready?,Les familiers sont les partenaires parfaits des aventuriers de Madrigal.
+NPC_000974,Raising your own pet takes patience and dedication. Are you ready?,"Les familiers sont les partenaires parfaits des aventuriers de Madrigal! Élever son propre animal de compagnie demande de la patience et du dévouement. Êtes-vous prêt ?"
 NPC_000975,"ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you have a pet? I love pets, it's what I live for!","GRAAAAOUUU !!\nDésolé, je m'entraînais à faire le cri du tigre, ha ha ! ^^\nAs-tu un familier ? J'adore les familiers, ils sont toute ma vie !"
 NPC_000976,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.,Je suis le meilleur éleveur de familiers de Madrigal. Viens me voir si tu as besoin de mon aide.
 NPC_000977,Don't forget to feed your pet!,Pourquoi ne pas élever un familier ?
-NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!",Tous les objets rares et précieux de Madrigal sont ici !
+NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!","Approchez, champions! Tous les objets rares et précieux de Madrigal sont ici !"
 NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?","Vous êtes intéressé ? Alors ramenez-moi des Jetons ! Vous en gagnez en terminant la guerre de guilde, le tournoi Madrigal, l’Assaut de Kalgas ou la chambre secrète… Alors, avez-vous de quoi acheter les meilleurs articles du monde ?"
 NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.","Je suis Charles, le changeur de Madrigal. Tout ce que je propose est échangeable contre des Jetons Rouges."
 NPC_001019,"So long, contender. May Rhisis be with you.",Venez voir ce que je propose ! Vous n'en verrez jamais l'équivalent ailleurs !
@@ -894,10 +894,10 @@ NPC_001430,"I'm Demian. I am the Rock, Paper, Scissors Champion!",Les Démians s
 NPC_001431,There always is a challenger.,Vous n'avez aucune chance contre moi.
 NPC_001432,I will gain my revenge!,"Hey, vous avez triché !"
 NPC_001433,Rock!! Paper!! Scissors!!,Partie de Flyffoumi
-NPC_001616,"Hey, would you like to be Madrigal's Savior?",Est-ce vous le sauveur de Madrigal ?
-NPC_001617,Iblis' power is reviving!,Le pouvoir d'Ivillis est revigorant.
+NPC_001616,"Hey, would you like to be Madrigal's Savior?",Hey, est-ce vous le sauveur de Madrigal ?
+NPC_001617,Iblis' power is reviving!,Le pouvoir d'Ivillis renaît!
 NPC_001619,"Who am I? You will see. By the way, would you like to be a hero?","Qui je suis ? Vous êtes de la police ? A part ça, vous comptez devenir héros un jour ?"
-NPC_001620,Saviors of Madrigal!!! Come With Me!,"Sauveurs de Madrigal, à moi !"
+NPC_001620,Saviors of Madrigal!!! Come With Me!,"Sauveurs de Madrigal !!! Venez avec moi !"
 NPC_001621,HEY! YOU!! COME ON!!!,"Hey ! Toi ! Oui, toi, pas ta voisine ! Par ici !!"
 NPC_001622,Ghosts are nothing to be scared of!!!! I'm a super duper hero just like Kooro!,"Je n'ai pas peur des fantômes, je suis un super héros."
 NPC_001624,I'm Nerco. I will be the Hero of Saint City just like Kooro!!! You better be good to me!!,Je me nomme Nerco. Attention à ce que vous dites car un jour je serai un héros !
@@ -1178,8 +1178,8 @@ NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","
 NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","Je suis Dreon, la main gauche fidèle du capitaine Baron. Tout ce que je fais, c’est pour ce village."
 NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,Le gars à côté de moi ? Il est bien connecté. Il dit qu’il est ami avec quelqu’un nommé Waldo.\nTu sais qui c’est ?
 NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","Tu es arrivé jusqu’ici… mais à partir de maintenant, les choses pourraient devenir dangereuses."
-NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","Je suis Merk, chef de l’éclaireur. As-tu vu des activités de Lycan ?"
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Silence. L’éclaireur ne fonctionne que si nous restons cachés.
+NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","Je suis Merk, chef du recrutement. As-tu vu des activités de Lycan ?"
+NPC_150039,Quiet. Scouting only works if we stay hidden.,Silence. Le repérage ne fonctionne que si nous restons cachés.
 NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Protéger le village est un honneur, mais jamais facile — surtout quand ces bêtes dehors montrent leurs crocs."
 NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","Je suis Baron, capitaine des gardes d’Eillun. En tant que bouclier et épée de cet endroit, je ne tolérerai aucune menace près de nos gens. Sous mon commandement, personne ne se relâche."
 NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,Les Lycans deviennent plus audacieux. Garde ton arme prête.
