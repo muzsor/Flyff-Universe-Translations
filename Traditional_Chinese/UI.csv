@@ -734,7 +734,7 @@ UI_DUELREQUEST_BETMSG,How much do you want to bet for this duel?,您想為這場
 UI_DUELREQUEST_BETLBL,Penya:,金幣：
 UI_DUELREQUEST_MSG,%s challenges you to a duel %s. Do you accept?,%s 想要和您進行決鬥 %s，您要同意決鬥嗎?
 UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Do you accept?,%s 想要和您的劇團進行決鬥 %s，您要同意決鬥嗎?
-UI_DUELREQUEST_NOBET,(no bet),(無睹注)
+UI_DUELREQUEST_NOBET,(no bet),(無賭注)
 UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,下注 %s 金幣
 UI_DUELRESULT_TITLE,Duel Result,決鬥結果
 UI_DUELRESULT_WIN,%s wins the Duel!,決鬥結束，輸給 %s
