@@ -929,7 +929,7 @@ TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points i
 TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,Hai ricevuto %d Punti della Caccia al Ladro di Natale (Totale %d)!
 TEXTCLIENT_APP_LOTTERY,Lottery,Lotteria
 TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!","Il tuo livello è troppo basso, devi essere almeno livello %d per iniziare a questa lotteria!"
-TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Il tuo livello è troppo alto, devi essere almeno livello %d per iniziare a questa lotteria!"
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Il tuo livello è troppo alto, devi essere al massimo livello %d per iniziare questa lotteria!"
 TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,Devi avere %d %s per iniziare questa lotteria!
 TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,Hai già iniziato una lotteria! Aspetta che finisca!
 TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,Che sfortuna.. Questa volta non hai ricevuto nessuna  ricompensa!
