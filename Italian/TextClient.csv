@@ -620,7 +620,7 @@ TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you 
 TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Prima hai chiesto %d penya. E poi ha chiesto altri %d penya.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Avete fatto domanda per l'assedio della gilda. È possibile organizzare l'ingresso della gilda a partire dalle 17:00 (PST) di ogni sabato.
 TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,La registrazione per l'assedio della gilda è terminata.
-TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Non puoi utilizzare in questo momento.
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Non puoi utilizzarlo in questo momento.
 TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Non ti sei registrato per l'Assedio della Gilda.
 TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,La quota di iscrizione viene rimborsata se non si riesce a partecipare all'assedio della gilda.
 TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,L'assedio della gilda a cui ti sei unito è stato annullato.
@@ -629,7 +629,7 @@ TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYou
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,L'Assedio della Gilda di oggi non avrà luogo a causa della mancanza di partecipanti.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Buona giornata!
 TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,Ti sei qualificato per partecipare all'Assedio della Gilda. Completa la configurazione della tua formazione su Flarine.
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","Non sei qualificato per questo Assedio della Gilda. Riprova la settimina dopo. Al termine dell'Assedio della Gilda, potrai recuperare la quota di iscrizione in Flarine."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","Non sei qualificato per questo Assedio della Gilda. Riprova la settimana dopo. Al termine dell'Assedio della Gilda, potrai recuperare la quota di iscrizione in Flarine."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,L'Assedio della Gilda inizierà presto. Sarete teletrasportati automaticamente a Flaris dopo %d secondi.
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,"D'ora in poi, Franky a Flarine potrà farvi entrare nell'arena Assedio della Gilda."
 TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"D'ora in poi, è possibile organizzare la partecipazione all'assedio della gilda."
@@ -877,7 +877,7 @@ TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,La trasmuta
 TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,L’oggetto è stato aggiunto nel tuo armadio.
 TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Non puoi dichiarare guerra in questo canale.
 TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Flyff Pass
-TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s missione %s completetato.
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s missione %s completetata.
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Hai ricevuto %d %s punti.
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,La stagione %s è stata ripristinata!
 TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Hai raggiunto il livello %s %d!
@@ -888,7 +888,7 @@ TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rew
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Solo i personaggi di livello 80 o inferiore possono partecipare a questo Assedio di Gilda Lv80.
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Solo i personaggi che non hanno completato il secondo cambio di classe possono partecipare a questo Assedio di Gilda Lv60.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,Questa settimana si terrà l'Assedio di Gilda Lv80.
-TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Questa settimana si terrà l'Assedio di Gilda Lv80.
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Questa settimana si terrà l'Assedio di Gilda Lv60.
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,L'Assedio di Gilda Lv80 previsto per oggi non avrà luogo a causa della mancanza di partecipanti.
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,L'Assedio di Gilda Lv60 previsto per oggi non avrà luogo a causa della mancanza di partecipanti.
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,L'Assedio di Gilda Lv80 è finito.
