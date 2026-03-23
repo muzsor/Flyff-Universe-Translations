@@ -1368,7 +1368,7 @@ UI_GACHA_DESC_INFO,For more information please check our General Sales Condition
 UI_GACHA_LASTITEM,Last item,最後的物品
 UI_GACHA_PREVIEW,PREVIEW,預覽
 UI_GACHA_SOLDOUT,Sold out,已售出
-UI_WELCOME_MSG,"Welcome to the world of		\nFlyff Online!",歡迎來到		\n飛飛 Online!
+UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,歡迎來到		\n飛飛 Online!
 UI_WELCOME_BTN,Let's go!,Let's go!
 UI_TUTORIAL_MSG,Do you want the tutorial?,您想要教學嗎？
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,承受傷害
