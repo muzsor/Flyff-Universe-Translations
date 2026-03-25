@@ -1,5 +1,5 @@
-﻿The cost of unbinding is 100,000 Penya per item.
-#cffff0000Unbinding will remove #ball upgrades, bonuses, element and piercings#nb.
-You cannot cancel the operation once it is done.#nc
-The item will be tradable again. If you want to keep all improvements, please use a Scroll of Unbinding instead of this menu.
-Only works on Soul-Bound items and #bnot Soul-Linked items#nb.
+解除绑定费用：每件物品 100,000 金币。
+#cffff0000 解除绑定后将会清除 #b所有强化等级、附加属性、元素属性与打孔属性 #nb。
+操作一旦执行将无法撤销。#nc
+物品将恢复为可交易状态。若你希望保留所有强化属性，请使用解绑卷轴，而非通过此界面操作。
+仅对灵魂绑定物品生效，#b对灵魂锁定物品无效 #nb。

@@ -1,11 +1,11 @@
-﻿#b Race Information #nb
-Rainbow Race is an opportunity for all players to compete in an interactive and intense flying race. Players must use their own flying mount during the race.
+#b 竞速信息 #nb
+彩虹竞速是面向所有玩家开放的互动式紧张飞行竞赛。比赛期间，玩家必须使用自己的飞行坐骑。
 
-#iNote: The application fee cannot be refunded. Each player is responsible for providing themselves with a flying mount.#ni
+#i 注意：报名费用不予退还。玩家需自行准备飞行坐骑。#ni
 
-Rewards:
-First Place: Title, Mount, and Rainbow Race First Place Box.
-Second Place: Rainbow Race Second Place Box.
-Third Place: Rainbow Race Third Place Box.
-Fourth to Tenth Place: Rainbow Race Honorable Box.
-The Rest: Participation Reward.
+奖励：
+第一名：专属称号、坐骑以及彩虹竞速第一名宝箱。
+第二名：彩虹竞速第二名宝箱。
+第三名：彩虹竞速第三名宝箱。
+第四至第十名：彩虹竞速优秀奖宝箱。
+其余参与者：参与奖励。
