@@ -1102,24 +1102,24 @@ UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,F
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,Rerolling will consume the material cards. Proceed?
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,Convert to Soul-Linked
 UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.","The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone."
-UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,This action cannot be undone.\nProceed?
+UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,Den här åtgärden kan inte ångras.\nFortsätta?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,This item cannot be converted.
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?
 UI_GUILD_TOOLTIP_EXP,EXP:,EXP:
 UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
 UI_GUILD_TOOLTIP_LEVEL,#bNext level: %d#nb,#bNext level: %d#nb
-UI_CHANGECHANNEL_TITLE,Change Channel,Change Channel
-UI_CHANGECHANNEL_MSG,Select channel:,Select channel:
+UI_CHANGECHANNEL_TITLE,Change Channel,Byt kanal
+UI_CHANGECHANNEL_MSG,Select channel:,Välj kanal:
 UI_REPORT_TITLE,Report,Report
 UI_REPORT_PLAYER_LABEL,Player,Player
 UI_REPORT_REASON_LABEL,Reason,Reason
 UI_REPORT_MESSAGE_LABEL,Message,Message
 UI_REPORT_SEND,Send,Send
 UI_REPORT_REASON0,Botting,Botting
-UI_REPORT_REASON1,Real money transfer,Real money transfer
+UI_REPORT_REASON1,Real money transfer,Riktiga pengaröverföringar
 UI_REPORT_REASON2,Cheating / hacking,Cheating / hacking
-UI_REPORT_REASON3,Bad behavior,Bad behavior
-UI_REPORT_REASON4,Insults,Insults
+UI_REPORT_REASON3,Bad behavior,Dåligt beteende
+UI_REPORT_REASON4,Insults,Förolämpningar
 UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.
 UI_APP_ACHIEVEMENTS_TIP,View your achievements.,View your achievements.
 UI_ACHIEVEMENTS_TITLE,Achievements,Achievements
