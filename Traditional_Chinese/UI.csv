@@ -1982,7 +1982,7 @@ UI_BATTLEPASS_NOV,November %d Pass,%d 十一月通行證
 UI_BATTLEPASS_DEC,December %d Pass,%d 十二月通行證
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,連續登入%s天
 UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s 結束於：#b%s#nb（UTC 時間）\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。#ni\n#i達到 %d 級後，部分獎勵將會提升。#ni
-UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s 結束於：#b%s#nb（UTC 時間）\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。
+UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s 結束於：#b%s#nb（UTC 時間）\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。#ni
 UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s 結束於：#b%s#nb（UTC 時間）\n#i達到 %d 級後，部分獎勵將會提升。#ni
 UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s 結束於：#b%s#nb（UTC 時間）
 UI_REMOTE_SHOP_TITLE,Remote Shop,Remote Shop
