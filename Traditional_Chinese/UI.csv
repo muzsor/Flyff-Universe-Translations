@@ -1900,7 +1900,7 @@ UI_BATTLEPASS_MISSION_UNSAFETYALL,Attempt Upgrade or Piercing,嘗試安全升級
 UI_LEVEL_REQUIRED,Available after level %d.,在%d級以後可用。
 UI_QUEST_KILLSTEP_RWD,%d Monsters defeated: %s,擊殺%d怪物：%s
 UI_QUEST_REWARDSTEP_ITEM,%s(%d),%s(%d)
-UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),級殺怪物（%d/%d）
+UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),擊殺怪物（%d/%d）
 UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,You have %d seconds to join.
 UI_PVPCONTEST_RANKING_DAILY,Today's Matches,Today's Matches
 UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Preliminary
