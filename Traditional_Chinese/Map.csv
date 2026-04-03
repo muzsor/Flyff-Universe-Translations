@@ -1,33 +1,33 @@
 ﻿Key,English,Traditional_Chinese
 PROPMAP_TXT_000000,,
-PROPMAP_TXT_000001,World,世界地圖
-PROPMAP_TXT_000002,Region,區域地圖
-PROPMAP_TXT_000003,Town,村莊地圖
+PROPMAP_TXT_000001,World,世界
+PROPMAP_TXT_000002,Region,區
+PROPMAP_TXT_000003,Town,城鎮
 PROPMAP_TXT_000004,Madrigal,瑪德利賈
-PROPMAP_TXT_000005,"Darkon 1, 2","得肯第1,2地區"
-PROPMAP_TXT_000006,Darkon 3,得肯第3地區
+PROPMAP_TXT_000005,"Darkon 1, 2","得肯第一、第二區"
+PROPMAP_TXT_000006,Darkon 3,得肯第三區
 PROPMAP_TXT_000007,Garden of Rhisis,黎席斯庭院
 PROPMAP_TXT_000008,Saint Morning,聖音特
 PROPMAP_TXT_000009,Flaris,布拉里斯
-PROPMAP_TXT_000012,Flarine,布拉里斯
+PROPMAP_TXT_000012,Flarine,布拉里斯市
 PROPMAP_TXT_000013,Saint City,聖音特市
 PROPMAP_TXT_000014,Darken,得肯
-PROPMAP_TXT_000242,Dungeon,地城
+PROPMAP_TXT_000242,Dungeon,副本
 PROPMAP_TXT_000263,Mars Dungeon,邁爾斯密殿
 PROPMAP_TXT_000265,Dekane Mine,塔凱黎斯礦山
 PROPMAP_TXT_000266,Iblis Temple,伊普里斯寺院
-PROPMAP_TXT_000274,Forsaken Tower 1F,被遺忘之塔 1樓 
-PROPMAP_TXT_000275,Forsaken Tower 2F,被遺忘之塔 2樓 
-PROPMAP_TXT_000276,Forsaken Tower 3F,被遺忘之塔 3樓 
-PROPMAP_TXT_000277,Forsaken Tower 4F,被遺忘之塔 4樓 
-PROPMAP_TXT_000278,Forsaken Tower 5F,被遺忘之塔 5樓 
-PROPMAP_TXT_000279,Forsaken Tower 6F,被遺棄的塔樓 6 層
-PROPMAP_TXT_000280,Forsaken Tower 7F,被遺棄的塔樓 7 層
+PROPMAP_TXT_000274,Forsaken Tower 1F,被遺忘之塔一樓
+PROPMAP_TXT_000275,Forsaken Tower 2F,被遺忘之塔二樓
+PROPMAP_TXT_000276,Forsaken Tower 3F,被遺忘之塔三樓
+PROPMAP_TXT_000277,Forsaken Tower 4F,被遺忘之塔四樓
+PROPMAP_TXT_000278,Forsaken Tower 5F,被遺忘之塔五樓
+PROPMAP_TXT_000279,Forsaken Tower 6F,被遺忘之塔六樓
+PROPMAP_TXT_000280,Forsaken Tower 7F,被遺忘之塔七樓
 PROPMAP_TXT_100000,Kebaras,卡巴拉斯
 PROPMAP_TXT_100001,North-Fl,布拉里斯北部
 PROPMAP_TXT_100002,Cen Flarine,布拉里斯中部
 PROPMAP_TXT_100003,East-Fla,布拉里斯東部
-PROPMAP_TXT_100004,Darkon,得肯
+PROPMAP_TXT_100004,Darkon,得肯區
 PROPMAP_TXT_100005,The North of Leren Mountains,萊樂安山脈北部
 PROPMAP_TXT_100006,The River of Weeping,哭泣之河
 PROPMAP_TXT_100007,Saint Hall,聖音特禮堂
@@ -44,14 +44,14 @@ PROPMAP_TXT_100017,Arians,亞利安斯
 PROPMAP_TXT_100018,Deadwallderness,丹德瓦內斯
 PROPMAP_TXT_100019,Brekin,布里肯
 PROPMAP_TXT_100020,Guardiane,迦樂迪安
-PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),得肯第2區(艾恩布爾洞穴)
+PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),得肯第一區 (艾恩布爾洞穴)
 PROPMAP_TXT_100022,Clockworks' Cage,時空毀滅者的牢籠
 PROPMAP_TXT_100023,Erons Factories,艾磷斯工廠
 PROPMAP_TXT_100024,Gouthan Mountains,槁瑜潭山脈
-PROPMAP_TXT_100025,Darkon 1 (KhipRa),得肯第1區(機械荒原)
+PROPMAP_TXT_100025,Darkon 1 (KhipRa),得肯第一區 (機械荒原)
 PROPMAP_TXT_100026,Unknown,未知
 PROPMAP_TXT_100029,Armory,武器商店
-PROPMAP_TXT_100030,Center for Guild Combat,公會戰場中央
+PROPMAP_TXT_100030,Center for Guild Combat,公會戰場中心區域
 PROPMAP_TXT_100031,Arena Manager,自由競技場管理員
 PROPMAP_TXT_100032,Azria,阿雷那
 PROPMAP_TXT_100033,Guild Siege,公會戰
@@ -61,7 +61,7 @@ PROPMAP_TXT_100036,Area,區域
 PROPMAP_TXT_100037,Saint Morning Station,聖音特航空站
 PROPMAP_TXT_100038,Garden of Rhisis II,黎席斯庭院 II
 PROPMAP_TXT_100039,Cave of Envy,艾恩布爾洞穴
-PROPMAP_TXT_100040,Darkon 2,得肯2
+PROPMAP_TXT_100040,Darkon 2,得肯第二區
 PROPMAP_TXT_100041,Volkane,熔岩祕境
 PROPMAP_TXT_100042,Abandoned Erons Factory,廢棄的艾磷胚斯
 PROPMAP_TXT_100043,Frozen Forest,冰凍森林
@@ -76,84 +76,84 @@ PROPMAP_TXT_100051,Envy Depths,嫉妒深淵
 PROPMAP_TXT_100052,Leren Chasm,勒倫峽谷
 PROPMAP_TXT_100053,Rhisis Catacombs,黎席斯地下墓穴
 PROPMAP_TXT_100054,Guardiane Sanctuary,守護者聖域
-PROPMAP_TXT_100055,Leren Chasm (Medium),勒倫峽谷（中級）
-PROPMAP_TXT_100056,Leren Chasm (Hard),勒倫峽谷（困難）
-PROPMAP_TXT_100057,Leren Chasm (Extra Hard),勒倫峽谷（超難）
-PROPMAP_TXT_100058,Leren Chasm (Nightmare),勒倫峽谷（惡夢）
-PROPMAP_TXT_100059,Rhisis Catacombs (Hard),黎席斯地下墓穴（困難）
-PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),黎席斯地下墓穴（超難）
-PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),黎席斯地下墓穴（惡夢）
-PROPMAP_TXT_100062,Envy Depths (Extra Hard),嫉妒深淵（超難）
-PROPMAP_TXT_100063,Envy Depths (Nightmare),嫉妒深淵（惡夢）
-PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),守護者聖域（惡夢）
-PROPMAP_TXT_100065,Envy Depths (Medium),嫉妒深淵（中級）
+PROPMAP_TXT_100055,Leren Chasm (Medium),勒倫峽谷 (中級)
+PROPMAP_TXT_100056,Leren Chasm (Hard),勒倫峽谷 (困難)
+PROPMAP_TXT_100057,Leren Chasm (Extra Hard),勒倫峽谷 (超難)
+PROPMAP_TXT_100058,Leren Chasm (Nightmare),勒倫峽谷 (惡夢)
+PROPMAP_TXT_100059,Rhisis Catacombs (Hard),黎席斯地下墓穴 (困難)
+PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),黎席斯地下墓穴 (超難)
+PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),黎席斯地下墓穴 (惡夢)
+PROPMAP_TXT_100062,Envy Depths (Extra Hard),嫉妒深淵 (超難)
+PROPMAP_TXT_100063,Envy Depths (Nightmare),嫉妒深淵 (惡夢)
+PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),守護者聖域 (惡夢)
+PROPMAP_TXT_100065,Envy Depths (Medium),嫉妒深淵 (中級)
 PROPMAP_TXT_100066,Eggcellent's Meadow,蛋蛋樂草原
-PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),蛋蛋樂草原(中級)
-PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),蛋蛋樂草原(困難)
-PROPMAP_TXT_100069,Leren Chasm (Story),勒倫峽谷(劇情)
-PROPMAP_TXT_100070,Rhisis Catacombs (Story),黎席斯地下墓穴（故事）
-PROPMAP_TXT_100071,Envy Depths (Story),嫉妒深淵(劇情)
-PROPMAP_TXT_100072,Guardiane Sanctuary (Story),守護者聖域(劇情)
-PROPMAP_TXT_100073,Storm Peak (Story),風暴峰(劇情)
+PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),蛋蛋樂草原 (中級)
+PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),蛋蛋樂草原 (困難)
+PROPMAP_TXT_100069,Leren Chasm (Story),勒倫峽谷 (故事)
+PROPMAP_TXT_100070,Rhisis Catacombs (Story),黎席斯地下墓穴 (故事)
+PROPMAP_TXT_100071,Envy Depths (Story),嫉妒深淵 (故事)
+PROPMAP_TXT_100072,Guardiane Sanctuary (Story),守護者聖域 (故事)
+PROPMAP_TXT_100073,Storm Peak (Story),風暴峰 (故事)
 PROPMAP_TXT_200000,The Colosseum,鬥獸場
-PROPMAP_TXT_100074,The Wilds (Story),樂斯堤亞(劇情)
+PROPMAP_TXT_100074,The Wilds (Story),樂斯堤亞 (故事)
 PROPMAP_TXT_100075,The Wilds,樂斯堤亞
 PROPMAP_TXT_230001,Instance,副本
 PROPMAP_TXT_100076,FWC Arena,FWC 競技場
-PROPMAP_TXT_100081,Leren Chasm (Cursed),勒倫峽谷(詛咒)
-PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),黎席斯地下墓穴（詛咒）
-PROPMAP_TXT_100083,Envy Depths (Cursed),嫉妒深淵(詛咒)
-PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),守護者聖域(詛咒)
-PROPMAP_TXT_100085,Storm Peak (Cursed),風暴峰(詛咒)
+PROPMAP_TXT_100081,Leren Chasm (Cursed),勒倫峽谷 (詛咒)
+PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),黎席斯地下墓穴 (詛咒)
+PROPMAP_TXT_100083,Envy Depths (Cursed),嫉妒深淵 (詛咒)
+PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),守護者聖域 (詛咒)
+PROPMAP_TXT_100085,Storm Peak (Cursed),風暴峰 (詛咒)
 PROPMAP_TXT_200001,Beach House,海濱小屋
 PROPMAP_TXT_200002,Blank World,空白世界
 PROPMAP_TXT_200003,Guild Ship,公會飛船
 PROPMAP_TXT_200004,Forest House,森林小屋
 PROPMAP_TXT_200005,Volcano House,熔岩小屋
 PROPMAP_TXT_200006,Snow House,雪地小屋
-PROPMAP_TXT_200007,Housing Specialist,住宅管理員
+PROPMAP_TXT_200007,Housing Specialist,小屋管理員
 PROPMAP_TXT_200008,Pet Tamer,召喚獸馴練師
-PROPMAP_TXT_200009,Beach House (S),海濱小屋(小)
-PROPMAP_TXT_200010,Beach House (M),海濱小屋(中)
-PROPMAP_TXT_200011,Beach House (L),海濱小屋(大)
-PROPMAP_TXT_200012,Kalgas Assault Realm,卡爾加斯突擊領域
-PROPMAP_TXT_200013,Darken House,黑暗之家
-PROPMAP_TXT_100086,2nd Anniversary,2週年紀念
-PROPMAP_TXT_100087,2nd Anniversary (Medium),2週年紀念（中級）
-PROPMAP_TXT_100088,2nd Anniversary (Hard),2週年紀念（困難）
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),【活動】嫉妒之深淵（簡單）
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),【活動】嫉妒之深淵（中等）
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),【活動】嫉妒之深淵（困難）
-PROPMAP_TXT_100089,Lv.15+,等級15+
-PROPMAP_TXT_100090,Lv.20+,等級20+
-PROPMAP_TXT_100091,Lv.80+,等級80+
-PROPMAP_TXT_100092,Lv.100+,等級100+
-PROPMAP_TXT_100093,Lv.25+,等級25+
-PROPMAP_TXT_100097,Lv.120+,Lv.120+
-PROPMAP_TXT_200014,Fall House,秋屋
-PROPMAP_TXT_200015,Fall House (S),秋屋(小）
-PROPMAP_TXT_200016,Fall House (M),秋屋(中）
-PROPMAP_TXT_200017,Fall House (L),秋屋(大）
-PROPMAP_TXT_200018,Blank House (Couple),空房子（情侶）
-PROPMAP_TXT_200019,Beach House (Couple),海濱房子（情侶）
-PROPMAP_TXT_200020,Darken House (Couple),黑暗之家（情侶）
-PROPMAP_TXT_200021,Forest House (Couple),森林小屋（情侶）
-PROPMAP_TXT_200022,Fall House (Couple),秋屋（情侶）
-PROPMAX_TXT_200023,Herneos,埃爾內奧斯
-PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
-PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
-PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
-PROPMAP_TXT_200025,Snowfield,Snowfield
-PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
-PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
-PROPMAP_TXT_200028,Eillun,Eillun
-PROPMAP_TXT_200029,Kaillun,Kaillun
-PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
-PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
-PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
-PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
-PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
-PROPMAP_TXT_200037,Seabed,Seabed
+PROPMAP_TXT_200009,Beach House (S),海濱小屋 (小)
+PROPMAP_TXT_200010,Beach House (M),海濱小屋 (中)
+PROPMAP_TXT_200011,Beach House (L),海濱小屋 (大)
+PROPMAP_TXT_200012,Kalgas Assault Realm,卡爾加斯突擊戰場
+PROPMAP_TXT_200013,Darken House,得肯小屋
+PROPMAP_TXT_100086,2nd Anniversary,兩週年紀念
+PROPMAP_TXT_100087,2nd Anniversary (Medium),兩週年紀念 (中級)
+PROPMAP_TXT_100088,2nd Anniversary (Hard),兩週年紀念 (困難)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),【活動】嫉妒深淵 (簡單)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),【活動】嫉妒深淵 (中等)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),【活動】嫉妒深淵 (困難)
+PROPMAP_TXT_100089,Lv.15+,等級 15+
+PROPMAP_TXT_100090,Lv.20+,等級 20+
+PROPMAP_TXT_100091,Lv.80+,等級 80+
+PROPMAP_TXT_100092,Lv.100+,等級 100+
+PROPMAP_TXT_100093,Lv.25+,等級 25+
+PROPMAP_TXT_100097,Lv.120+,等級120+
+PROPMAP_TXT_200014,Fall House,秋天小屋
+PROPMAP_TXT_200015,Fall House (S),秋天小屋 (小)
+PROPMAP_TXT_200016,Fall House (M),秋天小屋 (中)
+PROPMAP_TXT_200017,Fall House (L),秋天小屋 (大)
+PROPMAP_TXT_200018,Blank House (Couple),空白小屋 (情侶)
+PROPMAP_TXT_200019,Beach House (Couple),海濱小屋 (情侶)
+PROPMAP_TXT_200020,Darken House (Couple),得肯小屋 (情侶)
+PROPMAP_TXT_200021,Forest House (Couple),森林小屋 (情侶)
+PROPMAP_TXT_200022,Fall House (Couple),秋天小屋 (情侶)
+PROPMAX_TXT_200023,Herneos,赫爾尼奧斯
+PROPMAP_TXT_200024,Boss Monster Raid,Boss 怪物討伐戰
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,【活動】萬聖節副本 (簡單)
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),【活動】萬聖節副本 (一般)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),【活動】萬聖節副本 (困難)
+PROPMAP_TXT_200025,Snowfield,雪原
+PROPMAX_TXT_200026,Ankou's Asylum,安庫禁域
+PROPMAP_TXT_200027,Kaillun Temple,凱倫神殿
+PROPMAP_TXT_200028,Eillun,艾倫
+PROPMAP_TXT_200029,Kaillun,凱倫
+PROPMAP_TXT_200030,Leren Chasm (Infernal),勒倫峽谷 (地獄)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),黎席斯地下墓穴 (地獄)
+PROPMAP_TXT_200032,Envy Depths (Infernal),嫉妒深淵 (地獄)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),守護者聖域 (地獄)
+PROPMAP_TXT_200034,Storm Peak (Infernal),風暴峰 (地獄)
+PROPMAP_TXT_200035,The Wilds (Infernal),樂斯堤亞 (地獄)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),安庫禁域 (故事)
+PROPMAP_TXT_200037,Seabed,沉沒之地
