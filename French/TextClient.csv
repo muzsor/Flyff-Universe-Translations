@@ -112,7 +112,7 @@ TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that sk
 TEXTCLIENT_REQFP,Not enough FP.,Pas assez de PF
 TEXTCLIENT_REQMP,Not enough MP.,Pas assez de PM
 TEXTCLIENT_REQHP,Not enough HP.,Pas assez de PV.
-TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Vous ne pouvez pas attaquer car un obstacle vous barre la route.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Cette action a été bloquée par un obstacle.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,La compétence %s de niveau %d est nécessaire.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,Augmentation du niveau de compétence %s.
 TEXTCLIENT_APP_PRIVATE_SHOP,Private Shop,Boutique Perso
