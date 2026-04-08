@@ -88,13 +88,13 @@ CHARACTER_INC_000339,Class Goods,職業用品
 CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[雜技師訓練教官] 涵特
 CHARACTER_INC_000344,[Acrobat Master] Pyre,[雜技大師] 飛蕊
 CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[雜技師訓練助教] 塔利爾
-CHARACTER_INC_000348,[Jester Master] Lorein,[操偶大師]蘿麗安
-CHARACTER_INC_000350,[Jester Priest] Homeit,[操偶師祭司]胡鎂爾
-CHARACTER_INC_000352,[Jester Guardian] Heingard,[操偶師守護者]海音卡蘿德
-CHARACTER_INC_000354,[Ranger Master] Eliff,[浪人大師]艾梨布
-CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高階杜爾沛]利綺安
-CHARACTER_INC_000358,[Ranger Priest] Rupim,[浪人祭司]蘆蘋
-CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[浪人守護者]卡伊雷雅德
+CHARACTER_INC_000348,[Jester Master] Lorein,[操偶大師] 蘿麗安
+CHARACTER_INC_000350,[Jester Priest] Homeit,[操偶師祭司] 胡鎂爾
+CHARACTER_INC_000352,[Jester Guardian] Heingard,[操偶師守護者] 海音卡蘿德
+CHARACTER_INC_000354,[Ranger Master] Eliff,[浪人大師] 艾梨布
+CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高階杜爾沛] 利綺安
+CHARACTER_INC_000358,[Ranger Priest] Rupim,[浪人祭司] 蘆蘋
+CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[浪人守護者] 卡伊雷雅德
 CHARACTER_INC_000362,Santa,聖誕老人
 CHARACTER_INC_000364,Priest,華倫泰神父
 CHARACTER_INC_000366,Hans,傑佛瑞
@@ -124,28 +124,28 @@ CHARACTER_INC_000440,[Santa] Aramy,[聖誕] 亞羅梅
 CHARACTER_INC_000442,[Santa] Atto,[聖誕] 亞妥
 CHARACTER_INC_000444,[Probationer Cook] Juglin,[見習廚師] 笛林亞特
 CHARACTER_INC_000454,Hachal,夏格凱巴
-CHARACTER_INC_000458,[Great Magician] Laola,[大魔法使]拉宇
+CHARACTER_INC_000458,[Great Magician] Laola,[大魔法使] 拉宇
 CHARACTER_INC_000460,[Dreadpet Manager] Himadel,喜馬多
 CHARACTER_INC_000462,[Dreadpet Manager] Gornus,勾勒努斯
 CHARACTER_INC_000464,[Dreadpet Manager] Kanane,卡哪內
-CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[勇者訓練教官]摸斯騰
-CHARACTER_INC_000468,[Mercenary Master] Andy,[勇者大師]安迪凱
-CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高階杜爾沛]克羅
-CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[勇者訓練助教]輝里傑
-CHARACTER_INC_000474,[Assist Drillmaster] Elic,[神職者訓練教官]艾里維得
-CHARACTER_INC_000476,[Assist Master] Maki,[神職者大師]瑪吉
-CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高階杜爾沛]克利培
-CHARACTER_INC_000480,[Assist Instructor] Kidmen,[神職者訓練助教]凱德尼克
-CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高階杜爾沛]海珊
+CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[勇者訓練教官] 摸斯騰
+CHARACTER_INC_000468,[Mercenary Master] Andy,[勇者大師] 安迪凱
+CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高階杜爾沛] 克羅
+CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[勇者訓練助教] 輝里傑
+CHARACTER_INC_000474,[Assist Drillmaster] Elic,[神職者訓練教官] 艾里維得
+CHARACTER_INC_000476,[Assist Master] Maki,[神職者大師] 瑪吉
+CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高階杜爾沛] 克利培
+CHARACTER_INC_000480,[Assist Instructor] Kidmen,[神職者訓練助教] 凱德尼克
+CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高階杜爾沛] 海珊
 CHARACTER_INC_000484,Rudvihil,蘿特泰斯
 CHARACTER_INC_000486,Ancimys,[魔法箱子] 安奇米斯
-CHARACTER_INC_000488,[Historian] Martinyc,[歷史學者]馬特尼提特
+CHARACTER_INC_000488,[Historian] Martinyc,[歷史學者] 馬特尼提特
 CHARACTER_INC_000490,[Mayor of Flarine],[布拉里斯市長]
 CHARACTER_INC_000492,[Public Official of Flarine],[布拉里斯公務員]
-CHARACTER_INC_000494,[Novelist] Gergantes,[小說家]凱樂帝函特
-CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔法使訓練教官]偉依
-CHARACTER_INC_000498,[Magician Master] Hee,[魔法使大師]喜雷
-CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔法使訓練助教]螺波提尼
+CHARACTER_INC_000494,[Novelist] Gergantes,[小說家] 凱樂帝函特
+CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔法使訓練教官] 偉依
+CHARACTER_INC_000498,[Magician Master] Hee,[魔法使大師] 喜雷
+CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔法使訓練助教] 螺波提尼
 CHARACTER_INC_000502,Helgar,海佳樂
 CHARACTER_INC_000504,Heltung,核騰摩克
 CHARACTER_INC_000506,Strange Collector,詭異的蒐藏家
@@ -154,7 +154,7 @@ CHARACTER_INC_000510,JeongHwa,真華
 CHARACTER_INC_000512,Porgo,柏洛格
 CHARACTER_INC_000514,[Mayor of Saint City],[聖音特市長]
 CHARACTER_INC_000516,[Chairman of History Society] Gothante,[歷史學會主席] 高譚提拉
-CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[古代文書管理者]魯巴迦麗
+CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[古代文書管理者] 魯巴迦麗
 CHARACTER_INC_000520,Colar,凱樂拉
 CHARACTER_INC_000522,Amadolka,亞瑪多
 CHARACTER_INC_000524,Nina,妮娜
@@ -163,27 +163,27 @@ CHARACTER_INC_000528,PiPi,琵琵
 CHARACTER_INC_000530,Loyah,樂亞
 CHARACTER_INC_000532,Mayun,梅歐恩
 CHARACTER_INC_000534,Sotta,索達
-CHARACTER_INC_000536,[Knight Master] Karandur,[騎士首領]卡拉杜．愛朋
-CHARACTER_INC_000538,[Knight Wise-man] Hormes,[騎士賢者]霍魯美斯．凱德
+CHARACTER_INC_000536,[Knight Master] Karandur,[騎士首領] 卡拉杜．愛朋
+CHARACTER_INC_000538,[Knight Wise-man] Hormes,[騎士賢者] 霍魯美斯．凱德
 CHARACTER_INC_000540,Kurmin,庫魯米．韓森
-CHARACTER_INC_000542,[Knight Priest] Lobiet,[騎士祭司]拉薇特．黎
+CHARACTER_INC_000542,[Knight Priest] Lobiet,[騎士祭司] 拉薇特．黎
 CHARACTER_INC_000544,[Knight Guardian] Boneper,[騎士守護者] 波內佩拉
-CHARACTER_INC_000546,[Blade Master] Corel,[暗殺者首領]席瑞兒‧安得利爾
-CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[暗殺者賢者]加布里
+CHARACTER_INC_000546,[Blade Master] Corel,[暗殺者首領] 席瑞兒‧安得利爾
+CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[暗殺者賢者] 加布里
 CHARACTER_INC_000550,Ata,艾塔米力諾
-CHARACTER_INC_000552,[Blade Priest] Jeperdy,[暗殺者祭司]傑佛迪索斯
+CHARACTER_INC_000552,[Blade Priest] Jeperdy,[暗殺者祭司] 傑佛迪索斯
 CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[暗殺者守護者] 桑希里特
-CHARACTER_INC_000556,[Billposter Master] Ride,[爆咒師首領]瑞得
-CHARACTER_INC_000558,[Billposter Wise-man] Domek,[爆咒師賢者]德邁洛．詹
+CHARACTER_INC_000556,[Billposter Master] Ride,[爆咒師首領] 瑞得
+CHARACTER_INC_000558,[Billposter Wise-man] Domek,[爆咒師賢者] 德邁洛．詹
 CHARACTER_INC_000560,Segho,佩辛
-CHARACTER_INC_000562,[Billposter Priest] Fera,[爆咒師祭司]菲拉
+CHARACTER_INC_000562,[Billposter Priest] Fera,[爆咒師祭司] 菲拉
 CHARACTER_INC_000564,[Billposter Guardian] Capafe,[爆咒師守護者] 卡班沛
-CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守護者首領]愛嵐．依莉迪歐
-CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守護者賢者]可伯內特
+CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守護者首領] 愛嵐．依莉迪歐
+CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守護者賢者] 可伯內特
 CHARACTER_INC_000570,Teshar,蝶斯塔洛得
-CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守護者祭司]海登
+CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守護者祭司] 海登
 CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[守護者] 隆波艾達
-CHARACTER_INC_000576,[Psykeeper Master] Cylor,[念力師首領]賽樂
+CHARACTER_INC_000576,[Psykeeper Master] Cylor,[念力師首領] 賽樂
 CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[念力師賢者] 可林
 CHARACTER_INC_000580,Ryupang,魯班
 CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[念力師祭司] 安得利爾
@@ -217,9 +217,9 @@ CHARACTER_INC_000706,[Arena Manager] Harold,[自由競技場管理員] 海洛德
 CHARACTER_INC_000708,[Arena Store] Deek,[自由競技場商人] 迪克
 CHARACTER_INC_000712,[Arena Manager] Lay,[自由競技場管理員] 雷
 CHARACTER_INC_000738,Card Master,卡片大師
-CHARACTER_INC_000742,[Jewel Manager] Peach,[寶石專家]波奇
-CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC]頑童丹丹"
-CHARACTER_INC_000847,[Mentor] Inisis,[大師傅]伊希尼斯
+CHARACTER_INC_000742,[Jewel Manager] Peach,[寶石專家] 波奇
+CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC] 頑童丹丹"
+CHARACTER_INC_000847,[Mentor] Inisis,[大師傅] 伊希尼斯
 CHARACTER_INC_001067,Reonan,雷奧南
 CHARACTER_INC_001069,Nerco,諾可
 CHARACTER_INC_001071,Hael,哈爾
