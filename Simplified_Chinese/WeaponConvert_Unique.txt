@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Unique Weapon Conversion #nb#nc
-You can convert a normal weapon (lvl. 60 requirement to wield or higher) to a Unique Weapon using 1 Jewel that corresponds to the level required to wield the weapon and 1 Shining Power Dice. If the conversion fails, all materials will be destroyed.
+﻿#b#cff0000ff 独特武器转换 #nb#nc
+你可以通过使用 1 个与你的武器所需等级对应的珠宝和 1 个闪亮精炼骰子，将普通武器（需求等级 60 或更高）转换为独特武器。如果转换失败，所有材料将被摧毁。

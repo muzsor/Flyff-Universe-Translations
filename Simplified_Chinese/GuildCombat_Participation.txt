@@ -1,15 +1,14 @@
-﻿#b#cff0000ff* Participation#nb#nc
-* Application Time: Every Sunday 00:00 to Saturday 13:00 UTC
-* Combat Place: Server Channel 1
-* Conditions
- - Guild Master
- - The level of Guild should be 6 or higher.
- - The level of Guild member should be 30 or higher.
- - Guild Master or Kingpin should join together.
- - Only 8 Guilds can join in order of the amount of applying money (before the end of applification).
-* Schedule
- - 13:00  Entry
- - 13:10  Entry is ended
- - 13:20  Combat begins
- - 13:50  Combat is ended
-#b#cffff0000* Guild Siege will only begin if 2 or more Guilds are accepted.#nb#nc
+﻿#b#cff0000ff* 参赛信息#nb#nc
+* 报名时间：每周日 00:00 至周六 13:00 UTC
+* 战场位置：服务器第 1 频道
+* 报名条件
+ - 公会等级 6 级以上。
+ - 公会成员等级 30 级以上。
+ - 公会会长或副会长必须参加。
+ - 最多 8 个公会可以加入，按报名费金额排序（在报名期结束前）。
+* 时间安排
+ - 13:00  进场阶段
+ - 13:10  进场结束
+ - 13:20  对战开始
+ - 13:50  对战结束
+#b#cffff0000* 只有当 2 个或以上的公会被接受时，公会战才会开始。#nb#nc
