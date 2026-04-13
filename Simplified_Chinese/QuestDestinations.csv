@@ -37,11 +37,11 @@ QUEST_DESTINATION_0044,Bring it to Dr. Estly,把它带给依斯特里博士
 QUEST_DESTINATION_0045,Please give it to Mayor in Darkon,请将它交给达肯的市长
 QUEST_DESTINATION_0056,Bring it to Chairman of History Society Gothante.,把它带给历史研究会长扎森特
 QUEST_DESTINATION_0057,Bring it to Manager of Ancient Document Rovanett,把它带给档案管理员鲁巴迦丽
-QUEST_DESTINATION_0058,Bring it to Great Magician Laola,带给[大魔导士]拉宇
+QUEST_DESTINATION_0058,Bring it to Great Magician Laola,带给 [大魔导士] 拉宇
 QUEST_DESTINATION_0059,Bring it to Historian Martinyc,把它带给玛缇雅克
-QUEST_DESTINATION_0060,Bring it to Mercenary Instructor Hyuit,带给[战士助教]辉羽
+QUEST_DESTINATION_0060,Bring it to Mercenary Instructor Hyuit,带给 [战士助教] 辉羽
 QUEST_DESTINATION_0061,Kill Small Mushpang,击杀小嘭嘭菇
-QUEST_DESTINATION_0062,Bring it to Assist Instructor Kidmen,带给[圣职者助教]凯德蔓
+QUEST_DESTINATION_0062,Bring it to Assist Instructor Kidmen,带给 [圣职者助教] 凯德蔓
 QUEST_DESTINATION_0063,Bring it to Hachal in Flarine,把它带给帕里的哈查尔。
 QUEST_DESTINATION_0064,Bring it to Hachal in Darkon,把它带给达肯的哈查尔。
 QUEST_DESTINATION_0066,Receive mail from Rankashu who is standing in front of Dekane Mine,获得站在达肯矿洞前的小草儿的邮件
@@ -66,7 +66,7 @@ QUEST_DESTINATION_0084,It exists in Iblis and revelation can be found in the las
 QUEST_DESTINATION_0085,Kill 8 Iblis Crashers in the Iblis Temple.,在幻魔依普利神殿击杀8个秘殿破坏者。
 QUEST_DESTINATION_0086,Kill an Iblis Guardian in the Iblis Temple.,在幻魔依普利神殿击杀1个秘殿警戒者。
 QUEST_DESTINATION_0087,Obtain the Pattern by Killing an Iblis Guardian.,通过杀死一个秘殿警戒者获得纹样。
-QUEST_DESTINATION_0091,Please purchase a Long Sword from [Shield] Luda.,请在路达处[盾牌商店]购买一把长剑。
+QUEST_DESTINATION_0091,Please purchase a Long Sword from [Shield] Luda.,请在路达处 [盾牌商店] 购买一把长剑。
 QUEST_DESTINATION_0093,"After speaking with Drian, obtain a pouch.",在与德里安交谈后，取得一个袋子
 QUEST_DESTINATION_0094,A group of Organigor exists nearby.,附近有一群战栗毒蝎。
 QUEST_DESTINATION_0095,A group of Gangard exists nearby.,附近有一大群冰色巨眼怪。
@@ -87,7 +87,7 @@ QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,Collect Mineral fr
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,Collect Guru from Guru Catchers.
 QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,将精炼钢交给查宾。
 QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,将冶金公牛戒指交给华乐。
-QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,将充能完毕的避雷针交给[历史研究会长] 扎森特。
+QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,将充能完毕的避雷针交给 [历史研究会长] 扎森特。
 QUEST_DESTINATION_1017,Collect $QUEST_END_ITEM_NAME$ from final dungeon bosses.,从副本最终 boss 处收集 $QUEST_END_ITEM_NAME$。
 QUEST_DESTINATION_1018,Give the Elixir of Cleansing to Hael.,将净化灵药交给海尔。
 QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,从巨型怪物与宝箱中收集终极精粹。
@@ -117,7 +117,7 @@ QUEST_DESTINATION_1042,Kill %s more [Violent Soul] Ghed to spawn an hidden chest
 QUEST_DESTINATION_1043,Defeat %s Dungeon Final Boss,击败 %s 副本最终首领
 QUEST_DESTINATION_1044,You received Master's letter of introduction from the previous quest.,你在上一任务中获得了大师介绍信。
 QUEST_DESTINATION_1045,You received Fragment of a Fallen Ship from the Mayor of Flarine.,你从帕里镇长处获得了沉船碎片。
-QUEST_DESTINATION_1046,You received Translated Lycan Operation Plan from [Captain] Baron.,你从[队长] 巴伦处获得了译制的狼人作战计划。
-QUEST_DESTINATION_1047,You received All about Muran! from [Elder] Melak.,你从[长者]梅拉克处获得了任务物品：《关于穆兰的一切》。
+QUEST_DESTINATION_1046,You received Translated Lycan Operation Plan from [Captain] Baron.,你从 [队长] 巴伦处获得了译制的狼人作战计划。
+QUEST_DESTINATION_1047,You received All about Muran! from [Elder] Melak.,你从 [长老] 梅拉克处获得了任务物品：《关于穆兰的一切》。
 QUEST_DESTINATION_1048,You collected Lycan Orders during the previous quest.,你在上一任务中已获得狼人指令书。
 QUEST_DESTINATION_1049,You collected Torn Scroll during the previous quest.,你在上一任务中已获得残破的卷轴。

@@ -1,14 +1,14 @@
 ﻿Key,English,Simplified_Chinese
 CLIENT_FAQ_INC_000000,How can I be resurrected?,死亡了如何复活？
-CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",点击[城镇之星]即可复活在最近的城市中。如果你有复活卷轴，或者圣职者用技能捞你，你可以原地复活。
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",点击 [城镇之星] 即可复活在最近的城市中。如果你有复活卷轴，或者圣职者用技能捞你，你可以原地复活。
 CLIENT_FAQ_INC_000002,Where are the monsters?,怪物分布在哪里？
 CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,怪物分布在地图各处，确定你打的怪物与你的实力相匹。
 CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,如何选定一个目标和取消选定？
-CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.",双击怪物即可攻击，单机目标则为选定，按下[ESC]即可取消锁定。
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.",双击怪物即可攻击，单机目标则为选定，按下 [ESC] 即可取消锁定。
 CLIENT_FAQ_INC_000006,How can I attack continuously?,如何连续攻击？
 CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,确保在选项窗口中勾选自动攻击的设置。
 CLIENT_FAQ_INC_000008,How do you use the skills?,如何使用技能？
-CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,按[K]打开技能菜单，将技能拖入连续技能栏内即可。
+CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,按 [K] 打开技能菜单，将技能拖入连续技能栏内即可。
 CLIENT_FAQ_INC_000010,How do you use the skills continuously?,如何连续使用技能？
 CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,将技能放置连续技能栏里，当选中目标按C键使用这些技能。移动形状像拼图块的技能需要把它们放置在一起。
 CLIENT_FAQ_INC_000012,How do I gain my health back?,如何回血？
@@ -28,9 +28,9 @@ CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Do
 CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.",飞行时，视角一般是固定的。
 CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys",飞行时，可以双击鼠标右键打开光标
 CLIENT_FAQ_INC_000028,How can I use Emoticons?,如何使用表情？
-CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emote and drag it to the bar.,点击[F9]坐下休息，你也可以按下[O]选择“坐下”动作。
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emote and drag it to the bar.,点击 [F9] 坐下休息，你也可以按下 [O] 选择“坐下”动作。
 CLIENT_FAQ_INC_000030,How do you trade with other characters?,如何与其他玩家交易
-CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",按住[Alt]点击想要交易的任何人物，选择[交易]即可。
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",按住 [Alt] 点击想要交易的任何人物，选择 [交易] 即可。
 CLIENT_FAQ_INC_000032,Where can I get a quest?,如何接取任务？
 CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,找NPC头像上有光标的。
 CLIENT_FAQ_INC_000034,What is a duel?,什么是对战？

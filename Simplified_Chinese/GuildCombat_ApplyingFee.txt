@@ -1,4 +1,4 @@
-﻿#b#cff0000ff* Applying Fee#nb#nc
-- Cancellation: 20% of applying money is deducted.
-- Failure: 2% of applying money is deducted.
-* Please make it sure that the 10 Guilds which succeed to join Guild Combat cannot get back the applying money.
+﻿#b#cff0000ff 报名费信息#nb#nc
+※ 取消报名时，将扣除 20% 的报名费。
+※ 报名未能进入前 10 名的公会时，将扣除 2% 的报名费。
+※ 成功进入公会战的 10 个公会不予退还报名费。

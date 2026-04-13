@@ -1,17 +1,19 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff* 奖励#nb#nc
+#b#cff0000ff* 红色纸片奖励#nb#nc
+- 参赛公会：4 × 参赛成员数
+#b#cff0000ff* 绿色纸片奖励#nb#nc
+- 胜利公会：34 × 参赛成员数
+- 亚军公会：24 × 参赛成员数
+- 季军公会：14 × 参赛成员数
+- 第四名公会：8 × 参赛成员数
+- 第五名公会：4 × 参赛成员数
+#b#cff0000ff* 金币奖励#nb#nc
+- 胜利公会：总报名费的 35%
+- 最佳玩家：总报名费的 15%
+#b#cff0000ff* 特殊奖励#nb#nc
+- 连胜 1 次：见习龙纹披风，全属性 +5
+- 连胜 2 次：熟练龙纹披风，全属性 +6，最大血量 +100
+- 连胜 3 次：专家龙纹披风，全属性 +7，最大血量 +100
+- 连胜 4 次：英雄龙纹披风，全属性 +8，最大血量 +100
+#b#cffff0000* 公会仓库中会出现可以自由制作龙纹披风的按钮。#nb#nc
+* 龙纹披风只能在下次公会战开始前装备使用。

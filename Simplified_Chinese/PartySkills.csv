@@ -6,7 +6,7 @@ PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a tar
 PROPTROUPESKILL_TXT_000004,Retreat,演出谢幕
 PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,通知团员撤退。[消耗点数：0]
 PROPTROUPESKILL_TXT_000008,Precision,全场喝彩
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,根据周围剧团成员数量增加团长下一次攻击的暴击率（0.5% x 团员数量）。
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,根据周围剧团成员数量增加团长下一次攻击的暴击率 (0.5% x 团员数量)。
 PROPTROUPESKILL_TXT_000010,Linked Attack,合作攻击
 PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,每位周围的剧团成员，会为团长提供5%的伤害加成。[消耗点数：3]
 PROPTROUPESKILL_TXT_000012,Lucky Drop,幕间抽奖

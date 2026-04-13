@@ -482,11 +482,11 @@ PROPMOVER_TXT_001076,Small Maid Cardpuppet,可爱的扑克人偶
 PROPMOVER_TXT_001078,Small Mia,粗布米娅娃娃
 PROPMOVER_TXT_001080,Baby Black Dragon,勇猛的神龙
 PROPMOVER_TXT_001196,Baby Yetti,小怪力羊
-PROPMOVER_TXT_001300,[Guildwar Manager] Frankie,[公会战管理员]法兰奇
-PROPMOVER_TXT_001302,[Guildwar Manager] Donaris,[公会对战管理员]多拿里斯
-PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1公会对战管理员]阿摩司
-PROPMOVER_TXT_001306,[1vs1Guildwar Manager] Annie,[1vs1公会对战管理员]艾妮
-PROPMOVER_TXT_001308,[Arena Manager] Lay,[竞技场管理员]雷
+PROPMOVER_TXT_001300,[Guildwar Manager] Frankie,[公会战管理员] 法兰奇
+PROPMOVER_TXT_001302,[Guildwar Manager] Donaris,[公会对战管理员] 多拿里斯
+PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1公会对战管理员] 阿摩司
+PROPMOVER_TXT_001306,[1vs1Guildwar Manager] Annie,[1vs1公会对战管理员] 艾妮
+PROPMOVER_TXT_001308,[Arena Manager] Lay,[竞技场管理员] 雷
 PROPMOVER_TXT_001310,Mayor,市长
 PROPMOVER_TXT_001318,English Bulldog,凶猛牛头犬
 PROPMOVER_TXT_001320,Naughty Ghost,顽皮幽灵
@@ -518,11 +518,11 @@ PROPMOVER_TXT_001588,Mocomochi,摩可摩奇
 PROPMOVER_TXT_001590,Soul Dancer,灵魂舞者
 PROPMOVER_TXT_001592,Clockworks Butler,时空毁灭者守护者
 PROPMOVER_TXT_001628,[Village Chief] Huntrang,[村长] 亨特朗
-PROPMOVER_TXT_001630,[Quest Office] Miorang,[任务委托所]米兰科
-PROPMOVER_TXT_001654,[Crackshooter Master] Meiarun,[神射手大师]迈尔伦
-PROPMOVER_TXT_001656,[Arcanist Master] Howrang,[奥术师大师]哈朗
+PROPMOVER_TXT_001630,[Quest Office] Miorang,[任务委托所] 米兰科
+PROPMOVER_TXT_001654,[Crackshooter Master] Meiarun,[神射手大师] 迈尔伦
+PROPMOVER_TXT_001656,[Arcanist Master] Howrang,[奥术师大师] 哈朗
 PROPMOVER_TXT_001680,Cheirang,柴朗
-PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,[石头剪刀布大师]迪米
+PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,[石头剪刀布大师] 迪米
 PROPMOVER_TXT_001716,Chameleon,变色龙
 PROPMOVER_TXT_001804,Braaaaains,小僵尸
 PROPMOVER_TXT_001814,Male Zombie,男僵尸
@@ -534,7 +534,7 @@ PROPMOVER_TXT_002004,Gray Earl,格雷伯爵
 PROPMOVER_TXT_002006,Jack Frost,冰霜雪人
 PROPMOVER_TXT_002008,Mr. Grinchie,格林奇先生
 PROPMOVER_TXT_002010,Rudolph,红鼻子驯鹿
-PROPMOVER_TXT_002020,[Development Supervisor] Kim,[开发经理]金
+PROPMOVER_TXT_002020,[Development Supervisor] Kim,[开发经理] 金
 PROPMOVER_TXT_002026,Kuma,轻松熊
 PROPMOVER_TXT_002034,Usagi,精灵兔
 PROPMOVER_TXT_002036,Cooperative Donation NPC,合作捐赠NPC
@@ -905,10 +905,10 @@ PROPMOVER_TXT_001228,Regal Kumai,王室库迈
 PROPMOVER_TXT_001229,Enchanted Rider,魔化莱德
 PROPMOVER_TXT_001230,Enchanted Shaman,魔化萨满
 PROPMOVER_TXT_001231,Enchanted AI,魔化阿修罗
-PROPMOVER_TXT_001232,Pyramid Keeper,金字塔看守者
-PROPMOVER_TXT_001233,Pyramid Guardian,金字塔守卫
+PROPMOVER_TXT_001232,Pyramid Keeper,金字塔守卫者
+PROPMOVER_TXT_001233,Pyramid Guardian,金字塔守护者
 PROPMOVER_TXT_001234,Defense Otem,守护图腾
-PROPMOVER_TXT_001235,Skeleton General,骷髅将军
+PROPMOVER_TXT_001235,Skeleton General,冥骸将军
 PROPMOVER_TXT_230001,Enraged Yetti,暴怒怪力羊
 PROPMOVER_TXT_230002,Frozen Hare Guard,冰封兔子骑士
 PROPMOVER_TXT_230003,Saphyryan Hound,冰封斑狼
@@ -1056,7 +1056,7 @@ PROPMOVER_TXT_210095,Tanuki Enforcer,浣熊执行官
 PROPMOVER_TXT_210096,Tanuki Protector,浣熊守卫者
 PROPMOVER_TXT_210097,Wildwood Stalker,丛林追猎者
 PROPMOVER_TXT_210098,Wildwood Chieftain,丛林酋长
-PROPMOVER_TXT_210099,Beast King Khan,兽王可汗
+PROPMOVER_TXT_210099,Beast King Khan,百兽之王・可汗
 PROPMOVER_TXT_210100,Small Kingster,小型霸王虾
 PROPMOVER_TXT_110101,Kingster,霸王虾
 PROPMOVER_TXT_110102,Captain Kingster,大型霸王虾
@@ -1511,8 +1511,8 @@ PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[狂暴灵魂] 盖德
 PROPMOVER_TXT_500055,[God of Death] Ankou,[死神] 安库
 PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[死神] 狱焰安库
 PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[死神] 冥魔安库
-PROPMOVER_TXT_500058,[Elder] Traitus,[长者] 特莱图斯
-PROPMOVER_TXT_500059,Asylum Guard,庇护所守卫
+PROPMOVER_TXT_500058,[Elder] Traitus,[长老] 特莱图斯
+PROPMOVER_TXT_500059,Asylum Guard,魔域守卫
 PROPMOVER_TXT_500060,Ankou,安库
 PROPMOVER_TXT_500061,Demonic Ankou,冥魔安库
 PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,2025 蓝色感恩火鸡

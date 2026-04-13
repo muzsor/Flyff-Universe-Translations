@@ -1,17 +1,9 @@
-﻿#b 竞赛规则 #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+﻿#b 竞速规则 #nb
+1. 只有已报名参加彩虹竞速的玩家才能参加。
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. 竞速的目标是沿着指定路线行进，通过路标圆圈获得积分，并尽快到达终点。
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. 在彩虹竞速期间，通过包含物品箱的路标圆圈可以获得可攻击其他玩家或保护自己的物品。
+(比赛期间，背包中的所有物品均不可使用)
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. 只有在彩虹竞速开始时在线的角色才能参加竞速。

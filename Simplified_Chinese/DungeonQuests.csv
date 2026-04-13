@@ -13,7 +13,7 @@ PROPQUEST_DUNGEONANDPK_INC_000378,I will give you the Key if you can bring me $Q
 PROPQUEST_DUNGEONANDPK_INC_000379,How long until you are ready to leave this place?,不知道你何时可以逃脱这个阴暗之地...
 PROPQUEST_DUNGEONANDPK_INC_000380,Here is the Key. Now go and never return.,钥匙给你，走吧，别再让我看到你。
 PROPQUEST_DUNGEONANDPK_INC_000381,I will give you your freedom for only $QUEST_END_ITEM_COUNT$ beads. How could you pass on an offer like that?,只有拿来$QUEST_END_ITEM_COUNT$解脱水晶，我才会给你自由。
-PROPQUEST_DUNGEONANDPK_INC_000382,Keep gathering your beads.,收集旁边地上的珠子（盒子
+PROPQUEST_DUNGEONANDPK_INC_000382,Keep gathering your beads.,收集旁边地上的珠子 (盒子
 PROPQUEST_DUNGEONANDPK_INC_000390,You are welcome to stay for as long as you would like.,难道你这么喜欢这个岛屿吗?那~你就继续留下来吧!
 PROPQUEST_DUNGEONANDPK_INC_000420,Entering the Dekane Mine,进入达肯矿洞
 PROPQUEST_DUNGEONANDPK_INC_000421,You are really willing to enter the Dekane Mine?,你真的想进入达肯矿洞吗?
@@ -23,7 +23,7 @@ PROPQUEST_DUNGEONANDPK_INC_000424,Here is the Mine Entrance Card. It is up to yo
 PROPQUEST_DUNGEONANDPK_INC_000425,Is it so hard to tell me what I want to know? Leave quickly.,帮我问个事情有那么难吗？真是一个无能的家伙啊！快去问一问回来好不好啊？
 PROPQUEST_DUNGEONANDPK_INC_000426,Visit the Dwarpet Rankashu and get the information Cell wanted.,去找小草儿之后，帮飞儿询问消息。
 PROPQUEST_DUNGEONANDPK_INC_000429,You have the Mine Entrance Card. Now to find out what everyone is so afraid of.,终于拿到可以进入达肯矿洞的道具了.为什么大家都很讨厌进入这里呢？难道有什么秘密吗？
-PROPQUEST_DUNGEONANDPK_INC_000431,Keakoon in Mine (1),矿山里的奇昆族（上）
+PROPQUEST_DUNGEONANDPK_INC_000431,Keakoon in Mine (1),矿山里的奇昆族 (上)
 PROPQUEST_DUNGEONANDPK_INC_000432,"I am Drian son of Nevil, great chief of the original Keakoon. We were once friendly with the humans.",我是奇昆族族长蓝彼的儿子德里安.呵呵～我们奇昆族在很久以前与人类相处的很好呢～
 PROPQUEST_DUNGEONANDPK_INC_000433,We helped humans develop the mine long ago but when they left some of us were locked up by a new breed of Keakoons.,当时、矿山正在开发，与人类相处的很好。可是我们现在离开了人类，过着很悲惨的生活。
 PROPQUEST_DUNGEONANDPK_INC_000434,My father is old and cannot last much longer in his prison. Please help me rescue him.,而且我老爸现在年纪也不少了，可是在牢里受困，你可以救出我的爸爸吗？
@@ -33,23 +33,23 @@ PROPQUEST_DUNGEONANDPK_INC_000437,Oh… Thank you… so much. I could never repa
 PROPQUEST_DUNGEONANDPK_INC_000438,You have to gather all three pieces of the Key.,3块钥匙片长的不同，所以你要得到3块不同的钥匙块才可以，谢谢你啦～
 PROPQUEST_DUNGEONANDPK_INC_000439,Hunt Keakoon and get all 3 pieces of the prison key.,猎杀奇昆后，搜集3块不同的钥匙片回来。
 PROPQUEST_DUNGEONANDPK_INC_000442,You have delivered all the pieces of the key but it looks like he still has something to say.,搜集到3块钥匙了，他好像还有些话想对我说的感觉呢...
-PROPQUEST_DUNGEONANDPK_INC_000444,Keakoon in Mine (2),矿山里的奇昆族（中）
+PROPQUEST_DUNGEONANDPK_INC_000444,Keakoon in Mine (2),矿山里的奇昆族 (中)
 PROPQUEST_DUNGEONANDPK_INC_000445,I still have a need for you. Would you help me yet again?,其实......还有一件事情想拜托你，可以帮我救出大牢里的我爸爸吗？拜托啦～
 PROPQUEST_DUNGEONANDPK_INC_000446,You are a true friend. Take this key and free my father. I am not strong enough. Please.,你真是我的好朋友啊！这是大牢的钥匙，帮我就回我爸爸的话，我一定会报答你的.拜托你了。
 PROPQUEST_DUNGEONANDPK_INC_000447,You show yourself to be no better than the fiends that imprisoned my father.,难道人类真的这么不可信任吗？
 PROPQUEST_DUNGEONANDPK_INC_000449,My father is in a prison on the outskirts of Keakoon village. Please hurry he cannot last much longer.,我爸爸他关在奇昆村最右边的一个大牢里，快去帮我救他～
 PROPQUEST_DUNGEONANDPK_INC_000450,"Rescue Nevil, father of Drian.",把大牢里的蓝彼救出来。
 PROPQUEST_DUNGEONANDPK_INC_000453,You have saved Nevil. Go and talk to him.,把得安的父亲蓝彼救出来了，向蓝彼对话看看好了。
-PROPQUEST_DUNGEONANDPK_INC_000455,Keakoon in Mine (3),矿山里的奇昆族（下）
+PROPQUEST_DUNGEONANDPK_INC_000455,Keakoon in Mine (3),矿山里的奇昆族 (下)
 PROPQUEST_DUNGEONANDPK_INC_000456,"Many thanks, friend. You have done so much for us but would you do something more?",真的是很感谢你啦～看你能够把我救出来，你一定是一个很厉害的战士。所以啊～你可以在帮我一件事情吗？
-PROPQUEST_DUNGEONANDPK_INC_000457,Please defeat the Elite Keakoon Guard Leader and bring me the Chief Sign that proves I am the one true Chief of the Keakoon. Would you also please bring me the cargo my son Drian is keeping safe for me?,我有两件事情想拜托你，首先、我要证明我是奇昆族的族长，需要猎杀[精英奇昆警卫队长]帮我找回印章。第2件事情就是，请你去找我儿子，拿回我的行李。
+PROPQUEST_DUNGEONANDPK_INC_000457,Please defeat the Elite Keakoon Guard Leader and bring me the Chief Sign that proves I am the one true Chief of the Keakoon. Would you also please bring me the cargo my son Drian is keeping safe for me?,我有两件事情想拜托你，首先、我要证明我是奇昆族的族长，需要猎杀 [精英奇昆警卫队长] 帮我找回印章。第2件事情就是，请你去找我儿子，拿回我的行李。
 PROPQUEST_DUNGEONANDPK_INC_000458,What kind of person are you if you refuse to help those with less power than you?,你有实力，可是不帮弱者，这哪叫做是一个勇士呢......
 PROPQUEST_DUNGEONANDPK_INC_000459,Thank you. It is my great hope that Keakoon and human can thrive together once again. Take this ring as a gift.,谢谢你啦～真希望我们可以像以前一样，可以与人类好好相处，这是我送你的礼物，收下吧！看你来到这么危险的达肯矿洞...你应该很喜欢挑战冒险吧～
 PROPQUEST_DUNGEONANDPK_INC_000460,"If, by any chance, you want more adventure visit Bernard in Darken. Be careful. I would hate for something to happen to you.",一说到冒险啊～也没有比这里还要棒的地方了。如果你要继续挑战冒险的话，可以去村庄找“番若迪”喔～说不定你可以抢救这个矿山。这是到下一个地区钥匙，收下吧！
 PROPQUEST_DUNGEONANDPK_INC_000461,Hrmm… It might not be that dangerous for someone as strong as you.,嗯...你都可以把我从大牢里救出来了，所以对你来说应该不是一件困难的事情啦！
 PROPQUEST_DUNGEONANDPK_INC_000462,Bring the seal of the chief and the package that Drian is holding back to Nevil.,将德里安身上的“族长的印章”与“行李箱”带回给蓝彼。
 PROPQUEST_DUNGEONANDPK_INC_000465,"You rescued Nevil, chief of the Keakoon. You can feel the secrets around this place. Maybe you can get some information from Bernard.",一进矿山就见到奇昆族，帮他们解决问题了，以蓝彼说的来看，这个矿山好像还有很多秘密...我应该要去找番若迪问问看才对。
-PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),死亡的矿山与巨械毒花（上）
+PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),死亡的矿山与巨械毒花 (上)
 PROPQUEST_DUNGEONANDPK_INC_000468,Hmm… Is that the ring of Nevil around your finger?,嗯...你手上带的戒指，那个不是蓝彼的戒指吗？嗯... 你把蓝彼救出来了，对吧！
 PROPQUEST_DUNGEONANDPK_INC_000469,Your strength has been proven then. Would you prove yourself further? The Roach is somehow connected to the death of people in the mine.,那你可以帮我一件事情吗？以前有很多人死在矿山里面，我想应该是跟巨械毒花有关系。
 PROPQUEST_DUNGEONANDPK_INC_000470,There is a mystery to be unlocked here. Would you bring me the blood of the Roach larva?,我为了研究巨械毒花所以需要他的血液，你可以帮我搜集吗？
@@ -59,7 +59,7 @@ PROPQUEST_DUNGEONANDPK_INC_000473,"Ahh, there is much to be learned from the blo
 PROPQUEST_DUNGEONANDPK_INC_000474,No! No! No! Bring me more information!,不！不！不行！再探，再报！
 PROPQUEST_DUNGEONANDPK_INC_000475,Bring the blood of Roaches by destroying their eggs and defeating Roach Larva.,经过奇昆地区之后，打碎粉红毒花与蓝毒花的卵，搜集它们的血液。
 PROPQUEST_DUNGEONANDPK_INC_000478,Looks like he still has a need of you.,搜集“乳虫树液”拿给他之后，他好像要拜托我其他的事情呢...
-PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),死亡的矿山与巨械毒花(2)
+PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),死亡的矿山与巨械毒花 (2)
 PROPQUEST_DUNGEONANDPK_INC_000481,The toxicity of Roaches has poisoned many humans in the mine.,我使用你帮我搜集的“乳虫树液”来研究后，找到以前那些人在矿山里无原无辜死掉的原因了，都是因为巨械毒花的毒而引起的。
 PROPQUEST_DUNGEONANDPK_INC_000482,It seems that the Roach Queens are the source of the poison.,似乎这个毒是来自于毒花女王的。
 PROPQUEST_DUNGEONANDPK_INC_000483,Bring me the blood of Pink and Blue Roach Queens so that I can make a vaccine.,我要制造预防这些病菌的疫苗，你可以帮我从蓝毒花女王身上采取她的血液给我吗？
@@ -108,7 +108,7 @@ PROPQUEST_DUNGEONANDPK_INC_000540,Kazen has hated humans for as long as I have k
 PROPQUEST_DUNGEONANDPK_INC_000541,You let me know if he is acting suspiciously. Maybe I can do something to help you.,反正啦～如果你觉得它怪怪的话，马上来跟我说吧！或许我可以帮得上你的忙。
 PROPQUEST_DUNGEONANDPK_INC_000542,Why not just let it go? Go home and get some rest.,我觉得你还是不要自找麻烦啦！在这里放弃好不好？
 PROPQUEST_DUNGEONANDPK_INC_000543,Get the ID card that will allow you into the room with the Violet Trillipy. Hunt them down and bring 20 pieces of Triduum to Nein.,得到通行卡之后，猎杀毒蜥蜴搜集20个特立磷回来吧！
-PROPQUEST_DUNGEONANDPK_INC_000548,ID Card (1),通行卡的下落（上）
+PROPQUEST_DUNGEONANDPK_INC_000548,ID Card (1),通行卡的下落 (上)
 PROPQUEST_DUNGEONANDPK_INC_000549,"What? You want to know where the Violet Trillipy live? You seem so curious about this accursed mine. Unfortunately, there are not many people left who know much about it.",啊？你想知道关于毒蜥蜴的事情喔？你的好奇心未免也太大了吧！知道毒蜥蜴的人其实也不多呢～
 PROPQUEST_DUNGEONANDPK_INC_000550,Only a few of the mine workers go that deep into the mine. I don't know much about them or the ID card they use to get down there. Oh! You should go speak with Bernard about this.,那里只有少数的人才可以进去啦！对那个地方我是完全不懂啦。对了！你去找番若迪好了，说不定他会知道一些事情。
 PROPQUEST_DUNGEONANDPK_INC_000551,Would you please say Hi to Bernard for me?,好吧！你见到他的话，顺便帮我问他最近过得如何好吗？
@@ -116,7 +116,7 @@ PROPQUEST_DUNGEONANDPK_INC_000552,"No, you are right. You should not be the next
 PROPQUEST_DUNGEONANDPK_INC_000553,Violet Trillipy… Do you mean you are going in there with them?,你说毒蜥蜴喔......难道你想进去那个地方吗？
 PROPQUEST_DUNGEONANDPK_INC_000554,Why not just relax and give it up?,不要自找麻烦了啦～放弃好不好啊？
 PROPQUEST_DUNGEONANDPK_INC_000555,"Chat with Bernard, then meet Andre in Darkon 3.",与番若迪交谈，然后去找达肯3的安德烈。
-PROPQUEST_DUNGEONANDPK_INC_000560,ID card (2),通行卡的下落（下）
+PROPQUEST_DUNGEONANDPK_INC_000560,ID card (2),通行卡的下落 (下)
 PROPQUEST_DUNGEONANDPK_INC_000561,"Look, I have no problem giving you the ID card… I just do not want to see you die… But if you really insist, then fine. Hunt some Watangka and I will give you the card.",给你通行卡是不成问题啦～可是我不希望你这个人去送死呢。好吧...不然我来看看你有没有那个能力进去好了...你想证明你的实力给我看的话，去猎杀巫民吧！
 PROPQUEST_DUNGEONANDPK_INC_000562,If you can hunt Watangka you can probably hunt Violet Trillipy.,嗯！像他这种的话，应该跟毒蜥蜴有得比啦！
 PROPQUEST_DUNGEONANDPK_INC_000563,Bye bye then! Take care of yourself…,加油喔！
@@ -125,7 +125,7 @@ PROPQUEST_DUNGEONANDPK_INC_000565,"Alright, here is the ID card. Just make sure 
 PROPQUEST_DUNGEONANDPK_INC_000566,I guess we all get tired sometime?,咯～累的话休息吧！人生有什么意义呢？
 PROPQUEST_DUNGEONANDPK_INC_000567,Defeat 30 Captain Watangka and the Lord Watangka.,Defeat 30 Captain Watangka and the Lord Watangka.
 PROPQUEST_DUNGEONANDPK_INC_000572,Door of Dark,黑暗之门
-PROPQUEST_DUNGEONANDPK_INC_000573,"Excuse me. If you are not busy, would you please listen to my story? Have you ever heard of the Iblis Temple?",请问一下，你有听说过[幻魔依普利神殿]吗？
+PROPQUEST_DUNGEONANDPK_INC_000573,"Excuse me. If you are not busy, would you please listen to my story? Have you ever heard of the Iblis Temple?",请问一下，你有听说过 [幻魔依普利神殿] 吗？
 PROPQUEST_DUNGEONANDPK_INC_000574,"The Iblis Temple was built by the followers of Iblis, a leader from before the first age of Madrigal.",我也不是很清楚，据说幻魔依普利神殿是瑞加世界的历史开始前，就由幻魔依普利所创造出来的… 
 PROPQUEST_DUNGEONANDPK_INC_000575,"The temple is located in the Fantasy Desert, in the southern part of Saint Morning.",也有人说是人工所建造的地牢，地牢位于晨光南部梦幻沙漠！
 PROPQUEST_DUNGEONANDPK_INC_000576,You see... every mayor has to explore all the Islands of Madrigal. In the course of these travels we have to visit the Iblis Temple but... I am so afraid.,各方的旅人都会经过这地方，但这地牢让人感觉得相当危险…
@@ -140,11 +140,11 @@ PROPQUEST_DUNGEONANDPK_INC_000585,Oh... Back so soon? I am glad you are back but
 PROPQUEST_DUNGEONANDPK_INC_000586,I guess I am still worrying about the Iblis Temple. I know you said that there is nothing to worry about but I still have a bad feeling about that place.,没错！就是幻魔依普利，听说又出些状况！！
 PROPQUEST_DUNGEONANDPK_INC_000587,Would you please help me once more? I will not be able to rest until I know for sure…,各种谣言在市民间流传着，你一定要再帮帮我才行！
 PROPQUEST_DUNGEONANDPK_INC_000588,"I heard that there is a copy of the Iblis Revelation in the temple. Please bring me a rubbed copy of it, I need to see what it says.",地牢里应该留有幻魔依普利的遗物，听说他有留下一本幻魔依普利启示录的拓本，能找找看吗？
-PROPQUEST_DUNGEONANDPK_INC_000589,...but I... I... need your help…,(快要哭出来的样子)我……我………
-PROPQUEST_DUNGEONANDPK_INC_000590,This… this is more shocking than I could have imagined. Bubble please protect us.,(在得知伊普里司启示录拓本的内容后)想不到竟然会发生这样的事情… 该怎么办啊？！事情比想像的要严重许多！
+PROPQUEST_DUNGEONANDPK_INC_000589,...but I... I... need your help…,(快要哭出来的样子) 我……我………
+PROPQUEST_DUNGEONANDPK_INC_000590,This… this is more shocking than I could have imagined. Bubble please protect us.,(在得知伊普里司启示录拓本的内容后) 想不到竟然会发生这样的事情… 该怎么办啊？！事情比想像的要严重许多！
 PROPQUEST_DUNGEONANDPK_INC_000591,There is a copy of the Iblis Revelation in the Iblis Temple. Bring a rubbed copy of it.,地牢里应该留有幻魔依普利的遗物，听说他有留下一本幻魔依普利启示录的拓本，请找回来给我！
 PROPQUEST_DUNGEONANDPK_INC_000593,The Revival,复活
-PROPQUEST_DUNGEONANDPK_INC_000594,What should we do?! What should we do?!,(语无伦次地说)真糟糕！该怎么办啊？
+PROPQUEST_DUNGEONANDPK_INC_000594,What should we do?! What should we do?!,(语无伦次地说) 真糟糕！该怎么办啊？
 PROPQUEST_DUNGEONANDPK_INC_000595,I read the revelation and it speaks of the revival of Iblis as the trigger to the end of the world!,幻魔依普利启示录拓本的内容，竟然预言世界末日的到来，如果让幻魔依普利复活，那这世界就没希望了！
 PROPQUEST_DUNGEONANDPK_INC_000596,"If this is true, we have to stop it! This could be worse than the Hero Wars of long ago.",一定要竭力所能阻止他复活才行！
 PROPQUEST_DUNGEONANDPK_INC_000597,You told me that you saw new types of masquerpets while you were getting the revelation right? I think that maybe…,在地穴的出现的怪物就是他复活的前兆！请帮我搜集这些怪物的情报吧！
