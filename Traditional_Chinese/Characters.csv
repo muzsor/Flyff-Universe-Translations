@@ -21,8 +21,8 @@ CHARACTER_INC_000075,Ismeralda,艾絲美蘭達
 CHARACTER_INC_000083,Flaris Pang,布拉里‧乓
 CHARACTER_INC_000091,Jeff,傑夫
 CHARACTER_INC_000099,[High-Dwarpet] Tucani,[高階杜爾沛] 哆卡
-CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
-CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Wise-man] Kimel
+CHARACTER_INC_000101,[Jester Wise-man] Radyon,[智愚賢者] 雷迪恩
+CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[遊俠賢者] 基梅爾
 CHARACTER_INC_000111,[Pepoview] Brodeay,[帕佩族] 布羅威
 CHARACTER_INC_000113,[Pepoview] Ruminerr,[帕佩族] 拉美納
 CHARACTER_INC_000115,[Pepoview] Ellangdl,[帕佩族] 艾郎德
@@ -88,13 +88,13 @@ CHARACTER_INC_000339,Class Goods,職業用品
 CHARACTER_INC_000342,[Acrobat Drillmaster] Hent,[雜技師訓練教官] 涵特
 CHARACTER_INC_000344,[Acrobat Master] Pyre,[雜技大師] 飛蕊
 CHARACTER_INC_000346,[Acrobat Instructor] Tailer,[雜技師訓練助教] 塔利爾
-CHARACTER_INC_000348,[Jester Master] Lorein,[操偶大師]蘿麗安
-CHARACTER_INC_000350,[Jester Priest] Homeit,[操偶師祭司]胡鎂爾
-CHARACTER_INC_000352,[Jester Guardian] Heingard,[操偶師守護者]海音卡蘿德
-CHARACTER_INC_000354,[Ranger Master] Eliff,[浪人大師]艾梨布
-CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高階杜爾沛]利綺安
-CHARACTER_INC_000358,[Ranger Priest] Rupim,[浪人祭司]蘆蘋
-CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[浪人守護者]卡伊雷雅德
+CHARACTER_INC_000348,[Jester Master] Lorein,[操偶大師] 蘿麗安
+CHARACTER_INC_000350,[Jester Priest] Homeit,[操偶師祭司] 胡鎂爾
+CHARACTER_INC_000352,[Jester Guardian] Heingard,[操偶師守護者] 海音卡蘿德
+CHARACTER_INC_000354,[Ranger Master] Eliff,[浪人大師] 艾梨布
+CHARACTER_INC_000356,[High-Dwarpet] Liekyen,[高階杜爾沛] 利綺安
+CHARACTER_INC_000358,[Ranger Priest] Rupim,[浪人祭司] 蘆蘋
+CHARACTER_INC_000360,[Ranger Guardian] Kailreard,[浪人守護者] 卡伊雷雅德
 CHARACTER_INC_000362,Santa,聖誕老人
 CHARACTER_INC_000364,Priest,華倫泰神父
 CHARACTER_INC_000366,Hans,傑佛瑞
@@ -124,28 +124,28 @@ CHARACTER_INC_000440,[Santa] Aramy,[聖誕] 亞羅梅
 CHARACTER_INC_000442,[Santa] Atto,[聖誕] 亞妥
 CHARACTER_INC_000444,[Probationer Cook] Juglin,[見習廚師] 笛林亞特
 CHARACTER_INC_000454,Hachal,夏格凱巴
-CHARACTER_INC_000458,[Great Magician] Laola,[大魔法使]拉宇
+CHARACTER_INC_000458,[Great Magician] Laola,[大魔法使] 拉宇
 CHARACTER_INC_000460,[Dreadpet Manager] Himadel,喜馬多
 CHARACTER_INC_000462,[Dreadpet Manager] Gornus,勾勒努斯
 CHARACTER_INC_000464,[Dreadpet Manager] Kanane,卡哪內
-CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[勇者訓練教官]摸斯騰
-CHARACTER_INC_000468,[Mercenary Master] Andy,[勇者大師]安迪凱
-CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高階杜爾沛]克羅
-CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[勇者訓練助教]輝里傑
-CHARACTER_INC_000474,[Assist Drillmaster] Elic,[神職者訓練教官]艾里維得
-CHARACTER_INC_000476,[Assist Master] Maki,[神職者大師]瑪吉
-CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高階杜爾沛]克利培
-CHARACTER_INC_000480,[Assist Instructor] Kidmen,[神職者訓練助教]凱德尼克
-CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高階杜爾沛]海珊
+CHARACTER_INC_000466,[Mercenary Drillmaster] Mustang,[勇者訓練教官] 摸斯騰
+CHARACTER_INC_000468,[Mercenary Master] Andy,[勇者大師] 安迪凱
+CHARACTER_INC_000470,[High-Dwarpet] Langdrong,[高階杜爾沛] 克羅
+CHARACTER_INC_000472,[Mercenary Instructor] Hyuit,[勇者訓練助教] 輝里傑
+CHARACTER_INC_000474,[Assist Drillmaster] Elic,[神職者訓練教官] 艾里維得
+CHARACTER_INC_000476,[Assist Master] Maki,[神職者大師] 瑪吉
+CHARACTER_INC_000478,[High-Dwarpet] Goripeg,[高階杜爾沛] 克利培
+CHARACTER_INC_000480,[Assist Instructor] Kidmen,[神職者訓練助教] 凱德尼克
+CHARACTER_INC_000482,[High-Dwarpet] Hastan,[高階杜爾沛] 海珊
 CHARACTER_INC_000484,Rudvihil,蘿特泰斯
 CHARACTER_INC_000486,Ancimys,[魔法箱子] 安奇米斯
-CHARACTER_INC_000488,[Historian] Martinyc,[歷史學者]馬特尼提特
+CHARACTER_INC_000488,[Historian] Martinyc,[歷史學者] 馬特尼提特
 CHARACTER_INC_000490,[Mayor of Flarine],[布拉里斯市長]
 CHARACTER_INC_000492,[Public Official of Flarine],[布拉里斯公務員]
-CHARACTER_INC_000494,[Novelist] Gergantes,[小說家]凱樂帝函特
-CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔法使訓練教官]偉依
-CHARACTER_INC_000498,[Magician Master] Hee,[魔法使大師]喜雷
-CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔法使訓練助教]螺波提尼
+CHARACTER_INC_000494,[Novelist] Gergantes,[小說家] 凱樂帝函特
+CHARACTER_INC_000496,[Magician Drillmaster] Wingyei,[魔法使訓練教官] 偉依
+CHARACTER_INC_000498,[Magician Master] Hee,[魔法使大師] 喜雷
+CHARACTER_INC_000500,[Magician Instructor] Lopaze,[魔法使訓練助教] 螺波提尼
 CHARACTER_INC_000502,Helgar,海佳樂
 CHARACTER_INC_000504,Heltung,核騰摩克
 CHARACTER_INC_000506,Strange Collector,詭異的蒐藏家
@@ -154,7 +154,7 @@ CHARACTER_INC_000510,JeongHwa,真華
 CHARACTER_INC_000512,Porgo,柏洛格
 CHARACTER_INC_000514,[Mayor of Saint City],[聖音特市長]
 CHARACTER_INC_000516,[Chairman of History Society] Gothante,[歷史學會主席] 高譚提拉
-CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[古代文書管理者]魯巴迦麗
+CHARACTER_INC_000518,[Manager of Ancient Document] Rovanett,[古代文書管理者] 魯巴迦麗
 CHARACTER_INC_000520,Colar,凱樂拉
 CHARACTER_INC_000522,Amadolka,亞瑪多
 CHARACTER_INC_000524,Nina,妮娜
@@ -163,27 +163,27 @@ CHARACTER_INC_000528,PiPi,琵琵
 CHARACTER_INC_000530,Loyah,樂亞
 CHARACTER_INC_000532,Mayun,梅歐恩
 CHARACTER_INC_000534,Sotta,索達
-CHARACTER_INC_000536,[Knight Master] Karandur,[騎士首領]卡拉杜．愛朋
-CHARACTER_INC_000538,[Knight Wise-man] Hormes,[騎士賢者]霍魯美斯．凱德
+CHARACTER_INC_000536,[Knight Master] Karandur,[騎士首領] 卡拉杜．愛朋
+CHARACTER_INC_000538,[Knight Wise-man] Hormes,[騎士賢者] 霍魯美斯．凱德
 CHARACTER_INC_000540,Kurmin,庫魯米．韓森
-CHARACTER_INC_000542,[Knight Priest] Lobiet,[騎士祭司]拉薇特．黎
+CHARACTER_INC_000542,[Knight Priest] Lobiet,[騎士祭司] 拉薇特．黎
 CHARACTER_INC_000544,[Knight Guardian] Boneper,[騎士守護者] 波內佩拉
-CHARACTER_INC_000546,[Blade Master] Corel,[暗殺者首領]席瑞兒‧安得利爾
-CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[暗殺者賢者]加布里
+CHARACTER_INC_000546,[Blade Master] Corel,[暗殺者首領] 席瑞兒‧安得利爾
+CHARACTER_INC_000548,[Blade Wise-man] Guabrill,[暗殺者賢者] 加布里
 CHARACTER_INC_000550,Ata,艾塔米力諾
-CHARACTER_INC_000552,[Blade Priest] Jeperdy,[暗殺者祭司]傑佛迪索斯
+CHARACTER_INC_000552,[Blade Priest] Jeperdy,[暗殺者祭司] 傑佛迪索斯
 CHARACTER_INC_000554,[Blade Guardian] Sencyrit,[暗殺者守護者] 桑希里特
-CHARACTER_INC_000556,[Billposter Master] Ride,[爆咒師首領]瑞得
-CHARACTER_INC_000558,[Billposter Wise-man] Domek,[爆咒師賢者]德邁洛．詹
+CHARACTER_INC_000556,[Billposter Master] Ride,[爆咒師首領] 瑞得
+CHARACTER_INC_000558,[Billposter Wise-man] Domek,[爆咒師賢者] 德邁洛．詹
 CHARACTER_INC_000560,Segho,佩辛
-CHARACTER_INC_000562,[Billposter Priest] Fera,[爆咒師祭司]菲拉
+CHARACTER_INC_000562,[Billposter Priest] Fera,[爆咒師祭司] 菲拉
 CHARACTER_INC_000564,[Billposter Guardian] Capafe,[爆咒師守護者] 卡班沛
-CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守護者首領]愛嵐．依莉迪歐
-CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守護者賢者]可伯內特
+CHARACTER_INC_000566,[Ringmaster Master] Ellend,[守護者首領] 愛嵐．依莉迪歐
+CHARACTER_INC_000568,[Ringmaster Wise-man] Clamb,[守護者賢者] 可伯內特
 CHARACTER_INC_000570,Teshar,蝶斯塔洛得
-CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守護者祭司]海登
+CHARACTER_INC_000572,[Ringmaster Priest] Heedan,[守護者祭司] 海登
 CHARACTER_INC_000574,[Ringmaster Guardian] Romvoette,[守護者] 隆波艾達
-CHARACTER_INC_000576,[Psykeeper Master] Cylor,[念力師首領]賽樂
+CHARACTER_INC_000576,[Psykeeper Master] Cylor,[念力師首領] 賽樂
 CHARACTER_INC_000578,[Psykeeper Wise-man] Cuarine,[念力師賢者] 可林
 CHARACTER_INC_000580,Ryupang,魯班
 CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[念力師祭司] 安得利爾
@@ -217,9 +217,9 @@ CHARACTER_INC_000706,[Arena Manager] Harold,[自由競技場管理員] 海洛德
 CHARACTER_INC_000708,[Arena Store] Deek,[自由競技場商人] 迪克
 CHARACTER_INC_000712,[Arena Manager] Lay,[自由競技場管理員] 雷
 CHARACTER_INC_000738,Card Master,卡片大師
-CHARACTER_INC_000742,[Jewel Manager] Peach,[寶石專家]波奇
-CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC]頑童丹丹"
-CHARACTER_INC_000847,[Mentor] Inisis,[大師傅]伊希尼斯
+CHARACTER_INC_000742,[Jewel Manager] Peach,[寶石專家] 波奇
+CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,"[剪刀,石頭,布 NPC] 頑童丹丹"
+CHARACTER_INC_000847,[Mentor] Inisis,[大師傅] 伊希尼斯
 CHARACTER_INC_001067,Reonan,雷奧南
 CHARACTER_INC_001069,Nerco,諾可
 CHARACTER_INC_001071,Hael,哈爾
@@ -267,164 +267,164 @@ CHARACTER_INC_000726,Guardiane Sanctuary Guard,看守守護者聖域
 CHARACTER_INC_000727,Storm Peak Guard,風暴峰守衛
 CHARACTER_INC_000728,Rankashin,森林守衛者 
 CHARACTER_INC_100028,Kebaras Pang,卡巴拉斯胖登
-CHARACTER_INC_100029,Pink Easter Bunny,Pink Easter Bunny
+CHARACTER_INC_100029,Pink Easter Bunny,粉色復活節兔子
 CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
 CHARACTER_INC_100031,Birthday Baker,Birthday Baker
-CHARACTER_INC_100032,[FWC Manager] Ava,[FWC Manager] Ava
-CHARACTER_INC_100033,Gacha Machine,Gacha Machine
-CHARACTER_INC_100034,Bach,Bach
-CHARACTER_INC_100035,Private Leo,Private Leo
-CHARACTER_INC_100036,Noah,Noah
-CHARACTER_INC_100037,Conch,Conch
-CHARACTER_INC_100038,Traveling Merchant,Traveling Merchant
-CHARACTER_INC_400000,[Token Merchant] Andrew,[Token Merchant] Andrew
-CHARACTER_INC_100039,Molu,Molu
-CHARACTER_INC_100040,Costume Box,Costume Box
-CHARACTER_INC_100041,Pragas,Pragas
-CHARACTER_INC_100042,Beltung,Beltung
+CHARACTER_INC_100032,[FWC Manager] Ava,[FWC管理員] 艾娃
+CHARACTER_INC_100033,Gacha Machine,扭蛋機
+CHARACTER_INC_100034,Bach,巴赫
+CHARACTER_INC_100035,Private Leo,列兵 里奧
+CHARACTER_INC_100036,Noah,諾亞
+CHARACTER_INC_100037,Conch,海螺
+CHARACTER_INC_100038,Traveling Merchant,流浪商人
+CHARACTER_INC_400000,[Token Merchant] Andrew,[代幣商人] 安德魯
+CHARACTER_INC_100039,Molu,莫魯
+CHARACTER_INC_100040,Costume Box,外觀箱子
+CHARACTER_INC_100041,Pragas,普拉加斯
+CHARACTER_INC_100042,Beltung,貝爾通
 CHARACTER_INC_100043,Gujane,谷賈內
-CHARACTER_INC_000729,The Wilds Guard,The Wilds Guard
+CHARACTER_INC_000729,The Wilds Guard,荒野守衛
 CHARACTER_INC_000730,Rainbow Race Officer,彩虹競賽管理者
-CHARACTER_INC_002000,Mysterious Islander,Mysterious Islander
+CHARACTER_INC_002000,Mysterious Islander,神祕島民
 CHARACTER_INC_002001,Pau Pau,包包
-CHARACTER_INC_002002,Kammie,Kammie
-CHARACTER_INC_002003,BoBu,BoBu
-CHARACTER_INC_002004,Talus,Talus
-CHARACTER_INC_002005,Inventor Remi,Inventor Remi
-CHARACTER_INC_002006,Sunny Pang,Sunny Pang
-CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[Guild Ship Manager] Lousiana
-CHARACTER_INC_000773,Santa,Santa
-CHARACTER_INC_100044,Diosa,Diosa
+CHARACTER_INC_002002,Kammie,卡米
+CHARACTER_INC_002003,BoBu,波布
+CHARACTER_INC_002004,Talus,塔盧斯
+CHARACTER_INC_002005,Inventor Remi,發明家蕾米
+CHARACTER_INC_002006,Sunny Pang,陽光胖胖
+CHARACTER_INC_000771,Charlie,查理
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[公會飛船管理員] 路易斯安娜
+CHARACTER_INC_000773,Santa,聖誕老人
+CHARACTER_INC_100044,Diosa,迪奧莎
 CHARACTER_INC_100200,Kalgas Assault Manager,卡爾加斯突擊管理員
-CHARACTER_INC_003200,[Personal House NPC] Casanova,[Personal House NPC] Casanova
-CHARACTER_INC_003201,[Personal House NPC] Misun,[Personal House NPC] Misun
-CHARACTER_INC_003202,[Personal House NPC] Punk,[Personal House NPC] Punk
-CHARACTER_INC_003203,[Personal House NPC] Temas,[Personal House NPC] Temas
-CHARACTER_INC_003204,[Personal House NPC] BB Wolf,[Personal House NPC] BB Wolf
-CHARACTER_INC_003205,[Personal House NPC] Chacha,[Personal House NPC] Chacha
-CHARACTER_INC_003206,[Personal House NPC] Hatter,[Personal House NPC] Hatter
-CHARACTER_INC_003207,[Personal House NPC] Alice,[Personal House NPC] Alice
-CHARACTER_INC_003208,[Personal House NPC] Rulu,[Personal House NPC] Rulu
-CHARACTER_INC_003209,[Personal House NPC] Demon,[Personal House NPC] Demon
-CHARACTER_INC_003210,[Personal House NPC] Gevil,[Personal House NPC] Gevil
-CHARACTER_INC_003211,[Personal House NPC] Sevil,[Personal House NPC] Sevil
-CHARACTER_INC_003212,[Personal House NPC] Lala,[Personal House NPC] Lala
-CHARACTER_INC_003213,[Personal House NPC] Tino,[Personal House NPC] Tino
-CHARACTER_INC_003214,[Personal House NPC] Cachu,[Personal House NPC] Cachu
-CHARACTER_INC_003215,[Personal House NPC] Pang,[Personal House NPC] Pang
-CHARACTER_INC_003216,[Guild Ship NPC] Gira,[Guild Ship NPC] Gira
-CHARACTER_INC_003217,[Guild Ship NPC] Affe,[Guild Ship NPC] Affe
-CHARACTER_INC_003218,[Guild Ship NPC] Sham,[Guild Ship NPC] Sham
-CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[Guild Ship NPC] Lamew
-CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[Guild Ship NPC] Quarter
-CHARACTER_INC_003221,[Guild Ship NPC] Duron,[Guild Ship NPC] Duron
-CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[Guild Ship NPC] Dolphie
-CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[Guild Ship NPC] Fuba
-CHARACTER_INC_003224,[Guild Ship NPC] Bako,[Guild Ship NPC] Bako
-CHARACTER_INC_003225,[Guild Ship NPC] Wick,[Guild Ship NPC] Wick
-CHARACTER_INC_003226,[Guild Ship NPC] Wina,[Guild Ship NPC] Wina
-CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[Guild Ship NPC] Pitch
-CHARACTER_INC_003228,[Guild Ship NPC] Catch,[Guild Ship NPC] Catch
-CHARACTER_INC_003229,[Guild Ship NPC] Met,[Guild Ship NPC] Met
-CHARACTER_INC_003230,[Guild Ship NPC] Ego,[Guild Ship NPC] Ego
-CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[Guild Ship NPC] Wifielder
-CHARACTER_INC_003232,[Guild Ship NPC] Simid,[Guild Ship NPC] Simid
-CHARACTER_INC_003233,[Guild Ship NPC] Chord,[Guild Ship NPC] Chord
-CHARACTER_INC_003234,[Guild Ship NPC] Anura,[Guild Ship NPC] Anura
-CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[Guild Ship NPC] Vikel
-CHARACTER_INC_003236,[Guild Ship NPC] Soz,[Guild Ship NPC] Soz
-CHARACTER_INC_003237,[Guild Ship NPC] Naso,[Guild Ship NPC] Naso
-CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[Guild Ship NPC] Nuso
-CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[Guild Ship NPC] Cobao
-CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[Guild Ship NPC] Aibao
-CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[Guild Ship NPC] Nanco
-CHARACTER_INC_003242,[Guild Ship NPC] Asa,[Guild Ship NPC] Asa
-CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[Guild Ship NPC] Alyn
-CHARACTER_INC_003244,[Guild Ship NPC] Lane,[Guild Ship NPC] Lane
-CHARACTER_INC_003245,[Guild Ship NPC] Runni,[Guild Ship NPC] Runni
-CHARACTER_INC_003246,[Guild Ship NPC] Pang,[Guild Ship NPC] Pang
-CHARACTER_INC_000774,Orphanage Keeper,Orphanage Keeper
-CHARACTER_INC_003247,Guest Book,Guest Book
-CHARACTER_INC_003248,Bomida,Bomida
-CHARACTER_INC_003249,Negie,Negie
-CHARACTER_INC_100100,Templates,Templates
-CHARACTER_INC_100101,Props,Props
+CHARACTER_INC_003200,[Personal House NPC] Casanova,[個人小屋 NPC] Casanova
+CHARACTER_INC_003201,[Personal House NPC] Misun,[個人小屋 NPC] Misun
+CHARACTER_INC_003202,[Personal House NPC] Punk,[個人小屋 NPC] Punk
+CHARACTER_INC_003203,[Personal House NPC] Temas,[個人小屋 NPC] Temas
+CHARACTER_INC_003204,[Personal House NPC] BB Wolf,[個人小屋 NPC] BB Wolf
+CHARACTER_INC_003205,[Personal House NPC] Chacha,[個人小屋 NPC] Chacha
+CHARACTER_INC_003206,[Personal House NPC] Hatter,[個人小屋 NPC] Hatter
+CHARACTER_INC_003207,[Personal House NPC] Alice,[個人小屋 NPC] Alice
+CHARACTER_INC_003208,[Personal House NPC] Rulu,[個人小屋 NPC] Rulu
+CHARACTER_INC_003209,[Personal House NPC] Demon,[個人小屋 NPC] Demon
+CHARACTER_INC_003210,[Personal House NPC] Gevil,[個人小屋 NPC] Gevil
+CHARACTER_INC_003211,[Personal House NPC] Sevil,[個人小屋 NPC] Sevil
+CHARACTER_INC_003212,[Personal House NPC] Lala,[個人小屋 NPC] Lala
+CHARACTER_INC_003213,[Personal House NPC] Tino,[個人小屋 NPC] Tino
+CHARACTER_INC_003214,[Personal House NPC] Cachu,[個人小屋 NPC] Cachu
+CHARACTER_INC_003215,[Personal House NPC] Pang,[個人小屋 NPC] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[公會飛船 NPC] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[公會飛船 NPC] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[公會飛船 NPC] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[公會飛船 NPC] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[公會飛船 NPC] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[公會飛船 NPC] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[公會飛船 NPC] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[公會飛船 NPC] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[公會飛船 NPC] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[公會飛船 NPC] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[公會飛船 NPC] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[公會飛船 NPC] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[公會飛船 NPC] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[公會飛船 NPC] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[公會飛船 NPC] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[公會飛船 NPC] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[公會飛船 NPC] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[公會飛船 NPC] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[公會飛船 NPC] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[公會飛船 NPC] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[公會飛船 NPC] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[公會飛船 NPC] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[公會飛船 NPC] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[公會飛船 NPC] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[公會飛船 NPC] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[公會飛船 NPC] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[公會飛船 NPC] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[公會飛船 NPC] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[公會飛船 NPC] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[公會飛船 NPC] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[公會飛船 NPC] Pang
+CHARACTER_INC_000774,Orphanage Keeper,孤兒院看守人
+CHARACTER_INC_003247,Guest Book,訪客留言簿
+CHARACTER_INC_003248,Bomida,波米達
+CHARACTER_INC_003249,Negie,內吉
+CHARACTER_INC_100100,Templates,模板
+CHARACTER_INC_100101,Props,道具
 CHARACTER_INC_100102,NPCs,NPCs
-CHARACTER_INC_000775,Chonjang,Chonjang
-CHARACTER_INC_000776,[Event] Chonjang,[Event] Chonjang
+CHARACTER_INC_000775,Chonjang,鍾江
+CHARACTER_INC_000776,[Event] Chonjang,[活動] 鍾江
 CHARACTER_INC_000777,Defconn,Defconn
-CHARACTER_INC_000778,Anna,Anna
+CHARACTER_INC_000778,Anna,安娜
 CHARACTER_INC_000779,Sea Shell,海貝殼
 CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
-CHARACTER_INC_000781,[Event] Roger,[Event] Roger
-CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
-CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
-CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Personal House NPC] Mac (F Grade)
-CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Personal House NPC] Mac (E Grade)
-CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac (D Grade)
-CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
-CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
-CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
-CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
-CHARACTER_INC_100106,Sovann,Sovann
-CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
-CHARACTER_INC_100108,Hyuna,Hyuna
-CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
+CHARACTER_INC_000781,[Event] Roger,[活動] 羅傑
+CHARACTER_INC_003250,[Personal House NPC] Klock,[個人小屋 NPC] 克洛可
+CHARACTER_INC_100103,[Messenger of Love] Cupid,[愛的使者] 丘比特
+CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[個人小屋 NPC] Mac (F 級)
+CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[個人小屋 NPC] Mac (E 級)
+CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[個人小屋 NPC] Mac (D 級)
+CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[個人小屋 NPC] Mac (C 級)
+CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[個人小屋 NPC] Mac (B 級)
+CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[個人小屋 NPC] Mac (A 級)
+CHARACTER_INC_140000,Couple Rings,情侶對戒
+CHARACTER_INC_100104,[Life Master] Livi,[生活大師] 莉薇
+CHARACTER_INC_100105,Gathering Tool,採集工具
+CHARACTER_INC_100106,Sovann,索萬
+CHARACTER_INC_100107,[Event] Mr.Kang,[活動] 康先生
+CHARACTER_INC_100108,Hyuna,泫雅
+CHARACTER_INC_100109,[Event] Boss Pang,[活動] Boss Pang
 CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
-CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
-CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
-CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
-CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
-CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
-CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
-CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
-CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
-CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
-CHARACTER_INC_150026,Haret,Haret
-CHARACTER_INC_150027,Domir,Domir
-CHARACTER_INC_150028,Toran,Toran
-CHARACTER_INC_150029,Karen,Karen
-CHARACTER_INC_150030,Nebrah,Nebrah
-CHARACTER_INC_150031,Sena,Sena
-CHARACTER_INC_150032,Rohan,Rohan
-CHARACTER_INC_150033,Belia,Belia
-CHARACTER_INC_150034,Kerin,Kerin
-CHARACTER_INC_150035,Artin,Artin
-CHARACTER_INC_150036,Pael,Pael
-CHARACTER_INC_150037,Lumi,Lumi
-CHARACTER_INC_150038,Ivelyn,Ivelyn
-CHARACTER_INC_150039,Selin,Selin
-CHARACTER_INC_150040,Kaela,Kaela
-CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
-CHARACTER_INC_150042,Taila,Taila
-CHARACTER_INC_150043,Weevs,Weevs
-CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
-CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
-CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
-CHARACTER_INC_150050,Miorang,Miorang
-CHARACTER_INC_150051,Cheirang,Cheirang
+CHARACTER_INC_100111,[Event] Mr.Pumpkin,[活動] 南瓜先生
+CHARACTER_INC_150001,[Airport Guard] Doran,[機場守衛] 多蘭
+CHARACTER_INC_150002,[Airport Guard] Chiron,[機場守衛] 凱隆
+CHARACTER_INC_150003,[Airport Guard] Bran,[機場守衛] 布蘭
+CHARACTER_INC_150004,[Airport Guard] Karr,[機場守衛] 卡爾
+CHARACTER_INC_150005,[Airport Guard] Zerke,[機場守衛] 澤克
+CHARACTER_INC_150006,[Airport Guard] Elin,[機場守衛] 艾琳
+CHARACTER_INC_150007,[Eillun Guard] Gard,[艾爾倫士兵] 加德
+CHARACTER_INC_150008,[Eillun Guard] Liont,[艾爾倫士兵] 萊恩特
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[艾爾倫士兵] 塞爾坎
+CHARACTER_INC_150010,[Eillun Guard] Kras,[艾爾倫士兵] 克拉斯
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[艾爾倫士兵] 梅倫
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[艾爾倫士兵] 凱里恩
+CHARACTER_INC_150013,[Eillun Guard] Raon,[艾爾倫士兵] 羅恩
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[艾爾倫士兵] 德瑞恩
+CHARACTER_INC_150015,[Eillun Guard] Merk,[艾爾倫士兵] 默克
+CHARACTER_INC_150016,[Captain] Baron,[隊長] 巴倫
+CHARACTER_INC_150017,Jarl,[族長] 雅爾
+CHARACTER_INC_150018,[Elder] Ayr,[長老] 艾爾
+CHARACTER_INC_150019,[Elder] Traitus,[長老] 特萊圖斯
+CHARACTER_INC_150020,[Elder] Melak,[長老] 梅拉克
+CHARACTER_INC_150021,[Elder] Silar,[長老] 西拉
+CHARACTER_INC_150022,[Elder] Ebron,[長老] 埃布倫
+CHARACTER_INC_150023,[Elder] Luteon,[長老] 盧特恩
+CHARACTER_INC_150024,Liana,莉安娜
+CHARACTER_INC_150025,[Jewel Manager] Teron,[珠寶管理員] 特倫
+CHARACTER_INC_150026,Haret,哈雷特
+CHARACTER_INC_150027,Domir,多米爾
+CHARACTER_INC_150028,Toran,託蘭
+CHARACTER_INC_150029,Karen,卡倫
+CHARACTER_INC_150030,Nebrah,內布拉
+CHARACTER_INC_150031,Sena,塞納
+CHARACTER_INC_150032,Rohan,羅翰
+CHARACTER_INC_150033,Belia,貝莉婭
+CHARACTER_INC_150034,Kerin,凱琳
+CHARACTER_INC_150035,Artin,阿爾廷
+CHARACTER_INC_150036,Pael,佩爾
+CHARACTER_INC_150037,Lumi,露米
+CHARACTER_INC_150038,Ivelyn,伊芙琳
+CHARACTER_INC_150039,Selin,塞琳
+CHARACTER_INC_150040,Kaela,凱拉
+CHARACTER_INC_150041,[Pet Tamer] Livia,[寵物馴練師] 麗薇雅
+CHARACTER_INC_150042,Taila,泰拉
+CHARACTER_INC_150043,Weevs,維夫斯
+CHARACTER_INC_150044,[Mysterious] ??? ,[未知] ???
+CHARACTER_INC_150045,[Expedition] Beck,[遠征隊] 貝克
+CHARACTER_INC_150046,Asylum Guard,魔域守衛
+CHARACTER_INC_150047,Mysterious Adventurer,神祕冒險者
+CHARACTER_INC_150048,Jarl (Dying),[族長] 雅爾 (瀕死)
+CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS 管理員] Mewdev
+CHARACTER_INC_150050,Miorang,米奧朗
+CHARACTER_INC_150051,Cheirang,[事務所] 琪朗
 CHARACTER_INC_150052,[Village Chief] Huntrang,[村長] 魂鬥郎
-CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
+CHARACTER_INC_150053,[Arena Manager] Aerin,[競技場管理員] 艾琳

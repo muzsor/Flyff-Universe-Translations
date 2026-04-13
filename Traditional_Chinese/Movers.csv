@@ -282,8 +282,8 @@ PROPMOVER_TXT_000612,Tough Rock Muscle,流氓牛唄唄
 PROPMOVER_TXT_000614,Flying Aibatt,飛行獨眼蝙蝠
 PROPMOVER_TXT_000616,Beast Mr. Pumpkin,傳說中的南瓜大王
 PROPMOVER_TXT_000618,Master Demian,丹丹大師
-PROPMOVER_TXT_000620,Master Keakoon,Master Keakoon
-PROPMOVER_TXT_000622,Master Muffrin,Master Muffrin
+PROPMOVER_TXT_000620,Master Keakoon,奇昆族長
+PROPMOVER_TXT_000622,Master Muffrin,麻普廚師長
 PROPMOVER_TXT_000624,Info-Pang,情報乓
 PROPMOVER_TXT_000626,Losha,蘿夏
 PROPMOVER_TXT_000628,Boboku,波哥
@@ -436,11 +436,11 @@ PROPMOVER_TXT_000926,Captain Bearnerky,狂暴獨眼野熊
 PROPMOVER_TXT_000928,General Bearnerky,獨眼野熊王
 PROPMOVER_TXT_000930,Great Chef Muffrin,廚子麻普
 PROPMOVER_TXT_000932,Queen Popcrank,詭異小丑
-PROPMOVER_TXT_000934,Baby Polar Bear,北極熊Baby
+PROPMOVER_TXT_000934,Baby Polar Bear,可愛的北極熊
 PROPMOVER_TXT_000936,Polar Bear,北極熊
 PROPMOVER_TXT_000946,Mailbox,郵箱
-PROPMOVER_TXT_000950,Blue Meteonyker,Blue Meteonyker
-PROPMOVER_TXT_000954,Baby Penguin,Baby Penguin
+PROPMOVER_TXT_000950,Blue Meteonyker,湛藍流星領主
+PROPMOVER_TXT_000954,Baby Penguin,企鵝
 PROPMOVER_TXT_000956,Baby Iguana,可愛的鬣蜥
 PROPMOVER_TXT_000958,Baby Cobra,可愛的眼鏡蛇
 PROPMOVER_TXT_000960,Egg,寶貝蛋
@@ -947,15 +947,15 @@ PROPMOVER_TXT_110016,Green Modern Sports Bear,綠色摩登運動熊
 PROPMOVER_TXT_110017,Purple Modern Sports Bear,紫色摩登運動熊
 PROPMOVER_TXT_110018,Dark Modern Sports Bear,黑色摩登運動熊
 PROPMOVER_TXT_110019,Light Modern Sports Bear,輕型摩登運動熊
-PROPMOVER_TXT_110020,Pink Easter Bunny,Pink Easter Bunny
+PROPMOVER_TXT_110020,Pink Easter Bunny,粉色復活節兔子
 PROPMOVER_TXT_110021,Pink Future Robot,粉紅未來機器人
 PROPMOVER_TXT_110022,Purple Future Robot,紫色未來機器人
 PROPMOVER_TXT_110023,Cyan Future Robot,青色未來機器人
 PROPMOVER_TXT_110024,Dark Future Robot,暗黑未來機器人
 PROPMOVER_TXT_110025,Green Future Robot,綠色未來機器人
 PROPMOVER_TXT_110026,Blue Future Robot,藍色未來機器人
-PROPMOVER_TXT_110027,Flying Egg,Flying Egg
-PROPMOVER_TXT_110028,Eggcellent,Eggcellent
+PROPMOVER_TXT_110027,Flying Egg,飛翔彩蛋
+PROPMOVER_TXT_110028,Eggcellent,超棒的蛋
 PROPMOVER_TXT_110029,Blue Flying Bunny,藍色飛兔
 PROPMOVER_TXT_110030,Green Flying Bunny,綠色飛兔
 PROPMOVER_TXT_110031,Pink Flying Bunny,粉紅色飛兔
@@ -963,8 +963,8 @@ PROPMOVER_TXT_110032,Purple Flying Bunny,紫色飛兔
 PROPMOVER_TXT_110033,Brown Flying Bunny,棕色飛兔
 PROPMOVER_TXT_110034,Black Flying Bunny,黑色飛兔
 PROPMOVER_TXT_110035,White Flying Bunny,白色飛兔
-PROPMOVER_TXT_110036,Hantiger,Hantiger
-PROPMOVER_TXT_110037,Galaxy Scout,Galaxy Scout
+PROPMOVER_TXT_110036,Hantiger,悍虎
+PROPMOVER_TXT_110037,Galaxy Scout,銀河斥候
 PROPMOVER_TXT_110038,Blue Hat Bunny,藍色帽子兔子
 PROPMOVER_TXT_110039,Dark Hat Bunny,黑帽子兔子
 PROPMOVER_TXT_110040,Green Hat Bunny,綠帽兔子
@@ -974,7 +974,7 @@ PROPMOVER_TXT_110043,Purple Hat Bunny,紫帽子兔子
 PROPMOVER_TXT_110044,Black Hat Bunny,黑帽兔子
 PROPMOVER_TXT_110045,White Hat Bunny,白帽子兔子
 PROPMOVER_TXT_110047,Gold Skeleton,黃金骷髏
-PROPMOVER_TXT_110048,Birthday Baker,Birthday Baker
+PROPMOVER_TXT_110048,Birthday Baker,生日蛋糕烘焙師
 PROPMOVER_TXT_110049,White Stripe Purple Bear,白條紋紫熊
 PROPMOVER_TXT_110050,White Stripe Blue Bear,白條紋藍熊
 PROPMOVER_TXT_110051,White Stripe Green Bear,白條紋綠熊
@@ -982,7 +982,7 @@ PROPMOVER_TXT_110052,White Stripe Orange Bear,白條紋橙熊
 PROPMOVER_TXT_110053,White Stripe Pink Bear,白條紋粉紅熊
 PROPMOVER_TXT_110054,White Stripe Black Bear,白條紋黑熊
 PROPMOVER_TXT_110055,White Stripe White Bear,白色條紋白熊
-PROPMOVER_TXT_110056,Lord Manager,Lord Manager
+PROPMOVER_TXT_110056,Lord Manager,領主管理者
 PROPMOVER_TXT_110057,Black Japanese Piggy,黑色日本小豬
 PROPMOVER_TXT_110058,Purple Japanese Piggy,紫色日本小豬
 PROPMOVER_TXT_110059,Blue Japanese Piggy,藍色日本小豬
@@ -993,9 +993,9 @@ PROPMOVER_TXT_110063,Light Japanese Piggy,輕型日本小豬
 PROPMOVER_TXT_110064,Baby Carrierbomb,寶寶背帶炸彈
 PROPMOVER_TXT_110065,Baby Fefern,寶寶費芬
 PROPMOVER_TXT_110066,Baby Wheelem,寶寶惠勒姆
-PROPMOVER_TXT_110067,Gacha Machine,Gacha Machine
-PROPMOVER_TXT_110068,Skating Cat,Skating Cat
-PROPMOVER_TXT_110069,Bach,Bach
+PROPMOVER_TXT_110067,Gacha Machine,扭蛋機
+PROPMOVER_TXT_110068,Skating Cat,溜冰貓
+PROPMOVER_TXT_110069,Bach,巴赫
 PROPMOVER_TXT_110070,Neo Purple Robot,尼奧紫機器人
 PROPMOVER_TXT_110071,Neo Green Robot,尼奧綠機器人
 PROPMOVER_TXT_110072,Neo Orange Robot,尼奧橙機器人
@@ -1008,23 +1008,23 @@ PROPMOVER_TXT_110078,Purple Flying Froggy,紫色飛蛙
 PROPMOVER_TXT_110079,Red Flying Froggy,紅色飛蛙
 PROPMOVER_TXT_110080,Black Flying Froggy,黑色飛蛙
 PROPMOVER_TXT_110081,Blue Flying Froggy,藍色飛蛙
-PROPMOVER_TXT_002016,Rex Potato,Rex Potato
-PROPMOVER_TXT_002017,Prince Potato,Prince Potato
-PROPMOVER_TXT_002159,Private Leo,Private Leo
-PROPMOVER_TXT_002160,Noah,Noah
-PROPMOVER_TXT_110082,Draco,Draco
+PROPMOVER_TXT_002016,Rex Potato,洋芋戰神
+PROPMOVER_TXT_002017,Prince Potato,土豆王子
+PROPMOVER_TXT_002159,Private Leo,列兵里奧
+PROPMOVER_TXT_002160,Noah,諾亞
+PROPMOVER_TXT_110082,Draco,德拉科
 PROPMOVER_TXT_110083,Pink Axolotl,粉紅蠑螈
 PROPMOVER_TXT_110084,Yellow Axolotl,黃蠑螈
 PROPMOVER_TXT_110085,Purple Axolotl,紫蠑螈
 PROPMOVER_TXT_110086,Blue Axolotl,藍蠑螈
 PROPMOVER_TXT_110087,Red Axolotl,紅蠑螈
 PROPMOVER_TXT_110088,Black Axolotl,黑蠑螈
-PROPMOVER_TXT_110089,Traveling Merchant,Traveling Merchant
+PROPMOVER_TXT_110089,Traveling Merchant,流浪商人
 PROPMOVER_TXT_110046,Red Spirit Dragon,赤靈龍
 PROPMOVER_TXT_110090,Green Spirit Dragon,綠靈龍
 PROPMOVER_TXT_110091,Yellow Spirit Dragon,黃靈龍
-PROPMOVER_TXT_400000,Andrew,Andrew
-PROPMOVER_TXT_110092,Molu,Molu
+PROPMOVER_TXT_400000,Andrew,安德魯
+PROPMOVER_TXT_110092,Molu,莫魯
 PROPMOVER_TXT_110093,Blue Flying Sheep,藍色飛羊
 PROPMOVER_TXT_110094,Yellow Flying Sheep,黃色飛羊
 PROPMOVER_TXT_110095,Red Flying Sheep,紅色飛羊
@@ -1050,58 +1050,58 @@ PROPMOVER_TXT_110165,Green Phantocat,綠色幻貓
 PROPMOVER_TXT_110166,Black Phantocat,黑色幻貓
 PROPMOVER_TXT_110167,Red Phantocat,紅色幻貓
 PROPMOVER_TXT_110168,White Phantocat,白色幻貓
-PROPMOVER_TXT_210093,Prismatic Cobra,Prismatic Cobra
-PROPMOVER_TXT_210094,Twinstrike Cobra,Twinstrike Cobra
-PROPMOVER_TXT_210095,Tanuki Enforcer,Tanuki Enforcer
-PROPMOVER_TXT_210096,Tanuki Protector,Tanuki Protector
-PROPMOVER_TXT_210097,Wildwood Stalker,Wildwood Stalker
-PROPMOVER_TXT_210098,Wildwood Chieftain,Wildwood Chieftain
-PROPMOVER_TXT_210099,Beast King Khan,Beast King Khan
-PROPMOVER_TXT_210100,Small Kingster,Small Kingster
-PROPMOVER_TXT_110101,Kingster,Kingster
-PROPMOVER_TXT_110102,Captain Kingster,Captain Kingster
+PROPMOVER_TXT_210093,Prismatic Cobra,棱鏡蛇
+PROPMOVER_TXT_210094,Twinstrike Cobra,雙頭眼鏡蛇
+PROPMOVER_TXT_210095,Tanuki Enforcer,浣熊執行官
+PROPMOVER_TXT_210096,Tanuki Protector,浣熊守衛者
+PROPMOVER_TXT_210097,Wildwood Stalker,叢林追獵者
+PROPMOVER_TXT_210098,Wildwood Chieftain,叢林酋長
+PROPMOVER_TXT_210099,Beast King Khan,獸王可汗
+PROPMOVER_TXT_210100,Small Kingster,小型霸王蝦
+PROPMOVER_TXT_110101,Kingster,霸王蝦
+PROPMOVER_TXT_110102,Captain Kingster,大型霸王蝦
 PROPMOVER_TXT_110103,Small Kraken,部下克拉肯
 PROPMOVER_TXT_110104,Kraken,克拉肯
 PROPMOVER_TXT_110105,Captain Kraken,頭目克拉肯
 PROPMOVER_TXT_110106,Small Creper,部下克雷普
 PROPMOVER_TXT_110107,Creper,克雷普
 PROPMOVER_TXT_110108,Captain Creper,頭目克雷普
-PROPMOVER_TXT_110109,Small Naga,Small Naga
-PROPMOVER_TXT_110110,Naga,Naga
-PROPMOVER_TXT_110111,Captain Naga,Captain Naga
-PROPMOVER_TXT_110112,Small Atrox,Small Atrox
-PROPMOVER_TXT_110113,Atrox,Atrox
-PROPMOVER_TXT_110114,Captain Atrox,Captain Atrox
-PROPMOVER_TXT_110115,Small Okean,Small Okean
-PROPMOVER_TXT_110116,Okean,Okean
-PROPMOVER_TXT_110117,Captain Okean,Captain Okean
-PROPMOVER_TXT_110118,Small Tigar,Small Tigar
-PROPMOVER_TXT_110119,Tigar,Tigar
-PROPMOVER_TXT_110120,Captain Tigar,Captain Tigar
+PROPMOVER_TXT_110109,Small Naga,小型那伽
+PROPMOVER_TXT_110110,Naga,那伽
+PROPMOVER_TXT_110111,Captain Naga,大型那伽
+PROPMOVER_TXT_110112,Small Atrox,小型巨齒蛉
+PROPMOVER_TXT_110113,Atrox,巨齒蛉
+PROPMOVER_TXT_110114,Captain Atrox,大型巨齒蛉
+PROPMOVER_TXT_110115,Small Okean,小型皇冠海妖
+PROPMOVER_TXT_110116,Okean,皇冠海妖
+PROPMOVER_TXT_110117,Captain Okean,大型皇冠海妖
+PROPMOVER_TXT_110118,Small Tigar,小型熱帶虎
+PROPMOVER_TXT_110119,Tigar,熱帶虎
+PROPMOVER_TXT_110120,Captain Tigar,大型熱帶虎
 PROPMOVER_TXT_110121,Small Dorian,多利安部下
 PROPMOVER_TXT_110122,Dorian,多利安
 PROPMOVER_TXT_110123,Captain Dorian,多利安頭目
-PROPMOVER_TXT_110124,Small Meral,Small Meral
-PROPMOVER_TXT_110125,Meral,Meral
-PROPMOVER_TXT_110126,Captain Meral,Captain Meral
-PROPMOVER_TXT_110127,Giant Kingster,Giant Kingster
+PROPMOVER_TXT_110124,Small Meral,強襲海盜士兵
+PROPMOVER_TXT_110125,Meral,強襲海盜隊長
+PROPMOVER_TXT_110126,Captain Meral,強襲海盜指揮官
+PROPMOVER_TXT_110127,Giant Kingster,巨型霸王蝦
 PROPMOVER_TXT_110128,Giant Kraken,巨型克拉肯
 PROPMOVER_TXT_110129,Giant Creper,巨大克雷普
-PROPMOVER_TXT_110130,Giant Naga,Giant Naga
-PROPMOVER_TXT_110131,Giant Atrox,Giant Atrox
-PROPMOVER_TXT_110132,Giant Okean,Giant Okean
-PROPMOVER_TXT_110133,Giant Tigar,Giant Tigar
+PROPMOVER_TXT_110130,Giant Naga,巨型那伽
+PROPMOVER_TXT_110131,Giant Atrox,巨型巨齒蛉
+PROPMOVER_TXT_110132,Giant Okean,巨型皇冠海妖
+PROPMOVER_TXT_110133,Giant Tigar,巨型熱帶虎
 PROPMOVER_TXT_110134,Giant Dorian,巨大多利安
-PROPMOVER_TXT_110135,Giant Meral,Giant Meral
-PROPMOVER_TXT_110136,Violet Kingster,Violet Kingster
+PROPMOVER_TXT_110135,Giant Meral,強襲海盜統帥
+PROPMOVER_TXT_110136,Violet Kingster,墮落的霸王蝦
 PROPMOVER_TXT_110137,Violet Kraken,紫羅蘭克拉肯
 PROPMOVER_TXT_110138,Violet Creper,紫羅蘭克雷普
-PROPMOVER_TXT_110139,Violet Naga,Violet Naga
-PROPMOVER_TXT_110140,Violet Atrox,Violet Atrox
-PROPMOVER_TXT_110141,Violet Okean,Violet Okean
-PROPMOVER_TXT_110142,Violet Tigar,Violet Tigar
+PROPMOVER_TXT_110139,Violet Naga,墮落的那伽
+PROPMOVER_TXT_110140,Violet Atrox,墮落的巨齒蛉
+PROPMOVER_TXT_110141,Violet Okean,墮落的皇冠海妖
+PROPMOVER_TXT_110142,Violet Tigar,墮落的熱帶虎
 PROPMOVER_TXT_110143,Violet Dorian,紫羅蘭多利安
-PROPMOVER_TXT_110144,Violet Meral,Violet Meral
+PROPMOVER_TXT_110144,Violet Meral,墮落的強襲海盜
 PROPMOVER_TXT_110145,Blue Flying Sheep,藍色飛羊
 PROPMOVER_TXT_110146,Yellow Flying Sheep,黃色飛羊
 PROPMOVER_TXT_110147,Red Flying Sheep,紅色飛羊
@@ -1109,437 +1109,437 @@ PROPMOVER_TXT_110148,Purple Flying Sheep,紫色飛羊
 PROPMOVER_TXT_110149,Pink Flying Sheep,粉紅飛羊
 PROPMOVER_TXT_110150,Black Flying Sheep,黑色飛羊
 PROPMOVER_TXT_210151,Rainbow Race Officer,彩虹賽道管理者
-PROPMOVER_TXT_210152,Water Totem Pole,Water Totem Pole
-PROPMOVER_TXT_210153,Wind Totem Pole,Wind Totem Pole
-PROPMOVER_TXT_210154,Earth Totem Pole,Earth Totem Pole
-PROPMOVER_TXT_210155,Fire Totem Pole,Fire Totem Pole
-PROPMOVER_TXT_210156,Electric Totem Pole,Electric Totem Pole
-PROPMOVER_TXT_210157,Twinstrike Den Mother,Twinstrike Den Mother
+PROPMOVER_TXT_210152,Water Totem Pole,水之圖騰
+PROPMOVER_TXT_210153,Wind Totem Pole,風之圖騰
+PROPMOVER_TXT_210154,Earth Totem Pole,土之圖騰
+PROPMOVER_TXT_210155,Fire Totem Pole,火之圖騰
+PROPMOVER_TXT_210156,Electric Totem Pole,雷之圖騰
+PROPMOVER_TXT_210157,Twinstrike Den Mother,雙頭蛇後
 PROPMOVER_TXT_210158,The Wilds Guard,樂斯堤亞守護者
 PROPMOVER_TXT_210159,Pau Pau,包包
-PROPMOVER_TXT_210160,Kammie,Kammie
-PROPMOVER_TXT_210161,BoBu,BoBu
-PROPMOVER_TXT_210162,Talus,Talus
-PROPMOVER_TXT_210163,Inventor Remi,Inventor Remi
-PROPMOVER_TXT_210164,Sunny Pang,Sunny Pang
-PROPMOVER_TXT_210165,'s Artifact,'s Artifact
-PROPMOVER_TXT_210166,Tanuki Trainee,Tanuki Trainee
-PROPMOVER_TXT_210167,Wildwood Shaman,Wildwood Shaman
-PROPMOVER_TXT_001312,Charlie,Charlie
-PROPMOVER_TXT_210168,Red Patrol Dog,Red Patrol Dog
-PROPMOVER_TXT_210169,Purple Patrol Dog,Purple Patrol Dog
-PROPMOVER_TXT_210170,Cyan Patrol Dog,Cyan Patrol Dog
-PROPMOVER_TXT_210171,Blue Patrol Dog,Blue Patrol Dog
-PROPMOVER_TXT_210172,Black Patrol Dog,Black Patrol Dog
-PROPMOVER_TXT_210173,White Patrol Dog,White Patrol Dog
-PROPMOVER_TXT_110169,Wild Turkey,Wild Turkey
-PROPMOVER_TXT_210174,Red Rolling Clown,Red Rolling Clown
-PROPMOVER_TXT_210175,Purple Rolling Clown,Purple Rolling Clown
-PROPMOVER_TXT_210176,Green Rolling Clown,Green Rolling Clown
-PROPMOVER_TXT_210177,Pink Rolling Clown,Pink Rolling Clown
-PROPMOVER_TXT_210178,Blue Rolling Clown,Blue Rolling Clown
-PROPMOVER_TXT_210179,White Rolling Clown,White Rolling Clown
-PROPMOVER_TXT_001313,Thief Santa,Thief Santa
-PROPMOVER_TXT_001314,Santa,Santa
-PROPMOVER_TXT_400001,Red Snowman,Red Snowman
-PROPMOVER_TXT_400002,Purple Snowman,Purple Snowman
-PROPMOVER_TXT_400003,Pink Snowman,Pink Snowman
-PROPMOVER_TXT_400004,Green Snowman,Green Snowman
-PROPMOVER_TXT_400005,Blue Snowman,Blue Snowman
-PROPMOVER_TXT_400006,Black Snowman,Black Snowman
-PROPMOVER_TXT_400007,Red Snowy Cat,Red Snowy Cat
-PROPMOVER_TXT_400008,Pink Snowy Cat,Pink Snowy Cat
-PROPMOVER_TXT_400009,Green Snowy Cat,Green Snowy Cat
-PROPMOVER_TXT_400010,Blue Snowy Cat,Blue Snowy Cat
-PROPMOVER_TXT_400011,Purple Snowy Cat,Purple Snowy Cat
-PROPMOVER_TXT_400012,Black Snowy Cat,Black Snowy Cat
-PROPMOVER_TXT_400013,Blue Wonderful Dog,Blue Wonderful Dog
-PROPMOVER_TXT_400014,Pink Wonderful Dog,Pink Wonderful Dog
-PROPMOVER_TXT_400015,Green Wonderful Dog,Green Wonderful Dog
-PROPMOVER_TXT_400016,Yellow Wonderful Dog,Yellow Wonderful Dog
-PROPMOVER_TXT_400017,Purple Wonderful Dog,Purple Wonderful Dog
-PROPMOVER_TXT_400018,Red Wonderful Dog,Red Wonderful Dog
-PROPMOVER_TXT_001316,Guest Book,Guest Book
-PROPMOVER_TXT_001315,Kalgas,Kalgas
-PROPMOVER_TXT_001317,Artifact,Artifact
-PROPMOVER_TXT_400019,Brown Cub,Brown Cub
-PROPMOVER_TXT_400020,Purple Cub,Purple Cub
-PROPMOVER_TXT_400021,Blue Cub,Blue Cub
-PROPMOVER_TXT_400022,Green Cub,Green Cub
-PROPMOVER_TXT_400023,White Cub,White Cub
-PROPMOVER_TXT_400024,Black Cub,Black Cub
-PROPMOVER_TXT_400025,Event Greemong,Event Greemong
-PROPMOVER_TXT_400200,[Event] Giant Wagsaac,[Event] Giant Wagsaac
-PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[Event] Giant Jack the Hammer
-PROPMOVER_TXT_400202,[Event] Giant Bucrow,[Event] Giant Bucrow
-PROPMOVER_TXT_400203,[Event] Giant Totemia,[Event] Giant Totemia
-PROPMOVER_TXT_400204,[Event] Giant Wheelem,[Event] Giant Wheelem
-PROPMOVER_TXT_400205,[Event] Giant Hoppre,[Event] Giant Hoppre
-PROPMOVER_TXT_400206,[Event] Giant Mushpoie,[Event] Giant Mushpoie
-PROPMOVER_TXT_400207,[Event] Giant Watangka,[Event] Giant Watangka
-PROPMOVER_TXT_400208,[Event] Giant Fafnir,[Event] Giant Fafnir
-PROPMOVER_TXT_400209,[Event] Giant Gorruda,[Event] Giant Gorruda
-PROPMOVER_TXT_400210,[Event] Giant Medumet,[Event] Giant Medumet
-PROPMOVER_TXT_400211,[Event] Glacial Augu,[Event] Glacial Augu
-PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[Event] Ghost of the forgotten Overlord
-PROPMOVER_TXT_400213,[Event] Giant Asuras,[Event] Giant Asuras
-PROPMOVER_TXT_400214,[Event] Giant Tigar,[Event] Giant Tigar
-PROPMOVER_TXT_400215,[Event] Captain Flybat,[Event] Captain Flybat
-PROPMOVER_TXT_400216,[Event] Mr. Pumpkin,[Event] Mr. Pumpkin
-PROPMOVER_TXT_400217,[Event] Dumb Bull,[Event] Dumb Bull
-PROPMOVER_TXT_400218,[Event] Scorpicon,[Event] Scorpicon
-PROPMOVER_TXT_400219,[Event] Wheelem,[Event] Wheelem
-PROPMOVER_TXT_400220,[Event] Steel Knight,[Event] Steel Knight
-PROPMOVER_TXT_400221,[Event] Driller,[Event] Driller
-PROPMOVER_TXT_400222,[Event] Captian Volt,[Event] Captian Volt
-PROPMOVER_TXT_400223,[Event] Greemong,[Event] Greemong
-PROPMOVER_TXT_400224,[Event] Iren,[Event] Iren
-PROPMOVER_TXT_400225,[Event] Watangka,[Event] Watangka
-PROPMOVER_TXT_400226,[Event] Small Antiquery,[Event] Small Antiquery
-PROPMOVER_TXT_400227,[Event] Antiquery,[Event] Antiquery
-PROPMOVER_TXT_400228,[Event] Luia,[Event] Luia
-PROPMOVER_TXT_400229,[Event] Small Gongury,[Event] Small Gongury
-PROPMOVER_TXT_400230,[Event] Harpy,[Event] Harpy
-PROPMOVER_TXT_400231,[Event] Kern,[Event] Kern
-PROPMOVER_TXT_400232,[Event] Small Medumet,[Event] Small Medumet
-PROPMOVER_TXT_400233,[Event] Yetti,[Event] Yetti
-PROPMOVER_TXT_400234,[Event] Small Dantalian,[Event] Small Dantalian
-PROPMOVER_TXT_400235,[Event] Mutant Augu,[Event] Mutant Augu
-PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[Event] Ghost of the forgotten king
-PROPMOVER_TXT_400237,[Event] Small Asuras,[Event] Small Asuras
-PROPMOVER_TXT_400238,[Event] Mammoth,[Event] Mammoth
-PROPMOVER_TXT_400239,[Event] Asuras,[Event] Asuras
-PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[Event] Cannibal Mammoth
-PROPMOVER_TXT_400241,[Event] Meral,[Event] Meral
-PROPMOVER_TXT_400026,Blue Pixel Rabbit,Blue Pixel Rabbit
-PROPMOVER_TXT_400027,Red Pixel Rabbit,Red Pixel Rabbit
-PROPMOVER_TXT_400028,Green Pixel Rabbit,Green Pixel Rabbit
-PROPMOVER_TXT_400029,Pink Pixel Rabbit,Pink Pixel Rabbit
-PROPMOVER_TXT_400030,Purple Pixel Rabbit,Purple Pixel Rabbit
-PROPMOVER_TXT_400031,Yellow Pixel Rabbit,Yellow Pixel Rabbit
-PROPMOVER_TXT_001319,[Event] Leyena,[Event] Leyena
+PROPMOVER_TXT_210160,Kammie,卡米
+PROPMOVER_TXT_210161,BoBu,波布
+PROPMOVER_TXT_210162,Talus,塔盧斯
+PROPMOVER_TXT_210163,Inventor Remi,發明家蕾米
+PROPMOVER_TXT_210164,Sunny Pang,陽光胖胖
+PROPMOVER_TXT_210165,'s Artifact,的神器
+PROPMOVER_TXT_210166,Tanuki Trainee,狸貓學徒
+PROPMOVER_TXT_210167,Wildwood Shaman,荒林薩滿
+PROPMOVER_TXT_001312,Charlie,查理
+PROPMOVER_TXT_210168,Red Patrol Dog,紅色巡邏犬
+PROPMOVER_TXT_210169,Purple Patrol Dog,紫色巡邏犬
+PROPMOVER_TXT_210170,Cyan Patrol Dog,青色巡邏犬
+PROPMOVER_TXT_210171,Blue Patrol Dog,藍色巡邏犬
+PROPMOVER_TXT_210172,Black Patrol Dog,黑色巡邏犬
+PROPMOVER_TXT_210173,White Patrol Dog,白色巡邏犬
+PROPMOVER_TXT_110169,Wild Turkey,荒野火雞
+PROPMOVER_TXT_210174,Red Rolling Clown,紅旋小丑
+PROPMOVER_TXT_210175,Purple Rolling Clown,紫旋小丑
+PROPMOVER_TXT_210176,Green Rolling Clown,綠旋小丑
+PROPMOVER_TXT_210177,Pink Rolling Clown,粉旋小丑
+PROPMOVER_TXT_210178,Blue Rolling Clown,藍旋小丑
+PROPMOVER_TXT_210179,White Rolling Clown,白旋小丑
+PROPMOVER_TXT_001313,Thief Santa,聖誕小偷
+PROPMOVER_TXT_001314,Santa,聖誕老人
+PROPMOVER_TXT_400001,Red Snowman,紅色雪人
+PROPMOVER_TXT_400002,Purple Snowman,紫色雪人
+PROPMOVER_TXT_400003,Pink Snowman,粉色雪人
+PROPMOVER_TXT_400004,Green Snowman,綠色雪人
+PROPMOVER_TXT_400005,Blue Snowman,藍色雪人
+PROPMOVER_TXT_400006,Black Snowman,黑色雪人
+PROPMOVER_TXT_400007,Red Snowy Cat,紅色雪毛貓
+PROPMOVER_TXT_400008,Pink Snowy Cat,粉色雪毛貓
+PROPMOVER_TXT_400009,Green Snowy Cat,綠色雪毛貓
+PROPMOVER_TXT_400010,Blue Snowy Cat,藍色雪毛貓
+PROPMOVER_TXT_400011,Purple Snowy Cat,紫色雪毛貓
+PROPMOVER_TXT_400012,Black Snowy Cat,黑色雪毛貓
+PROPMOVER_TXT_400013,Blue Wonderful Dog,藍靈奇犬
+PROPMOVER_TXT_400014,Pink Wonderful Dog,粉靈奇犬
+PROPMOVER_TXT_400015,Green Wonderful Dog,綠靈奇犬
+PROPMOVER_TXT_400016,Yellow Wonderful Dog,黃靈奇犬
+PROPMOVER_TXT_400017,Purple Wonderful Dog,紫靈奇犬
+PROPMOVER_TXT_400018,Red Wonderful Dog,紅靈奇犬
+PROPMOVER_TXT_001316,Guest Book,訪客留言簿
+PROPMOVER_TXT_001315,Kalgas,卡爾加斯
+PROPMOVER_TXT_001317,Artifact,神器
+PROPMOVER_TXT_400019,Brown Cub,棕崽
+PROPMOVER_TXT_400020,Purple Cub,紫崽
+PROPMOVER_TXT_400021,Blue Cub,藍崽
+PROPMOVER_TXT_400022,Green Cub,綠崽
+PROPMOVER_TXT_400023,White Cub,白崽
+PROPMOVER_TXT_400024,Black Cub,黑崽
+PROPMOVER_TXT_400025,Event Greemong,活動綠泥怪
+PROPMOVER_TXT_400200,[Event] Giant Wagsaac,[活動] 巨型紫草食人花
+PROPMOVER_TXT_400201,[Event] Giant Jack the Hammer,[活動] 巨型釘錘傑克
+PROPMOVER_TXT_400202,[Event] Giant Bucrow,[活動] 巨型巴科洛
+PROPMOVER_TXT_400203,[Event] Giant Totemia,[活動] 巨型陶陶
+PROPMOVER_TXT_400204,[Event] Giant Wheelem,[活動] 巨型獨輪蒸汽機
+PROPMOVER_TXT_400205,[Event] Giant Hoppre,[活動] 巨型依蛾
+PROPMOVER_TXT_400206,[Event] Giant Mushpoie,[活動] 巨型蘑菇人
+PROPMOVER_TXT_400207,[Event] Giant Watangka,[活動] 巨型巫民
+PROPMOVER_TXT_400208,[Event] Giant Fafnir,[活動] 巨型龍寶寶
+PROPMOVER_TXT_400209,[Event] Giant Gorruda,[活動] 巨型魔翼龍
+PROPMOVER_TXT_400210,[Event] Giant Medumet,[活動] 巨型機械水母
+PROPMOVER_TXT_400211,[Event] Glacial Augu,[活動] 寒冰尖角蜥
+PROPMOVER_TXT_400212,[Event] Ghost of the forgotten Overlord,[活動] 冰封亡靈霸主
+PROPMOVER_TXT_400213,[Event] Giant Asuras,[活動] 巨型阿修羅
+PROPMOVER_TXT_400214,[Event] Giant Tigar,[活動] 巨型熱帶虎
+PROPMOVER_TXT_400215,[Event] Captain Flybat,[活動] 巨眼怪隊長
+PROPMOVER_TXT_400216,[Event] Mr. Pumpkin,[活動] 南瓜先生
+PROPMOVER_TXT_400217,[Event] Dumb Bull,[活動] 荒原牛
+PROPMOVER_TXT_400218,[Event] Scorpicon,[活動] 毒蠍
+PROPMOVER_TXT_400219,[Event] Wheelem,[活動] 獨輪蒸汽機
+PROPMOVER_TXT_400220,[Event] Steel Knight,[活動] 鋼甲騎士
+PROPMOVER_TXT_400221,[Event] Driller,[活動] 自動鑽孔機
+PROPMOVER_TXT_400222,[Event] Captian Volt,[活動] 電磁履帶車隊長
+PROPMOVER_TXT_400223,[Event] Greemong,[活動] 綠泥怪
+PROPMOVER_TXT_400224,[Event] Iren,[活動] 刀尾蚊
+PROPMOVER_TXT_400225,[Event] Watangka,[活動] 巫民
+PROPMOVER_TXT_400226,[Event] Small Antiquery,[活動] 小樹精
+PROPMOVER_TXT_400227,[Event] Antiquery,[活動] 樹精
+PROPMOVER_TXT_400228,[Event] Luia,[活動] 火鳥
+PROPMOVER_TXT_400229,[Event] Small Gongury,[活動] 小劍尾龜
+PROPMOVER_TXT_400230,[Event] Harpy,[活動] 鷹身女妖
+PROPMOVER_TXT_400231,[Event] Kern,[活動] 石魔
+PROPMOVER_TXT_400232,[Event] Small Medumet,[活動] 小機械水母
+PROPMOVER_TXT_400233,[Event] Yetti,[活動] 怪力羊
+PROPMOVER_TXT_400234,[Event] Small Dantalian,[活動] 小丹塔利安
+PROPMOVER_TXT_400235,[Event] Mutant Augu,[活動] 變異尖角蜥
+PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[活動] 被遺忘的冰封亡靈
+PROPMOVER_TXT_400237,[Event] Small Asuras,[活動] 小阿修羅
+PROPMOVER_TXT_400238,[Event] Mammoth,[活動] 猛獁象
+PROPMOVER_TXT_400239,[Event] Asuras,[活動] 阿修羅
+PROPMOVER_TXT_400240,[Event] Cannibal Mammoth,[活動] 食人猛獁象
+PROPMOVER_TXT_400241,[Event] Meral,[活動] 強襲海盜隊長
+PROPMOVER_TXT_400026,Blue Pixel Rabbit,藍色像素兔
+PROPMOVER_TXT_400027,Red Pixel Rabbit,紅色像素兔
+PROPMOVER_TXT_400028,Green Pixel Rabbit,綠色像素兔
+PROPMOVER_TXT_400029,Pink Pixel Rabbit,粉色像素兔
+PROPMOVER_TXT_400030,Purple Pixel Rabbit,紫色像素兔
+PROPMOVER_TXT_400031,Yellow Pixel Rabbit,黃色像素兔
+PROPMOVER_TXT_001319,[Event] Leyena,[活動] 高地獵犬
 PROPMOVER_TXT_001321,[Event] Giant Kraken,[活動] 巨型克拉肯
-PROPMOVER_TXT_400032,[Event] Giggle Box,[Event] Giggle Box
-PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[Event] Violet Giggle Box
-PROPMOVER_TXT_400034,Fox Spirit,Fox Spirit
-PROPMOVER_TXT_400035,Ninja Toad,Ninja Toad
-PROPMOVER_TXT_400036,Steambot,Steambot
-PROPMOVER_TXT_400037,White Lion,White Lion
-PROPMOVER_TXT_400038,Phio,Phio
-PROPMOVER_TXT_400242,Black Anniversary Cat,Black Anniversary Cat
-PROPMOVER_TXT_400243,Purple Anniversary Cat,Purple Anniversary Cat
-PROPMOVER_TXT_400244,Pink Anniversary Cat,Pink Anniversary Cat
-PROPMOVER_TXT_400245,Green Anniversary Cat,Green Anniversary Cat
-PROPMOVER_TXT_400246,Cyan Anniversary Cat,Cyan Anniversary Cat
-PROPMOVER_TXT_400247,Blue Anniversary Cat,Blue Anniversary Cat
-PROPMOVER_TXT_400248,White Anniversary Cat,White Anniversary Cat
-PROPMOVER_TXT_400249,Lord Trangfoma,Lord Trangfoma
-PROPMOVER_TXT_400250,Shadow of Clockworks,Shadow of Clockworks
-PROPMOVER_TXT_400251,Blue Magical Toad,Blue Magical Toad
-PROPMOVER_TXT_400252,Pink Magical Toad,Pink Magical Toad
-PROPMOVER_TXT_400253,Orange Magical Toad,Orange Magical Toad
-PROPMOVER_TXT_400254,Green Magical Toad,Green Magical Toad
-PROPMOVER_TXT_400255,Red Magical Toad,Red Magical Toad
-PROPMOVER_TXT_400256,Dark Magical Toad,Dark Magical Toad
-PROPMOVER_TXT_400258,[Event] Creper,[Event] Creper
-PROPMOVER_TXT_400259,[Event] Violet Creper,[Event] Violet Creper
-PROPMOVER_TXT_400260,Red Earless Seal,Red Earless Seal
-PROPMOVER_TXT_400261,Purple Earless Seal,Purple Earless Seal
-PROPMOVER_TXT_400262,Burgundy Earless Seal,Burgundy Earless Seal
-PROPMOVER_TXT_400263,Pink Earless Seal,Pink Earless Seal
-PROPMOVER_TXT_400264,Orange Earless Seal,Orange Earless Seal
-PROPMOVER_TXT_400265,Blue Earless Seal,Blue Earless Seal
-PROPMOVER_TXT_400266,White Earless Seal,White Earless Seal
-PROPMOVER_TXT_400267,Brown Butterflies,Brown Butterflies
-PROPMOVER_TXT_400268,Purple Butterflies,Purple Butterflies
-PROPMOVER_TXT_400269,Green Butterflies,Green Butterflies
-PROPMOVER_TXT_400270,Pink Butterflies,Pink Butterflies
-PROPMOVER_TXT_400271,Red Butterflies,Red Butterflies
-PROPMOVER_TXT_400272,White Butterflies,White Butterflies
-PROPMOVER_TXT_400273,Black Butterflies,Black Butterflies
-PROPMOVER_TXT_400274,Green DJ Froggy,Green DJ Froggy
-PROPMOVER_TXT_400275,Red DJ Froggy,Red DJ Froggy
-PROPMOVER_TXT_400276,Purple DJ Froggy,Purple DJ Froggy
-PROPMOVER_TXT_400277,Pink DJ Froggy,Pink DJ Froggy
-PROPMOVER_TXT_400278,Cyan DJ Froggy,Cyan DJ Froggy
-PROPMOVER_TXT_400279,Blue DJ Froggy,Blue DJ Froggy
-PROPMOVER_TXT_400280,Black DJ Froggy,Black DJ Froggy
-PROPMOVER_TXT_400281,Lord Demian,Lord Demian
-PROPMOVER_TXT_400282,Lord Mushpang,Lord Mushpang
-PROPMOVER_TXT_400283,Yellow Junior Banana Hero,Yellow Junior Banana Hero
-PROPMOVER_TXT_400284,Purple Junior Banana Hero,Purple Junior Banana Hero
-PROPMOVER_TXT_400285,Orange Junior Banana Hero,Orange Junior Banana Hero
-PROPMOVER_TXT_400286,Blue Junior Banana Hero,Blue Junior Banana Hero
-PROPMOVER_TXT_400287,Green Junior Banana Hero,Green Junior Banana Hero
-PROPMOVER_TXT_400288,Pink Junior Banana Hero,Pink Junior Banana Hero
-PROPMOVER_TXT_400289,White Junior Banana Hero,White Junior Banana Hero
-PROPMOVER_TXT_400290,Lord Zenma,Lord Zenma
-PROPMOVER_TXT_400291,[Event] Pirate ship,[Event] Pirate ship
-PROPMOVER_TXT_400292,Shadowirs,Shadowirs
-PROPMOVER_TXT_400293,Captain Shadowirs,Captain Shadowirs
-PROPMOVER_TXT_400294,Giant Shadowirs,Giant Shadowirs
-PROPMOVER_TXT_400295,Small Skelmaw,Small Skelmaw
-PROPMOVER_TXT_400296,Skelmaw,Skelmaw
-PROPMOVER_TXT_400297,Captain Skelmaw,Captain Skelmaw
-PROPMOVER_TXT_400298,Giant Skelmaw,Giant Skelmaw
-PROPMOVER_TXT_400299,Alchemy Desk,Alchemy Desk
-PROPMOVER_TXT_400300,Hearth,Hearth
-PROPMOVER_TXT_400301,Carpentry Workspace,Carpentry Workspace
-PROPMOVER_TXT_400302,Smithing Workspace,Smithing Workspace
-PROPMOVER_TXT_400303,Wandering Merchant,Wandering Merchant
-PROPMOVER_TXT_400304,Small Maleficar,Small Maleficar
-PROPMOVER_TXT_400305,Maleficar,Maleficar
-PROPMOVER_TXT_400306,Captain Maleficar,Captain Maleficar
-PROPMOVER_TXT_400307,Giant Maleficar,Giant Maleficar
-PROPMOVER_TXT_400308,Small Cursed Warden,Small Cursed Warden
-PROPMOVER_TXT_400309,Cursed Warden,Cursed Warden
-PROPMOVER_TXT_400310,Captain Cursed Warden,Captain Cursed Warden
-PROPMOVER_TXT_400311,Giant Cursed Warden,Giant Cursed Warden
-PROPMOVER_TXT_400312,Small Shadowirs,Small Shadowirs
-PROPMOVER_TXT_400313,Great Shadowirs,Great Shadowirs
-PROPMOVER_TXT_400314,Great Skelmaw,Great Skelmaw
-PROPMOVER_TXT_400315,Great Maleficar,Great Maleficar
-PROPMOVER_TXT_400316,Great Cursed Warden,Great Cursed Warden
-PROPMOVER_TXT_400317,Cyan Gloomie,Cyan Gloomie
-PROPMOVER_TXT_400318,Green Gloomie,Green Gloomie
-PROPMOVER_TXT_400319,Blue Gloomie,Blue Gloomie
-PROPMOVER_TXT_400320,Purple Gloomie,Purple Gloomie
-PROPMOVER_TXT_400321,Red Gloomie,Red Gloomie
-PROPMOVER_TXT_400322,Gray Gloomie,Gray Gloomie
-PROPMOVER_TXT_400323,Blue Medieval Horse,Blue Medieval Horse
-PROPMOVER_TXT_400324,Purple Medieval Horse,Purple Medieval Horse
-PROPMOVER_TXT_400325,Cyan Medieval Horse,Cyan Medieval Horse
-PROPMOVER_TXT_400326,Green Medieval Horse,Green Medieval Horse
-PROPMOVER_TXT_400327,Red Medieval Horse,Red Medieval Horse
-PROPMOVER_TXT_400328,Black Medieval Horse,Black Medieval Horse
-PROPMOVER_TXT_400329,Captain Luminfin,Captain Luminfin
-PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[Depths Guardian] Bunyip
-PROPMOVER_TXT_400331,[Depths Queen] Nereid,[Depths Queen] Nereid
-PROPMOVER_TXT_400332,Sovann,Sovann
-PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
+PROPMOVER_TXT_400032,[Event] Giggle Box,[活動] 怪笑箱
+PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[活動] 紫羅蘭怪笑箱
+PROPMOVER_TXT_400034,Fox Spirit,狐靈
+PROPMOVER_TXT_400035,Ninja Toad,忍蛙
+PROPMOVER_TXT_400036,Steambot,蒸汽機器人
+PROPMOVER_TXT_400037,White Lion,白獅
+PROPMOVER_TXT_400038,Phio,菲歐
+PROPMOVER_TXT_400242,Black Anniversary Cat,黑色週年慶貓
+PROPMOVER_TXT_400243,Purple Anniversary Cat,紫色週年慶貓
+PROPMOVER_TXT_400244,Pink Anniversary Cat,粉紅週年慶貓
+PROPMOVER_TXT_400245,Green Anniversary Cat,綠色週年慶貓
+PROPMOVER_TXT_400246,Cyan Anniversary Cat,青色週年慶貓
+PROPMOVER_TXT_400247,Blue Anniversary Cat,藍色週年慶貓
+PROPMOVER_TXT_400248,White Anniversary Cat,白色週年慶貓
+PROPMOVER_TXT_400249,Lord Trangfoma,淘金者之王
+PROPMOVER_TXT_400250,Shadow of Clockworks,時空毀滅者之影
+PROPMOVER_TXT_400251,Blue Magical Toad,藍色魔法蛙蛙
+PROPMOVER_TXT_400252,Pink Magical Toad,粉色魔法蛙蛙
+PROPMOVER_TXT_400253,Orange Magical Toad,橘色魔法蛙蛙
+PROPMOVER_TXT_400254,Green Magical Toad,綠色魔法蛙蛙
+PROPMOVER_TXT_400255,Red Magical Toad,紅色魔法蛙蛙
+PROPMOVER_TXT_400256,Dark Magical Toad,暗色魔法蛙蛙
+PROPMOVER_TXT_400258,[Event] Creper,[活動] 巨鉗蟹
+PROPMOVER_TXT_400259,[Event] Violet Creper,[活動] 墮落的巨鉗蟹
+PROPMOVER_TXT_400260,Red Earless Seal,紅色無耳海豹
+PROPMOVER_TXT_400261,Purple Earless Seal,紫色無耳海豹
+PROPMOVER_TXT_400262,Burgundy Earless Seal,酒紅無耳海豹
+PROPMOVER_TXT_400263,Pink Earless Seal,粉色無耳海豹
+PROPMOVER_TXT_400264,Orange Earless Seal,橘色無耳海豹
+PROPMOVER_TXT_400265,Blue Earless Seal,藍色無耳海豹
+PROPMOVER_TXT_400266,White Earless Seal,白色無耳海豹
+PROPMOVER_TXT_400267,Brown Butterflies,棕蝶
+PROPMOVER_TXT_400268,Purple Butterflies,紫蝶
+PROPMOVER_TXT_400269,Green Butterflies,綠蝶
+PROPMOVER_TXT_400270,Pink Butterflies,粉蝶
+PROPMOVER_TXT_400271,Red Butterflies,紅蝶
+PROPMOVER_TXT_400272,White Butterflies,白蝶
+PROPMOVER_TXT_400273,Black Butterflies,黑蝶
+PROPMOVER_TXT_400274,Green DJ Froggy,綠色 DJ 小青蛙
+PROPMOVER_TXT_400275,Red DJ Froggy,紅色 DJ 小青蛙
+PROPMOVER_TXT_400276,Purple DJ Froggy,紫色 DJ 小青蛙
+PROPMOVER_TXT_400277,Pink DJ Froggy,粉色 DJ 小青蛙
+PROPMOVER_TXT_400278,Cyan DJ Froggy,青綠 DJ 小青蛙
+PROPMOVER_TXT_400279,Blue DJ Froggy,藍色 DJ 小青蛙
+PROPMOVER_TXT_400280,Black DJ Froggy,黑色 DJ 小青蛙
+PROPMOVER_TXT_400281,Lord Demian,丹丹領主
+PROPMOVER_TXT_400282,Lord Mushpang,咚咚菇領主
+PROPMOVER_TXT_400283,Yellow Junior Banana Hero,黃衣小香蕉勇士
+PROPMOVER_TXT_400284,Purple Junior Banana Hero,紫衣小香蕉勇士
+PROPMOVER_TXT_400285,Orange Junior Banana Hero,橙衣小香蕉勇士
+PROPMOVER_TXT_400286,Blue Junior Banana Hero,藍衣小香蕉勇士
+PROPMOVER_TXT_400287,Green Junior Banana Hero,綠衣小香蕉勇士
+PROPMOVER_TXT_400288,Pink Junior Banana Hero,粉衣小香蕉勇士
+PROPMOVER_TXT_400289,White Junior Banana Hero,白衣小香蕉勇士
+PROPMOVER_TXT_400290,Lord Zenma,變異巨眼怪之王
+PROPMOVER_TXT_400291,[Event] Pirate ship,[活動] 海盜船
+PROPMOVER_TXT_400292,Shadowirs,影咒者
+PROPMOVER_TXT_400293,Captain Shadowirs,大型影咒者
+PROPMOVER_TXT_400294,Giant Shadowirs,巨型影咒者
+PROPMOVER_TXT_400295,Small Skelmaw,小型噬骨者
+PROPMOVER_TXT_400296,Skelmaw,噬骨者
+PROPMOVER_TXT_400297,Captain Skelmaw,大型噬骨者
+PROPMOVER_TXT_400298,Giant Skelmaw,巨型噬骨者
+PROPMOVER_TXT_400299,Alchemy Desk,鍊金桌
+PROPMOVER_TXT_400300,Hearth,火爐
+PROPMOVER_TXT_400301,Carpentry Workspace,木匠臺
+PROPMOVER_TXT_400302,Smithing Workspace,鍛造臺
+PROPMOVER_TXT_400303,Wandering Merchant,流浪商人
+PROPMOVER_TXT_400304,Small Maleficar,小型邪術使
+PROPMOVER_TXT_400305,Maleficar,邪術使
+PROPMOVER_TXT_400306,Captain Maleficar,大型邪術使
+PROPMOVER_TXT_400307,Giant Maleficar,巨型邪術使
+PROPMOVER_TXT_400308,Small Cursed Warden,小型詛咒守衛
+PROPMOVER_TXT_400309,Cursed Warden,詛咒守衛
+PROPMOVER_TXT_400310,Captain Cursed Warden,大型詛咒守衛
+PROPMOVER_TXT_400311,Giant Cursed Warden,巨型詛咒守衛
+PROPMOVER_TXT_400312,Small Shadowirs,小型影咒者
+PROPMOVER_TXT_400313,Great Shadowirs,巨型影咒者
+PROPMOVER_TXT_400314,Great Skelmaw,巨型噬骨者
+PROPMOVER_TXT_400315,Great Maleficar,巨型邪術使
+PROPMOVER_TXT_400316,Great Cursed Warden,巨型詛咒守衛
+PROPMOVER_TXT_400317,Cyan Gloomie,青影小幽
+PROPMOVER_TXT_400318,Green Gloomie,綠色小幽
+PROPMOVER_TXT_400319,Blue Gloomie,藍色小幽
+PROPMOVER_TXT_400320,Purple Gloomie,紫色小幽
+PROPMOVER_TXT_400321,Red Gloomie,紅色小幽
+PROPMOVER_TXT_400322,Gray Gloomie,灰色小幽
+PROPMOVER_TXT_400323,Blue Medieval Horse,藍色瑞加戰馬
+PROPMOVER_TXT_400324,Purple Medieval Horse,紫色瑞加戰馬
+PROPMOVER_TXT_400325,Cyan Medieval Horse,青色瑞加戰馬
+PROPMOVER_TXT_400326,Green Medieval Horse,綠色瑞加戰馬
+PROPMOVER_TXT_400327,Red Medieval Horse,紅色瑞加戰馬
+PROPMOVER_TXT_400328,Black Medieval Horse,黑色瑞加戰馬
+PROPMOVER_TXT_400329,Captain Luminfin,大型輝鱗
+PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[深淵守護者] 邦伊普
+PROPMOVER_TXT_400331,[Depths Queen] Nereid,[深淵女王] 涅瑞伊德
+PROPMOVER_TXT_400332,Sovann,索萬
+PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[謝莉德影將] 克里頓
 PROPMOVER_TXT_400334,Dreadfin,恐鰭
 PROPMOVER_TXT_400335,Captain Dreadfin,恐鰭隊長
-PROPMOVER_TXT_400336,Dreadscale,Dreadscale
-PROPMOVER_TXT_400337,Captain Dreadscale,Captain Dreadscale
-PROPMOVER_TXT_400338,Luminfin,Luminfin
-PROPMOVER_TXT_400339,Hyuna,Hyuna
-PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[Event] Christmas Aibatt
-PROPMOVER_TXT_400351,Blue Cobra,Blue Cobra
-PROPMOVER_TXT_400340,Red Christmas Gingy,Red Christmas Gingy
-PROPMOVER_TXT_400341,Green Christmas Gingy,Green Christmas Gingy
-PROPMOVER_TXT_400342,Pink Christmas Gingy,Pink Christmas Gingy
-PROPMOVER_TXT_400343,Orange Christmas Gingy,Orange Christmas Gingy
-PROPMOVER_TXT_400344,Purple Christmas Gingy,Purple Christmas Gingy
-PROPMOVER_TXT_400345,Blue Christmas Gingy,Blue Christmas Gingy
-PROPMOVER_TXT_400352,Green Little Snaky,Green Little Snaky
-PROPMOVER_TXT_400353,Purple Little Snaky,Purple Little Snaky
-PROPMOVER_TXT_400354,Pink Little Snaky,Pink Little Snaky
-PROPMOVER_TXT_400355,Blue Little Snaky,Blue Little Snaky
-PROPMOVER_TXT_400356,Red Little Snaky,Red Little Snaky
-PROPMOVER_TXT_400357,Emerald Little Snaky,Emerald Little Snaky
-PROPMOVER_TXT_400358,Black Little Snaky,Black Little Snaky
-PROPMOVER_TXT_400359,Purple Frostpaw,Purple Frostpaw
-PROPMOVER_TXT_400360,Yellow Frostpaw,Yellow Frostpaw
-PROPMOVER_TXT_400361,Blue Frostpaw,Blue Frostpaw
-PROPMOVER_TXT_400362,Green Frostpaw,Green Frostpaw
-PROPMOVER_TXT_400363,Pink Frostpaw,Pink Frostpaw
-PROPMOVER_TXT_400364,Red Frostpaw,Red Frostpaw
-PROPMOVER_TXT_400365,White Frostpaw,White Frostpaw
-PROPMOVER_TXT_400366,Black Frostpaw,Black Frostpaw
-PROPMOVER_TXT_400367,Red Roaryen,Red Roaryen
-PROPMOVER_TXT_400368,Purple Roaryen,Purple Roaryen
-PROPMOVER_TXT_400369,Blue Roaryen,Blue Roaryen
-PROPMOVER_TXT_400370,Green Roaryen,Green Roaryen
-PROPMOVER_TXT_400371,White Roaryen,White Roaryen
-PROPMOVER_TXT_400372,Black Roaryen,Black Roaryen
-PROPMOVER_TXT_001236,Mechamochi,Mechamochi
-PROPMOVER_TXT_001237,[Event] Clockworks,[Event] Clockworks
-PROPMOVER_TXT_001238,Baby Pang,Baby Pang
-PROPMOVER_TXT_400373,Lord Mothbee,Lord Mothbee
-PROPMOVER_TXT_400374,Lord Zendros,Lord Zendros
-PROPMOVER_TXT_400375,Lord Dumb Bull,Lord Dumb Bull
-PROPMOVER_TXT_400376,Lord Totemia,Lord Totemia
-PROPMOVER_TXT_400377,Lord Flybrigen,Lord Flybrigen
-PROPMOVER_TXT_400378,Lord Neparuba,Lord Neparuba
-PROPMOVER_TXT_400379,Lord Rockepeller,Lord Rockepeller
-PROPMOVER_TXT_400380,Lord Longwing,Lord Longwing
-PROPMOVER_TXT_400381,Lord Shuhamma,Lord Shuhamma
-PROPMOVER_TXT_400382,Lord Watangka,Lord Watangka
-PROPMOVER_TXT_400383,Lord Fafnir,Lord Fafnir
-PROPMOVER_TXT_400384,Lord Gorruda,Lord Gorruda
-PROPMOVER_TXT_400385,Lord Mammoth,Lord Mammoth
-PROPMOVER_TXT_400386,Ghost of the Forgotten Lord,Ghost of the Forgotten Lord
-PROPMOVER_TXT_400387,Lord Augu,Lord Augu
-PROPMOVER_TXT_400388,Overlord Kraken,Overlord Kraken
-PROPMOVER_TXT_400389,Lord Dorian,Lord Dorian
-PROPMOVER_TXT_400390,Lord Okean,Lord Okean
-PROPMOVER_TXT_400391,Lord Naga,Lord Naga
-PROPMOVER_TXT_400392,Overlord Naga,Overlord Naga
-PROPMOVER_TXT_400393,Overlord Meral,Overlord Meral
-PROPMOVER_TXT_400394,Lord Tigar,Lord Tigar
-PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,Pink Guardian Easter Bunny
-PROPMOVER_TXT_400396,Green Guardian Easter Bunny,Green Guardian Easter Bunny
-PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,Blue Guardian Easter Bunny
-PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,Orange Guardian Easter Bunny
-PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,Purple Guardian Easter Bunny
-PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,Dark Guardian Easter Bunny
-PROPMOVER_TXT_400401,Lord Yetti,Lord Yetti
-PROPMOVER_TXT_400402,Purple Pawsy,Purple Pawsy
-PROPMOVER_TXT_400403,Red Pawsy,Red Pawsy
-PROPMOVER_TXT_400404,Green Pawsy,Green Pawsy
-PROPMOVER_TXT_400405,Blue Pawsy,Blue Pawsy
-PROPMOVER_TXT_400406,Magenta Pawsy,Magenta Pawsy
-PROPMOVER_TXT_400407,Lavender Pawsy,Lavender Pawsy
-PROPMOVER_TXT_400408,Pink Pawsy,Pink Pawsy
-PROPMOVER_TXT_400409,Gray Pawsy,Gray Pawsy
-PROPMOVER_TXT_400410,Orange Flumos,Orange Flumos
-PROPMOVER_TXT_400411,Purple Flumos,Purple Flumos
-PROPMOVER_TXT_400412,Red Flumos,Red Flumos
-PROPMOVER_TXT_400413,Blue Flumos,Blue Flumos
-PROPMOVER_TXT_400414,Green Flumos,Green Flumos
-PROPMOVER_TXT_400415,Yellow Flumos,Yellow Flumos
-PROPMOVER_TXT_400416,White Flumos,White Flumos
-PROPMOVER_TXT_400417,Black Flumos,Black Flumos
-PROPMOVER_TXT_400418,Wounded Revolutionary,Wounded Revolutionary
-PROPMOVER_TXT_400419,Yellow Breezy,Yellow Breezy
-PROPMOVER_TXT_400420,Purple Breezy,Purple Breezy
-PROPMOVER_TXT_400421,Blue Breezy,Blue Breezy
-PROPMOVER_TXT_400422,Pink Breezy,Pink Breezy
-PROPMOVER_TXT_400423,White Breezy,White Breezy
-PROPMOVER_TXT_400424,Black Breezy,Black Breezy
-PROPMOVER_TXT_400425,Blue Pawsh,Blue Pawsh
-PROPMOVER_TXT_400426,Pink Pawsh,Pink Pawsh
-PROPMOVER_TXT_400427,Orange Pawsh,Orange Pawsh
-PROPMOVER_TXT_400428,Green Pawsh,Green Pawsh
-PROPMOVER_TXT_400429,Navy Pawsh,Navy Pawsh
-PROPMOVER_TXT_400430,Red Pawsh,Red Pawsh
-PROPMOVER_TXT_400431,Fortune Pang,Fortune Pang
-PROPMOVER_TXT_400432,Orange Marshall,Orange Marshall
-PROPMOVER_TXT_400433,Green Marshall,Green Marshall
-PROPMOVER_TXT_400434,Cyan Marshall,Cyan Marshall
-PROPMOVER_TXT_400435,Purple Marshall,Purple Marshall
-PROPMOVER_TXT_400436,Red Marshall,Red Marshall
-PROPMOVER_TXT_400437,Neon Marshall,Neon Marshall
-PROPMOVER_TXT_400438,Brown Strawy Jack,Brown Strawy Jack
-PROPMOVER_TXT_400439,Maroon Strawy Jack,Maroon Strawy Jack
-PROPMOVER_TXT_400440,Green Strawy Jack,Green Strawy Jack
-PROPMOVER_TXT_400441,Purple Strawy Jack,Purple Strawy Jack
-PROPMOVER_TXT_400442,Olive Strawy Jack,Olive Strawy Jack
-PROPMOVER_TXT_400443,Blue Strawy Jack,Blue Strawy Jack
-PROPMOVER_TXT_400444,Black Strawy Jack,Black Strawy Jack
-PROPMOVER_TXT_400445,White Strawy Jack,White Strawy Jack
-PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[Event] Giant Mr. Pumpkin
-PROPMOVER_TXT_400447,Green Frogzy,Green Frogzy
-PROPMOVER_TXT_400448,Yellow Frogzy,Yellow Frogzy
-PROPMOVER_TXT_400449,Pink Frogzy,Pink Frogzy
-PROPMOVER_TXT_400450,Purple Frogzy,Purple Frogzy
-PROPMOVER_TXT_400451,Cyan Frogzy,Cyan Frogzy
-PROPMOVER_TXT_400452,Mint Green Frogzy,Mint Green Frogzy
-PROPMOVER_TXT_400453,Black Frogzy,Black Frogzy
-PROPMOVER_TXT_400454,White Frogzy,White Frogzy
-PROPMOVER_TXT_400455,Orange Whispero,Orange Whispero
-PROPMOVER_TXT_400456,Yellow Whispero,Yellow Whispero
-PROPMOVER_TXT_400457,Pink Whispero,Pink Whispero
-PROPMOVER_TXT_400458,Purple Whispero,Purple Whispero
-PROPMOVER_TXT_400459,Blue Whispero,Blue Whispero
-PROPMOVER_TXT_400460,Green Whispero,Green Whispero
-PROPMOVER_TXT_400461,Black Whispero,Black Whispero
-PROPMOVER_TXT_400462,White Whispero,White Whispero
-PROPMOVER_TXT_400463,Green Mecha Rabbit,Green Mecha Rabbit
-PROPMOVER_TXT_400464,Orange Mecha Rabbi,Orange Mecha Rabbi
-PROPMOVER_TXT_400465,Red Mecha Rabbit,Red Mecha Rabbit
-PROPMOVER_TXT_400466,Pink Mecha Rabbit,Pink Mecha Rabbit
-PROPMOVER_TXT_400467,Purple Mecha Rabbi,Purple Mecha Rabbi
-PROPMOVER_TXT_400468,Blue Mecha Rabbit,Blue Mecha Rabbit
-PROPMOVER_TXT_400469,Black Mecha Rabbit,Black Mecha Rabbit
-PROPMOVER_TXT_400470,White Mecha Rabbit,White Mecha Rabbit
-PROPMOVER_TXT_400471,Hellhound,Hellhound
-PROPMOVER_TXT_500001,Kanrang,Kanrang
-PROPMOVER_TXT_500002,Mewrang,Mewrang
-PROPMOVER_TXT_500003,Relgantus,Relgantus
-PROPMOVER_TXT_500004,Huntrang,Huntrang
+PROPMOVER_TXT_400336,Dreadscale,怖鱗
+PROPMOVER_TXT_400337,Captain Dreadscale,大型怖鱗
+PROPMOVER_TXT_400338,Luminfin,輝鱗
+PROPMOVER_TXT_400339,Hyuna,泫雅
+PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[活動] 聖誕獨眼蝙蝠
+PROPMOVER_TXT_400351,Blue Cobra,藍紋眼鏡蛇
+PROPMOVER_TXT_400340,Red Christmas Gingy,紅聖誕薑餅仔
+PROPMOVER_TXT_400341,Green Christmas Gingy,綠聖誕薑餅仔
+PROPMOVER_TXT_400342,Pink Christmas Gingy,粉聖誕薑餅仔
+PROPMOVER_TXT_400343,Orange Christmas Gingy,橙聖誕薑餅仔
+PROPMOVER_TXT_400344,Purple Christmas Gingy,紫聖誕薑餅仔
+PROPMOVER_TXT_400345,Blue Christmas Gingy,藍聖誕薑餅仔
+PROPMOVER_TXT_400352,Green Little Snaky,小青蛇
+PROPMOVER_TXT_400353,Purple Little Snaky,小紫蛇
+PROPMOVER_TXT_400354,Pink Little Snaky,小粉蛇
+PROPMOVER_TXT_400355,Blue Little Snaky,小藍蛇
+PROPMOVER_TXT_400356,Red Little Snaky,小紅蛇
+PROPMOVER_TXT_400357,Emerald Little Snaky,小翠蛇
+PROPMOVER_TXT_400358,Black Little Snaky,小黑蛇
+PROPMOVER_TXT_400359,Purple Frostpaw,紫霜爪
+PROPMOVER_TXT_400360,Yellow Frostpaw,黃霜爪
+PROPMOVER_TXT_400361,Blue Frostpaw,藍霜爪
+PROPMOVER_TXT_400362,Green Frostpaw,綠霜爪
+PROPMOVER_TXT_400363,Pink Frostpaw,粉霜爪
+PROPMOVER_TXT_400364,Red Frostpaw,紅霜爪
+PROPMOVER_TXT_400365,White Frostpaw,白霜爪
+PROPMOVER_TXT_400366,Black Frostpaw,黑霜爪
+PROPMOVER_TXT_400367,Red Roaryen,紅吼獅
+PROPMOVER_TXT_400368,Purple Roaryen,紫吼獅
+PROPMOVER_TXT_400369,Blue Roaryen,藍吼獅
+PROPMOVER_TXT_400370,Green Roaryen,綠吼獅
+PROPMOVER_TXT_400371,White Roaryen,白吼獅
+PROPMOVER_TXT_400372,Black Roaryen,黑吼獅
+PROPMOVER_TXT_001236,Mechamochi,摩可摩奇
+PROPMOVER_TXT_001237,[Event] Clockworks,[活動] 時空毀滅者
+PROPMOVER_TXT_001238,Baby Pang,胖胖
+PROPMOVER_TXT_400373,Lord Mothbee,蜂之王
+PROPMOVER_TXT_400374,Lord Zendros,惡魔之眼
+PROPMOVER_TXT_400375,Lord Dumb Bull,荒原牛之王
+PROPMOVER_TXT_400376,Lord Totemia,陶陶之王
+PROPMOVER_TXT_400377,Lord Flybrigen,飛翼魔燈之王
+PROPMOVER_TXT_400378,Lord Neparuba,變異刀尾蚊之王
+PROPMOVER_TXT_400379,Lord Rockepeller,螺旋飛行人之王
+PROPMOVER_TXT_400380,Lord Longwing,魔翼兵之王
+PROPMOVER_TXT_400381,Lord Shuhamma,機械象之王
+PROPMOVER_TXT_400382,Lord Watangka,巫民之王
+PROPMOVER_TXT_400383,Lord Fafnir,龍寶寶之王
+PROPMOVER_TXT_400384,Lord Gorruda,魔翼龍之王
+PROPMOVER_TXT_400385,Lord Mammoth,猛獁象之王
+PROPMOVER_TXT_400386,Ghost of the Forgotten Lord,冰封亡靈之王
+PROPMOVER_TXT_400387,Lord Augu,尖角蜥之王
+PROPMOVER_TXT_400388,Overlord Kraken,北海巨妖霸主
+PROPMOVER_TXT_400389,Lord Dorian,變異槍魚之王
+PROPMOVER_TXT_400390,Lord Okean,皇冠海妖之王
+PROPMOVER_TXT_400391,Lord Naga,那伽之王
+PROPMOVER_TXT_400392,Overlord Naga,那伽霸主
+PROPMOVER_TXT_400393,Overlord Meral,強襲海盜隊長霸主
+PROPMOVER_TXT_400394,Lord Tigar,熱帶虎之王
+PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,粉櫻守護者・復活節兔
+PROPMOVER_TXT_400396,Green Guardian Easter Bunny,碧翠守護者・復活節兔
+PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,蔚藍守護者・復活節兔
+PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,橙焰守護者・復活節兔
+PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,紫晶守護者・復活節兔
+PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,暗黑守護者・復活節兔
+PROPMOVER_TXT_400401,Lord Yetti,怪力羊之王
+PROPMOVER_TXT_400402,Purple Pawsy,紫色帕西
+PROPMOVER_TXT_400403,Red Pawsy,紅色帕西
+PROPMOVER_TXT_400404,Green Pawsy,綠色帕西
+PROPMOVER_TXT_400405,Blue Pawsy,藍色帕西
+PROPMOVER_TXT_400406,Magenta Pawsy,洋紅帕西
+PROPMOVER_TXT_400407,Lavender Pawsy,薰衣草帕西
+PROPMOVER_TXT_400408,Pink Pawsy,粉紅帕西
+PROPMOVER_TXT_400409,Gray Pawsy,灰色帕西
+PROPMOVER_TXT_400410,Orange Flumos,橙焰靈
+PROPMOVER_TXT_400411,Purple Flumos,紫焰靈
+PROPMOVER_TXT_400412,Red Flumos,紅焰靈
+PROPMOVER_TXT_400413,Blue Flumos,藍焰靈
+PROPMOVER_TXT_400414,Green Flumos,綠焰靈
+PROPMOVER_TXT_400415,Yellow Flumos,黃焰靈
+PROPMOVER_TXT_400416,White Flumos,白焰靈
+PROPMOVER_TXT_400417,Black Flumos,黑焰靈
+PROPMOVER_TXT_400418,Wounded Revolutionary,負傷的革命者
+PROPMOVER_TXT_400419,Yellow Breezy,黃風靈
+PROPMOVER_TXT_400420,Purple Breezy,紫風靈
+PROPMOVER_TXT_400421,Blue Breezy,藍風靈
+PROPMOVER_TXT_400422,Pink Breezy,粉風靈
+PROPMOVER_TXT_400423,White Breezy,白風靈
+PROPMOVER_TXT_400424,Black Breezy,黑風靈
+PROPMOVER_TXT_400425,Blue Pawsh,藍爪靈
+PROPMOVER_TXT_400426,Pink Pawsh,粉爪靈
+PROPMOVER_TXT_400427,Orange Pawsh,橙爪靈
+PROPMOVER_TXT_400428,Green Pawsh,碧爪靈
+PROPMOVER_TXT_400429,Navy Pawsh,深藍爪靈
+PROPMOVER_TXT_400430,Red Pawsh,赤爪靈
+PROPMOVER_TXT_400431,Fortune Pang,招財胖胖
+PROPMOVER_TXT_400432,Orange Marshall,橙焰統領
+PROPMOVER_TXT_400433,Green Marshall,碧翠統領
+PROPMOVER_TXT_400434,Cyan Marshall,青藍統領
+PROPMOVER_TXT_400435,Purple Marshall,紫晶統領
+PROPMOVER_TXT_400436,Red Marshall,赤紅統領
+PROPMOVER_TXT_400437,Neon Marshall,霓虹統領
+PROPMOVER_TXT_400438,Brown Strawy Jack,棕穗傑克
+PROPMOVER_TXT_400439,Maroon Strawy Jack,褐穗傑克
+PROPMOVER_TXT_400440,Green Strawy Jack,綠穗傑克
+PROPMOVER_TXT_400441,Purple Strawy Jack,紫穗傑克
+PROPMOVER_TXT_400442,Olive Strawy Jack,橄欖綠穗傑克
+PROPMOVER_TXT_400443,Blue Strawy Jack,藍穗傑克
+PROPMOVER_TXT_400444,Black Strawy Jack,黑穗傑克
+PROPMOVER_TXT_400445,White Strawy Jack,白穗傑克
+PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[活動] 巨型南瓜先生
+PROPMOVER_TXT_400447,Green Frogzy,綠蛙仔
+PROPMOVER_TXT_400448,Yellow Frogzy,黃蛙仔
+PROPMOVER_TXT_400449,Pink Frogzy,粉蛙仔
+PROPMOVER_TXT_400450,Purple Frogzy,紫蛙仔
+PROPMOVER_TXT_400451,Cyan Frogzy,青蛙仔
+PROPMOVER_TXT_400452,Mint Green Frogzy,薄荷綠蛙仔
+PROPMOVER_TXT_400453,Black Frogzy,黑蛙仔
+PROPMOVER_TXT_400454,White Frogzy,白蛙仔
+PROPMOVER_TXT_400455,Orange Whispero,橘色低語者
+PROPMOVER_TXT_400456,Yellow Whispero,黃色低語者
+PROPMOVER_TXT_400457,Pink Whispero,粉色低語者
+PROPMOVER_TXT_400458,Purple Whispero,紫色低語者
+PROPMOVER_TXT_400459,Blue Whispero,藍色低語者
+PROPMOVER_TXT_400460,Green Whispero,綠色低語者
+PROPMOVER_TXT_400461,Black Whispero,黑色低語者
+PROPMOVER_TXT_400462,White Whispero,白色低語者
+PROPMOVER_TXT_400463,Green Mecha Rabbit,綠色機甲兔
+PROPMOVER_TXT_400464,Orange Mecha Rabbi,橘色機甲兔
+PROPMOVER_TXT_400465,Red Mecha Rabbit,紅色機甲兔
+PROPMOVER_TXT_400466,Pink Mecha Rabbit,粉色機甲兔
+PROPMOVER_TXT_400467,Purple Mecha Rabbi,紫色機甲兔
+PROPMOVER_TXT_400468,Blue Mecha Rabbit,藍色機甲兔
+PROPMOVER_TXT_400469,Black Mecha Rabbit,黑色機甲兔
+PROPMOVER_TXT_400470,White Mecha Rabbit,白色機甲兔
+PROPMOVER_TXT_400471,Hellhound,地獄犬
+PROPMOVER_TXT_500001,Kanrang,坎朗
+PROPMOVER_TXT_500002,Mewrang,繆朗
+PROPMOVER_TXT_500003,Relgantus,雷爾甘圖斯
+PROPMOVER_TXT_500004,Huntrang,亨特朗
 PROPMOVER_TXT_500005,Mawrang,馬巫郎
 PROPMOVER_TXT_500006,Cheirang,[寵物訓獸師] 彩怡郎
-PROPMOVER_TXT_500007,Bato,Bato
-PROPMOVER_TXT_500008,Ralbadan,Ralbadan
-PROPMOVER_TXT_500009,Miorang,Miorang
-PROPMOVER_TXT_500010,Ruidan,Ruidan
-PROPMOVER_TXT_500011,Weevs,Weevs
+PROPMOVER_TXT_500007,Bato,巴託
+PROPMOVER_TXT_500008,Ralbadan,拉爾巴丹
+PROPMOVER_TXT_500009,Miorang,米奧朗
+PROPMOVER_TXT_500010,Ruidan,瑞丹
+PROPMOVER_TXT_500011,Weevs,維夫斯
 PROPMOVER_TXT_500012,Small Hundur Sharpfoot,小百夏足
 PROPMOVER_TXT_500013,Hundur Sharpfoot,百夏足
 PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,百夏足首領
 PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,巨大百夏足
 PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,紫色百夏足
-PROPMOVER_TXT_500017,Small Samoset,Small Samoset
-PROPMOVER_TXT_500018,Samoset,Samoset
-PROPMOVER_TXT_500019,Captain Samoset,Captain Samoset
-PROPMOVER_TXT_500020,Giant Samoset,Giant Samoset
-PROPMOVER_TXT_500021,Violet Samoset,Violet Samoset
-PROPMOVER_TXT_500022,Small Kyouchish,Small Kyouchish
-PROPMOVER_TXT_500023,Kyouchish,Kyouchish
-PROPMOVER_TXT_500024,Captain Kyouchish,Captain Kyouchish
-PROPMOVER_TXT_500025,Giant Kyouchish,Giant Kyouchish
-PROPMOVER_TXT_500026,Violet Kyouchish,Violet Kyouchish
-PROPMOVER_TXT_500027,Small Kanonicus,Small Kanonicus
-PROPMOVER_TXT_500028,Kanonicus,Kanonicus
-PROPMOVER_TXT_500029,Captain Kanonicus,Captain Kanonicus
-PROPMOVER_TXT_500030,Giant Kanonicus,Giant Kanonicus
-PROPMOVER_TXT_500031,Violet Kanonicus,Violet Kanonicus
-PROPMOVER_TXT_500032,Small Mage Redcloud,Small Mage Redcloud
-PROPMOVER_TXT_500033,Mage Redcloud,Mage Redcloud
-PROPMOVER_TXT_500034,Captain Mage Redcloud,Captain Mage Redcloud
-PROPMOVER_TXT_500035,Giant Mage Redcloud,Giant Mage Redcloud
-PROPMOVER_TXT_500036,Violet Mage Redcloud,Violet Mage Redcloud
-PROPMOVER_TXT_500037,Small Taiaha,Small Taiaha
-PROPMOVER_TXT_500038,Taiaha,Taiaha
-PROPMOVER_TXT_500039,Captain Taiaha,Captain Taiaha
-PROPMOVER_TXT_500040,Giant Taiaha,Giant Taiaha
-PROPMOVER_TXT_500041,Violet Taiaha,Violet Taiaha
-PROPMOVER_TXT_500042,Small Hellhound,Small Hellhound
-PROPMOVER_TXT_500043,Hellhound,Hellhound
-PROPMOVER_TXT_500044,Captain Hellhound,Captain Hellhound
-PROPMOVER_TXT_500045,Giant Hellhound,Giant Hellhound
-PROPMOVER_TXT_500046,Violet Hellhound,Violet Hellhound
-PROPMOVER_TXT_500047,Chief Keokuk,Chief Keokuk
-PROPMOVER_TXT_500048,Monument of Death,Monument of Death
-PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[Twisted Soul] Orcus
-PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Tormented Soul] Nergal
-PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Demonic Soul] Hel
-PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Perverted Soul] Morrigan
-PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Anguished Soul] Mara
-PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[Violent Soul] Ghed 
-PROPMOVER_TXT_500055,[God of Death] Ankou,[死神]安庫
-PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[死神]獄焰安庫
-PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[死神]冥魔安庫
-PROPMOVER_TXT_500058,[Elder] Traitus,[Elder] Traitus
-PROPMOVER_TXT_500059,Asylum Guard,Asylum Guard
+PROPMOVER_TXT_500017,Small Samoset,小型薩莫塞特
+PROPMOVER_TXT_500018,Samoset,薩莫塞特
+PROPMOVER_TXT_500019,Captain Samoset,大型薩莫塞特
+PROPMOVER_TXT_500020,Giant Samoset,巨型薩莫塞特
+PROPMOVER_TXT_500021,Violet Samoset,墮落的薩莫塞特
+PROPMOVER_TXT_500022,Small Kyouchish,小型利爪奇什
+PROPMOVER_TXT_500023,Kyouchish,利爪奇什
+PROPMOVER_TXT_500024,Captain Kyouchish,大型利爪奇什
+PROPMOVER_TXT_500025,Giant Kyouchish,巨型利爪奇什
+PROPMOVER_TXT_500026,Violet Kyouchish,墮落的利爪奇什
+PROPMOVER_TXT_500027,Small Kanonicus,小型追獵者庫斯
+PROPMOVER_TXT_500028,Kanonicus,追獵者庫斯
+PROPMOVER_TXT_500029,Captain Kanonicus,大型追獵者庫斯
+PROPMOVER_TXT_500030,Giant Kanonicus,巨型追獵者庫斯
+PROPMOVER_TXT_500031,Violet Kanonicus,墮落的追獵者庫斯
+PROPMOVER_TXT_500032,Small Mage Redcloud,小型緋雲術士
+PROPMOVER_TXT_500033,Mage Redcloud,緋雲術士
+PROPMOVER_TXT_500034,Captain Mage Redcloud,大型緋雲術士
+PROPMOVER_TXT_500035,Giant Mage Redcloud,巨型緋雲術士
+PROPMOVER_TXT_500036,Violet Mage Redcloud,墮落的緋雲術士
+PROPMOVER_TXT_500037,Small Taiaha,小型泰亞哈戰士
+PROPMOVER_TXT_500038,Taiaha,泰亞哈戰士
+PROPMOVER_TXT_500039,Captain Taiaha,大型泰亞哈戰士
+PROPMOVER_TXT_500040,Giant Taiaha,巨型泰亞哈戰士
+PROPMOVER_TXT_500041,Violet Taiaha,墮落的泰亞哈戰士
+PROPMOVER_TXT_500042,Small Hellhound,小型地獄犬
+PROPMOVER_TXT_500043,Hellhound,地獄犬
+PROPMOVER_TXT_500044,Captain Hellhound,大型地獄犬
+PROPMOVER_TXT_500045,Giant Hellhound,巨型地獄犬
+PROPMOVER_TXT_500046,Violet Hellhound,墮落的地獄犬
+PROPMOVER_TXT_500047,Chief Keokuk,酋長基奧卡克
+PROPMOVER_TXT_500048,Monument of Death,亡魂豐碑
+PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[畸變靈魂] 奧庫斯
+PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[煎熬靈魂] 內爾伽勒
+PROPMOVER_TXT_500051,[Demonic Soul] Hel,[魔化靈魂] 赫爾
+PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[扭曲靈魂] 莫莉甘
+PROPMOVER_TXT_500053,[Anguished Soul] Mara,[痛苦靈魂] 瑪拉
+PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[狂暴靈魂] 蓋德
+PROPMOVER_TXT_500055,[God of Death] Ankou,[死神] 安庫
+PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[死神] 獄焰安庫
+PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[死神] 冥魔安庫
+PROPMOVER_TXT_500058,[Elder] Traitus,[長老] 特萊圖斯
+PROPMOVER_TXT_500059,Asylum Guard,魔域守衛
 PROPMOVER_TXT_500060,Ankou,安庫
 PROPMOVER_TXT_500061,Demonic Ankou,冥魔安庫
-PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,Blue 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,Red 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,Green 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,Pink 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,Black 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,White 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500068,Red Baby Horse,Red Baby Horse
-PROPMOVER_TXT_500069,Cyan Shiki Paws,Cyan Shiki Paws
-PROPMOVER_TXT_500070,Green Shiki Paws,Green Shiki Paws
-PROPMOVER_TXT_500071,Purple Shiki Paws,Purple Shiki Paws
-PROPMOVER_TXT_500072,Blue Shiki Paws,Blue Shiki Paws
-PROPMOVER_TXT_500073,White Shiki Paws,White Shiki Paws
-PROPMOVER_TXT_500074,Black Shiki Paws,Black Shiki Paws
-PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[Event] Giant Hundur Sharpfoot
-PROPMOVER_TXT_110171,[Event] Giant Samoset,[Event] Giant Samoset
-PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[Event] Giant Kyouchish
-PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[Event] Giant Kanonicus
-PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[Event] Giant Mage Redcloud
-PROPMOVER_TXT_110175,[Event] Small Samoset,[Event] Small Samoset
-PROPMOVER_TXT_110176,[Event] Samoset,[Event] Samoset
-PROPMOVER_TXT_110177,[Event] Small Kyouchish,[Event] Small Kyouchish
-PROPMOVER_TXT_110178,[Event] Kyouchish,[Event] Kyouchish
-PROPMOVER_TXT_110179,[Event] Small Kanonicus,[Event] Small Kanonicus
-PROPMOVER_TXT_110180,[Event] Kanonicus,[Event] Kanonicus
-PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[Event] Small Mage Redcloud
-PROPMOVER_TXT_110182,[Event] Mage Redcloud,[Event] Mage Redcloud
-PROPMOVER_TXT_110183,[Event] Small Taiaha,[Event] Small Taiaha
-PROPMOVER_TXT_110184,[Event] Taiaha,[Event] Taiaha
+PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,2025 藍色感恩火雞
+PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,2025 紅色感恩火雞
+PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,2025 綠色感恩火雞
+PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,2025 粉色感恩火雞
+PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,2025 黑色感恩火雞
+PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,2025 白色感恩火雞
+PROPMOVER_TXT_500068,Red Baby Horse,紅色馬寶寶
+PROPMOVER_TXT_500069,Cyan Shiki Paws,青式神爪
+PROPMOVER_TXT_500070,Green Shiki Paws,綠式神爪
+PROPMOVER_TXT_500071,Purple Shiki Paws,紫式神爪
+PROPMOVER_TXT_500072,Blue Shiki Paws,藍式神爪
+PROPMOVER_TXT_500073,White Shiki Paws,白式神爪
+PROPMOVER_TXT_500074,Black Shiki Paws,黑式神爪
+PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[活動] 巨型疾行獵犬
+PROPMOVER_TXT_110171,[Event] Giant Samoset,[活動] 巨型薩莫塞特
+PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[活動] 巨型利爪奇什
+PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[活動] 巨型追獵者庫斯
+PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[活動] 巨型緋雲術士
+PROPMOVER_TXT_110175,[Event] Small Samoset,[活動] 小型薩莫塞特
+PROPMOVER_TXT_110176,[Event] Samoset,[活動] 薩莫塞特
+PROPMOVER_TXT_110177,[Event] Small Kyouchish,[活動] 小型利爪奇什
+PROPMOVER_TXT_110178,[Event] Kyouchish,[活動] 利爪奇什
+PROPMOVER_TXT_110179,[Event] Small Kanonicus,[活動] 小型追獵者庫斯
+PROPMOVER_TXT_110180,[Event] Kanonicus,[活動] 追獵者庫斯
+PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[活動] 小型緋雲術士
+PROPMOVER_TXT_110182,[Event] Mage Redcloud,[活動] 緋雲術士
+PROPMOVER_TXT_110183,[Event] Small Taiaha,[活動] 小型泰亞哈戰士
+PROPMOVER_TXT_110184,[Event] Taiaha,[活動] 泰亞哈戰士
