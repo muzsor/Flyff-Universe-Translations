@@ -62,7 +62,7 @@ TEXTCLIENT_APP_MOTION,Emotes,动作
 TEXTCLIENT_APP_CHARINFO,Character,角色
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s 回复量限制为 %d。
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,请稍后再使用此物品。
-TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,点击城镇中心复活(到最近的城镇)或使用物品原地复活。
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,点击城镇中心复活 (到最近的城镇) 或使用物品原地复活。
 TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,点击城镇之星在竞技场附近复活。
 TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,您无法攻击正与其它玩家战斗中的怪物。
 TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,战斗时无法终止
@@ -89,7 +89,7 @@ TEXTCLIENT_APP_INVENTORY,Inventory,背包
 TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,您获得了%s枚金币。(共%s枚金币)
 TEXTCLIENT_ERROR_SEX,%s is not for your gender.,性别不符，无法使用%s
 TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,不符合要求，你无法装备%s。
-TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),由于您的等级太低，您无法装备此物品。 （需要等级：%d）
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),由于您的等级太低，您无法装备此物品。 (需要等级：%d)
 TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,该物品无法删除或是丢弃到地上。
 TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
 TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,删除%s: %d个。
@@ -352,7 +352,7 @@ TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s 对你施放了 %s(%
 TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,不允许查看装备。
 TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,您必须重新启动游戏才能使所有改动生效
 TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,道具正在使用中，请在效果解除后再试
-TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,等级过低无法使用(必须等级:%s)
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,等级过低无法使用 (必须等级:%s)
 TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,无法与此物品重复使用
 TEXTCLIENT_COND_USE,Takes effect when player dies.,死亡时生效
 TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d天
@@ -725,7 +725,7 @@ TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3
 TEXTCLIENT_CHANGE_FACE,Change your Appearance.,改变面貌
 TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,您愿意更改面貌吗?
 TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s 必须等待 %s 才能再次进入副本。
-TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,你失去了 %s 金币（总计：%s 金币）。
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,你失去了 %s 金币 (总计：%s 金币)。
 TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,在战斗中您不能这么做
 TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,您可以在卡片管理员的卡片升级服务那里使用这个物品
 TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,卡片升级成功！
@@ -825,7 +825,7 @@ TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a lon
 TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,地面上已经有太多物品了。
 TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,您已经制作了 %d 个 %s。
 TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,宝石制作失败。
-TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,恭喜你在战斗力排名中排名%d（%s）！
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,恭喜你在战斗力排名中排名%d(%s)！
 TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,这次PvP击杀不算在内，因为你们刚刚战斗过。
 TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,请使用适用在武器上的宝石。
 TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,转化传说武器成功！
@@ -1180,7 +1180,7 @@ TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equippi
 TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,无法直接登入，请通过网站进行登录。​
 TEXTCLIENT_EVENTBUFF,%s is active!,%s 已激活！
 TEXTCLIENT_STORAGEFULL,The bag is full.,包满了
-TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s 护甲包（%d/%d）
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s 护甲包 (%d/%d)
 TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,一次只能使用一个背包。
 TEXTCLIENT_MOTIONNOPVP,You cannot use this emote in a PvP area.,You cannot use this emote in a PvP area.
 TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,强化成功

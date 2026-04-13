@@ -445,7 +445,7 @@ PROPQUEST_SCENARIO_INC_001549,You don't want to help me? Oh well... Then I will 
 PROPQUEST_SCENARIO_INC_001550,"Hmm? Yes I am Bowler, last keeper of the lore of this continent. WHAT!? You come bearing the Bubble Trace!?",嗯?是的，我就是保罗克，这个大陆上最后的传说的守护者。什么！？你带着波布尔的踪迹来的！？
 PROPQUEST_SCENARIO_INC_001551,"Please kill 15 Basques, acquire the Bubble Trace and take it to Bowler.",请杀死15个巴斯克斗士，在拿到波布尔的踪迹后将它带给保罗克。
 PROPQUEST_SCENARIO_INC_001552,Kill 15 Phantom Basques & 7 Basques and find the Bubble Trace and bring it to Bowler.,杀死15个轻量级巴斯克斗士和7个巴斯克斗士，并找到波布尔的踪迹后交给保罗克。
-PROPQUEST_SCENARIO_INC_001554,Essence of the Gods (2),神的意识（2）
+PROPQUEST_SCENARIO_INC_001554,Essence of the Gods (2),神的意识 (2)
 PROPQUEST_SCENARIO_INC_001555,"According to my ancestors, this region was once a primary location for a massive conflict between Bubble and Shade. Lets put it this way, Madrigal was once all one continent before this war…",据我的先祖们说，这个区域曾是波布尔和谢莉德之间的巨大冲突的主要发生地。这么说吧，瑞加大陆是在这场战争之前还是完整的一块大陆...
 PROPQUEST_SCENARIO_INC_001556,"We must also acquire the Shade trace. It's rumored to be held by the Pranksters, the last remnants of the followers of Shade. As you can see, I'm a tad too short to confront them. Could you get it for me?","We must also acquire the Shade trace. It's rumored to be held by the Pranksters, the last remnants of the followers of Shade. As you can see, I'm a tad too short to confront them. Could you get it for me?"
 PROPQUEST_SCENARIO_INC_001557,I appreciate the assistance. Please go Kill 15 Small Mage Pranksters & 7 Pranksters and acquire the Shade trace.,感谢你的协助。请去击杀15个见习小丑术士和7个小丑术士，并获得谢莉德的踪迹。
@@ -949,12 +949,12 @@ PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and 
 PROPQUEST_SCENARIO_INC_002228,Sury's Dilemma,叙里的困境
 PROPQUEST_SCENARIO_INC_002229,"I've been training up here so long. I feel that I'm so close to achieving a heightened level of power, but there is something missing…",我在这上面训练了这么久。我觉得我的力量达到了更高水平了，但还缺少一些东西......
 PROPQUEST_SCENARIO_INC_002230,"I don't know why… I just feel like there is something missing… and this ""thing"" is keeping me from realizing my true inner potential.","我不知道为什么......我只是觉得缺少一些东西......而这个 ""东西 ""使我无法激发我真正的内在潜力。"
-PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. He will surely understand…,你能不能找我的导师（暴力技师守护使者）卡帕菲，并向他阐述我的困境。他一定会理解的...
-PROPQUEST_SCENARIO_INC_002232,Thank you! Please get advice from (Billposter Guardian) Capafe.,谢谢！请从（暴力技师守护使者）卡帕菲那里得到一些建议。
+PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. He will surely understand…,你能不能找我的导师 (暴力技师守护使者) 卡帕菲，并向他阐述我的困境。他一定会理解的...
+PROPQUEST_SCENARIO_INC_002232,Thank you! Please get advice from (Billposter Guardian) Capafe.,谢谢！请从 (暴力技师守护使者) 卡帕菲那里得到一些建议。
 PROPQUEST_SCENARIO_INC_002233,You can't possibly stop now. You play an important role in things to come!,你不能现在就停下来。你的行为将会影响未来的事情!
 PROPQUEST_SCENARIO_INC_002234,"Welcome, I have been expecting you.",欢迎回来，我一直在等着你。
-PROPQUEST_SCENARIO_INC_002235,(Billposter Guardian) Capafe is located in Southern Darkon 3 along with the other Guardians.,（暴力技师守护使者）卡帕菲与其他守护者都位于达肯3的南部。
-PROPQUEST_SCENARIO_INC_002236,Find (Billposter Guardian) Capafe.,找到（暴力技师守护使者）卡帕菲
+PROPQUEST_SCENARIO_INC_002235,(Billposter Guardian) Capafe is located in Southern Darkon 3 along with the other Guardians.,(暴力技师守护使者) 卡帕菲与其他守护者都位于达肯3的南部。
+PROPQUEST_SCENARIO_INC_002236,Find (Billposter Guardian) Capafe.,找到 (暴力技师守护使者) 卡帕菲
 PROPQUEST_SCENARIO_INC_002238,Enlightenment Shard,启迪碎片
 PROPQUEST_SCENARIO_INC_002239,"Sury is currently in a perpetual state of self doubt. Despite her unyielding dedication to her training, there is a self-realization she alone will have to make…",叙里现在正处于一个持续的自我怀疑状态。尽管她在坚持不懈的训练，但她仍不得不独自实现自我救赎……
 PROPQUEST_SCENARIO_INC_002240,Go to Fera to get the Enlightenment Shard. She will tell you.,去菲拉那获取启迪碎片。她会向你解释的。
@@ -1279,7 +1279,7 @@ PROPQUEST_SCENARIO_INC_002567,*Cackle* Wonderful hahahaha! You can start by rele
 PROPQUEST_SCENARIO_INC_002568,FOOL! You ignore the gifts of someone like me!? You will regret this...,FOOL! You ignore the gifts of someone like me!? You will regret this...
 PROPQUEST_SCENARIO_INC_002569,"Ahhh... I feel the first binding being released. One down, three to go.","Ahhh... I feel the first binding being released. One down, three to go."
 PROPQUEST_SCENARIO_INC_002570,Your incompetence is pathetic... GO! Defeat a Violet masquerpet to release the first binding.,Your incompetence is pathetic... GO! Defeat a Violet masquerpet to release the first binding.
-PROPQUEST_SCENARIO_INC_002571,Collect a Corrupted Symbol of Shade from a Violet masquerpet in Darkon 1.,从达肯1的堕落(紫圈)怪物身上收集一个腐化的谢莉德的象征。
+PROPQUEST_SCENARIO_INC_002571,Collect a Corrupted Symbol of Shade from a Violet masquerpet in Darkon 1.,从达肯1的堕落 (紫圈) 怪物身上收集一个腐化的谢莉德的象征。
 PROPQUEST_SCENARIO_INC_002572,Throwing Shade,Throwing Shade
 PROPQUEST_SCENARIO_INC_002573,Well you've proven yourself to have some strength at least. There are still three more bindings to shatter though.,Well you've proven yourself to have some strength at least. There are still three more bindings to shatter though.
 PROPQUEST_SCENARIO_INC_002574,"You won't find anymore Symbols of Shade with that same level of power. I don't care where you get them from, but bring me 5 normal Symbols of Shade to break the next binding. Symbols of Shade drop from Violet masquerpets.","You won't find anymore Symbols of Shade with that same level of power. I don't care where you get them from, but bring me 5 normal Symbols of Shade to break the next binding. Symbols of Shade drop from Violet masquerpets."

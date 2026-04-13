@@ -59,9 +59,9 @@ CLIENT_HELP_INC_000056,Complete as many quests as you can as they will give you 
 CLIENT_HELP_INC_000057,Interface,界面
 CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be seeing and using while you play.,本节将详细介绍您在玩游戏时将看到和使用的各种菜单。
 CLIENT_HELP_INC_000059,Status Menu,状态菜单
-CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",您可以通过按“T”按钮来切换窗口。此窗口会提供您的角色整体状态，包括了您的生命值（HP），魔法值（MP），活力值（FP），经验值（EXP）和 O泡时间（BT）。
-CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",您的总生命值随着你的体质（STA）增加，您的生命值越多，您存活越久。法力值（MP）是魔导士和圣职者技能所必需的。您所有的法力值会随着你的智力（INT）增加。技力值（FP）是战士近战攻击所必须的，您的总技力值（FP）会随着你的体力值（STA）增加。
-CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,个人经验值（EXP）是升级所必要的经验值。个人经验值（EXP）只有打怪和完成任务时，才能够获得。O泡时间是一种特殊的状态，可为您提供额外的个人经验值（EXP）。O泡时间只能通过公会小屋获得，具体请查阅帮助菜单里的公会部分。
+CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",您可以通过按“T”按钮来切换窗口。此窗口会提供您的角色整体状态，包括了您的生命值 (HP)，魔法值 (MP)，活力值 (FP)，经验值 (EXP) 和 O泡时间 (BT)。
+CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",您的总生命值随着你的体质 (STA) 增加，您的生命值越多，您存活越久。法力值 (MP) 是魔导士和圣职者技能所必需的。您所有的法力值会随着你的智力 (INT) 增加。技力值 (FP) 是战士近战攻击所必须的，您的总技力值 (FP) 会随着你的体力值 (STA) 增加。
+CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,个人经验值 (EXP) 是升级所必要的经验值。个人经验值 (EXP) 只有打怪和完成任务时，才能够获得。O泡时间是一种特殊的状态，可为您提供额外的个人经验值 (EXP)。O泡时间只能通过公会小屋获得，具体请查阅帮助菜单里的公会部分。
 CLIENT_HELP_INC_000063,Character Menu,角色菜单
 CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",可以使用 H 键切换此菜单。它显示有关角色的重要信息。基础部分显示角色姓名、职业、等级等基本信息……详情部分根据当前使用的装备和等级显示角色状态，PVP/PK部分则显示您的PVP信息。
 CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",当您获得等级时，您将获得属性点。这些点可以在这个菜单上使用。 属性点数随着您的等级而增加，并且可以增加您的基础能力。
@@ -569,7 +569,7 @@ CLIENT_HELP_INC_000567,A property that is strong against the Earth Property but 
 CLIENT_HELP_INC_000568,Enchant,附魔
 CLIENT_HELP_INC_000569,"Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost.",强化意味着使物品更加强大。每件物品通常可以强化10级，而武器/盔甲的胸前部件可以进行10级以上的元素强化。如果强化失败，在1-3级没有任何惩罚，但从4-10级开始，有可能会失去该物品。
 CLIENT_HELP_INC_000570,Attribute Enchant,属性附魔
-CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.",你的物品可以通过多种方式获得一个属性修饰符（在物品的名称中可见），赋予它额外的力量、体质、敏捷或智力。
+CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.",你的物品可以通过多种方式获得一个属性修饰符 (在物品的名称中可见)，赋予它额外的力量、体质、敏捷或智力。
 CLIENT_HELP_INC_000572,Fire Upgrade,火属性精炼
 CLIENT_HELP_INC_000573,"When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind.",当你精炼一件物品，使之变为火属性时，你需要一张火属性卡。当一个物品被赋予火属性时，该物品将克制风属性，但被水属性克制。
 CLIENT_HELP_INC_000574,Water Upgrade,水属性精炼

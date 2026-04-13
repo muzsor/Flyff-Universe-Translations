@@ -692,7 +692,7 @@ NPC_000765,"Ciao! Hey, if you come across any new species of Masquerpet, let me 
 NPC_000766,My name is Herth Emaldhan and I am a guide in Saint City.,我是晨光镇的讲解员赫丝
 NPC_000767,My name is Janne Orgriman and I am a guide in Saint City.,我是晨光镇的讲解员珍妮
 NPC_000768,"Please find my child! Please, Please,",拜托你~帮我找一下我的孩子!!拜托...拜托...我的..孩子..呜呜..
-NPC_000769,My baby was so cute I can still hear her voice.,"我的孩子是个很漂亮的小女孩..只是他的笑声有点大,有点古怪....（回想时的微笑）"
+NPC_000769,My baby was so cute I can still hear her voice.,"我的孩子是个很漂亮的小女孩..只是他的笑声有点大,有点古怪....(回想时的微笑) "
 NPC_000770,My name is JeongHwa Song I moved here to Saint City a few years ago.,"我是去年搬到晨光镇的,名叫吉哈娃,本来是一个流浪游侠,后来定居在这里了."
 NPC_000771,The name of my daughter is Jingyoung. Please let me know if you find her.,"我女儿的名字是真英,如果有见到她的话,一定要告诉我~"
 NPC_000772,Healthy body for healthy mind! Here are some delicious foods made by Karin! They are good for your health!,为了健康需要吃我卡琳亲自做的食物~
@@ -1188,7 +1188,7 @@ NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. M
 NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,欢迎来到艾尔伦村。愿你在此过得愉快。
 NPC_150046,A new visitor… Let’s hope that’s a good sign.,新来的旅人…… 但愿这是个好兆头。
 NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.",我是艾尔，长老之一。我守护这座村庄已经很久了。只是近来越发艰难…… 或许，你会带来改变。
-NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,（叹气）领主今天又把活儿丢给我了……\n我年纪大了，实在扛不住。就不能安安静静退休吗。
+NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,(叹气) 领主今天又把活儿丢给我了……\n我年纪大了，实在扛不住。就不能安安静静退休吗。
 NPC_150049,Do you always trust what you see? Think it through.,你永远该相信眼前所见吗？好好想一想。
 NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?",我是特雷图斯长老，负责物资供给。话说回来…… 我该上哪儿凑齐今天所需的物资啊？
 NPC_150051,We’re not like the Khajiit… not like them at all.,我们可不是卡吉特人…… 跟他们一点都不一样。
@@ -1268,8 +1268,8 @@ NPC_150124,Keeping watch here isn’t easy. You never know what might creep out 
 NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,我？我是安库魔域的守护者。总得有人守在这里，确保那些噩梦永远被关在里面。
 NPC_150126,Feeling brave today? Just remember—I warned you.,今天觉得自己胆气十足？记住就好 ———— 我早警告过你。
 NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.",你能熬过安库的疯狂，就来找我吧。我很想听你的故事 —— 前提是你还没疯掉。
-NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,获得 2 个随机雕像效果（增益或减益）。
-NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,获得 1 个雕像增益（仅限增益）。
+NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,获得 2 个随机雕像效果 (增益或减益)。
+NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,获得 1 个雕像增益 (仅限增益)。
 NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,随机替换你当前的雕像增益效果。
 NPC_150128,Just… leave me alone. I need to rest my eyes.,求你…… 别再管我了。我需要闭上眼睛歇会儿。
 NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,我曾以为我能独自面对他…… 可他比我预想的要强大得多。如果你打算与他为敌，请务必做好万全准备。
