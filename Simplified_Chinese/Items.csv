@@ -4601,7 +4601,7 @@ PROPITEM_TXT_012987,"It took some elbow grease to get this little sucker in the 
 PROPITEM_TXT_013252,Big Red,火力胖胖
 PROPITEM_TXT_013253,"No little Pang freshens buffs longer than Big Red. So kill a little longer, grind a little longer, hold tight a little longer. Longer with Big Red.",没有哪个胖胖能比火力胖胖上新鲜BUFF时间更长。所以多战斗一段时间，多磨炼一段时间，多坚持一段时间。火力胖胖陪你更长时间。
 PROPITEM_TXT_013254,Bone Golem,骨石魔人
-PROPITEM_TXT_013255,"A Golem created from the Bones of the damned, and held together by the Voodoo spells of Laveau. This Golem is bound to an eternity of servitude and will forever stand by your side and pick up the loot of your victims.",用被诅咒者的骨头创造的石像人，被拉沃的巫毒咒语结合在一起。这个石像人注定要被永远奴役，并且永远站在你身边，也会捡起受害者的战利品。
+PROPITEM_TXT_013255,"A Golem created from the Bones of the damned, and held together by the Voodoo spells of Laveau. This Golem is bound to an eternity of servitude and will forever stand by your side and pick up the loot of your victims.",用受诅咒者的骨头创造的石像人，被拉沃的巫毒咒语结合在一起。这个石像人注定要被永远奴役，并且永远站在你身边，也会捡起受害者的战利品。
 PROPITEM_TXT_013502,Jack Frost,冰霜杰克
 PROPITEM_TXT_013503,Your Meat Salad won't spoil when this frosty little guy is in charge of your loot.,当这个结霜的小家伙掌管你的战利品时你的肉沙拉不会变质。
 PROPITEM_TXT_013504,Mr. Grinchie,格林奇先生
@@ -9178,8 +9178,8 @@ PROPITEM_TXT_200303,This purchase gives you many advantages during the Lunar Pas
 PROPITEM_TXT_200304,Common Bank,仓库通用
 PROPITEM_TXT_200305,Cloak of Finland,芬兰披风
 PROPITEM_TXT_200306,This Cloak has a full length depiction of the flag of Finland on it.,This Cloak has a full length depiction of the flag of Finland on it.
-PROPITEM_TXT_400307,Pyramid Guardian Shield,Pyramid Guardian Shield
-PROPITEM_TXT_400308,Pyramid Keeper Shield,Pyramid Keeper Shield
+PROPITEM_TXT_400307,Pyramid Guardian Shield,金字塔守护者之盾
+PROPITEM_TXT_400308,Pyramid Keeper Shield,金字塔守卫者之盾
 PROPITEM_TXT_400309,Grrr Axe,Grrr Axe
 PROPITEM_TXT_400310,Merman Bow,人鱼战士之弓
 PROPITEM_TXT_400311,Merman Stick,人鱼战士魔棒
@@ -9187,16 +9187,16 @@ PROPITEM_TXT_400312,Regal Kumai Stick,Regal Kumai Stick
 PROPITEM_TXT_400313,Kraken Knuckle,克拉肯拳套
 PROPITEM_TXT_400314,Enchanted Shaman Staff,魔化萨满的法杖
 PROPITEM_TXT_400315,Merman Staff,人鱼战士法杖
-PROPITEM_TXT_400316,Pyramid Guardian Sword,Pyramid Guardian Sword
-PROPITEM_TXT_400317,Pyramid Keeper Sword,Pyramid Keeper Sword
-PROPITEM_TXT_400318,Pyramid Guardian Big Sword,Pyramid Guardian Big Sword
-PROPITEM_TXT_400319,Pyramid Keeper Big Sword,Pyramid Keeper Big Sword
+PROPITEM_TXT_400316,Pyramid Guardian Sword,金字塔守护者之剑
+PROPITEM_TXT_400317,Pyramid Keeper Sword,金字塔守卫者之剑
+PROPITEM_TXT_400318,Pyramid Guardian Big Sword,金字塔守护者大剑
+PROPITEM_TXT_400319,Pyramid Keeper Big Sword,金字塔守卫者大剑
 PROPITEM_TXT_400320,Enchanted Shaman Wand,魔化萨满的魔杖
 PROPITEM_TXT_400321,Kraken Yo-Yo,克拉肯飞轮
 PROPITEM_TXT_400322,Kraken's Head,克拉肯头盔
 PROPITEM_TXT_400323,Siren's Head,Siren's Head
-PROPITEM_TXT_400324,Pyramid Guardian's Head,Pyramid Guardian's Head
-PROPITEM_TXT_400325,Pyramid Keeper's Head,Pyramid Keeper's Head
+PROPITEM_TXT_400324,Pyramid Guardian's Head,金字塔守护者的头盔
+PROPITEM_TXT_400325,Pyramid Keeper's Head,金字塔守卫者的头盔
 PROPITEM_TXT_400326,Legends of Leren Mountains,Legends of Leren Mountains
 PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,Quest Item: A book of myths and legends about the history of the Leren Mountains.
 PROPITEM_TXT_400328,Flaris Fungi,Flaris Fungi
@@ -9245,10 +9245,10 @@ PROPITEM_TXT_400370,Regal Kumai Big Mace,Regal Kumai Big Mace
 PROPITEM_TXT_400371,Regal Kumai Mace,Regal Kumai Mace
 PROPITEM_TXT_400372,Old Rut Hat,Old Rut Hat
 PROPITEM_TXT_400373,Old Rut Bag,Old Rut Bag
-PROPITEM_TXT_400374,Skeleton Assassin Yo-Yo,Skeleton Assassin Yo-Yo
-PROPITEM_TXT_400375,Skeleton General Sword,Skeleton General Sword
-PROPITEM_TXT_400376,Skeleton General Big Sword,Skeleton General Big Sword
-PROPITEM_TXT_400377,Skeleton General Head,Skeleton General Head
+PROPITEM_TXT_400374,Skeleton Assassin Yo-Yo,冥骸刺客飞轮
+PROPITEM_TXT_400375,Skeleton General Sword,冥骸将军之剑
+PROPITEM_TXT_400376,Skeleton General Big Sword,冥骸将军大剑
+PROPITEM_TXT_400377,Skeleton General Head,冥骸将军头
 PROPITEM_TXT_400378,Old Rut Pipe,Old Rut Pipe
 PROPITEM_TXT_400379,Cache of Bubble,Cache of Bubble
 PROPITEM_TXT_400380,Quest Item: An ancient cache in the shape of a bubble. It is said to contain great power.,Quest Item: An ancient cache in the shape of a bubble. It is said to contain great power.
@@ -9416,7 +9416,7 @@ PROPITEM_TXT_130003,Mushpang Cap,嘭嘭菇帽
 PROPITEM_TXT_130004,Pukepuke Hat,邪精灵帽
 PROPITEM_TXT_130005,Hael's Swords (Cloak),海尔的剑(披风)
 PROPITEM_TXT_130006,The Blade Hero's Swords. You can wear them on a belt!,刀锋战士英雄的剑，你可以把它们佩戴在腰带上!
-PROPITEM_TXT_130007,Skeleton General Wings,Skeleton General Wings
+PROPITEM_TXT_130007,Skeleton General Wings,冥骸将军之翼
 PROPITEM_TXT_130008,Crystal Demon Lord Cloak,冰封恶魔领主披风
 PROPITEM_TXT_130009,Crystal Demon Sword,冰封恶魔领主之剑
 PROPITEM_TXT_130010,Crystal Demon Big Sword,冰封恶魔领主巨剑
@@ -9450,18 +9450,18 @@ PROPITEM_TXT_130035,Watangka Mask,Watangka Mask
 PROPITEM_TXT_130036,Adorned Watangka Mask,Adorned Watangka Mask
 PROPITEM_TXT_130037,Regal Kumai Yo-Yo,Regal Kumai Yo-Yo
 PROPITEM_TXT_130038,Radioactive Long Legs Bow,Radioactive Long Legs Bow
-PROPITEM_TXT_130039,Skeleton General Bow,Skeleton General Bow
+PROPITEM_TXT_130039,Skeleton General Bow,冥骸将军之弓
 PROPITEM_TXT_130040,Nightmist Knuckle,Nightmist Knuckle
 PROPITEM_TXT_130041,Larva Carapace Shield,Larva Carapace Shield
-PROPITEM_TXT_130042,Skeleton General Axe,Skeleton General Axe
+PROPITEM_TXT_130042,Skeleton General Axe,冥骸将军之斧
 PROPITEM_TXT_130043,Queen Long Legs Bow,盲蛛女皇弓
-PROPITEM_TXT_130044,Skeleton General Big Axe,Skeleton General Big Axe
+PROPITEM_TXT_130044,Skeleton General Big Axe,冥骸将军大斧
 PROPITEM_TXT_130045,Tombstone Bearer Head,Tombstone Bearer Head
 PROPITEM_TXT_130046,Temple Guardian Horns,Temple Guardian Horns
 PROPITEM_TXT_130047,Giant Turtle Shield,巨型海龟的壳
-PROPITEM_TXT_130048,Skeletal Militant Sword,Skeletal Militant Sword
-PROPITEM_TXT_130049,Skeletal Militant Big Sword,Skeletal Militant Big Sword
-PROPITEM_TXT_130050,Skeletal Militant Shield,Skeletal Militant Shield
+PROPITEM_TXT_130048,Skeletal Militant Sword,冥骸武士之剑
+PROPITEM_TXT_130049,Skeletal Militant Big Sword,冥骸武士大剑
+PROPITEM_TXT_130050,Skeletal Militant Shield,冥骸武士之盾
 PROPITEM_TXT_130053,Hael's Letter,Hael's Letter
 PROPITEM_TXT_130054,"Hidden Quest Item: In his letter, Hael explains the pain of losing his memory to an old friend. Unfortunately, he never wrote who the letter was to.","Hidden Quest Item: In his letter, Hael explains the pain of losing his memory to an old friend. Unfortunately, he never wrote who the letter was to."
 PROPITEM_TXT_130055,Hael's Map,Hael's Map
@@ -12651,7 +12651,7 @@ PROPITEM_TXT_011571,Lypine Boots,灵茵鞋子
 PROPITEM_TXT_011572,"Forged as a relic of ancient craftsmanship, lost to the ages.",它是古代工艺的遗物，已失传多年。
 PROPITEM_TXT_722006,Jewelry Dust,首饰粉尘
 PROPITEM_TXT_722007,Dismantle jewelry for this dust and use it towards better jewelry.,分解首饰获取此粉尘，并将其用于打造更好的首饰。
-PROPITEM_TXT_722008,Cursed Jewelry Fragment,被诅咒的首饰碎片
+PROPITEM_TXT_722008,Cursed Jewelry Fragment,受诅咒的首饰碎片
 PROPITEM_TXT_722009,An ominous aura emits from these fragments. Combine them for powerful jewelry.,这些碎片散发着不祥的气息。将它们组合成强力的首饰吧。
 PROPITEM_TXT_722010,Beach World Template (XL),Beach World Template (XL)
 PROPITEM_TXT_722012,Defender's Mental Necklace,圣骑士的魔力之源
@@ -24564,47 +24564,47 @@ PROPITEM_TXT_155515,Vial of Toxins,毒剂瓶
 PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,致命毒瓶​内藏剧毒物质。施展“谑影者”剧毒技能所需。
 PROPITEM_TXT_155517,Broken Butcher's Carnage,Broken Butcher's Carnage
 PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Battle-Worn Butcher's Carnage
-PROPITEM_TXT_155519,Cursed Butcher's Carnage,被诅咒的血腥盛宴
+PROPITEM_TXT_155519,Cursed Butcher's Carnage,受诅咒的血腥盛宴
 PROPITEM_TXT_155520,Butcher's Carnage,血腥盛宴
 PROPITEM_TXT_155521,Broken Dragon's Rain,Broken Dragon's Rain
 PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Battle-Worn Dragon's Rain
-PROPITEM_TXT_155523,Cursed Dragon's Rain,被诅咒的龙霖
+PROPITEM_TXT_155523,Cursed Dragon's Rain,受诅咒的龙霖
 PROPITEM_TXT_155524,Dragon's Rain,龙霖
 PROPITEM_TXT_155525,Broken Maw of Judgement,Broken Maw of Judgement
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Battle-Worn Maw of Judgement
-PROPITEM_TXT_155527,Cursed Maw of Judgement,被诅咒的审判之噬
+PROPITEM_TXT_155527,Cursed Maw of Judgement,受诅咒的审判之噬
 PROPITEM_TXT_155528,Maw of Judgement,审判之噬
 PROPITEM_TXT_155529,Broken Roika's Stave,Broken Roika's Stave
 PROPITEM_TXT_155530,Battle-Worn Roika's Stave,Battle-Worn Roika's Stave
-PROPITEM_TXT_155531,Cursed Roika's Stave,被诅咒的创世残脉
+PROPITEM_TXT_155531,Cursed Roika's Stave,受诅咒的创世残脉
 PROPITEM_TXT_155532,Roika's Stave,创世残脉
 PROPITEM_TXT_155533,Broken Oracle,Broken Oracle
 PROPITEM_TXT_155534,Battle-Worn Oracle,Battle-Worn Oracle
-PROPITEM_TXT_155535,Cursed Oracle,被诅咒的神谕
+PROPITEM_TXT_155535,Cursed Oracle,受诅咒的神谕
 PROPITEM_TXT_155536,Oracle,神谕
 PROPITEM_TXT_155537,Broken Curtana,Broken Curtana
 PROPITEM_TXT_155538,Battle-Worn Curtana,Battle-Worn Curtana
-PROPITEM_TXT_155539,Cursed Curtana,被诅咒的慈悲之剑
+PROPITEM_TXT_155539,Cursed Curtana,受诅咒的慈悲之剑
 PROPITEM_TXT_155540,Curtana,慈悲之剑
 PROPITEM_TXT_155541,Broken K Fang,Broken K Fang
 PROPITEM_TXT_155542,Battle-Worn K Fang,Battle-Worn K Fang
-PROPITEM_TXT_155543,Cursed K Fang,被诅咒的祭血獠牙
+PROPITEM_TXT_155543,Cursed K Fang,受诅咒的祭血獠牙
 PROPITEM_TXT_155544,K Fang,祭血獠牙
 PROPITEM_TXT_155545,Broken Harbinger,Broken Harbinger
 PROPITEM_TXT_155546,Battle-Worn Harbinger,Battle-Worn Harbinger
-PROPITEM_TXT_155547,Cursed Harbinger,被诅咒的终焉处决
+PROPITEM_TXT_155547,Cursed Harbinger,受诅咒的终焉处决
 PROPITEM_TXT_155548,Harbinger,终焉处决
 PROPITEM_TXT_155549,Broken Celestial Edge,Broken Celestial Edge
 PROPITEM_TXT_155550,Battle-Worn Celestial Edge,Battle-Worn Celestial Edge
-PROPITEM_TXT_155551,Cursed Celestial Edge,被诅咒的天界裁断
+PROPITEM_TXT_155551,Cursed Celestial Edge,受诅咒的天界裁断
 PROPITEM_TXT_155552,Celestial Edge,天界裁断
 PROPITEM_TXT_155553,Broken Scepter of Disorder,Broken Scepter of Disorder
 PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Battle-Worn Scepter of Disorder
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,被诅咒的混沌神权
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,受诅咒的混沌神权
 PROPITEM_TXT_155556,Scepter of Disorder,混沌神权
 PROPITEM_TXT_155557,Broken Dementia,Broken Dementia
 PROPITEM_TXT_155558,Battle-Worn Dementia,Battle-Worn Dementia
-PROPITEM_TXT_155559,Cursed Dementia,被诅咒的谵妄
+PROPITEM_TXT_155559,Cursed Dementia,受诅咒的谵妄
 PROPITEM_TXT_155560,Dementia,谵妄
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Scroll of Ultimate Bonus II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Resets the random stats and values of special options applied to the Ultimate Weapon.
