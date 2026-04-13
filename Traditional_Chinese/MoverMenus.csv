@@ -8,13 +8,13 @@ MMI_5,Add to my list,追加到即時通
 MMI_6,Invite to join party,邀請加入劇團
 MMI_7,Invite to join guild,邀請加入公會
 MMI_8,Place of Resurrection,指定場所
-MMI_9,Bank,倉庫
+MMI_9,Bank,銀行
 MMI_10,Duel,決鬥
 MMI_11,Request party duel,申請劇團決鬥
 MMI_12,Follow,跟隨
 MMI_13,Beauty Shop,美容院
 MMI_14,Repair,修理
-MMI_15,Guild Bank,公會倉庫
+MMI_15,Guild Bank,公會銀行
 MMI_16,Guild Rankings,公會排名
 MMI_17,Guild Duel Rankings,公會決鬥排名
 MMI_18,Guild Statistics Rankings,公會統計排名
@@ -133,7 +133,7 @@ MMI_1072,Kalgas Assault Enter,進入卡爾加斯突擊戰
 MMI_1073,Kalgas Assault Rank,卡爾加斯突擊戰排名
 MMI_1074,Kalgas Assault Info,卡爾加斯突擊戰資訊
 MMI_1075,Kalgas Chip Shop,卡爾加斯籌碼商店
-MMI_1076,Couple's Storage,情侶倉庫
+MMI_1076,Couple's Storage,情侶銀行
 MMI_1077,Create Ultimate Jewel,創建終極寶石
 MMI_1078,Fuse Ultimate Jewel,融合終極寶石(3~6合1)
 MMI_1079,Teleport,傳送

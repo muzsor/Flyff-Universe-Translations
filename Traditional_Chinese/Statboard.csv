@@ -2,22 +2,22 @@
 STATBOARD_TXT_000000,1. General,1.一般
 STATBOARD_TXT_000001,2. Time,2.時間
 STATBOARD_TXT_000002,3. Class,3.職業
-STATBOARD_TXT_000003,Total Damage,總損傷
-STATBOARD_TXT_000004,Skill Damage,技能損傷
-STATBOARD_TXT_000005,Damage Taken,承受損傷
-STATBOARD_TXT_000006,Healing Done,療癒完成
-STATBOARD_TXT_000007,Total Kills,總獵殺
+STATBOARD_TXT_000003,Total Damage,總傷害
+STATBOARD_TXT_000004,Skill Damage,技能傷害
+STATBOARD_TXT_000005,Damage Taken,承受傷害
+STATBOARD_TXT_000006,Healing Done,治癒量
+STATBOARD_TXT_000007,Total Kills,總擊殺
 STATBOARD_TXT_000008,Total Deaths,總死亡
-STATBOARD_TXT_000009,Damage Per Death,每次死亡造成的傷害
-STATBOARD_TXT_000010,Tanking Per Death,每個死亡的壓制
-STATBOARD_TXT_000011,Healing Per Death,每死亡的治癒
-STATBOARD_TXT_000012,Kills Per Death,每死亡的獵殺
-STATBOARD_TXT_000013,Damage Per Min,每分鐘傷害
-STATBOARD_TXT_000014,Tanking Per Min,每分鐘壓制
-STATBOARD_TXT_000015,Healing Per Min,每分鐘治療
-STATBOARD_TXT_000016,Deaths Per Min,每分鐘死亡數
-STATBOARD_TXT_000017,Time Spent CC'd,抄送所用時間
-STATBOARD_TXT_000018,CC's applied,CC已應用
+STATBOARD_TXT_000009,Damage Per Death,傷害（每次死亡）
+STATBOARD_TXT_000010,Tanking Per Death,承受傷害（每次死亡）
+STATBOARD_TXT_000011,Healing Per Death,治癒（每次死亡）
+STATBOARD_TXT_000012,Kills Per Death,擊殺（每次死亡）
+STATBOARD_TXT_000013,Damage Per Min,傷害（每分鐘）
+STATBOARD_TXT_000014,Tanking Per Min,承受傷害（每分鐘）
+STATBOARD_TXT_000015,Healing Per Min,治癒（每分鐘）
+STATBOARD_TXT_000016,Deaths Per Min,死亡（每分鐘）
+STATBOARD_TXT_000017,Time Spent CC'd,被群體控制時間
+STATBOARD_TXT_000018,CC's applied,施加群體控制時間
 STATBOARD_TXT_000019,Damage Amped,傷害增強
 STATBOARD_TXT_000020,Damage Mitigated,損害減輕
 STATBOARD_TXT_000021,Damage Reflected,反射傷害
@@ -26,7 +26,7 @@ STATBOARD_TXT_000023,,
 STATBOARD_TXT_000024,,
 STATBOARD_TXT_000025,,
 STATBOARD_TXT_000026,,
-STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,玩家對其他玩家人群控制的總秒數。
-STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,玩家對其他玩家施加人群控制效果的總秒數。
-STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.",透過聖十字、劍十字等效果放大玩家的總傷害。
-STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.",玩家透過傷害重定向等效果減輕的總傷害。
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,玩家被群體控制的總秒數。
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,玩家對其他玩家施加群體控制效果的總秒數。
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.",玩家透過聖十字、劍十字等效果提升玩家的總傷害。
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.",玩家透過施放例如傷害轉移等技能減少的總傷害。
