@@ -1,19 +1,19 @@
 ﻿Key,English,Traditional_Chinese
 PROPTROUPESKILL_TXT_000000,Call,集合
-PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,讓團員知道團長位置的技能
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,通知所有團員團長所在的位置。
 PROPTROUPESKILL_TXT_000002,Blitz,集中攻擊
-PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,團長下命令請團員攻擊指定對象
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,團長命令團員攻擊指定目標。
 PROPTROUPESKILL_TXT_000004,Retreat,撤退
-PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,通知團員撤退
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,團長命令團員撤退。
 PROPTROUPESKILL_TXT_000008,Precision,精準
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升隊長周圍所有隊員下一次攻擊的爆擊率，提升量為每名隊員 0.5%。
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,提升團長周圍所有團員下一次攻擊的爆擊率（0.5% x 團員數量）。
 PROPTROUPESKILL_TXT_000010,Linked Attack,聲援團長
-PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,每位在隊長周圍的隊員可為隊長提供 5% 傷害加成。
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,每位在團長周圍的團員，會為團長提供5%的傷害加成。
 PROPTROUPESKILL_TXT_000012,Lucky Drop,幸運降臨
-PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,增加怪物掉落物品的機率
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,增加怪物獨特物品掉落率。
 PROPTROUPESKILL_TXT_000014,Resting,寂靜的祝福
-PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",讓隊伍成員的恢復量變成1.5倍。若團長的職業是神職者則恢復量變成1.8倍
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",讓劇團成員的恢復速度提升為1.5倍。如果團長的職業是神職者，則恢復速度提升為1.8倍。
 PROPTROUPESKILL_TXT_000016,Gift Box,愛的禮物
-PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,讓怪物掉落的物品增加
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,增加怪物物品掉落數量為2倍。
 PROPTROUPESKILL_TXT_000018,Global Attack,全域攻擊
-PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,周圍每增加一位團員，全員的攻擊力就增加2.5%。如果在有聲援團長的效果下，則團長不會有此技能的效果
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,周圍每增加1位團員，會為全體成員提供2.5%的傷害加成。如果同時使用聲援團長，則對團長無效果。
