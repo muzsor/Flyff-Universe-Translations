@@ -256,7 +256,7 @@ UI_TOOLTIP_DST_DMG_GET,Lifesteal,吸血
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻擊力和 HP
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,減少防禦力、命中率
 UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,死亡突襲機率
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安庫的收割
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安庫之噬
 UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆蘭之怒
 UI_TOOLTIP_LOCOMOTION,Movement,移動
 UI_TOOLTIP_RETURN_USE,Return to your former position.,返回先前的位置。
