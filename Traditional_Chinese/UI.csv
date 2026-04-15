@@ -518,7 +518,7 @@ UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,移除
 UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,金幣進帳
 UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,支出金幣
 UI_MOVEPENYA_TITLE,Transfer Penya,轉移金幣
-UI_MOVEPENYA_QUESTION,How much would you like to transfer?,請問要移動多少錢?
+UI_MOVEPENYA_QUESTION,How much would you like to transfer?,請問要轉移多少金幣？
 UI_MOVEPENYA_INPUT,Penya:,金幣：
 UI_GUILDRANK_TITLE_GUILD,Guild Ranking,公會排名
 UI_GUILDRANK_TITLE_INFO,Other Ranking,其他排名
