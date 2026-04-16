@@ -348,7 +348,7 @@ UI_POST_TITLE,Mailbox,Mailbox
 UI_POST_TAB_SEND,Send Mail,Kirim Mail
 UI_POST_TAB_RECEIVE,Inbox,Kotak Masuk
 UI_OPTION_UISCALE,Scale,Scale
-UI_OPTION_TEXTSCALE,Font Size,Huruf Ukuran
+UI_OPTION_TEXTSCALE,Font Size,Ukuran Huruf
 UI_IGNORELIST_TITLE,Ignore List,Ignore List
 UI_IGNORELIST_COUNT,Ignored Players: %d,Ignored Players: %d
 UI_CHATFILTER_TITLE,Chat Filter,Chat Filter
