@@ -115,8 +115,8 @@ UI_TOOLTIP_DEF_BASE,Base Defense:,基礎防禦力：
 UI_TOOLTIP_ATTACK,Attack:,攻擊力：
 UI_TOOLTIP_DEF_A,Defense:,防禦力：
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻擊速度：%s
-UI_TOOLTIP_REQ_JOB,Req Job:,要求職業：
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,要求等級：%d
+UI_TOOLTIP_REQ_JOB,Req Job:,職業：
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等級：%d
 UI_TOOLTIP_REQ,Requires %s,需要 %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP 恢復量：%d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP：%d
