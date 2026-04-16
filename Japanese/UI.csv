@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill",キル時のHP、MP
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,MP、FPの消費率の低下
 UI_TOOLTIP_CHRDMG,Additional Damage,追加ダメージ
 UI_TOOLTIP_PARRY,Parry,回避率
-UI_TOOLTIP_ATKPOWER,Increased Attack,追加攻撃力
+UI_TOOLTIP_ATKPOWER,Attack,追加攻撃力
 UI_TOOLTIP_JUMPING,Jump Height,ジャンプ力
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,遠距離攻撃のブロック率
 UI_TOOLTIP_ALLSTAT,All Stats,全ステータス
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,追加HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,追加HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,魔法攻撃力
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,防御力増加
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,追加MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,追加FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,防御力増加
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,追加MP
+UI_TOOLTIP_DST_FP_RATE,FP,追加FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,クリティカル率
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,属性攻撃
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,地属性強化
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,足跡
 UI_TOOLTIP_COMBO_CIRCLE,Link,サークル
 UI_TOOLTIP_COMBO_FINISH,Finisher,完了
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基本攻撃力: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,攻撃スケーリング
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,回復スケーリング
 UI_TOOLTIP_SCALE_TIME,Time Scaling,タイムスケーリング

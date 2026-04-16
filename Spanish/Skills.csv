@@ -458,7 +458,7 @@ PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever 
 PROPSKILL_TXT_100110,PlayPark's Launch Buff,Potenciador Lanzamiento PlayPark
 PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,¡Disfruta de una mayor experiencia y caídas hasta el nivel 119!
 PROPSKILL_TXT_100112,Artifact Power,Artifact Power
-PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!","Your team's control over artifacts empowers you, increasing your damage against Kalgas!","El dominio de artefactos de tu equipo te otorga poder, aumentando tu daño contra Kalgas."
+PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!","Your team's control over artifacts empowers you, increasing your damage against Kalgas!,El dominio de artefactos de tu equipo te otorga poder, aumentando tu daño contra Kalgas."
 PROPSKILL_TXT_100114,Kalgas Poison,Veneno de Kalgas
 PROPSKILL_TXT_100115,Poison spreads through your body.,El veneno se propaga por tu cuerpo.
 PROPSKILL_TXT_100116,Kalgas' Dominance,La dominación de Kalgas
@@ -507,7 +507,7 @@ PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,¡Los élites de Madrigal 
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Fortuna de Bubble's
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,¡La fortuna de Madrigal te guía.!
 PROPSKILL_TXT_150000,Harlequin's Greeting,Saludo del Arlequín
-PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Da un paso rápido y teletranspórtate detrás de tu objetivo para asestar un ataque veloz."
+PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",Da un paso rápido y teletranspórtate detrás de tu objetivo para asestar un ataque veloz.
 PROPSKILL_TXT_150002,Shadow Attack,Ataque de sombras
 PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teletranspórtate instantáneamente detrás de tu objetivo para infligir daño. Si se usa mientras estás invisible, el siguiente ataque automático dentro de los tres segundos será un golpe crítico y el tiempo de reutilización se reducirá."
 PROPSKILL_TXT_150004,Range Increase,Aumento de rango
@@ -608,7 +608,7 @@ PROPSKILL_TXT_150109,Quickly charge at your target to attack.,Carga rápidamente
 PROPSKILL_TXT_150110,Deep Impact,Impacto profundo
 PROPSKILL_TXT_150111,Ankle Strike,Golpe de tobillo
 PROPSKILL_TXT_150112,Shield,Escudo
-PROPSKILL_TXT_150113,Sky Splitter,"Divisor del cielo"
+PROPSKILL_TXT_150113,Sky Splitter,Divisor del cielo
 PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","Divide los cielos usando tu arma de dos manos, infligiendo daño a tu objetivo. Requiere un arma de dos manos."
 PROPSKILL_TXT_150116,Defensive Stance,Postura defensiva
 PROPSKILL_TXT_150117,Reduce Cooldown,Reducción de enfriamiento
@@ -783,7 +783,7 @@ PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increa
 PROPSKILL_TXT_150202,Speed Increase,Aumento de velocidad
 PROPSKILL_TXT_150203,Bleeding,Sangrado
 PROPSKILL_TXT_150205,First Blood,Primera sangre
-PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.","Inflige más daño con habilidades a costa de un mayor costo de HP y restaura HP al derrotar enemigos sangrando."
+PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.",Inflige más daño con habilidades a costa de un mayor costo de HP y restaura HP al derrotar enemigos sangrando.
 PROPSKILL_TXT_150207,Left Handed,Mano izquierda
 PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,Los ataques del arma secundaria infligen más daño con los ataques normales.
 PROPSKILL_TXT_150209,Ambidextrous,Ambidiestro
@@ -841,7 +841,7 @@ PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is current
 PROPSKILL_TXT_150277,Nen Mastery,Maestría de Nen
 PROPSKILL_TXT_150278,Nen Enhancement,Mejora de Nen
 PROPSKILL_TXT_150280,Staggering Strike,Golpe tambaleante
-PROPSKILL_TXT_150281,"Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.","Ataca a un objetivo con probabilidad de derribarlo. \n\n[Nen Enhancement]: Aumenta tu probabilidad de bloqueo al usarla."
+PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,Ataca a un objetivo con probabilidad de derribarlo. \n\n[Nen Enhancement]: Aumenta tu probabilidad de bloqueo al usarla.
 PROPSKILL_TXT_150282,Increased Knockdown Chance,Probabilidad de derribo aumentada
 PROPSKILL_TXT_150283,Leg Attack,Ataque de pierna
 PROPSKILL_TXT_150285,Force Grip,Agarre de fuerza
@@ -853,7 +853,7 @@ PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your targe
 PROPSKILL_TXT_150292,Continuous Shooting,Disparo continuo
 PROPSKILL_TXT_150293,Nen Mastery,Maestría de Nen
 PROPSKILL_TXT_150295,Aura Bomb,Bomba de aura
-PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.","Canaliza energía de tu entorno durante un largo periodo y dirígela a un área seleccionada para infligir gran daño. | Reducción de tiempo de lanzamiento"
+PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.",Canaliza energía de tu entorno durante un largo periodo y dirígela a un área seleccionada para infligir gran daño. | Reducción de tiempo de lanzamiento
 PROPSKILL_TXT_150297,Casting Time Reduction,Reducción del tiempo de lanzamiento
 PROPSKILL_TXT_150298,Range Enhancement,Mejora de alcance
 PROPSKILL_TXT_150300,Enlightenment,Iluminación
@@ -934,7 +934,7 @@ PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. I
 PROPSKILL_TXT_150389,Suffocation,Asfixia
 PROPSKILL_TXT_150390,Sleeping,Dormido
 PROPSKILL_TXT_150391,Paralyzed,Paralizado
-PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","Estás dormido y despertarás al recibir daño."
+PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.",Estás dormido y despertarás al recibir daño.
 PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","Estás paralizado, el daño físico aumenta y el daño mágico disminuye."
 PROPSKILL_TXT_150394,Shocked,Electrocutado
 PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,Estás electrocutado y recibes daño eléctrico adicional.
@@ -1059,10 +1059,10 @@ PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight lin
 PROPSKILL_TXT_150523,Stigma II,Estigma II
 PROPSKILL_TXT_150524,Increased Targets,Objetivos aumentados
 PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.","Lanza una cadena de cuchillas hacia tu objetivo que se adhieren a él, giran y atacan a los enemigos a su alrededor, luego saltan a otro objetivo cercano. Tiene probabilidad de aplicar una acumulación de Estigma. Si se usa sobre un objetivo con 5 acumulaciones, robará HP con los golpes."
-PROPSKILL_TXT_150526,Stigma III,Stigma III,Estigma III
+PROPSKILL_TXT_150526,Stigma III,"Stigma III,Estigma III"
 PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.","Golpea al objetivo con ambas armas, infligiendo daño en el área. Aplica una acumulación de Estigma. Si se usa sobre un objetivo con 5 acumulaciones, quedará silenciado."
 PROPSKILL_TXT_150528,Petrify,Petrificación
-PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.","Estás inmovilizado; el daño físico recibido se reduce y el daño mágico recibido aumenta."
+PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.",Estás inmovilizado; el daño físico recibido se reduce y el daño mágico recibido aumenta.
 PROPSKILL_TXT_150530,Earthen Fortitude,Fortaleza terrenal
 PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,Petrificar a un enemigo con Raíces enredadoras te otorga bonificaciones.
 PROPSKILL_TXT_150532,Stigma,Estigma

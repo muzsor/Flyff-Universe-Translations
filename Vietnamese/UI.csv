@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","Tỉ lệ hồi HP
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Giảm tỷ lệ tiêu thụ MP & FP
 UI_TOOLTIP_CHRDMG,Additional Damage,Sát thương thêm vào
 UI_TOOLTIP_PARRY,Parry,Né tránh
-UI_TOOLTIP_ATKPOWER,Increased Attack,Tăng Tấn công
+UI_TOOLTIP_ATKPOWER,Attack,Tăng Tấn công
 UI_TOOLTIP_JUMPING,Jump Height,Nhảy cao
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Chặn phạm vị rộng
 UI_TOOLTIP_ALLSTAT,All Stats,Tất cả chỉ số
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Tăng HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,Tăng HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,Sức mạnh ma thuật
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Tăng phòng thủ
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Tăng MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,Tăng FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,Tăng phòng thủ
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,Tăng MP
+UI_TOOLTIP_DST_FP_RATE,FP,Tăng FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Cơ hội chí mạng
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Tấn công thuộc tính
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Thành thạo: Thổ
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Bước
 UI_TOOLTIP_COMBO_CIRCLE,Link,Vòng tròn
 UI_TOOLTIP_COMBO_FINISH,Finisher,Hoàn thành
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Sát thương cơ bản: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Quy mô tấn công
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Quy mô chữa lành
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Quy mô thời gian

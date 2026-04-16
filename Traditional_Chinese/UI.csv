@@ -1,4 +1,4 @@
-Key,English,Traditional_Chinese
+﻿Key,English,Traditional_Chinese
 LANGUAGE_CODE,EN,TW
 UI_HOME_TITLE,Home,開始
 UI_HOME_GUESTCHAR,Guest Character,訪客角色
@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill",擊殺時 HP、MP �
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,減少 MP 和 FP 的消耗率
 UI_TOOLTIP_CHRDMG,Additional Damage,追加傷害
 UI_TOOLTIP_PARRY,Parry,迴避
-UI_TOOLTIP_ATKPOWER,Increased Attack,攻擊力
+UI_TOOLTIP_ATKPOWER,Attack,攻擊力
 UI_TOOLTIP_JUMPING,Jump Height,跳躍高度
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,遠距離格擋
 UI_TOOLTIP_ALLSTAT,All Stats,全能力點
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,魔法攻擊力
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,防禦力
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,防禦力
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,MP
+UI_TOOLTIP_DST_FP_RATE,FP,FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,爆擊率
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,元素攻擊
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,精通：地
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,階段
 UI_TOOLTIP_COMBO_CIRCLE,Link,迴圈
 UI_TOOLTIP_COMBO_FINISH,Finisher,完成
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基礎傷害：%d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,傷害轉換比例
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,治癒量轉換比例
 UI_TOOLTIP_SCALE_TIME,Time Scaling,持續時間轉換比例
@@ -1051,7 +1052,7 @@ UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,擊倒機率：%d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,冷卻時間：%.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d (PvP)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PvP),冷卻時間：%.2d:%.2d (PvP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry), (冷卻後)
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(冷卻後)
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,施法時間：%.2d:%.2d
 UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,蓄力時間：%.2d:%.2d
 UI_NEWCHAR_FACE,Face,臉型
@@ -2585,7 +2586,7 @@ UI_LIFE_MASTERY_EFFECT,Mastery Details,Mastery Details
 UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identified Resources
 UI_LIFE_HARVESTING_INFORMATION,Resource Information,Resource Information
 UI_LIFE_EXPERTBTN,Set as Expertise,Set as Expertise
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00 (Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00 (Expert) Gathering Great Success Rate +10%%#nc"
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
 UI_LIFE_MASTERY,Mastery,精通
 UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Change Expertise In: %s
 UI_REPAIR_TITLE,Repair,修理
@@ -2696,7 +2697,7 @@ UI_LIFE_MASTERY_RANKING_CLOSE,Close,關閉
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Mastery Ranking Rewards
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,領取獎勵
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
-UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s] Title, %s x %d","[%s] Title, %s x %d"
+UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
 UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,獎勵
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,成就稱號
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,獨立稱號

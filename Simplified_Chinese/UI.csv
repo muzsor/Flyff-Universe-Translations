@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill",HP、MP和FP击杀�
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,减少MP和FP的消耗率
 UI_TOOLTIP_CHRDMG,Additional Damage,追加伤害
 UI_TOOLTIP_PARRY,Parry,闪避
-UI_TOOLTIP_ATKPOWER,Increased Attack,攻击力
+UI_TOOLTIP_ATKPOWER,Attack,攻击力
 UI_TOOLTIP_JUMPING,Jump Height,跳跃高度
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,远距离格挡
 UI_TOOLTIP_ALLSTAT,All Stats,全属性
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,增加HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,增加HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,魔法攻击力
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,防御力
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,增加MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,增加FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,防御力
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,增加MP
+UI_TOOLTIP_DST_FP_RATE,FP,增加FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,暴击率
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,属性攻击
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,精通: 土
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,步骤
 UI_TOOLTIP_COMBO_CIRCLE,Link,循环
 UI_TOOLTIP_COMBO_FINISH,Finisher,完成
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基础伤害: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,伤害转换比例
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,治疗量转换比例
 UI_TOOLTIP_SCALE_TIME,Time Scaling,持续时间转换比例

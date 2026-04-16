@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 NPC_WHOAREYOU,Who are you?,Présentation
 NPC_GOODBYE,Goodbye!,Au revoir
 NPC_CARGO,CARGO,CARGO
@@ -286,7 +286,7 @@ NPC_000326,"So, what are you going to do for me? Hmmm?","Alors, que vas-tu faire
 NPC_000327,The world has become so dangerous. It was not like this when I was young. Damn! This is why we need shields. Why not buy one?,"Le monde est devenu si dangereux, ce n'est plus comme avant… C'est pourquoi les boucliers sont devenus nécessaires ! Pourquoi ne pas m'en acheter un ?"
 NPC_000328,"Actually I have sold lots of different things in my life, but now I am selling the shields here in Erons Factory. Nice to meet you, my name is Phacham Dudury.","En fait je suis un vendeur ambulant, je m'appelle Phacham Dudury. Actuellement je vends des boucliers ici, à l'Usine des Erons."
 NPC_000329,Bye! Visit me when you come here again! Ha ha ha!,Ciao ! Repasse me voir quand tu seras dans les parages !
-NPC_000330,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!,"Lève-toi maintenant… des ténèbres. Tu portes désormais un nom éclatant : le titre d’#bAcrobate#nb !"
+NPC_000330,Arise now.. from the darkness. You now bear the shining name - the title of Acrobat!,Lève-toi maintenant… des ténèbres. Tu portes désormais un nom éclatant : le titre d’#bAcrobate#nb !
 NPC_000331,Here you are. Time to fulfill your duty.,Ceci est ton devoir.
 NPC_000332,Everything is the Acrobat. The Acrobat is everything. Take a moment to ponder what I have said.,Le tout compose l'Acrobate. L'Acrobate est tout. Réfléchis à cela…
 NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat.","Je suis Pyre, le Maître des Acrobates. J'aide ceux qui veulent devenir de grands Acrobates."
@@ -343,8 +343,8 @@ NPC_000383,Attention! Salute!,Bon vol !
 NPC_000389,"You, who want to become the successor of the Elementor hero Lillip, do you believe in the will of the hero?","Toi qui cherche à succéder au grand Elémentaliste Lillip, Héros de Madrigal... es-tu prêt à suivre la Voie des Héros ?"
 NPC_000390,You will be one of the 8 that watch the stars for a sign of their arrival.,"Vous verrez huit étoiles disparaître, et l'une d'entre elles sera la larme rouge qui irriguera le sol..."
 NPC_000391,"My name is Wendien Guardian. I am protecting the will of Lillip, the Elementor hero.","Mon nom est Sencyrit, et je suis le Gardien de la Pierre d'âme du Prêtre Lillip. J'inculque la sagesse du Héros à ses successeurs."
-NPC_000392,You will be enlightened with the wisdom of Lillip.,"Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !"
-NPC_000393,You will be enlightened with the wisdom of Lillip.,"Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !"
+NPC_000392,You will be enlightened with the wisdom of Lillip.,Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !
+NPC_000393,You will be enlightened with the wisdom of Lillip.,Vous aspirez à devenir un vaillant #bMercenaire#nb ? Félicitations ! Une grande aventure vous attend !
 NPC_000394,"A piece of advice? A Mercenary's weapon is their livelihood. You must dedicate your life to the blade, and in turn, it will protect you. ","Si tu as besoin de quelque chose, n'oublie pas qu'il faut d'abord le payer."
 NPC_000395,"Hello, I'm Andy Kimu, the Mercenary Master of Flarine. The pay is good, but they make me wear this ridiculous looking robe. It's so itchy! I stroke my beard all day just to keep my mind off of it.","Je suis Andy Kimu, l'instructeur des Mercenaires. Je suis là pour enseigner l'art du Mercenaire aux Vagabonds. J'avoue que ce rôle est nouveau pour moi, mais je fais de mon mieux…"
 NPC_000396,"Rhisis will be with you, always, young one.","Rhisis sera toujours avec toi, jeune enfant."
@@ -392,7 +392,7 @@ NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one d
 NPC_000438,"My name is Clamb Cobonet, the Ringmaster Wise Man. I am here to preserve the legacy of Aenn, the Ringmaster Hero and to light the path for those that wish to follow in Aenn's footsteps. Have faith, young one, Aenn watches over you.","Je suis le Sage des Prêtres, Clamb Cobonet. J'étudie et médite sur la vie d'Aenn, le Héros des Prêtres."
 NPC_000439,"Follow the path of Aenn, and you will never be forgotten.","Quoi qu'en dise les gens, ils ont été les Héros de Madrigal. N'es-tu pas de mon avis."
 NPC_000440,Bubble watches over all aspiring heroes. ,Bubble veille sur tous les héros en herbe.Profite bien de ton aventure ! Ha ha ha !
-NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,"Les boucliers des Héros ont protégé Madrigal de la colère de Shade. Nous leur serons éternellement reconnaissants pour leur bravoure et souhaitons perpétuer leur mémoire à jamais."
+NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,Les boucliers des Héros ont protégé Madrigal de la colère de Shade. Nous leur serons éternellement reconnaissants pour leur bravoure et souhaitons perpétuer leur mémoire à jamais.
 NPC_000442,"My name is Cuarine Coexar and I am the Psykeeper Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Offerep, the Psykeeper Hero.","Je suis le Sage des Sorciers, Cuarine Coexar. J'étudie et médite sur la vie d'Offerep, le Héros des Sorciers."
 NPC_000443,"Follow the path of the Heroes, and you will never lose your way.",La puissance du Sorcier tiens à la force de son esprit. Souviens-toi de cela !
 NPC_000444,A strange energy emanates from this fountain. What is it?,Tu es vraiment surprenant. Ha ha ha.
@@ -502,7 +502,7 @@ NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I als
 NPC_000564,"My name is Ismerelda Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Mon nom est Ismeralda Trinity. Je suppose que tu as déjà rencontré l'une de mes soeurs à Flarine.
 NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Je suis Ispim Trinity. As-tu déjà rencontré l'une de mes soeurs ?
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",Je m'appelle Isruel Trinity. Je renseigne les nouveaux aventuriers.
-NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,"Voyons voir ce qu'il y a à réparer aujourd'hui… *Soupir* Kimberley me manque tellement."
+NPC_000579,*sigh* I miss Kimberly so much. I can barely focus on my duties...,Voyons voir ce qu'il y a à réparer aujourd'hui… *Soupir* Kimberley me manque tellement.
 NPC_000580,"Would you do me a favor, please?",Pourrais-tu me rendre un service s'il te plaît ?
 NPC_000581,"Ugh, I still get so many complaints about the machines I sold to Saint City and Darken City. I may have used substandard building materials from the Dekane Mine. Ah well...","Ces derniers temps, j'ai reçu de nombreuses plaintes concernant la qualité des machines que j'ai vendues à Saincity et Darken. Je ne suis pas assez attentionné ces temps-ci…"
 NPC_000582,"My name is Jeff Prosis and I am the Machine Developer of Flarine. Kimberley, my wife, is a guide in Saint City.","Je m'appelle Jeff Prosis, je suis l'ingénieur de Flarine. Je construis de nombreuses machines pour tout Madrigal. Ma femme Kimberley travaille à Saincity, c'est un peu dur à vivre..."
@@ -515,7 +515,7 @@ NPC_000588,Welcome to the #b#cffff0000Office#nc#nb of Flarine. How can I be of s
 NPC_000589,"So what can you do for me, huh?",Que peux-tu faire pour moi ?
 NPC_000590,"*Sigh* Boboku is so manly, strong and kind. But I could never date him because his belly is too big!","(songeuse) Ah Boboku… Il est si viril, si fort, et si aimable. Mais il est trop vieux pour moi..."
 NPC_000591,My name is Julia Trinity and I manage the Office of Flarine. How can I help you today?,"Je m'appelle Julia Trinity. Je suis l'intendante principale de Flarine, en charge de l'Office Public. Mes autres soeurs pourront te donner quelques informations."
-NPC_000592,"Spread the blessing of Rhisis throughout Madrigal! Sprinkle the tears of Rhisis upon the ground. Welcome to the club, Assist!","Répands la bénédiction de Rhisis sur tout Madrigal ! Fais couler les larmes de Rhisis sur le sol. Bienvenue !"
+NPC_000592,"Spread the blessing of Rhisis throughout Madrigal! Sprinkle the tears of Rhisis upon the ground. Welcome to the club, Assist!",Répands la bénédiction de Rhisis sur tout Madrigal ! Fais couler les larmes de Rhisis sur le sol. Bienvenue !
 NPC_000593,"An Assist should naturally have a giving heart. It's one of the fundamental teachings of Aenn, the Ringmaster Hero.","Un Acolyte doit se consacrer à aider ses prochains, sinon sa quête est vaine !"
 NPC_000594,They call me Kidmen Nicore. I'm a Sergeant at the Madrigal Job Training Center and I hope to guide brave souls as they follow the path to becoming an Assist.,Je m'appelle Kidmen Nicore. Je peux t'enseigner les techniques qui feront de toi un grand Acolyte.
 NPC_000595,"Be careful out there, young one. I sense great potential in you.",L'esprit de dévotion ! Grave ça dans ta mémoire.
@@ -607,7 +607,7 @@ NPC_000680,My name is Segho Pesin the Climber I manage the Drill Hall of Roentel
 NPC_000681,Each day has a new target! Hah!,"Puisque la montagne ne vient pas à nous, allons à la montagne !"
 NPC_000682,"Something, a creature perhaps, is stirring within the Mars Mine. ",Par le dernier pont déferlera la mort
 NPC_000683,"Here, young one. Please pick one that you would like to do.","Allez, choisis une mission que tu peux accomplir."
-NPC_000684,"My 8 pupils and I are working feverishly to prepare Madrigal's citizens for the day that Shade returns to destroy us all. Only through the guidance and strength of the Heroes, can we hope to persevere.","Mes huit élèves et moi travaillons d'arrache-pied pour préparer les citoyens de Madrigal au jour où Shade reviendra nous anéantir. Seuls la force et le soutien des Héros nous permettront de survivre."
+NPC_000684,"My 8 pupils and I are working feverishly to prepare Madrigal's citizens for the day that Shade returns to destroy us all. Only through the guidance and strength of the Heroes, can we hope to persevere.",Mes huit élèves et moi travaillons d'arrache-pied pour préparer les citoyens de Madrigal au jour où Shade reviendra nous anéantir. Seuls la force et le soutien des Héros nous permettront de survivre.
 NPC_000685,"I am known as Radion Angamel the Great Wise Man. When you've lived as long as I have, you sort of inherit the title. Nevertheless, it is our duty to use our knowledge of the Heroes to protect ourselves from impending doom.","Je suis Radion Angamel. Certaines personnes considèrent que je suis un sage, mais je suis juste un vieil homme qui a vécu beaucoup de choses…"
 NPC_000686,"Go with the Heroes, my child.",Toi... Hmm.. Non rien. A bientôt.
 NPC_000687,"I love SUSHI! I could eat it all day, every day!",Le poisson est exquis et le riz délicat. Venez déguster nos succulents sushis !
@@ -872,9 +872,9 @@ NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","Si votre guilde est classée dans les Chambres Secrètes, vous obtiendrez des récompenses chaque semaine !"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","Bonjour, aventurier ! J'ai la responsabilité des Chambres Secrètes et de la Tour Oubliée. N'hésitez pas à me poser des questions sur ce défi héroïque."
 NPC_001081,"May Rhisis guide you, and be with you, young one.",Propage partout la bénédiction de Rhisis…
-NPC_001086,"If you need any piercing cards converted, I'm your gal!","Bonjour ! Je suis le #b#cff0000ffMaître des cartes#nc#nb. Je peux améliorer et remanier vos cartes de piercing."
+NPC_001086,"If you need any piercing cards converted, I'm your gal!",Bonjour ! Je suis le #b#cff0000ffMaître des cartes#nc#nb. Je peux améliorer et remanier vos cartes de piercing.
 NPC_001087,"Welcome, adventurer! If you have 10 piercing cards, I will attempt to convert the 10 that you give me into 1 card of the next level. I can't offer any guarantees, however, as sometimes you may only lose your cards.","Si vous pensez que les cartes de piercing de bas niveau sont inutiles, venez donc me voir. Je vous échangerai 10 cartes contre une carte plus puissante."
-NPC_001088,"I'm the Card Master. After hearing about all the wonderful cards being thrown away, I decided to offer my services to the city of Flarine.","Je suis le maître des cartes, le gaspillage des cartes de piercing me rendait malade. Alors me voici, venez donc me voir."
+NPC_001088,"I'm the Card Master. After hearing about all the wonderful cards being thrown away, I decided to offer my services to the city of Flarine. ","Je suis le maître des cartes, le gaspillage des cartes de piercing me rendait malade. Alors me voici, venez donc me voir."
 NPC_001089,"Stop by anytime, my friend.","Il n'y a pas de carte de piercing inutile. Passe me voir quand tu veux, mon ami."
 NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting created?,"#b#cff0000ffBienvenue à la forge de Flarine !#nc#nb Ici, nous façonnons des bijoux et des joyaux selon vos besoins. Que puis-je faire pour vous ?"
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!","Seules les gemmes peuvent vous conférer la puissance. Venez me voir, je vous taillerai une nouvelle gemme."

@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","HP, MP & FP Recove
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Decreased Rate of MP & FP Consumption
 UI_TOOLTIP_CHRDMG,Additional Damage,Damage Tambahan
 UI_TOOLTIP_PARRY,Parry,Parry
-UI_TOOLTIP_ATKPOWER,Increased Attack,Meningkatkan Attack
+UI_TOOLTIP_ATKPOWER,Attack,Meningkatkan Attack
 UI_TOOLTIP_JUMPING,Jump Height,Jump Height
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Ranged Block
 UI_TOOLTIP_ALLSTAT,All Stats,Semua Stat
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Meningkatkan HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,Meningkatkan HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,Magical Power
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Meningkatkan Defense
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Meningkatkan MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,Meningkatkan FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,Meningkatkan Defense
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,Meningkatkan MP
+UI_TOOLTIP_DST_FP_RATE,FP,Meningkatkan FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Critical Chance
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Attribute Attack
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Mastery: Earth
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Starter
 UI_TOOLTIP_COMBO_CIRCLE,Link,Link
 UI_TOOLTIP_COMBO_FINISH,Finisher,Finisher
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Base Damage: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Attack Scaling
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heal Scaling
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Time Scaling

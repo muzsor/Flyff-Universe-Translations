@@ -1417,7 +1417,7 @@ TEXTCLIENT_GATHERING_HOE,hoe,azada
 TEXTCLIENT_GATHERING_AXE,axe,hacha
 TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pico
 TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Pesca fallida.
-TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Demasiados jugadores están usando este recurso. Por favor, inténtalo más tarde.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,"Demasiados jugadores están usando este recurso. Por favor, inténtalo más tarde."
 TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,%s Reparado por %s puntos.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,Aún no puedes cambiar tu especialidad.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Has cambiado tu especialidad con éxito.

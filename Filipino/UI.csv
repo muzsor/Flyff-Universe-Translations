@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","Rate ng Pagbawi ng
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Binawasang Rate ng Pagkonsumo ng MP at FP
 UI_TOOLTIP_CHRDMG,Additional Damage,Karagdagang Pinsala
 UI_TOOLTIP_PARRY,Parry,Sangga
-UI_TOOLTIP_ATKPOWER,Increased Attack,Pinataas na Atake
+UI_TOOLTIP_ATKPOWER,Attack,Pinataas na Atake
 UI_TOOLTIP_JUMPING,Jump Height,Taas ng Luksong
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Saklaw ng Harang
 UI_TOOLTIP_ALLSTAT,All Stats,Lahat ng Estadistika
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,Pinataas na HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,Pinataas na HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,Lakas ng Mahika
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Pinataas na Depensa
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,Pinataas na MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,Pinataas na FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,Pinataas na Depensa
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,Pinataas na MP
+UI_TOOLTIP_DST_FP_RATE,FP,Pinataas na FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Tsansa ng Kritikal
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Atake ng Atributo
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Karunungan: Lupa
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Hakbang
 UI_TOOLTIP_COMBO_CIRCLE,Link,Bilog
 UI_TOOLTIP_COMBO_FINISH,Finisher,Tapos
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Pangunahing Pinsala: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Pagsusukat ng Atake
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Pagsusukat ng Pagpapagaling
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Pagsusukat ng Oras

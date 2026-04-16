@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","เพิ่มอ
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,อัตราการใช้ MP และ FP ลดลง
 UI_TOOLTIP_CHRDMG,Additional Damage,เพิ่มพลังการโจมตี
 UI_TOOLTIP_PARRY,Parry,หลบหลีก
-UI_TOOLTIP_ATKPOWER,Increased Attack,เพิ่มการโจมตี
+UI_TOOLTIP_ATKPOWER,Attack,เพิ่มการโจมตี
 UI_TOOLTIP_JUMPING,Jump Height,กระโดดสูง
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Block โจมตีระยะไกล
 UI_TOOLTIP_ALLSTAT,All Stats,Stat ทั้งหมด
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,เพิ่ม HP
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,เพิ่ม HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,พลังเวทย์
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,เพิ่มการป้องกัน
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,เพิ่ม MP
-UI_TOOLTIP_DST_FP_RATE,Increased FP,เพิ่ม FP
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,เพิ่มการป้องกัน
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,เพิ่ม MP
+UI_TOOLTIP_DST_FP_RATE,FP,เพิ่ม FP
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,อัตรา Critical
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,คุณสมบัติการโจมตี
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,เชี่ยวชาญ: ดิน
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,ขั้นตอน
 UI_TOOLTIP_COMBO_CIRCLE,Link,วงกลม
 UI_TOOLTIP_COMBO_FINISH,Finisher,เสร็จสิ้น
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,ดาเมจพื้นฐาน: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,สเกลการโจมตี
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,สเกลการฟื้นฟู
 UI_TOOLTIP_SCALE_TIME,Time Scaling,สเกลระยะเวลา

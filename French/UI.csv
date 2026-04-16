@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","Taux de récupéra
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Diminution de la consommation des PM et PF
 UI_TOOLTIP_CHRDMG,Additional Damage,ATQ
 UI_TOOLTIP_PARRY,Parry,Esquive
-UI_TOOLTIP_ATKPOWER,Increased Attack,Attaque
+UI_TOOLTIP_ATKPOWER,Attack,Attaque
 UI_TOOLTIP_JUMPING,Jump Height,Hauteur de saut
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Blocage à distance
 UI_TOOLTIP_ALLSTAT,All Stats,Toutes les stats
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,PV max.
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,PV max.
 UI_TOOLTIP_CONDITIONRATE,Magical Power,Puissance magique
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Défense
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,PM max.
-UI_TOOLTIP_DST_FP_RATE,Increased FP,PF max.
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,Défense
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,PM max.
+UI_TOOLTIP_DST_FP_RATE,FP,PF max.
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Critique
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Augmentation de la force
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Maîtrise de la Terre
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Commencer
 UI_TOOLTIP_COMBO_CIRCLE,Link,Continuer
 UI_TOOLTIP_COMBO_FINISH,Finisher,Terminer
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Dégâts de base : %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Augmentation des dégâts
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Augmentation des soins
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Augmentation de la durée

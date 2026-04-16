@@ -6112,7 +6112,7 @@ PROPITEM_TXT_008507,Makes the maximum amount of pet food with the materials avai
 PROPITEM_TXT_009330,Scroll of Pet Recovery,召唤兽寿命复活的卷轴
 PROPITEM_TXT_009331,Increases the life of a raised pet by 1,召唤兽寿命+1的神秘卷轴
 PROPITEM_TXT_009242,Feed Bag (6 hrs),饲料包 (6小时)
-PROPITEM_TXT_009243,Feeds your pet automatically with Pet Feed from your Inventory. (Stackable up to 99 times.),开启后自动使用背包中的饲料维持召唤兽目前的HP，无提升HP之功效，如需提升HP请自行手动喂食饲料；下线后会停止减少有效时间，上线状态则持续减少有效时间，总共使用时间为6小时。（一旦使用后，无法开启或关闭）
+PROPITEM_TXT_009243,Does not reduce the energy of Raised pets for 6 hours when used.,开启后自动使用背包中的饲料维持召唤兽目前的HP，无提升HP之功效，如需提升HP请自行手动喂食饲料；下线后会停止减少有效时间，上线状态则持续减少有效时间，总共使用时间为6小时。（一旦使用后，无法开启或关闭）
 PROPITEM_TXT_009265,Feed Bag (1 day),饲料包 (1天)
 PROPITEM_TXT_009266,Feed Bag (7 days),饲料包 (7天)
 PROPITEM_TXT_009267,Feed Bag (15 days),饲料包 (15天)
@@ -26593,3 +26593,27 @@ PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 Support Kit]
 PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. "
 PROPITEM_TXT_903685,Extra Bag (7 days),Extra Bag (7 days)
 PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.
+PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 Mycard Promotion Box A
+PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.","A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked."
+PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 Mycard Promotion Box B
+PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.","A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked."
+PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 Mycard Promotion Box C
+PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.","A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked."
+PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,Rose Pink Yukata Costume Set Select Box
+PROPITEM_TXT_903694,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[Event] 2026 Spring Gift Box
+PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),Madrigal Flying Selection Box (15 days)
+PROPITEM_TXT_903695,FWC Convenience Pack,FWC Convenience Pack
+PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.","A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked."
+PROPITEM_TXT_903697,FWC Hunter's Pack,FWC Hunter's Pack
+PROPITEM_TXT_903698,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked."
+PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),Hyper Pickup Pet Package (15 Days)
+PROPITEM_TXT_903700,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked.","A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked."
+PROPITEM_TXT_903701,School Life Costume Select Box 3,School Life Costume Select Box 3
+PROPITEM_TXT_903702,Select your favorite School Life Costume,Select your favorite School Life Costume
+PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,Japanese Piggy Pet Select Box
+PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,Select your favorite Japanese Piggy Pet
+PROPITEM_TXT_903705,Flying Sheep Pet Select Box,Flying Sheep Pet Select Box
+PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,Select your favorite Flying Sheep Pet
+PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),Madrigal PickupPet Selection Box (15 Days)
+PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),Select your favorite Pickup Pet (15 Days)

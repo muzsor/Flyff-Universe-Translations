@@ -220,15 +220,15 @@ UI_TOOLTIP_KILL_ALL_RATE,"HP, MP & FP Recovery Rate on Kill","ОЗ, ОМ и ОЭ
 UI_TOOLTIP_ALL_DEC_RATE,Decreased Rate of MP & FP Consumption,Снижение расхода ОМ и ОЭ 
 UI_TOOLTIP_CHRDMG,Additional Damage,Дополнительный урон
 UI_TOOLTIP_PARRY,Parry,Парирование
-UI_TOOLTIP_ATKPOWER,Increased Attack,АТК
+UI_TOOLTIP_ATKPOWER,Attack,АТК
 UI_TOOLTIP_JUMPING,Jump Height,Высота прыжка
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,Блокирование в дл. бою
 UI_TOOLTIP_ALLSTAT,All Stats,Все характеристики
-UI_TOOLTIP_DST_HP_MAX_RATE,Increased HP,ОЗ
+UI_TOOLTIP_DST_HP_MAX_RATE,HP,ОЗ
 UI_TOOLTIP_CONDITIONRATE,Magical Power,Магическая сила
-UI_TOOLTIP_DST_ADJDEF_RATE,Increased Defense,Увеличенная защита
-UI_TOOLTIP_DST_MP_MAX_RATE,Increased MP,ОМ
-UI_TOOLTIP_DST_FP_RATE,Increased FP,ОЭ
+UI_TOOLTIP_DST_ADJDEF_RATE,Defense,Увеличенная защита
+UI_TOOLTIP_DST_MP_MAX_RATE,MP,ОМ
+UI_TOOLTIP_DST_FP_RATE,FP,ОЭ
 UI_TOOLTIP_DST_CRITICAL_RATE,Critical Chance,Вероятность КРИТ
 UI_TOOLTIP_DST_CHR_WEAKATKCHANGE,Attribute Attack,Сила стихий
 UI_TOOLTIP_DST_MASTRY_EARTH,Mastery: Earth,Сила земли
@@ -1030,6 +1030,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Starter
 UI_TOOLTIP_COMBO_CIRCLE,Link,Link
 UI_TOOLTIP_COMBO_FINISH,Finisher,Завершить
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Базовый урон: %d ~ %d
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Множитель урона
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heal Scaling
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Time Scaling
