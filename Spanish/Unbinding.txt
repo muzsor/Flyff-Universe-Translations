@@ -3,14 +3,3 @@
 No puedes cancelar la operación una vez realizada.#nc
 El objeto volverá a ser intercambiable. Si deseas conservar todas las mejoras, utiliza un Pergamino de Desvinculación en lugar de este menú.
 Solo funciona con objetos vinculados al alma (Soul-Bound) y #bno con objetos enlazados al alma (Soul-Linked).#nb.
-
-
-
-
- 
-
-
-
-
-
-
