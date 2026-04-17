@@ -2458,7 +2458,7 @@ PROPITEM_TXT_004470,Vital Drink X,活力多 X
 PROPITEM_TXT_004471,A very strong energy drink that completely refills the imbiber's FP while granting unlimited FP for a limited time. Lasts 1 hour.,一種非常強的能量飲料，可完全恢復飲用者的 FP，並可在限定時間內賦予無限 FP，持續 1 小時。
 PROPITEM_TXT_004472,Bull Hamstern,飛鼠肉
 PROPITEM_TXT_004473,Provides +500 HP for 15 minutes.,HP+500，持續 15 分鐘。
-PROPITEM_TXT_004474,Grilled Eel,烤鰻魚
+PROPITEM_TXT_004474,Grilled Eel,蒲燒鰻魚
 PROPITEM_TXT_004475,Provides +50% HP for 30 minutes.,HP+50%，持續 30 分鐘。
 PROPITEM_TXT_004476,Re-Stat,能力重置卷
 PROPITEM_TXT_004477,Resets your stats. Only applies to your current stat page.,重置您的角色數值，僅適用於您當前的數值頁面。
@@ -2597,7 +2597,7 @@ PROPITEM_TXT_004677,Contains Hot Ddukguk and Fresh Ddukguk,熱騰騰的年糕湯
 PROPITEM_TXT_004678,Soup Box of Change,魔力年糕箱
 PROPITEM_TXT_004679,Contains Hot Ddukguk and Sweet Ddukguk,熱騰騰的年糕湯 + 甜甜的年糕湯
 PROPITEM_TXT_004680,Box of Stamina,耐力之箱
-PROPITEM_TXT_004681,"Contains Grilled Eel, Vital Drink X and Upcut Stone",烤鰻魚 + 活力多 X + 力量之石
+PROPITEM_TXT_004681,"Contains Grilled Eel, Vital Drink X and Upcut Stone",蒲燒鰻魚 + 活力多 X + 力量之石
 PROPITEM_TXT_004682,Power of Party,劇團之力禮盒
 PROPITEM_TXT_004683,Possess Exp.and Party Skill 30 and Selected Party,劇團經驗加成卷 + 劇團範圍無限卷 (30 日) + 特優劇團卷
 PROPITEM_TXT_004684,Resurrection Box,復活寶箱
@@ -3970,7 +3970,7 @@ PROPITEM_TXT_007299,Color your chat message! Just highlight your text and right 
 PROPITEM_TXT_007300,Level Booster Pack (Level 20),經驗禮盒 (LV20)
 PROPITEM_TXT_007301,"Contains several useful items for the average adventurer including Scrolls of Amplification ES20, Bull Hamstern, and Upcut Stones.",內含有經驗加成卷軸 (ES20)，飛鼠肉，力量之石
 PROPITEM_TXT_007302,Level Booster Pack (Level 40),經驗禮盒 (LV40)
-PROPITEM_TXT_007303,"Contains several useful items for the average adventurer including Scrolls of Amplification ES40, Grilled Eel, and Upcut Stones.",內含有經驗加成卷軸 (ES40)，烤鰻魚，力量之石
+PROPITEM_TXT_007303,"Contains several useful items for the average adventurer including Scrolls of Amplification ES40, Grilled Eel, and Upcut Stones.",內含有經驗加成卷軸 (ES40)，蒲燒鰻魚，力量之石
 PROPITEM_TXT_007304,Level Booster Pack (Level 60),經驗禮盒 (LV60)
 PROPITEM_TXT_007305,"Contains several useful items for the average adventurer including Scrolls of Amplification ES60, Bull Hamstern, and Upcut Stones.",內含有經驗加成卷軸 (ES60)，飛鼠肉，力量之石
 PROPITEM_TXT_007306,Level Booster Pack (Level 80),經驗禮盒 (LV80)
@@ -11922,7 +11922,7 @@ PROPITEM_TXT_122088,This box contains a Oni with Speed bonus. You can select you
 PROPITEM_TXT_122089,Boboko's Enhancement Package,波波科的增強禮包
 PROPITEM_TXT_122090,"A package containing 50x Power Dice 10, 50x Power Dice 12, 20x Scroll of AProtect, 20x Scroll of SProtect and 20x Scroll of GProtect. All items are also linked.","禮包包含 50x 能量骰子 10,50x 能量骰子 12,20 個飾品防護卷軸、20 個精煉防爆卷軸、20 個穿洞防護卷軸。 所有項目為帳號綁定在一起。"
 PROPITEM_TXT_122091,Boboko's Growth Package,波波科的成長禮包
-PROPITEM_TXT_122092,"A package containing 10x Scroll of Amplification ES, 20x Def-Upcut Stone, 20x Upcut Stone, 10x Power Scroll, 10x Grilled Eel. All items are also linked.",禮包包含 10x 增幅卷軸 ES、20x 防禦上切石、20x 上切石、10x 力量卷軸、10x 烤鰻魚。所有物品也都是綁定的。
+PROPITEM_TXT_122092,"A package containing 10x Scroll of Amplification ES, 20x Def-Upcut Stone, 20x Upcut Stone, 10x Power Scroll, 10x Grilled Eel. All items are also linked.",禮包包含 10x 增幅卷軸 ES、20x 防禦上切石、20x 上切石、10x 力量卷軸、10x 蒲燒鰻魚。所有物品也都是綁定的。
 PROPITEM_TXT_122093,Boboko's Supply Package,波波科的補給禮包
 PROPITEM_TXT_122094,"A package containing 1x Common Bank 30, 1x Extra Bag (30 days), 3x Torch of Raon, 20x Blinkwing of Madrigal, 20x Flask Box, 10x Amplification Elixir Box and 10x Amplification Potion Box. All items are also linked.",禮包含 1 x 普通銀行 30、1 x 額外包 (30 天)、3 x 拉翁火炬、20 x 瑪德利賈回卷、20 x 秘藥箱、10 x 增幅藥劑箱和 10 x 增幅藥水箱。 所有物品也都歸屬綁定在一起。
 PROPITEM_TXT_122095,Amplification Elixir Box,增益藥水箱
@@ -12716,7 +12716,7 @@ PROPITEM_TXT_622049,Can be obtained with certain rate by hunting monsters.\nCan 
 PROPITEM_TXT_622050,Violet Crystal,紫色水晶
 PROPITEM_TXT_622051,Can be obtained by hunting Violet Monster.\nCan exchange with various items by gathering crystals and taking it to NPC Gujane,可以透過狩獵紫羅蘭怪物來獲得。\n可以透過收集水晶並將其帶到 NPC 谷賈內來交換各種物品
 PROPITEM_TXT_131019,Coral Growth Package A,珊瑚成長禮包 A
-PROPITEM_TXT_131020,"A package containing 4x Scroll of Amplification ES, 10x Scroll of Resurrection, 1x Scroll of Element Change, 8x Grilled Eel 5x Power Scroll and 4x Box of Element Attack. All items are also linked.",包含 4 張強化卷軸 (ES)、10 張復活捲軸、1 張元素轉換卷軸、8 條烤鰻魚、5 張力量卷軸和 4 個元素攻擊寶箱的禮包。所有物品均為綁定。
+PROPITEM_TXT_131020,"A package containing 4x Scroll of Amplification ES, 10x Scroll of Resurrection, 1x Scroll of Element Change, 8x Grilled Eel 5x Power Scroll and 4x Box of Element Attack. All items are also linked.",包含 4 張強化卷軸 (ES)、10 張復活捲軸、1 張元素轉換卷軸、8 條蒲燒鰻魚、5 張力量卷軸和 4 個元素攻擊寶箱的禮包。所有物品均為綁定。
 PROPITEM_TXT_131021,Coral Growth Package B,珊瑚生長禮包 B
 PROPITEM_TXT_131022,"A package containing 4x Scroll of Amplification ES, 8x Scroll of Amplification ES140, 8x Flask Box and 7x 1 Day Scroll of Combined Party Effects. All items are also linked.",禮包內含 4 張強化卷軸 ES、8 張強化卷軸 ES140、8 個藥劑盒和 7 張 1 天組合組隊效果卷軸。所有物品均為綁定。
 PROPITEM_TXT_131023,Coral Ultimate Package A,珊瑚終極禮包 A
@@ -12980,7 +12980,7 @@ PROPITEM_TXT_131280,A classic Thanksgiving plate adorned with a succulent turkey
 PROPITEM_TXT_131281,Blue Turkey Board,Blue Turkey Board
 PROPITEM_TXT_131282,Green Turkey Board,Green Turkey Board
 PROPITEM_TXT_131283,2023 Thanksgiving Growth Package,2023 Thanksgiving Growth Package
-PROPITEM_TXT_131284,"A package containing 1x Amplification ES Scroll Box, 20x Flask Box, 20x Grilled Eel, 20x Scroll of Resurrection, 20x Upcut Stone and 20x Def-Upcut Stone. All items are also linked.",內含 1x 經驗值加成卷軸 ES 箱、20x 藥水箱、20x 烤鰻魚、20x 復活卷軸、20x Upcut Stone and 20x Def-Upcut Stone.。所有物品皆為綁定。
+PROPITEM_TXT_131284,"A package containing 1x Amplification ES Scroll Box, 20x Flask Box, 20x Grilled Eel, 20x Scroll of Resurrection, 20x Upcut Stone and 20x Def-Upcut Stone. All items are also linked.",內含 1x 經驗值加成卷軸 ES 箱、20x 藥水箱、20x 蒲燒鰻魚、20x 復活卷軸、20x Upcut Stone and 20x Def-Upcut Stone.。所有物品皆為綁定。
 PROPITEM_TXT_131285,2023 Thanksgiving Smelting Package,2023 Thanksgiving Smelting Package
 PROPITEM_TXT_131286,"A package containing 40x Smelting Scroll Box, 50x Power Dice 10, 50x Power Dice 12 and 30x Scroll of Weapon Bonus. All items are also linked.",內含 40x 精煉卷軸箱、50x 能量骰子 A、50x Power Dice 12 and 30x Scroll of Weapon Bonus.。所有物品皆為綁定。
 PROPITEM_TXT_131287,2023 Thanksgiving New Item Package,2023 Thanksgiving New Item Package
@@ -14276,7 +14276,7 @@ PROPITEM_TXT_722666,This box contains a Tiger Stripes Set with Speed Bonus. You 
 PROPITEM_TXT_722667,Lunar Pet Package,月相寵物禮包
 PROPITEM_TXT_722668,A package containing 1x Feed Bag (15 Days) and 1x Scroll of Pickup Boost (15 Days). All items are also linked.,內含 1x Feed Bag (15 Days)and 1x Scroll of Pickup Boost (15 Days) 的禮包。所有物品皆為綁定。
 PROPITEM_TXT_722669,Power-up Package,增強包
-PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.",內含 5x 屬性變更卷軸、5x 復活卷軸、5x 烤鰻魚、5x 力量卷軸、5x Upcut Stone and 5x Def-Upcut Stone.。所有物品皆為綁定。
+PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll of Resurrection, 5x Grilled Eel, 5x Power Scroll, 5x Upcut Stone and 5x Def-Upcut Stone. All items are also linked.",內含 5x 屬性變更卷軸、5x 復活卷軸、5x 蒲燒鰻魚、5x 力量卷軸、5x Upcut Stone and 5x Def-Upcut Stone.。所有物品皆為綁定。
 PROPITEM_TXT_722671,2024 Valentine Package,2024 年情人節禮包
 PROPITEM_TXT_722672,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,內含 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects 的禮包。所有物品皆為綁定。
 PROPITEM_TXT_131423,Kalgas Silver Coin,卡爾加斯銀幣
@@ -17976,11 +17976,11 @@ PROPITEM_TXT_133594,Fish Sandwich (B),魚排三明治 (B)
 PROPITEM_TXT_133595,Fish Sandwich (A),魚排三明治 (A)
 PROPITEM_TXT_133596,Fish Sandwich (A+),魚排三明治 (A+)
 PROPITEM_TXT_133597,A sandwich made with a fried fish cutlet in the middle.,夾著炸魚排的三明治。
-PROPITEM_TXT_133598,Grilled Salted Eel (D),鹽烤鰻魚 (D)
-PROPITEM_TXT_133599,Grilled Salted Eel (C),鹽烤鰻魚 (C)
-PROPITEM_TXT_133600,Grilled Salted Eel (B),鹽烤鰻魚 (B)
-PROPITEM_TXT_133601,Grilled Salted Eel (A),鹽烤鰻魚 (A)
-PROPITEM_TXT_133602,Grilled Salted Eel (A+),鹽烤鰻魚 (A+)
+PROPITEM_TXT_133598,Grilled Salted Eel (D),鹽蒲燒鰻魚 (D)
+PROPITEM_TXT_133599,Grilled Salted Eel (C),鹽蒲燒鰻魚 (C)
+PROPITEM_TXT_133600,Grilled Salted Eel (B),鹽蒲燒鰻魚 (B)
+PROPITEM_TXT_133601,Grilled Salted Eel (A),鹽蒲燒鰻魚 (A)
+PROPITEM_TXT_133602,Grilled Salted Eel (A+),鹽蒲燒鰻魚 (A+)
 PROPITEM_TXT_133603,A nicely grilled eel that has been nicely seasoned with salt.,以鹽調味、烤得恰到好處的鰻魚。
 PROPITEM_TXT_133604,Experimental Residue,實驗殘渣
 PROPITEM_TXT_133605,"These are ingredients that have failed alchemy and become unknown. Unfortunately, there seems no use for it.",這些材料因煉金失敗而變得無法辨識。很遺憾，看起來沒有任何用途。
@@ -19087,9 +19087,9 @@ PROPITEM_TXT_726169,2024 Witch gloves for Female characters,2024 Witch gloves fo
 PROPITEM_TXT_726171,Reaper Concept Pack,Reaper Concept Pack
 PROPITEM_TXT_726172,A package containing 1x Baby Ripper cage and 1x Reaper Weapons Skin Box. All items are also linked.,內含 1x Baby Ripper cage and 1x Reaper Weapons Skin Box 的禮包。所有物品皆為綁定。
 PROPITEM_TXT_726173,Pumpkin Hunt Package,Pumpkin Hunt 禮包
-PROPITEM_TXT_726174,"A package containing 3x Halloween Balloons Box, 3x Grilled Eel, 5x Def-Upcut Stone, 10x Vital Drink X or Refresher Hold and 3x Scroll of Amplification ES. All items are also linked.",內含 3x 萬聖節氣球箱、3x 烤鰻魚、5x 防禦之石、10x Vital Drink X or Refresher Hold and 3x Scroll of Amplification ES.。所有物品皆為綁定。
+PROPITEM_TXT_726174,"A package containing 3x Halloween Balloons Box, 3x Grilled Eel, 5x Def-Upcut Stone, 10x Vital Drink X or Refresher Hold and 3x Scroll of Amplification ES. All items are also linked.",內含 3x 萬聖節氣球箱、3x 蒲燒鰻魚、5x 防禦之石、10x Vital Drink X or Refresher Hold and 3x Scroll of Amplification ES.。所有物品皆為綁定。
 PROPITEM_TXT_726175,MyCard Promotion Box A,MyCard 推廣箱 A
-PROPITEM_TXT_726176,"A package containing 2x Grilled Eel, 5x Vital Drink X or Refresher Hold, 3x Scroll of Amplification ES and 3x Def-Upcut Stone. All items are also linked.",內含 2x 烤鰻魚、5x 活力多 X 或 無限技能飲、3x Scroll of Amplification ES and 3x Def-Upcut Stone.。所有物品皆為綁定。
+PROPITEM_TXT_726176,"A package containing 2x Grilled Eel, 5x Vital Drink X or Refresher Hold, 3x Scroll of Amplification ES and 3x Def-Upcut Stone. All items are also linked.",內含 2x 蒲燒鰻魚、5x 活力多 X 或 無限技能飲、3x Scroll of Amplification ES and 3x Def-Upcut Stone.。所有物品皆為綁定。
 PROPITEM_TXT_726177,MyCard Promotion Box B,MyCard 推廣箱 B
 PROPITEM_TXT_726178,"A package containing 10x Power Scroll, 10x Upcut Stone, 1x Nitro Booster (7 days) and 1x Teddy Bear Costume Select Box. All items are also linked.",內含 10x 力量卷軸、10x 力量之石、1x Nitro Booster (7 days) and 1x Teddy Bear Costume 選擇箱.。所有物品皆為綁定。
 PROPITEM_TXT_726179,MyCard Promotion Box C,MyCard 推廣箱 C
