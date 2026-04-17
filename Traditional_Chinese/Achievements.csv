@@ -99,13 +99,13 @@ ACHIEVEMENT_KILL_CRYSTALDEVIL_NAME,Crystal Demon Lord,水晶魔王
 ACHIEVEMENT_KILL_BEASTKINGKHAN_NAME,Beast King Khan,百獸之王・可汗
 ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[暗影中尉] 克里頓
 ACHIEVEMENT_KILL_PUPPETWOLF_NAME,Hundur Sharpfoot,百夏足
-ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,Samoset
-ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,Kyouchish
-ACHIEVEMENT_KILL_RYARCHER_NAME,Kanonicus,Kanonicus
-ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,Mage Redcloud
-ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,Taiaha
-ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,Hellhound
-ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,Chief Keokuk
+ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,薩默塞特
+ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,利爪奇什
+ACHIEVEMENT_KILL_RYARCHER_NAME,Kanonicus,追獵者庫斯
+ACHIEVEMENT_KILL_RYMAGI_NAME,Mage Redcloud,緋雲術士
+ACHIEVEMENT_KILL_RYWARRIOR_NAME,Taiaha,泰亞哈戰士
+ACHIEVEMENT_KILL_SKELWOLF_NAME,Hellhound,地獄犬
+ACHIEVEMENT_KILL_RYBARGA_NAME,Chief Keokuk,基奧卡克酋長
 ACHIEVEMENT_KILL_BEHEMOTH03_NAME,[God of Death] Demonic Ankou,[死神] 冥魔安庫
 ACHIEVEMENT_KILL_AIBATT_LVL1,Aibatt Slayer 1,獨眼蝙蝠殺手 1
 ACHIEVEMENT_KILL_AIBATT_LVL2,Aibatt Slayer 2,獨眼蝙蝠殺手 2
@@ -567,41 +567,41 @@ ACHIEVEMENT_KILL_PUPPETWOLF_LVL2,Hundur Sharpfoot Slayer 2,百夏足屠戮者 2
 ACHIEVEMENT_KILL_PUPPETWOLF_LVL3,Hundur Sharpfoot Slayer 3,百夏足屠戮者 3
 ACHIEVEMENT_KILL_PUPPETWOLF_LVL4,Hundur Sharpfoot Slayer 4,百夏足屠戮者 4
 ACHIEVEMENT_KILL_PUPPETWOLF_LVL5,Hundur Sharpfoot Hunter,百夏足狩獵者
-ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,Samoset Slayer 1
-ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,Samoset Slayer 2
-ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,Samoset Slayer 3
-ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,Samoset Slayer 4
-ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,Samoset Hunter
-ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,Kyouchish Slayer 1
-ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,Kyouchish Slayer 2
-ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,Kyouchish Slayer 3
-ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,Kyouchish Slayer 4
-ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,Kyouchish Hunter
-ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,Kanonicus Slayer 1
-ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,Kanonicus Slayer 2
-ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,Kanonicus Slayer 3
-ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,Kanonicus Slayer 4
-ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,Kanonicus Hunter
-ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,Mage Redcloud Slayer 1
-ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,Mage Redcloud Slayer 2
-ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,Mage Redcloud Slayer 3
-ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,Mage Redcloud Slayer 4
-ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,Mage Redcloud Hunter
-ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,Taiaha Slayer 1
-ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,Taiaha Slayer 2
-ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,Taiaha Slayer 3
-ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,Taiaha Slayer 4
-ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,Taiaha Hunter
-ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,Hellhound Slayer 1
-ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,Hellhound Slayer 2
-ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,Hellhound Slayer 3
-ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,Hellhound Slayer 4
-ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,Hellhound Hunter
-ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,Chief Keokuk Slayer 1
-ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,Chief Keokuk Slayer 2
-ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,Chief Keokuk Slayer 3
-ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,Chief Keokuk Slayer 4
-ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,Chief Keokuk Hunter
+ACHIEVEMENT_KILL_RYSENTRY_LVL1,Samoset Slayer 1,薩默塞特殺手 1
+ACHIEVEMENT_KILL_RYSENTRY_LVL2,Samoset Slayer 2,薩默塞特殺手 2
+ACHIEVEMENT_KILL_RYSENTRY_LVL3,Samoset Slayer 3,薩默塞特殺手 3
+ACHIEVEMENT_KILL_RYSENTRY_LVL4,Samoset Slayer 4,薩默塞特殺手 4
+ACHIEVEMENT_KILL_RYSENTRY_LVL5,Samoset Hunter,薩默塞特獵人
+ACHIEVEMENT_KILL_RYGUARD_LVL1,Kyouchish Slayer 1,利爪奇什殺手 1
+ACHIEVEMENT_KILL_RYGUARD_LVL2,Kyouchish Slayer 2,利爪奇什殺手 2
+ACHIEVEMENT_KILL_RYGUARD_LVL3,Kyouchish Slayer 3,利爪奇什殺手 3
+ACHIEVEMENT_KILL_RYGUARD_LVL4,Kyouchish Slayer 4,利爪奇什殺手 4
+ACHIEVEMENT_KILL_RYGUARD_LVL5,Kyouchish Hunter,利爪奇什獵人
+ACHIEVEMENT_KILL_RYARCHER_LVL1,Kanonicus Slayer 1,追獵者庫斯殺手 1
+ACHIEVEMENT_KILL_RYARCHER_LVL2,Kanonicus Slayer 2,追獵者庫斯殺手 2
+ACHIEVEMENT_KILL_RYARCHER_LVL3,Kanonicus Slayer 3,追獵者庫斯殺手 3
+ACHIEVEMENT_KILL_RYARCHER_LVL4,Kanonicus Slayer 4,追獵者庫斯殺手 4
+ACHIEVEMENT_KILL_RYARCHER_LVL5,Kanonicus Hunter,追獵者庫斯獵人
+ACHIEVEMENT_KILL_RYMAGI_LVL1,Mage Redcloud Slayer 1,緋雲術士殺手 1
+ACHIEVEMENT_KILL_RYMAGI_LVL2,Mage Redcloud Slayer 2,緋雲術士殺手 2
+ACHIEVEMENT_KILL_RYMAGI_LVL3,Mage Redcloud Slayer 3,緋雲術士殺手 3
+ACHIEVEMENT_KILL_RYMAGI_LVL4,Mage Redcloud Slayer 4,緋雲術士殺手 4
+ACHIEVEMENT_KILL_RYMAGI_LVL5,Mage Redcloud Hunter,緋雲術士獵人
+ACHIEVEMENT_KILL_RYWARRIOR_LVL1,Taiaha Slayer 1,泰亞哈戰士殺手 1
+ACHIEVEMENT_KILL_RYWARRIOR_LVL2,Taiaha Slayer 2,泰亞哈戰士殺手 2
+ACHIEVEMENT_KILL_RYWARRIOR_LVL3,Taiaha Slayer 3,泰亞哈戰士殺手 3
+ACHIEVEMENT_KILL_RYWARRIOR_LVL4,Taiaha Slayer 4,泰亞哈戰士殺手 4
+ACHIEVEMENT_KILL_RYWARRIOR_LVL5,Taiaha Hunter,泰亞哈獵人
+ACHIEVEMENT_KILL_SKELWOLF_LVL1,Hellhound Slayer 1,地獄犬殺手 1
+ACHIEVEMENT_KILL_SKELWOLF_LVL2,Hellhound Slayer 2,地獄犬殺手 2
+ACHIEVEMENT_KILL_SKELWOLF_LVL3,Hellhound Slayer 3,地獄犬殺手 3
+ACHIEVEMENT_KILL_SKELWOLF_LVL4,Hellhound Slayer 4,地獄犬殺手 4
+ACHIEVEMENT_KILL_SKELWOLF_LVL5,Hellhound Hunter,地獄犬獵人
+ACHIEVEMENT_KILL_RYBARGA_LVL1,Chief Keokuk Slayer 1,基奧卡克酋長殺手 1
+ACHIEVEMENT_KILL_RYBARGA_LVL2,Chief Keokuk Slayer 2,基奧卡克酋長殺手 2
+ACHIEVEMENT_KILL_RYBARGA_LVL3,Chief Keokuk Slayer 3,基奧卡克酋長殺手 3
+ACHIEVEMENT_KILL_RYBARGA_LVL4,Chief Keokuk Slayer 4,基奧卡克酋長殺手 4
+ACHIEVEMENT_KILL_RYBARGA_LVL5,Chief Keokuk Hunter,基奧卡克酋長獵人
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL1,Red Meteonyker Hunter 1,精英地炎飛龍獵人 1
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL2,Red Meteonyker Hunter 2,精英地炎飛龍獵人 2
 ACHIEVEMENT_KILL_REDMETEONYKER_LVL3,Red Meteonyker Hunter 3,精英地炎飛龍獵人 3
@@ -887,8 +887,8 @@ ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_TITLE,Saucy,俏皮
 ACHIEVEMENT_USE_FRUIT_PUNCH_NAME,Fruit Punch,水果潘趣酒
 ACHIEVEMENT_USE_FRUIT_PUNCH_DESC,"Eat 200,000 Fruit Punch.","吃 200,000 杯水果潘趣酒"
 ACHIEVEMENT_USE_FRUIT_PUNCH_TITLE,Punta Cana,熱帶天堂
-ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,Tuna Sushi
-ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.","Eat 200,000 Tuna Sushi."
+ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,鮪魚壽司
+ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.","食用 200,000 個鮪魚壽司。"
 ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,打醬油
 ACHIEVEMENT_STAT_STRENGTH_NAME,Strength,力量
 ACHIEVEMENT_STAT_STRENGTH_DESC,Get 253 BASE STR.,基礎力量達到 253
@@ -1238,68 +1238,68 @@ ACHIEVEMENT_FWC_2025_SAVIOR_DESC,Reach level 140 in the 2025 Flyff World Champio
 ACHIEVEMENT_FWC_2025_OVERLORD_NAME,2025 FWC Overlord,2025 年 FWC 霸主
 ACHIEVEMENT_FWC_2025_OVERLORD_DESC,Reach level 150 in the 2025 Flyff World Championship.,在 Flyff 世界錦標賽中達到 150 級。
 ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,2025 FWC 大師
-ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!
-ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC Colosseum Champion
-ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,Win the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC Colosseum 2nd
-ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,Get second place in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC Colosseum 3rd
-ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,Get third place in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC Colosseum Participant
-ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,Participate in the 2025 Flyff World Championship PvE Competition.
-ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC Arena Champion
-ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,Win the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC Arena 2nd
-ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,Get second place in the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC Arena 3rd
-ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,Get third place in the 2025 Flyff World Championship PvP Competition.
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC Arena Finalist
-ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,Participate in the 2025 Flyff World Championship PvP Finals.
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC Arena Participant
-ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,Participate in the 2025 Flyff World Championship PvP Qualifications.
-ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC High Roller
-ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,An honorable title awarded to the player who earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC Lucky Streak
-ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.
-ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC Whale
-ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,Awarded to the player who earned the most Champion Coins within their own server.
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC The Unlucky
-ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC Partner Streamer
-ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Awarded to partner streamers during the 2025 Flyff World Championship.
-ACHIEVEMENT_UPGRADE_1,Upgrade +1,Upgrade +1
-ACHIEVEMENT_UPGRADE_2,Upgrade +2,Upgrade +2
-ACHIEVEMENT_UPGRADE_3,Upgrade +3,Upgrade +3
-ACHIEVEMENT_UPGRADE_4,Upgrade +4,Upgrade +4
-ACHIEVEMENT_UPGRADE_5,Upgrade +5,Upgrade +5
-ACHIEVEMENT_UPGRADE_6,Upgrade +6,Upgrade +6
-ACHIEVEMENT_UPGRADE_7,Upgrade +7,Upgrade +7
-ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
-ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
-ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
-ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
-ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Complete the fourth Hero Quest.
-ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Update Playtime Event
+ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use an FWC Bonus Playtime Coupon to earn rewards.\nYou can obtain the item from the 2025 FWC Championship Pass free rewards!,使用 FWC 額外遊玩時間券以獲得獎勵。\n你可以從 2025 FWC 冠軍通行證的免費獎勵中取得該道具！
+ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,2025 FWC 鬥技場冠軍
+ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the 2025 Flyff World Championship PvE Competition.,贏得 2025 Flyff 世界錦標賽 PvE 競賽。
+ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,2025 FWC 鬥技場亞軍
+ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the 2025 Flyff World Championship PvE Competition.,在 2025 Flyff 世界錦標賽 PvE 競賽中獲得第二名。
+ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,2025 FWC 鬥技場季軍
+ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the 2025 Flyff World Championship PvE Competition.,在 2025 Flyff 世界錦標賽 PvE 競賽中獲得第三名。
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,2025 FWC 鬥技場參賽者
+ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvE Competition.,參與 2025 Flyff 世界錦標賽 PvE 競賽。
+ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,2025 FWC 競技場冠軍
+ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the 2025 Flyff World Championship PvP Competition.,贏得 2025 Flyff 世界錦標賽 PvP 競賽。
+ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,2025 FWC 競技場亞軍
+ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the 2025 Flyff World Championship PvP Competition.,在 2025 Flyff 世界錦標賽 PvP 競賽中獲得第二名。
+ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,2025 FWC 競技場季軍
+ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the 2025 Flyff World Championship PvP Competition.,在 2025 Flyff 世界錦標賽 PvP 競賽中獲得第三名。
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,2025 FWC 競技場決賽選手
+ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate in the 2025 Flyff World Championship PvP Finals.,參與 2025 Flyff 世界錦標賽 PvP 決賽。
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_NAME,2025 FWC Arena Participant,2025 FWC 競技場參賽者
+ACHIEVEMENT_FWC_2025_PVP_PARTICIPANT_DESC,Participate in the 2025 Flyff World Championship PvP Qualifications.,參與 2025 Flyff 世界錦標賽 PvP 資格賽。
+ACHIEVEMENT_FWC_2025_HIGHROLLER_NAME,2025 FWC High Roller,2025 FWC 豪擲千金
+ACHIEVEMENT_FWC_2025_HIGHROLLER_DESC,An honorable title awarded to the player who earned the most Champion Coins across all servers.,頒發給全伺服器中獲得最多冠軍幣玩家的榮譽稱號。
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_NAME,2025 FWC Lucky Streak,2025 FWC 好運連連
+ACHIEVEMENT_FWC_2025_LUCKYSTREAK_DESC,An honorable title awarded to the player who almost earned the most Champion Coins across all servers.,頒發給全伺服器中差一點就獲得最多冠軍幣玩家的榮譽稱號。
+ACHIEVEMENT_FWC_2025_WHALE_NAME,2025 FWC Whale,2025 FWC 大課長
+ACHIEVEMENT_FWC_2025_WHALE_DESC,Awarded to the player who earned the most Champion Coins within their own server.,頒發給所在伺服器中獲得最多冠軍幣的玩家。
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,2025 FWC 倒楣透頂
+ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,頒發給在所在伺服器中花費許多 FWC 硬幣卻獲得最少冠軍幣的玩家。
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,2025 FWC 合作實況主
+ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,頒發給 2025 Flyff 世界錦標賽期間的合作實況主。
+ACHIEVEMENT_UPGRADE_1,Upgrade +1,強化 +1
+ACHIEVEMENT_UPGRADE_2,Upgrade +2,強化 +2
+ACHIEVEMENT_UPGRADE_3,Upgrade +3,強化 +3
+ACHIEVEMENT_UPGRADE_4,Upgrade +4,強化 +4
+ACHIEVEMENT_UPGRADE_5,Upgrade +5,強化 +5
+ACHIEVEMENT_UPGRADE_6,Upgrade +6,強化 +6
+ACHIEVEMENT_UPGRADE_7,Upgrade +7,強化 +7
+ACHIEVEMENT_UPGRADE_8,Upgrade +8,強化 +8
+ACHIEVEMENT_UPGRADE_9,Upgrade +9,強化 +9
+ACHIEVEMENT_UPGRADE_10,Upgrade +10,強化 +10
+ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,英雄 160 - 180
+ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,完成第四個英雄任務。
+ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 版本遊玩活動
 ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,每天登入 40 分鐘即可領取獎勵
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Into the Eillun
-ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Complete the main quests to earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,Complete the daily quests in Kaillun to earn rewards during the event!
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,Complete Kaillun Daily Quests 10 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,Complete Kaillun Daily Quests 20 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,Complete Kaillun Daily Quests 30 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,Complete Kaillun Daily Quests 45 times.
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,Complete Kaillun Daily Quests 60 times.
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,前進艾爾倫
+ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,完成主線任務，在活動期間獲得獎勵！
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,凱倫的勞動者
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,完成凱倫的每日任務，在活動期間獲得獎勵！
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,完成凱倫每日任務 10 次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,完成凱倫每日任務 20 次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,完成凱倫每日任務 30 次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,完成凱倫每日任務 45 次。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,完成凱倫每日任務 60 次。
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,奪取安庫禁域
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,挑戰全新副本！擊敗安庫以獲得活動獎勵！
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,擊敗安庫
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,擊敗獄焰安庫
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,擊敗冥魔安庫
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimate Jewel Synthesis Event
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,Synthesize Ultimate Jewels to earn rewards during the event!
-ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Specialist Level 1
-ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Specialist Level 2
-ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,Specialist Level 3
-ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,The First Vindicator
-ACHIEVEMENT_FIRST_190_DESC,Awarded to the first player to reach level 190.,Awarded to the first player to reach level 190.
-ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,Year of the Horse
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,終極寶石合成活動
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels to earn rewards during the event!,合成終極寶石，在活動期間獲得獎勵！
+ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,專家等級 1
+ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,專家等級 2
+ACHIEVEMENT_LEVEL_LVL15,Specialist Level 3,專家等級 3
+ACHIEVEMENT_FIRST_190_NAME,The First Vindicator,首位衛道者
+ACHIEVEMENT_FIRST_190_DESC,Awarded to the first player to reach level 190.,頒發給第一位達到 190 級的玩家。
+ACHIEVEMENT_YEAROFTHEHORSE,Year of the Horse,馬年
