@@ -268,8 +268,8 @@ CHARACTER_INC_000727,Storm Peak Guard,風暴峰守衛
 CHARACTER_INC_000728,Rankashin,森林守衛者 
 CHARACTER_INC_100028,Kebaras Pang,卡巴拉斯胖登
 CHARACTER_INC_100029,Pink Easter Bunny,粉色復活節兔子
-CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
-CHARACTER_INC_100031,Birthday Baker,Birthday Baker
+CHARACTER_INC_100030,Galaxy Scout,銀河斥候
+CHARACTER_INC_100031,Birthday Baker,生日糕點師
 CHARACTER_INC_100032,[FWC Manager] Ava,[FWC 管理員] 艾娃
 CHARACTER_INC_100033,Gacha Machine,扭蛋機
 CHARACTER_INC_100034,Bach,巴赫
@@ -350,13 +350,13 @@ CHARACTER_INC_003248,Bomida,波米達
 CHARACTER_INC_003249,Negie,內吉
 CHARACTER_INC_100100,Templates,模板
 CHARACTER_INC_100101,Props,道具
-CHARACTER_INC_100102,NPCs,NPCs
+CHARACTER_INC_100102,NPCs,NPC
 CHARACTER_INC_000775,Chonjang,鍾江
 CHARACTER_INC_000776,[Event] Chonjang,[活動] 鍾江
-CHARACTER_INC_000777,Defconn,Defconn
+CHARACTER_INC_000777,Defconn,迪康
 CHARACTER_INC_000778,Anna,安娜
 CHARACTER_INC_000779,Sea Shell,海貝殼
-CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
+CHARACTER_INC_000780,Mr. Flyff,飛飛先生
 CHARACTER_INC_000781,[Event] Roger,[活動] 羅傑
 CHARACTER_INC_003250,[Personal House NPC] Klock,[小屋 NPC] 克洛可
 CHARACTER_INC_100103,[Messenger of Love] Cupid,[愛的使者] 丘比特
@@ -372,8 +372,8 @@ CHARACTER_INC_100105,Gathering Tool,採集工具
 CHARACTER_INC_100106,Sovann,索萬
 CHARACTER_INC_100107,[Event] Mr.Kang,[活動] 康先生
 CHARACTER_INC_100108,Hyuna,泫雅
-CHARACTER_INC_100109,[Event] Boss Pang,[活動] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
+CHARACTER_INC_100109,[Event] Boss Pang,[活動] 胖胖首領
+CHARACTER_INC_100110,Wounded Revolutionary,負傷的革命者
 CHARACTER_INC_100111,[Event] Mr.Pumpkin,[活動] 南瓜先生
 CHARACTER_INC_150001,[Airport Guard] Doran,[機場守衛] 多蘭
 CHARACTER_INC_150002,[Airport Guard] Chiron,[機場守衛] 凱隆
