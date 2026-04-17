@@ -34,8 +34,8 @@ CLIENT_TREEHELP_INC_000241,Blizzard,雪山崩塌
 CLIENT_TREEHELP_INC_000255,Flying level,飛行等級
 CLIENT_TREEHELP_INC_000256,Flying experience,飛行經驗值
 CLIENT_TREEHELP_INC_000257,Travel experience point,旅行經驗值
-CLIENT_TREEHELP_INC_000266,PXP (common experience),PXP(共用經驗值)
-CLIENT_TREEHELP_INC_000267,GP (growth point),GP(成長點數)
+CLIENT_TREEHELP_INC_000266,PXP (common experience),PXP (共用經驗值)
+CLIENT_TREEHELP_INC_000267,GP (growth point),GP (成長點數)
 CLIENT_TREEHELP_INC_000288,Ulitmate Weapon Upgrade,終極武器精煉
 CLIENT_TREEHELP_INC_000289,Mineral,天然礦物
 CLIENT_TREEHELP_INC_000290,Erons,艾磷斯
@@ -57,4 +57,4 @@ CLIENT_TREEHELP_INC_000309,PVP server,PvP 伺服器
 CLIENT_TREEHELP_INC_000313,Weapon store,武器商店
 CLIENT_TREEHELP_INC_000318,Public office,城鎮服務中心
 CLIENT_TREEHELP_INC_000320,Beauty Shop,美容商店
-CLIENT_TREEHELP_INC_000321,Please select a subcategory to view available information.,Please select a subcategory to view available information.
+CLIENT_TREEHELP_INC_000321,Please select a subcategory to view available information.,請選擇一個子類別以查看可用信息。
