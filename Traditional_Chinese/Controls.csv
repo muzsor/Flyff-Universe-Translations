@@ -18,13 +18,13 @@ PROPCTRL_TXT_000038,Harvest Plant 02,收成植物 02
 PROPCTRL_TXT_000039,Harvest Plant 03,收成植物 03
 PROPCTRL_TXT_000040,Harvest Plant 04,收成植物 04
 PROPCTRL_TXT_000041,Children in cage,關在籠子裡的孩子們
-PROPCTRL_TXT_000042,Pet Cage 01,寵物籠01
-PROPCTRL_TXT_000043,Pet Cage 02,寵物籠02
-PROPCTRL_TXT_000044,Pet Cage 03,寵物籠03
-PROPCTRL_TXT_000045,Pet Cage 04,寵物籠04
-PROPCTRL_TXT_000046,Pet Cage 05,寵物籠05
-PROPCTRL_TXT_000047,Pet Cage 06,寵物籠06
-PROPCTRL_TXT_000048,Pet Cage 07,寵物籠07
+PROPCTRL_TXT_000042,Pet Cage 01,寵物籠 01
+PROPCTRL_TXT_000043,Pet Cage 02,寵物籠 02
+PROPCTRL_TXT_000044,Pet Cage 03,寵物籠 03
+PROPCTRL_TXT_000045,Pet Cage 04,寵物籠 04
+PROPCTRL_TXT_000046,Pet Cage 05,寵物籠 05
+PROPCTRL_TXT_000047,Pet Cage 06,寵物籠 06
+PROPCTRL_TXT_000048,Pet Cage 07,寵物籠 07
 PROPCTRL_TXT_000049,Dungeon Warp 01,副本扭曲 01
 PROPCTRL_TXT_000050,Dungeon Warp 02,副本扭曲 02
 PROPCTRL_TXT_000051,Dungeon Warp 03,副本扭曲 03
@@ -155,7 +155,7 @@ PROPCTRL_TXT_000175,Flaris Ground Field,弗拉里斯地面
 PROPCTRL_TXT_000176,Flaris Anvil,弗拉里斯砧
 PROPCTRL_TXT_000177,Flaris Bench,弗拉里斯長椅
 PROPCTRL_TXT_000178,Flaris Chariot,弗拉里斯大車
-PROPCTRL_TXT_000179,Flaris Fence 1,弗拉里斯柵欄1
+PROPCTRL_TXT_000179,Flaris Fence 1,弗拉里斯柵欄 1
 PROPCTRL_TXT_000180,Flaris Floor Lamp,弗拉里斯落地燈 
 PROPCTRL_TXT_000181,Flaris Wall Lamp,弗拉里斯壁燈
 PROPCTRL_TXT_000182,Flaris Pot 1,弗拉里斯鍋 1
@@ -185,7 +185,7 @@ PROPCTRL_TXT_000205,St Morning Rock 1,聖晨岩 1
 PROPCTRL_TXT_000206,St Morning Light 1,聖晨燈 1
 PROPCTRL_TXT_000207,St Morning Sign,聖晨標誌
 PROPCTRL_TXT_000208,Darkon Wagon 1,達肯馬車 1
-PROPCTRL_TXT_000209,Darkon Sign 1,達肯標誌1
+PROPCTRL_TXT_000209,Darkon Sign 1,達肯標誌 1
 PROPCTRL_TXT_000210,Darkon Big Box 1,達肯大盒 1
 PROPCTRL_TXT_000211,Darkon Brown Rock 1,達肯棕岩 1
 PROPCTRL_TXT_000212,Darkon Barrel 1,達肯桶 1
@@ -341,27 +341,27 @@ PROPCTRL_TXT_000361,Dirt Ceiling,泥土天花板
 PROPCTRL_TXT_000362,Flarine Ceiling,布拉里斯天花板
 PROPCTRL_TXT_000363,Gravel Ceiling,礫石天花板
 PROPCTRL_TXT_000364,Bordered Plank Ceiling,帶邊框的木板天花板
-PROPCTRL_TXT_000365,Common Green Tree 2,普通綠樹2
-PROPCTRL_TXT_000366,Common Green Tree 3,普通綠樹3
-PROPCTRL_TXT_000367,Common Green Tree 4,普通綠樹4
-PROPCTRL_TXT_000368,Common Green Tree 5,普通綠樹5
-PROPCTRL_TXT_000369,Common Green Tree 6,普通綠樹6
-PROPCTRL_TXT_000370,Common Green Tree 7,普通綠樹7
-PROPCTRL_TXT_000371,Common Green Tree 8,普通綠樹8
-PROPCTRL_TXT_000372,Common Green Tree 9,普通綠樹9
-PROPCTRL_TXT_000373,Common Green Tree 10,普通綠樹10
-PROPCTRL_TXT_000374,Common Green Tree 11,普通綠樹11
-PROPCTRL_TXT_000375,Common Green Tree 12,普通綠樹12
-PROPCTRL_TXT_000376,Common Green Tree 13,普通綠樹13
-PROPCTRL_TXT_000377,Common Green Tree 14,普通綠樹14
-PROPCTRL_TXT_000378,Common Sakura Tree 2,普通櫻花樹2
-PROPCTRL_TXT_000379,Common Wooden Box 2,普通木箱2
-PROPCTRL_TXT_000380,Common Wooden Box Pile 2,普通木箱堆2
-PROPCTRL_TXT_000381,Common Wooden Box Pile 3,普通木箱堆3
-PROPCTRL_TXT_000382,Common Wooden Box Pile 4,普通木箱堆4
-PROPCTRL_TXT_000383,Common Wooden Barrel 2,普通木桶2
-PROPCTRL_TXT_000384,Common Wooden Barrel 3,普通木桶3
-PROPCTRL_TXT_000385,Common Wooden Barrel 4,普通木桶4
+PROPCTRL_TXT_000365,Common Green Tree 2,普通綠樹 2
+PROPCTRL_TXT_000366,Common Green Tree 3,普通綠樹 3
+PROPCTRL_TXT_000367,Common Green Tree 4,普通綠樹 4
+PROPCTRL_TXT_000368,Common Green Tree 5,普通綠樹 5
+PROPCTRL_TXT_000369,Common Green Tree 6,普通綠樹 6
+PROPCTRL_TXT_000370,Common Green Tree 7,普通綠樹 7
+PROPCTRL_TXT_000371,Common Green Tree 8,普通綠樹 8
+PROPCTRL_TXT_000372,Common Green Tree 9,普通綠樹 9
+PROPCTRL_TXT_000373,Common Green Tree 10,普通綠樹 10
+PROPCTRL_TXT_000374,Common Green Tree 11,普通綠樹 11
+PROPCTRL_TXT_000375,Common Green Tree 12,普通綠樹 12
+PROPCTRL_TXT_000376,Common Green Tree 13,普通綠樹 13
+PROPCTRL_TXT_000377,Common Green Tree 14,普通綠樹 14
+PROPCTRL_TXT_000378,Common Sakura Tree 2,普通櫻花樹 2
+PROPCTRL_TXT_000379,Common Wooden Box 2,普通木箱 2
+PROPCTRL_TXT_000380,Common Wooden Box Pile 2,普通木箱堆 2
+PROPCTRL_TXT_000381,Common Wooden Box Pile 3,普通木箱堆 3
+PROPCTRL_TXT_000382,Common Wooden Box Pile 4,普通木箱堆 4
+PROPCTRL_TXT_000383,Common Wooden Barrel 2,普通木桶 2
+PROPCTRL_TXT_000384,Common Wooden Barrel 3,普通木桶 3
+PROPCTRL_TXT_000385,Common Wooden Barrel 4,普通木桶 4
 PROPCTRL_TXT_000386,Common Wooden Barrel Pile 2,普通木桶樁 2
 PROPCTRL_TXT_000387,Common Wooden Barrel Pile 3,普通木桶樁 3
 PROPCTRL_TXT_000388,Common Wooden Barrel Pile 4,普通木桶樁 4
@@ -371,39 +371,39 @@ PROPCTRL_TXT_000391,Common Wooden Barrel Pile 7,普通木桶樁 7
 PROPCTRL_TXT_000392,Common Wooden Barrel Pile 8,普通木桶樁 8
 PROPCTRL_TXT_000393,Common Wooden Barrel Pile 9,普通木桶樁 9
 PROPCTRL_TXT_000394,Common Wooden Barrel Pile 10,普通木桶樁 10
-PROPCTRL_TXT_000395,Common Flowers 2,常見花卉2
-PROPCTRL_TXT_000396,Common Flowers 3,常見花卉3
-PROPCTRL_TXT_000397,Common Flowers 4,常見花卉4
-PROPCTRL_TXT_000398,Common Flowers 5,常見花卉5
-PROPCTRL_TXT_000399,Common Flowers 6,常見花卉6
-PROPCTRL_TXT_000400,Common Flowers 7,常見花卉7
-PROPCTRL_TXT_000401,Common Flowers 8,常見花卉8
-PROPCTRL_TXT_000402,Common Grass 2,普通草2
-PROPCTRL_TXT_000403,Common Grass 3,普通草3
-PROPCTRL_TXT_000404,Common Grass 4,普通草4
-PROPCTRL_TXT_000405,Common Grass 5,普通草5
-PROPCTRL_TXT_000406,Common Grass 6,普通草6
-PROPCTRL_TXT_000407,Common Grass 7,普通草7
-PROPCTRL_TXT_000408,Common Grass 8,普通草8
-PROPCTRL_TXT_000409,Common Grass 9,普通草9
-PROPCTRL_TXT_000410,Common Grass 10,普通草10
-PROPCTRL_TXT_000411,Common Grass 11,普通草11
-PROPCTRL_TXT_000412,Common Grass 12,普通草12
-PROPCTRL_TXT_000413,Common Grass 13,普通草13
-PROPCTRL_TXT_000414,Common Mushroom 2,普通蘑菇2
-PROPCTRL_TXT_000415,Common Mushroom 3,普通蘑菇3
-PROPCTRL_TXT_000416,Common Mushroom 4,普通蘑菇4
-PROPCTRL_TXT_000417,Common Rock 2,普通岩石2
-PROPCTRL_TXT_000418,Common Rock 3,普通岩石3
-PROPCTRL_TXT_000419,Common Rock 4,普通岩石4
-PROPCTRL_TXT_000420,Common Rock 5,普通岩石5
-PROPCTRL_TXT_000421,Common Rock 6,普通岩石6
-PROPCTRL_TXT_000422,Common Rock 7,普通岩石7
-PROPCTRL_TXT_000423,Common Rock 8,普通岩石8
-PROPCTRL_TXT_000424,Common Rock 9,普通岩石9
-PROPCTRL_TXT_000425,Common Rock 10,普通岩石10
+PROPCTRL_TXT_000395,Common Flowers 2,常見花卉 2
+PROPCTRL_TXT_000396,Common Flowers 3,常見花卉 3
+PROPCTRL_TXT_000397,Common Flowers 4,常見花卉 4
+PROPCTRL_TXT_000398,Common Flowers 5,常見花卉 5
+PROPCTRL_TXT_000399,Common Flowers 6,常見花卉 6
+PROPCTRL_TXT_000400,Common Flowers 7,常見花卉 7
+PROPCTRL_TXT_000401,Common Flowers 8,常見花卉 8
+PROPCTRL_TXT_000402,Common Grass 2,普通草 2
+PROPCTRL_TXT_000403,Common Grass 3,普通草 3
+PROPCTRL_TXT_000404,Common Grass 4,普通草 4
+PROPCTRL_TXT_000405,Common Grass 5,普通草 5
+PROPCTRL_TXT_000406,Common Grass 6,普通草 6
+PROPCTRL_TXT_000407,Common Grass 7,普通草 7
+PROPCTRL_TXT_000408,Common Grass 8,普通草 8
+PROPCTRL_TXT_000409,Common Grass 9,普通草 9
+PROPCTRL_TXT_000410,Common Grass 10,普通草 10
+PROPCTRL_TXT_000411,Common Grass 11,普通草 11
+PROPCTRL_TXT_000412,Common Grass 12,普通草 12
+PROPCTRL_TXT_000413,Common Grass 13,普通草 13
+PROPCTRL_TXT_000414,Common Mushroom 2,普通蘑菇 2
+PROPCTRL_TXT_000415,Common Mushroom 3,普通蘑菇 3
+PROPCTRL_TXT_000416,Common Mushroom 4,普通蘑菇 4
+PROPCTRL_TXT_000417,Common Rock 2,普通岩石 2
+PROPCTRL_TXT_000418,Common Rock 3,普通岩石 3
+PROPCTRL_TXT_000419,Common Rock 4,普通岩石 4
+PROPCTRL_TXT_000420,Common Rock 5,普通岩石 5
+PROPCTRL_TXT_000421,Common Rock 6,普通岩石 6
+PROPCTRL_TXT_000422,Common Rock 7,普通岩石 7
+PROPCTRL_TXT_000423,Common Rock 8,普通岩石 8
+PROPCTRL_TXT_000424,Common Rock 9,普通岩石 9
+PROPCTRL_TXT_000425,Common Rock 10,普通岩石 10
 PROPCTRL_TXT_000426,St Morning Rock Arch 2,聖晨石拱門 2
-PROPCTRL_TXT_000427,St Morning Rock Arch 3,聖晨石拱門3
+PROPCTRL_TXT_000427,St Morning Rock Arch 3,聖晨石拱門 3
 PROPCTRL_TXT_000428,St Morning Flag 2,聖晨旗 2
 PROPCTRL_TXT_000429,St Morning Flag 3,聖晨旗 3
 PROPCTRL_TXT_000430,St Morning Flag 4,聖晨旗 4
@@ -422,129 +422,129 @@ PROPCTRL_TXT_000442,St Morning Rock 12,聖晨岩石 12
 PROPCTRL_TXT_000443,St Morning Rock 13,聖晨岩石 13
 PROPCTRL_TXT_000444,St Morning Rock 14,聖晨岩石 14
 PROPCTRL_TXT_000445,St Morning Rock 15,聖晨岩石 15
-PROPCTRL_TXT_000446,St Morning Light 2,聖晨光2
+PROPCTRL_TXT_000446,St Morning Light 2,聖晨光 2
 PROPCTRL_TXT_000447,Darkon Wagon 2,達肯馬車 2
-PROPCTRL_TXT_000448,Darkon Wagon 3,達肯馬車3
-PROPCTRL_TXT_000449,Darkon Wagon 4,達肯馬車4
-PROPCTRL_TXT_000450,Darkon Wagon 5,達肯馬車5
+PROPCTRL_TXT_000448,Darkon Wagon 3,達肯馬車 3
+PROPCTRL_TXT_000449,Darkon Wagon 4,達肯馬車 4
+PROPCTRL_TXT_000450,Darkon Wagon 5,達肯馬車 5
 PROPCTRL_TXT_000451,Darkon Sign 2,達肯標誌 2
 PROPCTRL_TXT_000452,Darkon Sign 3,達肯標誌 3
-PROPCTRL_TXT_000453,Darkon Sign 4,達肯標誌4
-PROPCTRL_TXT_000454,Darkon Sign 5,達肯標誌5
-PROPCTRL_TXT_000455,Darkon Sign 6,達肯標誌6
-PROPCTRL_TXT_000456,Darkon Sign 7,達肯標誌7
-PROPCTRL_TXT_000457,Darkon Big Box 2,達肯大盒子2
-PROPCTRL_TXT_000458,Darkon Big Box 3,達肯大盒子3
-PROPCTRL_TXT_000459,Darkon Big Box 4,達肯大盒子4
-PROPCTRL_TXT_000460,Darkon Big Box 5,達肯大盒子5
-PROPCTRL_TXT_000461,Darkon Brown Rock 2,達肯布朗岩石2
-PROPCTRL_TXT_000462,Darkon Brown Rock 3,達肯布朗岩石3
-PROPCTRL_TXT_000463,Darkon Brown Rock 4,達肯布朗岩石4
-PROPCTRL_TXT_000464,Darkon Brown Rock 5,達肯布朗岩石5
-PROPCTRL_TXT_000465,Darkon Brown Rock 6,達肯布朗岩石6
-PROPCTRL_TXT_000466,Darkon Brown Rock 7,達肯布朗岩石7
+PROPCTRL_TXT_000453,Darkon Sign 4,達肯標誌 4
+PROPCTRL_TXT_000454,Darkon Sign 5,達肯標誌 5
+PROPCTRL_TXT_000455,Darkon Sign 6,達肯標誌 6
+PROPCTRL_TXT_000456,Darkon Sign 7,達肯標誌 7
+PROPCTRL_TXT_000457,Darkon Big Box 2,達肯大盒子 2
+PROPCTRL_TXT_000458,Darkon Big Box 3,達肯大盒子 3
+PROPCTRL_TXT_000459,Darkon Big Box 4,達肯大盒子 4
+PROPCTRL_TXT_000460,Darkon Big Box 5,達肯大盒子 5
+PROPCTRL_TXT_000461,Darkon Brown Rock 2,達肯布朗岩石 2
+PROPCTRL_TXT_000462,Darkon Brown Rock 3,達肯布朗岩石 3
+PROPCTRL_TXT_000463,Darkon Brown Rock 4,達肯布朗岩石 4
+PROPCTRL_TXT_000464,Darkon Brown Rock 5,達肯布朗岩石 5
+PROPCTRL_TXT_000465,Darkon Brown Rock 6,達肯布朗岩石 6
+PROPCTRL_TXT_000466,Darkon Brown Rock 7,達肯布朗岩石 7
 PROPCTRL_TXT_000467,Darkon Barrel 2,達肯桶 2
-PROPCTRL_TXT_000468,Darkon Light 2,達肯之光2
-PROPCTRL_TXT_000469,Darkon Light 3,達肯之光3
-PROPCTRL_TXT_000470,Darkon Light 4,達肯之光4
-PROPCTRL_TXT_000471,Darkon Light 5,達肯之光5
-PROPCTRL_TXT_000472,Darkon Light 6,達肯之光6
+PROPCTRL_TXT_000468,Darkon Light 2,達肯之光 2
+PROPCTRL_TXT_000469,Darkon Light 3,達肯之光 3
+PROPCTRL_TXT_000470,Darkon Light 4,達肯之光 4
+PROPCTRL_TXT_000471,Darkon Light 5,達肯之光 5
+PROPCTRL_TXT_000472,Darkon Light 6,達肯之光 6
 PROPCTRL_TXT_000473,Darkon Mushroom 2,達肯蘑菇 2
-PROPCTRL_TXT_000474,Darkon Mushroom 3,達肯蘑菇3
-PROPCTRL_TXT_000475,Darkon Mushroom 4,達肯蘑菇4
-PROPCTRL_TXT_000476,Darkon Mushroom 5,達肯蘑菇5
-PROPCTRL_TXT_000477,Darkon Tree 2,達肯樹2
-PROPCTRL_TXT_000478,Darkon Tree 3,達肯樹3
-PROPCTRL_TXT_000479,Darkon Tree 4,達肯樹4
-PROPCTRL_TXT_000480,Darkon Tree 5,達肯樹5
-PROPCTRL_TXT_000481,Darkon Tree 6,達肯樹6
-PROPCTRL_TXT_000482,Darkon Tree 7,達肯樹7
-PROPCTRL_TXT_000483,Darkon Tree 8,達肯樹8
-PROPCTRL_TXT_000484,Darkon Tree 9,達肯樹9
-PROPCTRL_TXT_000485,Azria Plant 2,阿茲里亞植物2
-PROPCTRL_TXT_000486,Azria Plant 3,阿茲里亞植物3
-PROPCTRL_TXT_000487,Azria Plant 4,阿茲里亞植物4
-PROPCTRL_TXT_000488,Azria Plant 5,阿茲里亞植物5
-PROPCTRL_TXT_000489,Azria Tree 2,阿茲里亞樹2
-PROPCTRL_TXT_000490,Azria Tree 3,阿茲里亞樹3
-PROPCTRL_TXT_000491,Azria Tree 4,阿茲里亞樹4
-PROPCTRL_TXT_000492,Azria Tree 5,阿茲里亞樹5
-PROPCTRL_TXT_000493,Azria Tree 6,阿茲里亞樹6
-PROPCTRL_TXT_000494,Azria Tree 7,阿茲里亞樹7
-PROPCTRL_TXT_000495,Azria Tree 8,阿茲里亞樹8
-PROPCTRL_TXT_000496,Azria Tree 9,阿茲里亞樹9
-PROPCTRL_TXT_000497,Azria Tree 10,阿茲里亞樹10
-PROPCTRL_TXT_000498,Azria Tree 11,阿茲里亞樹11
-PROPCTRL_TXT_000499,Azria Tree 12,阿茲里亞樹12
-PROPCTRL_TXT_000500,Azria Tree 13,阿茲里亞樹13
-PROPCTRL_TXT_000501,Azria Tree 14,阿茲里亞樹14
-PROPCTRL_TXT_000502,Azria Tree 15,阿茲里亞樹15
-PROPCTRL_TXT_000503,Azria Tree 16,阿茲里亞樹16
-PROPCTRL_TXT_000504,Azria Tree 17,阿茲里亞樹17
-PROPCTRL_TXT_000505,Azria Tree 18,阿茲里亞樹18
-PROPCTRL_TXT_000506,Azria Tree 19,阿茲里亞樹19
-PROPCTRL_TXT_000507,Azria Tree 20,阿茲里亞樹20
-PROPCTRL_TXT_000508,Azria Tree 21,阿茲里亞樹21
-PROPCTRL_TXT_000509,Azria Light 2,阿茲里亞之光2
-PROPCTRL_TXT_000510,Azria Light 3,阿茲里亞之光3
-PROPCTRL_TXT_000511,Azria Rock 2,阿茲里亞岩石2
-PROPCTRL_TXT_000512,Azria Rock 3,阿茲里亞岩石3
-PROPCTRL_TXT_000513,Azria Rock 4,阿茲里亞岩石4
-PROPCTRL_TXT_000514,Azria Rock 5,阿茲里亞岩石5
-PROPCTRL_TXT_000515,Azria Rock 6,阿茲里亞岩石6
-PROPCTRL_TXT_000516,Azria Rock 7,阿茲里亞岩石7
-PROPCTRL_TXT_000517,Azria Rock 8,阿茲里亞岩石8
-PROPCTRL_TXT_000518,Azria Rock 9,阿茲里亞岩石9
-PROPCTRL_TXT_000519,Azria Rock 10,阿茲里亞岩石10
-PROPCTRL_TXT_000520,Azria Rock 11,阿茲里亞岩石11
-PROPCTRL_TXT_000521,Azria Rock 12,阿茲里亞岩石12
-PROPCTRL_TXT_000522,Azria Rock 13,阿茲里亞岩石13
-PROPCTRL_TXT_000523,Azria Mushroom 2,阿茲里亞蘑菇2
-PROPCTRL_TXT_000524,Azria Mushroom 3,阿茲里亞蘑菇3
-PROPCTRL_TXT_000525,Azria Mushroom 4,阿茲里亞蘑菇4
-PROPCTRL_TXT_000526,Azria Grass 2,阿茲里亞草2
-PROPCTRL_TXT_000527,Azria Grass 3,阿茲里亞草3
+PROPCTRL_TXT_000474,Darkon Mushroom 3,達肯蘑菇 3
+PROPCTRL_TXT_000475,Darkon Mushroom 4,達肯蘑菇 4
+PROPCTRL_TXT_000476,Darkon Mushroom 5,達肯蘑菇 5
+PROPCTRL_TXT_000477,Darkon Tree 2,達肯樹 2
+PROPCTRL_TXT_000478,Darkon Tree 3,達肯樹 3
+PROPCTRL_TXT_000479,Darkon Tree 4,達肯樹 4
+PROPCTRL_TXT_000480,Darkon Tree 5,達肯樹 5
+PROPCTRL_TXT_000481,Darkon Tree 6,達肯樹 6
+PROPCTRL_TXT_000482,Darkon Tree 7,達肯樹 7
+PROPCTRL_TXT_000483,Darkon Tree 8,達肯樹 8
+PROPCTRL_TXT_000484,Darkon Tree 9,達肯樹 9
+PROPCTRL_TXT_000485,Azria Plant 2,阿茲里亞植物 2
+PROPCTRL_TXT_000486,Azria Plant 3,阿茲里亞植物 3
+PROPCTRL_TXT_000487,Azria Plant 4,阿茲里亞植物 4
+PROPCTRL_TXT_000488,Azria Plant 5,阿茲里亞植物 5
+PROPCTRL_TXT_000489,Azria Tree 2,阿茲里亞樹 2
+PROPCTRL_TXT_000490,Azria Tree 3,阿茲里亞樹 3
+PROPCTRL_TXT_000491,Azria Tree 4,阿茲里亞樹 4
+PROPCTRL_TXT_000492,Azria Tree 5,阿茲里亞樹 5
+PROPCTRL_TXT_000493,Azria Tree 6,阿茲里亞樹 6
+PROPCTRL_TXT_000494,Azria Tree 7,阿茲里亞樹 7
+PROPCTRL_TXT_000495,Azria Tree 8,阿茲里亞樹 8
+PROPCTRL_TXT_000496,Azria Tree 9,阿茲里亞樹 9
+PROPCTRL_TXT_000497,Azria Tree 10,阿茲里亞樹 10
+PROPCTRL_TXT_000498,Azria Tree 11,阿茲里亞樹 11
+PROPCTRL_TXT_000499,Azria Tree 12,阿茲里亞樹 12
+PROPCTRL_TXT_000500,Azria Tree 13,阿茲里亞樹 13
+PROPCTRL_TXT_000501,Azria Tree 14,阿茲里亞樹 14
+PROPCTRL_TXT_000502,Azria Tree 15,阿茲里亞樹 15
+PROPCTRL_TXT_000503,Azria Tree 16,阿茲里亞樹 16
+PROPCTRL_TXT_000504,Azria Tree 17,阿茲里亞樹 17
+PROPCTRL_TXT_000505,Azria Tree 18,阿茲里亞樹 18
+PROPCTRL_TXT_000506,Azria Tree 19,阿茲里亞樹 19
+PROPCTRL_TXT_000507,Azria Tree 20,阿茲里亞樹 20
+PROPCTRL_TXT_000508,Azria Tree 21,阿茲里亞樹 21
+PROPCTRL_TXT_000509,Azria Light 2,阿茲里亞之光 2
+PROPCTRL_TXT_000510,Azria Light 3,阿茲里亞之光 3
+PROPCTRL_TXT_000511,Azria Rock 2,阿茲里亞岩石 2
+PROPCTRL_TXT_000512,Azria Rock 3,阿茲里亞岩石 3
+PROPCTRL_TXT_000513,Azria Rock 4,阿茲里亞岩石 4
+PROPCTRL_TXT_000514,Azria Rock 5,阿茲里亞岩石 5
+PROPCTRL_TXT_000515,Azria Rock 6,阿茲里亞岩石 6
+PROPCTRL_TXT_000516,Azria Rock 7,阿茲里亞岩石 7
+PROPCTRL_TXT_000517,Azria Rock 8,阿茲里亞岩石 8
+PROPCTRL_TXT_000518,Azria Rock 9,阿茲里亞岩石 9
+PROPCTRL_TXT_000519,Azria Rock 10,阿茲里亞岩石 10
+PROPCTRL_TXT_000520,Azria Rock 11,阿茲里亞岩石 11
+PROPCTRL_TXT_000521,Azria Rock 12,阿茲里亞岩石 12
+PROPCTRL_TXT_000522,Azria Rock 13,阿茲里亞岩石 13
+PROPCTRL_TXT_000523,Azria Mushroom 2,阿茲里亞蘑菇 2
+PROPCTRL_TXT_000524,Azria Mushroom 3,阿茲里亞蘑菇 3
+PROPCTRL_TXT_000525,Azria Mushroom 4,阿茲里亞蘑菇 4
+PROPCTRL_TXT_000526,Azria Grass 2,阿茲里亞草 2
+PROPCTRL_TXT_000527,Azria Grass 3,阿茲里亞草 3
 PROPCTRL_TXT_000528,Azria Sign 2,阿茲里亞標誌 2
-PROPCTRL_TXT_000529,Azria Sign 3,阿茲里亞標誌3
-PROPCTRL_TXT_000530,Azria Sign 4,阿茲里亞標誌4
-PROPCTRL_TXT_000531,Azria Box 2,阿茲里亞箱子2
-PROPCTRL_TXT_000532,Coral Island Tree 2,珊瑚島樹2
-PROPCTRL_TXT_000533,Coral Island Shellfish 2,珊瑚島貝殼2
-PROPCTRL_TXT_000534,Coral Island Shellfish 3,珊瑚島貝殼3
-PROPCTRL_TXT_000535,Coral Island Shellfish 4,珊瑚島貝殼4
-PROPCTRL_TXT_000536,Coral Island Shellfish 5,珊瑚島貝殼5
-PROPCTRL_TXT_000537,Coral Island Shellfish 6,珊瑚島貝殼6
-PROPCTRL_TXT_000538,Coral Island Shellfish 7,珊瑚島貝殼7
-PROPCTRL_TXT_000539,Coral Island Shellfish 8,珊瑚島貝殼8
-PROPCTRL_TXT_000540,Coral Island Shellfish 9,珊瑚島貝殼9
-PROPCTRL_TXT_000541,Coral Island Coral 2,珊瑚島珊瑚2
-PROPCTRL_TXT_000542,Coral Island Coral 3,珊瑚島珊瑚3
-PROPCTRL_TXT_000543,Coral Island Coral 4,珊瑚島珊瑚4
-PROPCTRL_TXT_000544,Coral Island Coral 5,珊瑚島珊瑚5
-PROPCTRL_TXT_000545,Coral Island Coral 6,珊瑚島珊瑚6
-PROPCTRL_TXT_000546,Coral Island Coral 7,珊瑚島珊瑚7
-PROPCTRL_TXT_000547,Coral Island Coral 8,珊瑚島珊瑚8
-PROPCTRL_TXT_000548,Coral Island Coral 9,珊瑚島珊瑚9
-PROPCTRL_TXT_000549,Coral Island Coral 10,珊瑚島珊瑚10
-PROPCTRL_TXT_000550,Coral Island Coral 11,珊瑚島珊瑚11
-PROPCTRL_TXT_000551,Coral Island Coral 12,珊瑚島珊瑚12
-PROPCTRL_TXT_000552,Coral Island Starfish 2,珊瑚島貝殼2
-PROPCTRL_TXT_000553,Coral Island Starfish 3,珊瑚島貝殼3
-PROPCTRL_TXT_000554,Coral Island Table 2,珊瑚島桌2
+PROPCTRL_TXT_000529,Azria Sign 3,阿茲里亞標誌 3
+PROPCTRL_TXT_000530,Azria Sign 4,阿茲里亞標誌 4
+PROPCTRL_TXT_000531,Azria Box 2,阿茲里亞箱子 2
+PROPCTRL_TXT_000532,Coral Island Tree 2,珊瑚島樹 2
+PROPCTRL_TXT_000533,Coral Island Shellfish 2,珊瑚島貝殼 2
+PROPCTRL_TXT_000534,Coral Island Shellfish 3,珊瑚島貝殼 3
+PROPCTRL_TXT_000535,Coral Island Shellfish 4,珊瑚島貝殼 4
+PROPCTRL_TXT_000536,Coral Island Shellfish 5,珊瑚島貝殼 5
+PROPCTRL_TXT_000537,Coral Island Shellfish 6,珊瑚島貝殼 6
+PROPCTRL_TXT_000538,Coral Island Shellfish 7,珊瑚島貝殼 7
+PROPCTRL_TXT_000539,Coral Island Shellfish 8,珊瑚島貝殼 8
+PROPCTRL_TXT_000540,Coral Island Shellfish 9,珊瑚島貝殼 9
+PROPCTRL_TXT_000541,Coral Island Coral 2,珊瑚島珊瑚 2
+PROPCTRL_TXT_000542,Coral Island Coral 3,珊瑚島珊瑚 3
+PROPCTRL_TXT_000543,Coral Island Coral 4,珊瑚島珊瑚 4
+PROPCTRL_TXT_000544,Coral Island Coral 5,珊瑚島珊瑚 5
+PROPCTRL_TXT_000545,Coral Island Coral 6,珊瑚島珊瑚 6
+PROPCTRL_TXT_000546,Coral Island Coral 7,珊瑚島珊瑚 7
+PROPCTRL_TXT_000547,Coral Island Coral 8,珊瑚島珊瑚 8
+PROPCTRL_TXT_000548,Coral Island Coral 9,珊瑚島珊瑚 9
+PROPCTRL_TXT_000549,Coral Island Coral 10,珊瑚島珊瑚 10
+PROPCTRL_TXT_000550,Coral Island Coral 11,珊瑚島珊瑚 11
+PROPCTRL_TXT_000551,Coral Island Coral 12,珊瑚島珊瑚 12
+PROPCTRL_TXT_000552,Coral Island Starfish 2,珊瑚島貝殼 2
+PROPCTRL_TXT_000553,Coral Island Starfish 3,珊瑚島貝殼 3
+PROPCTRL_TXT_000554,Coral Island Table 2,珊瑚島桌 2
 PROPCTRL_TXT_000555,Flaris Pot 2,弗拉里斯鍋 2
 PROPCTRL_TXT_000556,Flaris Fence 2,弗拉里斯柵欄 2
 PROPCTRL_TXT_000557,Flaris Fence 3,弗拉里斯柵欄 3
-PROPCTRL_TXT_000558,Flaris Fence 4,弗拉里斯柵欄4
-PROPCTRL_TXT_000559,Flaris Fence 5,弗拉里斯柵欄5
-PROPCTRL_TXT_000560,Flaris Fence 6,弗拉里斯柵欄6
+PROPCTRL_TXT_000558,Flaris Fence 4,弗拉里斯柵欄 4
+PROPCTRL_TXT_000559,Flaris Fence 5,弗拉里斯柵欄 5
+PROPCTRL_TXT_000560,Flaris Fence 6,弗拉里斯柵欄 6
 PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,一週年弗拉里斯蛋糕
 PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,一週年聖晨蛋糕
 PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,一週年達肯蛋糕
 PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,兩週年弗拉里斯蛋糕
 PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,兩週年聖晨蛋糕
 PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,兩週年達肯蛋糕
-PROPCTRL_TXT_000567,2nd Anniversary Presents 1,兩週年紀念禮物1
-PROPCTRL_TXT_000568,2nd Anniversary Presents 2,兩週年紀念禮物2
+PROPCTRL_TXT_000567,2nd Anniversary Presents 1,兩週年紀念禮物 1
+PROPCTRL_TXT_000568,2nd Anniversary Presents 2,兩週年紀念禮物 2
 PROPCTRL_TXT_000569,2nd Anniversary Arch 1,兩週年拱門 1
 PROPCTRL_TXT_000570,Luxury Chandelier,豪華吊燈
 PROPCTRL_TXT_000571,Luxury Table,豪華桌
@@ -585,36 +585,36 @@ PROPCTRL_TXT_000605,Medieval Table,中世紀桌子
 PROPCTRL_TXT_000606,Medieval Chair,中世紀椅子
 PROPCTRL_TXT_000607,Medieval Floor Lamp,中世紀落地燈
 PROPCTRL_TXT_000608,Medieval Drawer,中世紀畫師
-PROPCTRL_TXT_000609,Halloween 2024 Bed,2024年萬聖節床
-PROPCTRL_TXT_000610,Halloween 2024 Sofa,2024年萬聖節沙發
-PROPCTRL_TXT_000611,Halloween 2024 Armchair,2024年萬聖節扶手椅
-PROPCTRL_TXT_000612,Halloween 2024 Bookcase,2024年萬聖節書架
-PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,2024年萬聖節衣櫃
-PROPCTRL_TXT_000614,Halloween 2024 Table,2024年萬聖節桌子
-PROPCTRL_TXT_000615,Halloween 2024 Chair,2024年萬聖節椅子
-PROPCTRL_TXT_000616,Halloween 2024 Lantern,2024年萬聖節燈籠
-PROPCTRL_TXT_000617,Halloween 2024 Drawer,2024年萬聖節畫師
-PROPCTRL_TXT_000618,Flaris House 1,弗拉里斯小屋1
-PROPCTRL_TXT_000619,Flaris House 2,弗拉里斯小屋2
-PROPCTRL_TXT_000620,Flaris House 3,弗拉里斯小屋3
-PROPCTRL_TXT_000621,Flaris House 4,弗拉里斯小屋4
-PROPCTRL_TXT_000622,Flaris House 5,弗拉里斯小屋5
-PROPCTRL_TXT_000623,Flaris House 6,弗拉里斯小屋6
-PROPCTRL_TXT_000624,Flaris House 7,弗拉里斯小屋7
-PROPCTRL_TXT_000625,Flaris House 8,弗拉里斯小屋8
-PROPCTRL_TXT_000626,Flaris House 9,弗拉里斯小屋9
-PROPCTRL_TXT_000627,Flaris House 10,弗拉里斯小屋10
-PROPCTRL_TXT_000628,Saint Morning House 1,聖晨小屋1
-PROPCTRL_TXT_000629,Saint Morning House 2,聖晨小屋2
-PROPCTRL_TXT_000630,Saint Morning House 3,聖晨小屋3
-PROPCTRL_TXT_000631,Saint Morning House 4,聖晨小屋4
-PROPCTRL_TXT_000632,Saint Morning House 5,聖晨小屋5
-PROPCTRL_TXT_000633,Saint Morning House 6,聖晨小屋6
-PROPCTRL_TXT_000634,Saint Morning House 7,聖晨小屋7
-PROPCTRL_TXT_000635,Saint Morning House 8,聖晨小屋8
-PROPCTRL_TXT_000636,Saint Morning House 9,聖晨小屋9
-PROPCTRL_TXT_000637,Saint Morning House 10,聖晨小屋10
-PROPCTRL_TXT_000638,Saint Morning House 11,聖晨小屋11
+PROPCTRL_TXT_000609,Halloween 2024 Bed,2024 年萬聖節床
+PROPCTRL_TXT_000610,Halloween 2024 Sofa,2024 年萬聖節沙發
+PROPCTRL_TXT_000611,Halloween 2024 Armchair,2024 年萬聖節扶手椅
+PROPCTRL_TXT_000612,Halloween 2024 Bookcase,2024 年萬聖節書架
+PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,2024 年萬聖節衣櫃
+PROPCTRL_TXT_000614,Halloween 2024 Table,2024 年萬聖節桌子
+PROPCTRL_TXT_000615,Halloween 2024 Chair,2024 年萬聖節椅子
+PROPCTRL_TXT_000616,Halloween 2024 Lantern,2024 年萬聖節燈籠
+PROPCTRL_TXT_000617,Halloween 2024 Drawer,2024 年萬聖節畫師
+PROPCTRL_TXT_000618,Flaris House 1,弗拉里斯小屋 1
+PROPCTRL_TXT_000619,Flaris House 2,弗拉里斯小屋 2
+PROPCTRL_TXT_000620,Flaris House 3,弗拉里斯小屋 3
+PROPCTRL_TXT_000621,Flaris House 4,弗拉里斯小屋 4
+PROPCTRL_TXT_000622,Flaris House 5,弗拉里斯小屋 5
+PROPCTRL_TXT_000623,Flaris House 6,弗拉里斯小屋 6
+PROPCTRL_TXT_000624,Flaris House 7,弗拉里斯小屋 7
+PROPCTRL_TXT_000625,Flaris House 8,弗拉里斯小屋 8
+PROPCTRL_TXT_000626,Flaris House 9,弗拉里斯小屋 9
+PROPCTRL_TXT_000627,Flaris House 10,弗拉里斯小屋 10
+PROPCTRL_TXT_000628,Saint Morning House 1,聖晨小屋 1
+PROPCTRL_TXT_000629,Saint Morning House 2,聖晨小屋 2
+PROPCTRL_TXT_000630,Saint Morning House 3,聖晨小屋 3
+PROPCTRL_TXT_000631,Saint Morning House 4,聖晨小屋 4
+PROPCTRL_TXT_000632,Saint Morning House 5,聖晨小屋 5
+PROPCTRL_TXT_000633,Saint Morning House 6,聖晨小屋 6
+PROPCTRL_TXT_000634,Saint Morning House 7,聖晨小屋 7
+PROPCTRL_TXT_000635,Saint Morning House 8,聖晨小屋 8
+PROPCTRL_TXT_000636,Saint Morning House 9,聖晨小屋 9
+PROPCTRL_TXT_000637,Saint Morning House 10,聖晨小屋 10
+PROPCTRL_TXT_000638,Saint Morning House 11,聖晨小屋 11
 PROPCTRL_TXT_000639,Pumpkin Town House 1,南瓜鎮小屋 1
 PROPCTRL_TXT_000640,Pumpkin Town House 2,南瓜鎮小屋 2
 PROPCTRL_TXT_000641,Pumpkin Town House 3,南瓜鎮小屋 3
@@ -635,7 +635,7 @@ PROPCTRL_TXT_000655,Madrigal No-fly Sign,馬德里加爾禁飛標誌
 PROPCTRL_TXT_000656,Madrigal Floating Ring,馬德里加爾浮環
 PROPCTRL_TXT_000657,Flaris Box and cover,弗拉里斯盒子和蓋子
 PROPCTRL_TXT_000658,Magic Crystal Object,魔法水晶
-PROPCTRL_TXT_000659,Flaris Tent 2,弗拉里斯帳篷2
+PROPCTRL_TXT_000659,Flaris Tent 2,弗拉里斯帳篷 2
 PROPCTRL_TXT_000662,Flaris Carriage,弗拉里斯馬車
 PROPCTRL_TXT_000663,Flaris Torch,弗拉里斯火炬
 PROPCTRL_TXT_000664,Flaris Floating Island,弗拉里斯浮島

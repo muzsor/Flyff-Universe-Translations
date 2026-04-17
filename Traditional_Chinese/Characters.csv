@@ -75,9 +75,9 @@ CHARACTER_INC_000292,Roocky,文生
 CHARACTER_INC_000298,Remine,雷米娜
 CHARACTER_INC_000304,Krinton,克林特
 CHARACTER_INC_000305,Shields,盾
-CHARACTER_INC_000310,Dr. Est,Dr.法小紀
-CHARACTER_INC_000312,Dr. Estly,Dr.法小林
-CHARACTER_INC_000314,Dr. Estern,Dr.法小廷
+CHARACTER_INC_000310,Dr. Est,Dr. 法小紀
+CHARACTER_INC_000312,Dr. Estly,Dr. 法小林
+CHARACTER_INC_000314,Dr. Estern,Dr. 法小廷
 CHARACTER_INC_000316,Darkon Pang II,得肯‧乓 II
 CHARACTER_INC_000318,Kablloc,卡布洛
 CHARACTER_INC_000324,Chenbing,趁風
@@ -253,8 +253,8 @@ CHARACTER_INC_100020,Mysterious Robed Girl,黎席斯的使者-潔米
 CHARACTER_INC_000697,[Chip Merchant] Waforu,[紅籌碼商人] 瓦普勒 
 CHARACTER_INC_100021,Azria Pang,阿茲里亞‧乓
 CHARACTER_INC_001260,Lifeguard Jennifer,活動管理員 珍妮佛
-CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80公會戰管理員] 阿特拉斯
-CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60公會戰管理員] 奧利維亞
+CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 公會戰管理員] 阿特拉斯
+CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 公會戰管理員] 奧利維亞
 CHARACTER_INC_100024,Polar Bear,北極熊
 CHARACTER_INC_100025,Fu Lion King,福氣獅子王
 CHARACTER_INC_100026,Cupid,邱比特 
@@ -270,7 +270,7 @@ CHARACTER_INC_100028,Kebaras Pang,卡巴拉斯胖登
 CHARACTER_INC_100029,Pink Easter Bunny,粉色復活節兔子
 CHARACTER_INC_100030,Galaxy Scout,Galaxy Scout
 CHARACTER_INC_100031,Birthday Baker,Birthday Baker
-CHARACTER_INC_100032,[FWC Manager] Ava,[FWC管理員] 艾娃
+CHARACTER_INC_100032,[FWC Manager] Ava,[FWC 管理員] 艾娃
 CHARACTER_INC_100033,Gacha Machine,扭蛋機
 CHARACTER_INC_100034,Bach,巴赫
 CHARACTER_INC_100035,Private Leo,列兵 里奧

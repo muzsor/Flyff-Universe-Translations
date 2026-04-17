@@ -11,16 +11,16 @@ CLIENT_FAQ_INC_000008,How do you use the skills?,如何使用技能？
 CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,按 K 進入技能選單，然後將要使用的技能圖標拖到螢幕右下方的操作欄中。
 CLIENT_FAQ_INC_000010,How do you use the skills continuously?,如何連續使用技能？
 CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,想要連續使用技能時，可將自己想要使用的技能，依序放入畫面右下角的技能熱鍵欄中，使用技能時，會按照自己所設定的技能依序施展。但是設定拼圖技能時，必須配合技能的招式，如 前段技能-> 中段技能 -> 後段技能 依序排列。
-CLIENT_FAQ_INC_000012,How do I gain my health back?,食物無法將HP補滿。
-CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,用來恢復HP的物品會有恢復的上限值。請確定食物的恢復量後，選擇適合自己HP的食物。
+CLIENT_FAQ_INC_000012,How do I gain my health back?,食物無法將 HP 補滿。
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,用來恢復 HP 的物品會有恢復的上限值。請確定食物的恢復量後，選擇適合自己 HP 的食物。
 CLIENT_FAQ_INC_000014,How do I get a Job?,如何轉職？
-CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到15級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖因特開始，雜技師任務在達肯開始。
-CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,等級15級之後經驗值不會累積了。
-CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",等級到了15級之後，就無法再獲得經驗值了，必需要去執行第1次『轉職任務』，在成功轉職之後才能再繼續獲得經驗值。等級15級之後，一定要去和想要轉的職業的教官見面，並執行任務。
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到 15 級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖因特開始，雜技師任務在達肯開始。
+CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,等級 15 級之後經驗值不會累積了。
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",等級到了 15 級之後，就無法再獲得經驗值了，必需要去執行第 1 次『轉職任務』，在成功轉職之後才能再繼續獲得經驗值。等級 15 級之後，一定要去和想要轉的職業的教官見面，並執行任務。
 CLIENT_FAQ_INC_000018,,
 CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.",在技能學習上，必須先滿足可習得的角色等級及前置技能。所以無法習得技能時，請確定是否滿足習得條件。
 CLIENT_FAQ_INC_000020,How do I fly?,飛行
-CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,等級到達20級之後，就會擁有1級的飛行等級。有了1級的飛行等級，就表示可以飛在天空了。但是想要飛行就必須擁有飛行器具 (掃帚或是滑板)。您可以到航空站附近尋找經營飛行器具店的NPC購買。如果您在布拉里斯，建議您找寶雅小姐購買飛行器具。
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,等級到達 20 級之後，就會擁有 1 級的飛行等級。有了 1 級的飛行等級，就表示可以飛在天空了。但是想要飛行就必須擁有飛行器具 (掃帚或是滑板)。您可以到航空站附近尋找經營飛行器具店的 NPC 購買。如果您在布拉里斯，建議您找寶雅小姐購買飛行器具。
 CLIENT_FAQ_INC_000022,How do I move the camera.,操作視角。
 CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,舊版本：按住滑鼠滾輪後移動滑鼠。新版本：按住滑鼠右鍵後移動滑鼠。視角的放大縮小可使用滑鼠滾輪，視角的旋轉可利用鍵盤的方向鍵操作。
 CLIENT_FAQ_INC_000024,How do I return to my default camera position?,把視角歸回預設角度。
@@ -30,22 +30,22 @@ CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or u
 CLIENT_FAQ_INC_000028,How can I use Emoticons?,如何休息？
 CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emote and drag it to the bar.,"休息的熱鍵為『F9』鍵，按下後就會 ""坐下休息""，再按一次『F9』鍵就會站起來。萬一不小心將熱鍵消去時，只要按下熱鍵『O』，在動作欄裡尋找，重新登入熱鍵即可。"
 CLIENT_FAQ_INC_000030,How do you trade with other characters?,角色之間要如何交易？
-CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",請靠近要進行交易的角色，並按住鍵盤上的『ALT』鍵，然後使用滑鼠選定角色。此時會出現一列選項，選擇『交易』的選項即可進行交易。正在進行交易時，將無法使用物品、NPC交易與丟棄物品。
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",請靠近要進行交易的角色，並按住鍵盤上的『ALT』鍵，然後使用滑鼠選定角色。此時會出現一列選項，選擇『交易』的選項即可進行交易。正在進行交易時，將無法使用物品、NPC 交易與丟棄物品。
 CLIENT_FAQ_INC_000032,Where can I get a quest?,任務要去哪裡接？
-CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,想要接任務，必須先到達適合的等級或職業，之後再去找NPC對話，即可接一些任務。喜歡玩任務嗎？那就要常常與NPC對話喔。
+CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,想要接任務，必須先到達適合的等級或職業，之後再去找 NPC 對話，即可接一些任務。喜歡玩任務嗎？那就要常常與 NPC 對話喔。
 CLIENT_FAQ_INC_000034,What is a duel?,什麼是對戰？
-CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",對戰就是指玩家與玩家之間的對決。意思就是說雙方必須達成協議之後，進行PvP(Player VS Player)。與PK不同之處在於PVP不會受到懲罰。
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",對戰就是指玩家與玩家之間的對決。意思就是說雙方必須達成協議之後，進行 PvP(Player VS Player)。與 PK 不同之處在於 PVP 不會受到懲罰。
 CLIENT_FAQ_INC_000036,How can I become famous?,如何提升名譽值？
 CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,在對戰時獲得很多勝利時，名譽自然就會上升。隨著名譽的上升，可以獲得各種稱號。
 CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,什麼是惡名點數？
-CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PK 和惡名會隨著您殺死其他玩家而增加。隨著PK和惡名的增加，您的角色將受到懲罰。PK 角色的名字顯示為紅色。您可以通過完成懺悔任務來兌換您的 PK 率，並且您的惡名會隨著您殺死怪物和/或被殺死而降低。
-CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?",發現BUG要怎麼做？
-CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,發現BUG時，請直接透過官方網站『$WEBSITE$.tw/』通報。
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PK 和惡名會隨著您殺死其他玩家而增加。隨著 PK 和惡名的增加，您的角色將受到懲罰。PK 角色的名字顯示為紅色。您可以通過完成懺悔任務來兌換您的 PK 率，並且您的惡名會隨著您殺死怪物和/或被殺死而降低。
+CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?",發現 BUG 要怎麼做？
+CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,發現 BUG 時，請直接透過官方網站『$WEBSITE$.tw/』通報。
 CLIENT_FAQ_INC_000042,What is a guild?,何謂公會?
-CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",公會比劇團的規模更大，是由許多人所組成的組織。隨著公會的成長，能夠使用公會銀行、公會披風、公會戰、1：1公會戰等的功能。
+CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",公會比劇團的規模更大，是由許多人所組成的組織。隨著公會的成長，能夠使用公會銀行、公會披風、公會戰、1：1 公會戰等的功能。
 CLIENT_FAQ_INC_000044,Where can we form a guild?,公會要在哪裡創呢?
-CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖因特市區的 [城鎮服務處] 找NPC海蓮娜說話。創公會時，角色的等級必需要40級以上，等級到了40級之後，透過任務就能夠創立公會。
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖因特市區的 [城鎮服務處] 找 NPC 海蓮娜說話。創公會時，角色的等級必需要 40 級以上，等級到了 40 級之後，透過任務就能夠創立公會。
 CLIENT_FAQ_INC_000046,How about a Party?,要如何轉換成巡迴劇團？
-CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,劇團等級升到10級之後，按下劇團視窗裡面的『Change』按鈕即可轉換成巡迴劇團。
+CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,劇團等級升到 10 級之後，按下劇團視窗裡面的『Change』按鈕即可轉換成巡迴劇團。
 CLIENT_FAQ_INC_000048,How to invite other players?,如何邀請其他成員？
 CLIENT_FAQ_INC_000049,Click on another player and select Invite to join party.,點擊玩家並選擇邀請加入劇團。
