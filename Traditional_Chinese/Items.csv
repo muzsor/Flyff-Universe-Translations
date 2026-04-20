@@ -11722,7 +11722,7 @@ PROPITEM_TXT_121863,This box will contain a random 30 days pickup pet.,該箱子
 PROPITEM_TXT_121864,SEP Enhancement Package,SEP 增強禮包
 PROPITEM_TXT_121865,"A package containing 20x Scroll of GProtect, 20x Scroll of SProtect, 40x Scroll of AProtect, 5x Scroll of Amplification ES and 200x W-Token. All items are also linked.",禮包包含 20 個穿洞防爆卷軸、20 個精煉防爆卷軸、40 個飾品防爆卷軸、5 個經驗加成卷軸 ES 和 200x W 代幣。 所有項目為帳號綁定在一起。
 PROPITEM_TXT_121866,Expert's Package A,專家禮包 A
-PROPITEM_TXT_121867,"A package containing 20x Scroll of AProtect, 20x Scroll of SProtect, 20x Scroll of GProtect, 20x Scroll of EProtect, 10x Charged Power Scroll and 10x Scroll of Amplification ES. All items are also linked.",禮包包含 20 個飾品防爆卷軸、20 個精煉防爆卷軸、20 個穿洞防爆卷軸、20x 卡片防爆卷軸、10x 強化祕技書、10 個經驗加成卷軸 ES。 所有項目為帳號綁定在一起。
+PROPITEM_TXT_121867,"A package containing 20x Scroll of AProtect, 20x Scroll of SProtect, 20x Scroll of GProtect, 20x Scroll of EProtect, 10x Charged Power Scroll and 10x Scroll of Amplification ES. All items are also linked.",禮包包含 20 個飾品防爆卷軸、20 個精煉防爆卷軸、20 個穿洞防爆卷軸、20 個卡片防爆卷軸、10x 強化祕技書、10 個經驗加成卷軸 ES。 所有項目為帳號綁定在一起。
 PROPITEM_TXT_121868,GM Appearance Bundle,GM 外觀包
 PROPITEM_TXT_121869,Gives you a Bodyguard Set and Black Sunglasses.,給你一套保鑣套裝和黑色太陽眼鏡。
 PROPITEM_TXT_121870,Bodyguard Set,保鑣套裝
@@ -19393,7 +19393,7 @@ PROPITEM_TXT_726193,2024 Thanksgiving Buff Package,2024 感恩節增益包
 PROPITEM_TXT_726194,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activation and 1x Thanksgiving Day Buff Select Box. All items are also linked.",套裝包含 10x 力量之石、10x 無限活力多或無限魔力多、10x 無限技能卷和 1x 感恩節 Buff 選擇盒。所有項目也都連結在一起。
 PROPITEM_TXT_726195,2024 Black Friday Costume Lucky Box,2024 黑色 Friday 服裝幸運箱
 PROPITEM_TXT_726196,2024 Thanksgiving Ultimate Package,2024 感恩終極套組
-PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.",禮包內含：1 張終極加成卷軸、5 張終極之力卷軸、10 張超保護卷軸、5 個高級魔力石、5 個魔力石和 10 把切割刀。所有物品皆為綁定。
+PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.",禮包內含：1 張終極加成卷軸、5 張終極之力卷軸、10 張終極精煉防爆卷軸、5 個高級魔力石、5 個魔力石和 10 把切割刀。所有物品皆為綁定。
 PROPITEM_TXT_801285,Turkeylicious 10% Red Set,火雞盛宴套裝 10% 紅色
 PROPITEM_TXT_801286,Turkeylicious Red Tail,火雞盛宴紅色 Tail
 PROPITEM_TXT_801287,Turkeylicious Red Hat (M),火雞盛宴帽子 紅色 (男)
@@ -22776,7 +22776,7 @@ PROPITEM_TXT_900946,"A package containing 10x Smelting Scroll Box, 20x Power Dic
 PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,打開 77 節日終極捲軸禮包
 PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,包含 3x 終極加成捲軸和 5x 終極之力捲軸的套裝。所有項目也都連結在一起。
 PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,打開 77 節日終極升級包
-PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",套裝包含 3x XProtect 捲軸、3x 高級法力石、3x 法力石、3x 寶石鑷子和 3x 切割刀。所有項目也都連結在一起。
+PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",套裝包含 3x 終極精煉防爆卷軸、3x 高級法力石、3x 法力石、3x 寶石鑷子和 3x 切割刀。所有項目也都連結在一起。
 PROPITEM_TXT_900951,2025 Swimsuit 10% Yellow Set,2025 泳裝套裝 10% 黃色
 PROPITEM_TXT_900952,2025 Swimsuit Yellow Sunglasses,2025 泳裝太陽眼鏡 黃色
 PROPITEM_TXT_900953,2025 Swimsuit Yellow Hat (M),2025 泳裝帽子 黃色 (男)
@@ -24782,9 +24782,9 @@ PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scro
 PROPITEM_TXT_134978,Lucky Box Scroll of GProtect (1-100),穿洞防爆幸運箱 (1-100)
 PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,打開這個盒子你就有機會收到 1 到 100 穿洞防爆卷軸。
 PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),卡片防爆幸運箱 (1-100)
-PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,打開這個盒子你就有機會收到 1 到 100 EProtect 捲軸。
-PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),終極精練防爆幸運箱 (1-100)
-PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,打開這個盒子你就有機會收到 1 到 100 XProtect 捲軸。
+PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,打開這個盒子你就有機會收到 1 到 100 卡片防爆卷軸。
+PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),終極精煉防爆幸運箱 (1-100)
+PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,打開這個盒子你就有機會收到 1 到 100 終極精煉防爆卷軸。
 PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),終極加成幸運盒捲軸 (1-10)
 PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,打開此盒子有機會獲得 1 至 10 終極加成捲軸。
 PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),終極之力幸運盒捲軸 (1-100)
