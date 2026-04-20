@@ -1721,7 +1721,7 @@ UI_TARGETITEMLEVEL,Required Target Level: %d,所需目標等級：%d
 UI_DUNGEON_REQ_ITEM,Required Items:,所需物品：
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,每日最大入場次數：%d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,掉落物分配
-UI_DROP_DISTRIBUTE_INFO,"Roll for the item above, or pass if you're not interested. When everyone has rolled or the timer runs out, the player with the highest roll wins the item.",擲骰子決定是否獲得上述物品，或者如果您不感興趣，請選擇「放棄」。當所有玩家都選擇完畢或時間結束時，擲出最高點數的玩家將贏得該物品。
+UI_DROP_DISTRIBUTE_INFO,"Roll for the item above, or pass if you're not interested. When everyone has rolled or the timer runs out, the player with the highest roll wins the item.",擲骰子來爭取上方的物品，如果你不感興趣可以選擇放棄，當所有玩家都擲完或者時間到，擲出點數最高的玩家獲得該物品。
 UI_DROP_DISTRIBUTE_ROLL,Roll,參與
 UI_DROP_DISTRIBUTE_PASS,Pass,放棄
 UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll for a chance to win this item. The player with the highest roll wins.,擲骰子有機會贏得此物品，擲出點數最高的玩家獲勝。
