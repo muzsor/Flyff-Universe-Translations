@@ -1207,8 +1207,8 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's arti
 TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,The owner of this guild ship has dismantled the guild!
 TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,The guild ship's artifact has been destroyed. The ship is now unclaimed.
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
-TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
-TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,El registro no es posible debido al bajo nivel.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,Te has registrado exitosamente.
 TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
 TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
 TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
@@ -1220,7 +1220,7 @@ TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
 TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
 TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
-TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,No hay suficientes monedas de oro.
 TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
 TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
