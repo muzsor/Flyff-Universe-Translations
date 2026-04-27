@@ -1525,8 +1525,8 @@ TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach lev
 TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
 TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
 TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Has recibido %s x%d.
-TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,El objeto ha sido actualizado.
-TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,Este objeto no se puede actualizar.
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,El objeto ha sido mejorado.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,Este objeto no se puede mejorar.
 TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
 TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
 TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
