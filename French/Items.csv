@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -26693,3 +26693,329 @@ PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,Sélectionnez votre fa
 PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),Boîte de sélection de familier ramasseur Madrigal (15 jours)
 PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),Sélectionnez votre familier ramasseur préféré (15 jours)
 PROPITEM_TXT_903709,Thumbs Up Emote,Émote pouce levé
+PROPITEM_TXT_135114,4th Anniversary Banner,4th Anniversary Banner
+PROPITEM_TXT_135115,A banner for the 4th Anniversary event. Collect and register missing letters to receive rewards.,A banner for the 4th Anniversary event. Collect and register missing letters to receive rewards.
+PROPITEM_TXT_135116,Torn Banner,Torn Banner
+PROPITEM_TXT_135117,"A banner torn to pieces by monsters.\nWhen used, you will receive a random letter item.\nCollect as many as you can to earn rewards.","A banner torn to pieces by monsters.\nWhen used, you will receive a random letter item.\nCollect as many as you can to earn rewards."
+PROPITEM_TXT_135118,Collection Bag,Collection Bag
+PROPITEM_TXT_135119,"A bag provided for collecting banner pieces.\nIt can only store items obtained from ""Torn Banner.""\nAt the end of the event, you can only retrieve the items stored in the bag.","A bag provided for collecting banner pieces.\nIt can only store items obtained from ""Torn Banner.""\nAt the end of the event, you can only retrieve the items stored in the bag."
+PROPITEM_TXT_135120,Banner Fragment A,Banner Fragment A
+PROPITEM_TXT_135121,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""A"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""A"" written on it."
+PROPITEM_TXT_135122,Banner Fragment B,Banner Fragment B
+PROPITEM_TXT_135123,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""B"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""B"" written on it."
+PROPITEM_TXT_135124,Banner Fragment D,Banner Fragment D
+PROPITEM_TXT_135125,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""D"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""D"" written on it."
+PROPITEM_TXT_135126,Banner Fragment E,Banner Fragment E
+PROPITEM_TXT_135127,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""E"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""E"" written on it."
+PROPITEM_TXT_135128,Banner Fragment F,Banner Fragment F
+PROPITEM_TXT_135129,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""F"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""F"" written on it."
+PROPITEM_TXT_135130,Banner Fragment H,Banner Fragment H
+PROPITEM_TXT_135131,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""H"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""H"" written on it."
+PROPITEM_TXT_135132,Banner Fragment I,Banner Fragment I
+PROPITEM_TXT_135133,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""I"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""I"" written on it."
+PROPITEM_TXT_135134,Banner Fragment L,Banner Fragment L
+PROPITEM_TXT_135135,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""L"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""L"" written on it."
+PROPITEM_TXT_135136,Banner Fragment O,Banner Fragment O
+PROPITEM_TXT_135137,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""O"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""O"" written on it."
+PROPITEM_TXT_135138,Banner Fragment P,Banner Fragment P
+PROPITEM_TXT_135139,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""P"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""P"" written on it."
+PROPITEM_TXT_135140,Banner Fragment R,Banner Fragment R
+PROPITEM_TXT_135141,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""R"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""R"" written on it."
+PROPITEM_TXT_135142,Banner Fragment T,Banner Fragment T
+PROPITEM_TXT_135143,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""T"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""T"" written on it."
+PROPITEM_TXT_135144,Banner Fragment V,Banner Fragment V
+PROPITEM_TXT_135145,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""V"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""V"" written on it."
+PROPITEM_TXT_135146,Banner Fragment Y,Banner Fragment Y
+PROPITEM_TXT_135147,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""Y"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""Y"" written on it."
+PROPITEM_TXT_135148,Complete Banner,Complete Banner
+PROPITEM_TXT_135149,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt can substitute for other letters.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt can substitute for other letters."
+PROPITEM_TXT_135150,Golden Ticket,Golden Ticket
+PROPITEM_TXT_135151,An item that can only be obtained with a certain probability through exchange with the Event NPC.\nIt offers a chance to receive valuable rewards.,An item that can only be obtained with a certain probability through exchange with the Event NPC.\nIt offers a chance to receive valuable rewards.
+PROPITEM_TXT_135152,[Event] 4th Anniversary Supply Box A,[Event] 4th Anniversary Supply Box A
+PROPITEM_TXT_135153,[Event] 4th Anniversary Supply Box B,[Event] 4th Anniversary Supply Box B
+PROPITEM_TXT_135154,[Event] 4th Anniversary Supply Box C,[Event] 4th Anniversary Supply Box C
+PROPITEM_TXT_135155,[Event] 4th Anniversary Supply Box D,[Event] 4th Anniversary Supply Box D
+PROPITEM_TXT_135156,A 4th Anniversary Supply Box containing various rewards depending on its grade.,A 4th Anniversary Supply Box containing various rewards depending on its grade.
+PROPITEM_TXT_135157,[Event] 4th Anniversary Random Box,[Event] 4th Anniversary Random Box
+PROPITEM_TXT_135158,A lucky box that grants random rewards when used.,A lucky box that grants random rewards when used.
+PROPITEM_TXT_135159,4th Anniversary Pass,4th Anniversary Pass
+PROPITEM_TXT_135160,This purchase will give you access to many advantages until the end of the 4th Anniversary Pass season,This purchase will give you access to many advantages until the end of the 4th Anniversary Pass season
+PROPITEM_TXT_135161,4th Anniversary Lucky Box I,4th Anniversary Lucky Box I
+PROPITEM_TXT_135162,4th Anniversary Lucky Box II,4th Anniversary Lucky Box II
+PROPITEM_TXT_135163,4th Anniversary Lucky Box III,4th Anniversary Lucky Box III
+PROPITEM_TXT_135164,4th Anniversary Lucky Box IV,4th Anniversary Lucky Box IV
+PROPITEM_TXT_135165,A box with a gift for our fourth anniversary. Open it to see what's inside.,A box with a gift for our fourth anniversary. Open it to see what's inside.
+PROPITEM_TXT_135166,Feed Bag (3 day),Feed Bag (3 day)
+PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 day when used.,Does not reduce the energy of Raised pets for 3 day when used.
+PROPITEM_TXT_135168,Party Toy Sword,Party Toy Sword
+PROPITEM_TXT_135169,Party Toy Axe,Party Toy Axe
+PROPITEM_TXT_135170,Party Toy Big Sword,Party Toy Big Sword
+PROPITEM_TXT_135171,Party Toy Big Axe,Party Toy Big Axe
+PROPITEM_TXT_135172,Party Toy Stick,Party Toy Stick
+PROPITEM_TXT_135173,Party Toy Knuckle,Party Toy Knuckle
+PROPITEM_TXT_135174,Party Toy Bow,Party Toy Bow
+PROPITEM_TXT_135175,Party Toy Yo-Yo,Party Toy Yo-Yo
+PROPITEM_TXT_135176,Party Toy Staff,Party Toy Staff
+PROPITEM_TXT_135177,Party Toy Wand,Party Toy Wand
+PROPITEM_TXT_135178,Party Toy Shield,Party Toy Shield
+PROPITEM_TXT_135179,Party Toy Force Gem,Party Toy Force Gem
+PROPITEM_TXT_135180,Party Toy Book,Party Toy Book
+PROPITEM_TXT_135181,Party Toy Weapon Set,Party Toy Weapon Set
+PROPITEM_TXT_135182,Select which Party Toy Weapon you want to receive!,Select which Party Toy Weapon you want to receive!
+PROPITEM_TXT_135183,Neigh-Sayer Set,Neigh-Sayer Set
+PROPITEM_TXT_135184,Neigh-Sayer Set (M),Neigh-Sayer Set (M)
+PROPITEM_TXT_135185,The Neigh-Sayer Set for male characters.,The Neigh-Sayer Set for male characters.
+PROPITEM_TXT_135186,Neigh-Sayer Hat (M),Neigh-Sayer Hat (M)
+PROPITEM_TXT_135187,Neigh-Sayer Suit (M),Neigh-Sayer Suit (M)
+PROPITEM_TXT_135188,Neigh-Sayer Shoes (M),Neigh-Sayer Shoes (M)
+PROPITEM_TXT_135189,Neigh-Sayer Hands (M),Neigh-Sayer Hands (M)
+PROPITEM_TXT_135190,Neigh-Sayer Set (F),Neigh-Sayer Set (F)
+PROPITEM_TXT_135191,The Neigh-Sayer Set for female characters.,The Neigh-Sayer Set for female characters.
+PROPITEM_TXT_135192,Neigh-Sayer Hat (F),Neigh-Sayer Hat (F)
+PROPITEM_TXT_135193,Neigh-Sayer Suit (F),Neigh-Sayer Suit (F)
+PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),Neigh-Sayer Shoes (F)
+PROPITEM_TXT_135195,Neigh-Sayer Hands (F),Neigh-Sayer Hands (F)
+PROPITEM_TXT_135196,Red HorseHead Broom,Red HorseHead Broom
+PROPITEM_TXT_135197,Vroom,Vroom
+PROPITEM_TXT_903710,Carnival Master 10% Red Set,Carnival Master 10% Red Set
+PROPITEM_TXT_903711,Carnival Master Red Popcorn Bucket,Carnival Master Red Popcorn Bucket
+PROPITEM_TXT_903712,Carnival Master Lion Red Mask,Carnival Master Lion Red Mask
+PROPITEM_TXT_903713,Carnival Master Red Hat (M),Carnival Master Red Hat (M)
+PROPITEM_TXT_903714,Carnival Master Red Suit (M),Carnival Master Red Suit (M)
+PROPITEM_TXT_903715,Carnival Master Red Shoes (M),Carnival Master Red Shoes (M)
+PROPITEM_TXT_903716,Carnival Master Red Hands (M),Carnival Master Red Hands (M)
+PROPITEM_TXT_903717,Carnival Master 10% Red Set (M),Carnival Master 10% Red Set (M)
+PROPITEM_TXT_903718,The Carnival Master 10% Red Set for male characters.,The Carnival Master 10% Red Set for male characters.
+PROPITEM_TXT_903719,Carnival Master Red Hat (F),Carnival Master Red Hat (F)
+PROPITEM_TXT_903720,Carnival Master Red Suit (F),Carnival Master Red Suit (F)
+PROPITEM_TXT_903721,Carnival Master Red Shoes (F),Carnival Master Red Shoes (F)
+PROPITEM_TXT_903722,Carnival Master Red Hands (F),Carnival Master Red Hands (F)
+PROPITEM_TXT_903723,Carnival Master 10% Red Set (F),Carnival Master 10% Red Set (F)
+PROPITEM_TXT_903724,The Carnival Master 10% Red Set for female characters.,The Carnival Master 10% Red Set for female characters.
+PROPITEM_TXT_903725,Carnival Master 10% Orange Set,Carnival Master 10% Orange Set
+PROPITEM_TXT_903726,Carnival Master Orange Popcorn Bucket,Carnival Master Orange Popcorn Bucket
+PROPITEM_TXT_903727,Carnival Master Lion Orange Mask,Carnival Master Lion Orange Mask
+PROPITEM_TXT_903728,Carnival Master Orange Hat (M),Carnival Master Orange Hat (M)
+PROPITEM_TXT_903729,Carnival Master Orange Suit (M),Carnival Master Orange Suit (M)
+PROPITEM_TXT_903730,Carnival Master Orange Shoes (M),Carnival Master Orange Shoes (M)
+PROPITEM_TXT_903731,Carnival Master Orange Hands (M),Carnival Master Orange Hands (M)
+PROPITEM_TXT_903732,Carnival Master 10% Orange Set (M),Carnival Master 10% Orange Set (M)
+PROPITEM_TXT_903733,The Carnival Master 10% Orange Set for male characters.,The Carnival Master 10% Orange Set for male characters.
+PROPITEM_TXT_903734,Carnival Master Orange Hat (F),Carnival Master Orange Hat (F)
+PROPITEM_TXT_903735,Carnival Master Orange Suit (F),Carnival Master Orange Suit (F)
+PROPITEM_TXT_903736,Carnival Master Orange Shoes (F),Carnival Master Orange Shoes (F)
+PROPITEM_TXT_903737,Carnival Master Orange Hands (F),Carnival Master Orange Hands (F)
+PROPITEM_TXT_903738,Carnival Master 10% Orange Set (F),Carnival Master 10% Orange Set (F)
+PROPITEM_TXT_903739,The Carnival Master 10% Orange Set for female characters.,The Carnival Master 10% Orange Set for female characters.
+PROPITEM_TXT_903740,Carnival Master 8% Green Set,Carnival Master 8% Green Set
+PROPITEM_TXT_903741,Carnival Master Green Popcorn Bucket,Carnival Master Green Popcorn Bucket
+PROPITEM_TXT_903742,Carnival Master Lion Green Mask,Carnival Master Lion Green Mask
+PROPITEM_TXT_903743,Carnival Master Green Hat (M),Carnival Master Green Hat (M)
+PROPITEM_TXT_903744,Carnival Master Green Suit (M),Carnival Master Green Suit (M)
+PROPITEM_TXT_903745,Carnival Master Green Shoes (M),Carnival Master Green Shoes (M)
+PROPITEM_TXT_903746,Carnival Master Green Hands (M),Carnival Master Green Hands (M)
+PROPITEM_TXT_903747,Carnival Master 8% Green Set (M),Carnival Master 8% Green Set (M)
+PROPITEM_TXT_903748,The Carnival Master 8% Green Set for male characters.,The Carnival Master 8% Green Set for male characters.
+PROPITEM_TXT_903749,Carnival Master Green Hat (F),Carnival Master Green Hat (F)
+PROPITEM_TXT_903750,Carnival Master Green Suit (F),Carnival Master Green Suit (F)
+PROPITEM_TXT_903751,Carnival Master Green Shoes (F),Carnival Master Green Shoes (F)
+PROPITEM_TXT_903752,Carnival Master Green Hands (F),Carnival Master Green Hands (F)
+PROPITEM_TXT_903753,Carnival Master 8% Green Set (F),Carnival Master 8% Green Set (F)
+PROPITEM_TXT_903754,The Carnival Master 8% Green Set for female characters.,The Carnival Master 8% Green Set for female characters.
+PROPITEM_TXT_903755,Carnival Master 8% Cyan Set,Carnival Master 8% Cyan Set
+PROPITEM_TXT_903756,Carnival Master Cyan Popcorn Bucket,Carnival Master Cyan Popcorn Bucket
+PROPITEM_TXT_903757,Carnival Master Lion Cyan Mask,Carnival Master Lion Cyan Mask
+PROPITEM_TXT_903758,Carnival Master Cyan Hat (M),Carnival Master Cyan Hat (M)
+PROPITEM_TXT_903759,Carnival Master Cyan Suit (M),Carnival Master Cyan Suit (M)
+PROPITEM_TXT_903760,Carnival Master Cyan Shoes (M),Carnival Master Cyan Shoes (M)
+PROPITEM_TXT_903761,Carnival Master Cyan Hands (M),Carnival Master Cyan Hands (M)
+PROPITEM_TXT_903762,Carnival Master 8% Cyan Set (M),Carnival Master 8% Cyan Set (M)
+PROPITEM_TXT_903763,The Carnival Master 8% Cyan Set for male characters.,The Carnival Master 8% Cyan Set for male characters.
+PROPITEM_TXT_903764,Carnival Master Cyan Hat (F),Carnival Master Cyan Hat (F)
+PROPITEM_TXT_903765,Carnival Master Cyan Suit (F),Carnival Master Cyan Suit (F)
+PROPITEM_TXT_903766,Carnival Master Cyan Shoes (F),Carnival Master Cyan Shoes (F)
+PROPITEM_TXT_903767,Carnival Master Cyan Hands (F),Carnival Master Cyan Hands (F)
+PROPITEM_TXT_903768,Carnival Master 8% Cyan Set (F),Carnival Master 8% Cyan Set (F)
+PROPITEM_TXT_903769,The Carnival Master 8% Cyan Set for female characters.,The Carnival Master 8% Cyan Set for female characters.
+PROPITEM_TXT_903770,Carnival Master 6% Blue Set,Carnival Master 6% Blue Set
+PROPITEM_TXT_903771,Carnival Master Blue Popcorn Bucket,Carnival Master Blue Popcorn Bucket
+PROPITEM_TXT_903772,Carnival Master Lion Blue Mask,Carnival Master Lion Blue Mask
+PROPITEM_TXT_903773,Carnival Master Blue Hat (M),Carnival Master Blue Hat (M)
+PROPITEM_TXT_903774,Carnival Master Blue Suit (M),Carnival Master Blue Suit (M)
+PROPITEM_TXT_903775,Carnival Master Blue Shoes (M),Carnival Master Blue Shoes (M)
+PROPITEM_TXT_903776,Carnival Master Blue Hands (M),Carnival Master Blue Hands (M)
+PROPITEM_TXT_903777,Carnival Master 6% Blue Set (M),Carnival Master 6% Blue Set (M)
+PROPITEM_TXT_903778,The Carnival Master 6% Blue Set for male characters.,The Carnival Master 6% Blue Set for male characters.
+PROPITEM_TXT_903779,Carnival Master Blue Hat (F),Carnival Master Blue Hat (F)
+PROPITEM_TXT_903780,Carnival Master Blue Suit (F),Carnival Master Blue Suit (F)
+PROPITEM_TXT_903781,Carnival Master Blue Shoes (F),Carnival Master Blue Shoes (F)
+PROPITEM_TXT_903782,Carnival Master Blue Hands (F),Carnival Master Blue Hands (F)
+PROPITEM_TXT_903783,Carnival Master 6% Blue Set (F),Carnival Master 6% Blue Set (F)
+PROPITEM_TXT_903784,The Carnival Master 6% Blue Set for female characters.,The Carnival Master 6% Blue Set for female characters.
+PROPITEM_TXT_903785,Carnival Master 4% Purple Set,Carnival Master 4% Purple Set
+PROPITEM_TXT_903786,Carnival Master Purple Popcorn Bucket,Carnival Master Purple Popcorn Bucket
+PROPITEM_TXT_903787,Carnival Master Lion Purple Mask,Carnival Master Lion Purple Mask
+PROPITEM_TXT_903788,Carnival Master Purple Hat (M),Carnival Master Purple Hat (M)
+PROPITEM_TXT_903789,Carnival Master Purple Suit (M),Carnival Master Purple Suit (M)
+PROPITEM_TXT_903790,Carnival Master Purple Shoes (M),Carnival Master Purple Shoes (M)
+PROPITEM_TXT_903791,Carnival Master Purple Hands (M),Carnival Master Purple Hands (M)
+PROPITEM_TXT_903792,Carnival Master 4% Purple Set (M),Carnival Master 4% Purple Set (M)
+PROPITEM_TXT_903793,The Carnival Master 4% Purple Set for male characters.,The Carnival Master 4% Purple Set for male characters.
+PROPITEM_TXT_903794,Carnival Master Purple Hat (F),Carnival Master Purple Hat (F)
+PROPITEM_TXT_903795,Carnival Master Purple Suit (F),Carnival Master Purple Suit (F)
+PROPITEM_TXT_903796,Carnival Master Purple Shoes (F),Carnival Master Purple Shoes (F)
+PROPITEM_TXT_903797,Carnival Master Purple Hands (F),Carnival Master Purple Hands (F)
+PROPITEM_TXT_903798,Carnival Master 4% Purple Set (F),Carnival Master 4% Purple Set (F)
+PROPITEM_TXT_903799,The Carnival Master 4% Purple Set for female characters.,The Carnival Master 4% Purple Set for female characters.
+PROPITEM_TXT_903800,Carnival Master 2% Pink Set,Carnival Master 2% Pink Set
+PROPITEM_TXT_903801,Carnival Master Pink Popcorn Bucket,Carnival Master Pink Popcorn Bucket
+PROPITEM_TXT_903802,Carnival Master Lion Pink Mask,Carnival Master Lion Pink Mask
+PROPITEM_TXT_903803,Carnival Master Pink Hat (M),Carnival Master Pink Hat (M)
+PROPITEM_TXT_903804,Carnival Master Pink Suit (M),Carnival Master Pink Suit (M)
+PROPITEM_TXT_903805,Carnival Master Pink Shoes (M),Carnival Master Pink Shoes (M)
+PROPITEM_TXT_903806,Carnival Master Pink Hands (M),Carnival Master Pink Hands (M)
+PROPITEM_TXT_903807,Carnival Master 2% Pink Set (M),Carnival Master 2% Pink Set (M)
+PROPITEM_TXT_903808,The Carnival Master 2% Pink Set for male characters.,The Carnival Master 2% Pink Set for male characters.
+PROPITEM_TXT_903809,Carnival Master Pink Hat (F),Carnival Master Pink Hat (F)
+PROPITEM_TXT_903810,Carnival Master Pink Suit (F),Carnival Master Pink Suit (F)
+PROPITEM_TXT_903811,Carnival Master Pink Shoes (F),Carnival Master Pink Shoes (F)
+PROPITEM_TXT_903812,Carnival Master Pink Hands (F),Carnival Master Pink Hands (F)
+PROPITEM_TXT_903813,Carnival Master 2% Pink Set (F),Carnival Master 2% Pink Set (F)
+PROPITEM_TXT_903814,The Carnival Master 2% Pink Set for female characters.,The Carnival Master 2% Pink Set for female characters.
+PROPITEM_TXT_903815,Carnival Master 2% Black Set,Carnival Master 2% Black Set
+PROPITEM_TXT_903816,Carnival Master Black Popcorn Bucket,Carnival Master Black Popcorn Bucket
+PROPITEM_TXT_903817,Carnival Master Lion Black Mask,Carnival Master Lion Black Mask
+PROPITEM_TXT_903818,Carnival Master Black Hat (M),Carnival Master Black Hat (M)
+PROPITEM_TXT_903819,Carnival Master Black Suit (M),Carnival Master Black Suit (M)
+PROPITEM_TXT_903820,Carnival Master Black Shoes (M),Carnival Master Black Shoes (M)
+PROPITEM_TXT_903821,Carnival Master Black Hands (M),Carnival Master Black Hands (M)
+PROPITEM_TXT_903822,Carnival Master 2% Black Set (M),Carnival Master 2% Black Set (M)
+PROPITEM_TXT_903823,The Carnival Master 2% Black Set for male characters.,The Carnival Master 2% Black Set for male characters.
+PROPITEM_TXT_903824,Carnival Master Black Hat (F),Carnival Master Black Hat (F)
+PROPITEM_TXT_903825,Carnival Master Black Suit (F),Carnival Master Black Suit (F)
+PROPITEM_TXT_903826,Carnival Master Black Shoes (F),Carnival Master Black Shoes (F)
+PROPITEM_TXT_903827,Carnival Master Black Hands (F),Carnival Master Black Hands (F)
+PROPITEM_TXT_903828,Carnival Master 2% Black Set (F),Carnival Master 2% Black Set (F)
+PROPITEM_TXT_903829,The Carnival Master 2% Black Set for female characters.,The Carnival Master 2% Black Set for female characters.
+PROPITEM_TXT_903830,Carnival Master Costume Lucky Box,Carnival Master Costume Lucky Box
+PROPITEM_TXT_903831,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903832,Carnival Master Rabbit Red Mask,Carnival Master Rabbit Red Mask
+PROPITEM_TXT_903833,Carnival Master Rabbit Orange Mask,Carnival Master Rabbit Orange Mask
+PROPITEM_TXT_903834,Carnival Master Rabbit Green Mask,Carnival Master Rabbit Green Mask
+PROPITEM_TXT_903835,Carnival Master Rabbit Cyan Mask,Carnival Master Rabbit Cyan Mask
+PROPITEM_TXT_903836,Carnival Master Rabbit Blue Mask,Carnival Master Rabbit Blue Mask
+PROPITEM_TXT_903837,Carnival Master Rabbit Purple Mask,Carnival Master Rabbit Purple Mask
+PROPITEM_TXT_903838,Carnival Master Rabbit Pink Mask,Carnival Master Rabbit Pink Mask
+PROPITEM_TXT_903839,Carnival Master Rabbit Black Mask,Carnival Master Rabbit Black Mask
+PROPITEM_TXT_903840,Lucky Horseshoe Box,Lucky Horseshoe Box
+PROPITEM_TXT_903841,4th Anniversary Vagrant's Scroll Pack,4th Anniversary Vagrant's Scroll Pack
+PROPITEM_TXT_903842,"A package containing 10x Scroll of Return Town, 10x Scroll of Resurrection, 10x Scroll of Velocity and 10x Activation. All items are also linked.","A package containing 10x Scroll of Return Town, 10x Scroll of Resurrection, 10x Scroll of Velocity and 10x Activation. All items are also linked."
+PROPITEM_TXT_903843,4th Anniversary Upgrade Package,4th Anniversary Upgrade Package
+PROPITEM_TXT_903844,"A package containing 5x Smelting Scroll Box, 2x Scroll of Weapon Bonus(Job) Select box and 6x Stat Scroll Box. All items are also linked.","A package containing 5x Smelting Scroll Box, 2x Scroll of Weapon Bonus(Job) Select box and 6x Stat Scroll Box. All items are also linked."
+PROPITEM_TXT_903845,4th Anniversary All inclusive Upgrade Package,4th Anniversary All inclusive Upgrade Package
+PROPITEM_TXT_903846,"A package containing 20x Smelting Scroll Box, 20x Power Dice 10, 20x Power Dice 12 and 10x Scroll of Weapon Bonus(Job) Select box. All items are also linked.","A package containing 20x Smelting Scroll Box, 20x Power Dice 10, 20x Power Dice 12 and 10x Scroll of Weapon Bonus(Job) Select box. All items are also linked."
+PROPITEM_TXT_903847,Military 2026 10% Green Set,Military 2026 10% Green Set
+PROPITEM_TXT_903848,Military 2026 Green Backpack,Military 2026 Green Backpack
+PROPITEM_TXT_903849,Military 2026 Green Mask,Military 2026 Green Mask
+PROPITEM_TXT_903850,Military 2026 Green Hat (M),Military 2026 Green Hat (M)
+PROPITEM_TXT_903851,Military 2026 Green Suit (M),Military 2026 Green Suit (M)
+PROPITEM_TXT_903852,Military 2026 Green Shoes (M),Military 2026 Green Shoes (M)
+PROPITEM_TXT_903853,Military 2026 Green Hands (M),Military 2026 Green Hands (M)
+PROPITEM_TXT_903854,Military 2026 10% Green Set (M),Military 2026 10% Green Set (M)
+PROPITEM_TXT_903855,The Military 2026 10% Green Set for male characters.,The Military 2026 10% Green Set for male characters.
+PROPITEM_TXT_903856,Military 2026 Green Hat (F),Military 2026 Green Hat (F)
+PROPITEM_TXT_903857,Military 2026 Green Suit (F),Military 2026 Green Suit (F)
+PROPITEM_TXT_903858,Military 2026 Green Shoes (F),Military 2026 Green Shoes (F)
+PROPITEM_TXT_903859,Military 2026 Green Hands (F),Military 2026 Green Hands (F)
+PROPITEM_TXT_903860,Military 2026 10% Green Set (F),Military 2026 10% Green Set (F)
+PROPITEM_TXT_903861,The Military 2026 10% Green Set for female characters.,The Military 2026 10% Green Set for female characters.
+PROPITEM_TXT_903862,Military 2026 8% Blue Set,Military 2026 8% Blue Set
+PROPITEM_TXT_903863,Military 2026 Blue Backpack,Military 2026 Blue Backpack
+PROPITEM_TXT_903864,Military 2026 Blue Mask,Military 2026 Blue Mask
+PROPITEM_TXT_903865,Military 2026 Blue Hat (M),Military 2026 Blue Hat (M)
+PROPITEM_TXT_903866,Military 2026 Blue Suit (M),Military 2026 Blue Suit (M)
+PROPITEM_TXT_903867,Military 2026 Blue Shoes (M),Military 2026 Blue Shoes (M)
+PROPITEM_TXT_903868,Military 2026 Blue Hands (M),Military 2026 Blue Hands (M)
+PROPITEM_TXT_903869,Military 2026 8% Blue Set (M),Military 2026 8% Blue Set (M)
+PROPITEM_TXT_903870,The Military 2026 8% Blue Set for male characters.,The Military 2026 8% Blue Set for male characters.
+PROPITEM_TXT_903871,Military 2026 Blue Hat (F),Military 2026 Blue Hat (F)
+PROPITEM_TXT_903872,Military 2026 Blue Suit (F),Military 2026 Blue Suit (F)
+PROPITEM_TXT_903873,Military 2026 Blue Shoes (F),Military 2026 Blue Shoes (F)
+PROPITEM_TXT_903874,Military 2026 Blue Hands (F),Military 2026 Blue Hands (F)
+PROPITEM_TXT_903875,Military 2026 8% Blue Set (F),Military 2026 8% Blue Set (F)
+PROPITEM_TXT_903876,The Military 2026 8% Blue Set for female characters.,The Military 2026 8% Blue Set for female characters.
+PROPITEM_TXT_903877,Military 2026 6% Light Set,Military 2026 6% Light Set
+PROPITEM_TXT_903878,Military 2026 Light Backpack,Military 2026 Light Backpack
+PROPITEM_TXT_903879,Military 2026 Light Mask,Military 2026 Light Mask
+PROPITEM_TXT_903880,Military 2026 Light Hat (M),Military 2026 Light Hat (M)
+PROPITEM_TXT_903881,Military 2026 Light Suit (M),Military 2026 Light Suit (M)
+PROPITEM_TXT_903882,Military 2026 Light Shoes (M),Military 2026 Light Shoes (M)
+PROPITEM_TXT_903883,Military 2026 Light Hands (M),Military 2026 Light Hands (M)
+PROPITEM_TXT_903884,Military 2026 6% Light Set (M),Military 2026 6% Light Set (M)
+PROPITEM_TXT_903885,The Military 2026 6% Light Set for male characters.,The Military 2026 6% Light Set for male characters.
+PROPITEM_TXT_903886,Military 2026 Light Hat (F),Military 2026 Light Hat (F)
+PROPITEM_TXT_903887,Military 2026 Light Suit (F),Military 2026 Light Suit (F)
+PROPITEM_TXT_903888,Military 2026 Light Shoes (F),Military 2026 Light Shoes (F)
+PROPITEM_TXT_903889,Military 2026 Light Hands (F),Military 2026 Light Hands (F)
+PROPITEM_TXT_903890,Military 2026 6% Light Set (F),Military 2026 6% Light Set (F)
+PROPITEM_TXT_903891,The Military 2026 6% Light Set for female characters.,The Military 2026 6% Light Set for female characters.
+PROPITEM_TXT_903892,Military 2026 4% Cyan Set,Military 2026 4% Cyan Set
+PROPITEM_TXT_903893,Military 2026 Cyan Backpack,Military 2026 Cyan Backpack
+PROPITEM_TXT_903894,Military 2026 Cyan Mask,Military 2026 Cyan Mask
+PROPITEM_TXT_903895,Military 2026 Cyan Hat (M),Military 2026 Cyan Hat (M)
+PROPITEM_TXT_903896,Military 2026 Cyan Suit (M),Military 2026 Cyan Suit (M)
+PROPITEM_TXT_903897,Military 2026 Cyan Shoes (M),Military 2026 Cyan Shoes (M)
+PROPITEM_TXT_903898,Military 2026 Cyan Hands (M),Military 2026 Cyan Hands (M)
+PROPITEM_TXT_903899,Military 2026 4% Cyan Set (M),Military 2026 4% Cyan Set (M)
+PROPITEM_TXT_903900,The Military 2026 4% Cyan Set for male characters.,The Military 2026 4% Cyan Set for male characters.
+PROPITEM_TXT_903901,Military 2026 Cyan Hat (F),Military 2026 Cyan Hat (F)
+PROPITEM_TXT_903902,Military 2026 Cyan Suit (F),Military 2026 Cyan Suit (F)
+PROPITEM_TXT_903903,Military 2026 Cyan Shoes (F),Military 2026 Cyan Shoes (F)
+PROPITEM_TXT_903904,Military 2026 Cyan Hands (F),Military 2026 Cyan Hands (F)
+PROPITEM_TXT_903905,Military 2026 4% Cyan Set (F),Military 2026 4% Cyan Set (F)
+PROPITEM_TXT_903906,The Military 2026 4% Cyan Set for female characters.,The Military 2026 4% Cyan Set for female characters.
+PROPITEM_TXT_903907,Military 2026 2% Red Set,Military 2026 2% Red Set
+PROPITEM_TXT_903908,Military 2026 Red Backpack,Military 2026 Red Backpack
+PROPITEM_TXT_903909,Military 2026 Red Mask,Military 2026 Red Mask
+PROPITEM_TXT_903910,Military 2026 Red Hat (M),Military 2026 Red Hat (M)
+PROPITEM_TXT_903911,Military 2026 Red Suit (M),Military 2026 Red Suit (M)
+PROPITEM_TXT_903912,Military 2026 Red Shoes (M),Military 2026 Red Shoes (M)
+PROPITEM_TXT_903913,Military 2026 Red Hands (M),Military 2026 Red Hands (M)
+PROPITEM_TXT_903914,Military 2026 2% Red Set (M),Military 2026 2% Red Set (M)
+PROPITEM_TXT_903915,The Military 2026 2% Red Set for male characters.,The Military 2026 2% Red Set for male characters.
+PROPITEM_TXT_903916,Military 2026 Red Hat (F),Military 2026 Red Hat (F)
+PROPITEM_TXT_903917,Military 2026 Red Suit (F),Military 2026 Red Suit (F)
+PROPITEM_TXT_903918,Military 2026 Red Shoes (F),Military 2026 Red Shoes (F)
+PROPITEM_TXT_903919,Military 2026 Red Hands (F),Military 2026 Red Hands (F)
+PROPITEM_TXT_903920,Military 2026 2% Red Set (F),Military 2026 2% Red Set (F)
+PROPITEM_TXT_903921,The Military 2026 2% Red Set for female characters.,The Military 2026 2% Red Set for female characters.
+PROPITEM_TXT_903922,Military 2026 2% Dark Set,Military 2026 2% Dark Set
+PROPITEM_TXT_903923,Military 2026 Dark Backpack,Military 2026 Dark Backpack
+PROPITEM_TXT_903924,Military 2026 Dark Mask,Military 2026 Dark Mask
+PROPITEM_TXT_903925,Military 2026 Dark Hat (M),Military 2026 Dark Hat (M)
+PROPITEM_TXT_903926,Military 2026 Dark Suit (M),Military 2026 Dark Suit (M)
+PROPITEM_TXT_903927,Military 2026 Dark Shoes (M),Military 2026 Dark Shoes (M)
+PROPITEM_TXT_903928,Military 2026 Dark Hands (M),Military 2026 Dark Hands (M)
+PROPITEM_TXT_903929,Military 2026 2% Dark Set (M),Military 2026 2% Dark Set (M)
+PROPITEM_TXT_903930,The Military 2026 2% Dark Set for male characters.,The Military 2026 2% Dark Set for male characters.
+PROPITEM_TXT_903931,Military 2026 Dark Hat (F),Military 2026 Dark Hat (F)
+PROPITEM_TXT_903932,Military 2026 Dark Suit (F),Military 2026 Dark Suit (F)
+PROPITEM_TXT_903933,Military 2026 Dark Shoes (F),Military 2026 Dark Shoes (F)
+PROPITEM_TXT_903934,Military 2026 Dark Hands (F),Military 2026 Dark Hands (F)
+PROPITEM_TXT_903935,Military 2026 2% Dark Set (F),Military 2026 2% Dark Set (F)
+PROPITEM_TXT_903936,The Military 2026 2% Dark Set for female characters.,The Military 2026 2% Dark Set for female characters.
+PROPITEM_TXT_903937,Green Pawzer,Green Pawzer
+PROPITEM_TXT_903938,"A fearless pup piloting a tiny battle tank, built to collect loot with speed and style.","A fearless pup piloting a tiny battle tank, built to collect loot with speed and style."
+PROPITEM_TXT_903939,Blue Pawzer,Blue Pawzer
+PROPITEM_TXT_903940,Light Pawzer,Light Pawzer
+PROPITEM_TXT_903941,Cyan Pawzer,Cyan Pawzer
+PROPITEM_TXT_903942,Red Pawzer,Red Pawzer
+PROPITEM_TXT_903943,Dark Pawzer,Dark Pawzer
+PROPITEM_TXT_903944,Military 2026 Costume Lucky Box,Military 2026 Costume Lucky Box
+PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903946,4th Anniversary Appreciation Coupon,4th Anniversary Appreciation Coupon
+PROPITEM_TXT_903947,"A package containing 3x Scroll of Amplification ES, 1x Power Scroll, 1x Scroll of Resurrection, 1x Balloon Select Box (6h) and 5x Cracker Box. All items are also linked.","A package containing 3x Scroll of Amplification ES, 1x Power Scroll, 1x Scroll of Resurrection, 1x Balloon Select Box (6h) and 5x Cracker Box. All items are also linked."
+PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4th Anniversary Ultimate Bonus Package A
+PROPITEM_TXT_903949,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.
+PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4th Anniversary Ultimate Bonus Package B
+PROPITEM_TXT_903951,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.

@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 NPC_WHOAREYOU,Who are you?,Présentation
 NPC_GOODBYE,Goodbye!,Au revoir
 NPC_CARGO,CARGO,CARGO
@@ -1063,7 +1063,7 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,"Qui atteindra les #bFinales de Manille#nb et remportera le #bChampionnat du monde Flyff 2026#nb ? #b#cffffdd66Astral réussira-t-il une nouvelle fois à s’imposer ?#nc#n"
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Qui atteindra les #bFinales de Manille#nb et remportera le #bChampionnat du monde Flyff 2026#nb ? #b#cffffdd66Astral réussira-t-il une nouvelle fois à s’imposer ?#nc#n
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!","Bienvenue, compétiteur ! Je suis Ava, la responsable du Championnat du monde Flyff 2026. Je vous offrirai le meilleur équipement possible pour gagner la compétition !"
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!","Hm je sens que tu es le meilleur compétiteur JcE ! Non, attendez... Peut-être en JcJ ? Je ne sais pas. Bonne chance !"
 NPC_100124,May the best win!,Que le meilleur gagne !
@@ -1345,3 +1345,6 @@ NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may t
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,Je suis le maire d’Eillun. L’harmonie de nos fleurs et de notre peuple est ce que je chéris le plus. Comment puis-je vous aider aujourd’hui sous nos grands arbres ?
 NPC_150200,Farewell!,A bientôt !!
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,J’ai repéré un problème de sécurité nécessitant une attention immédiate. Peux-tu t’en occuper ?
+NPC_100198,Let luck do its thing.,Let luck do its thing.
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
+NPC_100200,Wanna test your luck?,Wanna test your luck?
