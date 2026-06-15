@@ -8,7 +8,7 @@ UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonus
 UI_EVENT_NIGHTBOOST,Night Boost!,¡Impulso nocturno!
 UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,¡+30% de experiencia cuando es de noche en el juego!
 UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,¡Es de noche! ¡¡Experiencia x1.3!!
-UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...","El ha salido, la Experiencia x1.3 ha terminado..."
+UI_EVENT_NIGHTBOOST_DAY,"The sun is up, x1.3 EXP has ended...","El sol ha salido, la Experiencia x1.3 ha terminado..."
 UI_EVENT_EASTER,Easter Event,Evento de Pascua
 UI_EVENT_EASTER_DESC,Complete Eggcellent's Meadow to get Pink Easter Eggs!,¡Completa Prado Eggcelente para obtener Huevo de Pascua Rosa!
 UI_EVENT_SPRING,Spring Event!,¡Evento de Primavera!
@@ -19,10 +19,10 @@ UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing."
 UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,¡Descuento en Monedas de Mazmorra!
 UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,¡Gasta menos Monedas de Mazmorra al realizar misiones o entrar en mazmorras!
 UI_EVENT_ANNIVERSARY,1st Anniversary!,¡Primer Aniversario!
-UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,¡FlyFF Universe cumple 1 año! ¡Muchísimas gracias a todos los jugadores que hicieron posible este hito!
+UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,¡Flyff Universe cumple 1 año! ¡Muchísimas gracias a todos los jugadores que hicieron posible este hito!
 UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,Evento de Tiempo de Juego de Primer Aniversario
 UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,¡Inicia sesión cada día durante 40 minutos y recibe recompensas!
-UI_EVENT_FWC,Flyff World Championship,Campeonato Mundial Flyff
+UI_EVENT_FWC,Flyff World Championship,Campeonato Mundial de Flyff
 UI_EVENT_FWC_LEVELREACH,FWC Level Reach,Alcance de Nivel FWC
 UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receive rewards! Only on the Flyff World Championship server!,¡Alcanza nuevos niveles durante el período del evento y recibe recompensas! ¡Solo en el servidor del Campeonato Mundial Flyff!
 UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,¡Intercambia equipo FWC con Ava [Gerente FWC] para obtener más recompensas!
@@ -66,7 +66,7 @@ UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 Puntos
 UI_EVENT_CANDYEVENT,Candy Event,Evento de Caramelos
 UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Evento de Primavera 2024
 UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Ataca a los Monstruos hambrientos
-UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Login,Inicio de Sesión Diario
+UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Login,Inicio diario de sesión
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate the 2nd anniversary of Flyff Universe!,¡Celebremos el 2do Aniversario de Flyff Universe!
 UI_EVENT_ANNIVERSARY2,2nd Anniversary!,¡2do Aniversario!
 UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,¡Flyff Universe llega a dos años! ¡Muchísimas gracias a todos nuestros jugadores que hicieron posible este logro!
@@ -85,8 +85,8 @@ UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,¡20vo Aniversario de Flyff!
 UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,¡Celebra el 20vo Aniversario de Flyff!
 UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,¡Saquea el tesoro del Barco Pirata!
 UI_EVENT_THANKSGIVING,Thanksgiving Event,Evento de Día de Gracias
-UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Celebración de la Mejora 1.4.1 
-UI_EVENT_145_ATTENDANCE,Playtime Event,Evento de Tiempo de Juego
+UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Celebración de la Mejora 1.4.1
+UI_EVENT_145_ATTENDANCE,Playtime Event,Evento de tiempo jugando
 UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,¡Inicia Sesión cada día por 30 minutos para recibir recompensas!
 UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Evento de Maestría en Recolección
 UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,¡Aumenta las ganancias de Maestría de Recolección un 20%!
@@ -94,8 +94,8 @@ UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Evento de Maestría
 UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,¡Aumenta las ganancias de Maestría en Producción un 20%!
 UI_EVENT_LIFEMASTERY,Life Mastery Event,Evento de Maestría
 UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,¡Aumenta todas ganancias de Maestrías en un 20%!
-UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Increase your life gathering speed by 20%!
+UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Evento de velocidad de recolección de vida
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,¡Aumenta tu velocidad de recolección de vida en un 20%!
 UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Evento Veloz de Maestría en Recolección
 UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,¡Aumenta tu velocidad de producción un 20%!
 UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,¡Evento Menos Gasto de Durabilidad en Recolección!

@@ -24,7 +24,7 @@ CLIENT_TREEHELP_INC_000140,Cannon Ball,Bala de Cañón
 CLIENT_TREEHELP_INC_000166,Blinkpool,Parpadeo
 CLIENT_TREEHELP_INC_000167,Second Job Transfer,Cambio a la Segunda Clase
 CLIENT_TREEHELP_INC_000172,Power Stomp,Pisotón Poderoso
-CLIENT_TREEHELP_INC_000187,Critical Swing,Critical Swing
+CLIENT_TREEHELP_INC_000187,Critical Swing,Giro crítico
 CLIENT_TREEHELP_INC_000194,Vital stab,Vital Stab
 CLIENT_TREEHELP_INC_000195,Ranger,Ranger
 CLIENT_TREEHELP_INC_000204,RingMaster,Ringmaster
@@ -40,7 +40,7 @@ CLIENT_TREEHELP_INC_000288,Ulitmate Weapon Upgrade,Mejora de Armas Definitivas
 CLIENT_TREEHELP_INC_000289,Mineral,Mineral
 CLIENT_TREEHELP_INC_000290,Erons,Erons
 CLIENT_TREEHELP_INC_000291,Krasec,Krasec
-CLIENT_TREEHELP_INC_000292,Guru,Guru
+CLIENT_TREEHELP_INC_000292,Guru,Gurú
 CLIENT_TREEHELP_INC_000293,Collector,Recolector
 CLIENT_TREEHELP_INC_000298,PK,PK
 CLIENT_TREEHELP_INC_000299,PK attack,Ataque PK
@@ -57,4 +57,4 @@ CLIENT_TREEHELP_INC_000309,PVP server,Servidor PvP
 CLIENT_TREEHELP_INC_000313,Weapon store,Tienda de Armas
 CLIENT_TREEHELP_INC_000318,Public office,Oficina Pública
 CLIENT_TREEHELP_INC_000320,Beauty Shop,Salón de Belleza
-CLIENT_TREEHELP_INC_000321,Please select a subcategory to view available information.,Please select a subcategory to view available information.
+CLIENT_TREEHELP_INC_000321,Please select a subcategory to view available information.,"Por favor, selecciona una subcategoría para ver la información disponible."

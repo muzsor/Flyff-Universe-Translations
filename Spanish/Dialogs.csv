@@ -13,12 +13,12 @@ NPC_FORHONOR,For Honor!,¡Por el honor!
 NPC_FORFUN,For Fun!,¡Por Diversión!
 NPC_MEHJUSTBECAUSE,"Meh, just because?","Meh, ¿porque puedo?"
 NPC_YES_ENTER,Yes_Enter,Sí_Enter
-NPC_NO_ENTER,No_Enter,No_Enter
+NPC_NO_ENTER,No_Enter,Prohibido El Paso
 NPC_WHEREAMI,Where am I?,¿Dónde estoy?
 NPC_MAKEANAPPOINTMENT,Make an appointment,Pedir cita
 NPC_FINALIZESTATSELECTION,Finalize Stat selection,Finalizar la selección de Estadísticas
 NPC_DEKANEMINE,Dekane Mine,Mina Dekane
-NPC_CELL,Cell,Cell
+NPC_CELL,Cell,Celda
 NPC_AZRIAMINE,Azria Mine,Mina Azria
 NPC_CURSEDSYMBOL,Cursed Symbol,Símbolo Maldito
 NPC_GIVESYMBOL,Give the Symbol,Dar el Símbolo
@@ -90,7 +90,7 @@ NPC_000097,"I hope the information I gave you was helpful. You're on your own no
 NPC_000098,"1. Occasionally, you will run into some pesky masquerpets while flying. You will see a red box surrounding them.","1. Ocasionalmente, te encontrarás con algunos masquerpets molestos mientras vuelas. Verás un cuadro rojo que los marca."
 NPC_000099,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ","2. Puedes apuntar a estas criaturas con el Botón Izquierdo del Ratón. Si los pierdes de vista mientras vuelas, aparecerá una flecha verde en el borde de la pantalla para indicar en qué dirección debes girar."
 NPC_000100,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.","3. Para atacar a la criatura, simplemente acércate lo máximo que puedas y pulsa el Botón Izquierdo del Ratón o la Tecla Insertar.\n 4. Si quieres seguir al monstruo automáticamente, pulsa la Tecla Z."
-NPC_000101,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!
+NPC_000101,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. Los Magos y Acróbatas pueden disparar a distancia mientras están en el aire. Los Mercenarios y Asistentes deben depender de ataques cuerpo a cuerpo. ¡También puedes usar tus habilidades!
 NPC_000102,"6. When you destroy a flying masquerpet, any dropped loot will be placed into your inventory automatically. If there is no room in your inventory, the loot is lost, so be careful!","6. Cuando derrotes a un masquerpet volador, cualquier botín que se te caiga se colocará en tu inventario automáticamente. Si no queda espacio en tu inventario, el botín se perderá, ¡así que ten cuidado!"
 NPC_000103,"7. That about covers it for your flying combat training, cadet! Just one more thing... Don't crash and burn! Hahaha, just a little pilot humor.","7. ¡Esto a sido tu entrenamiento de combate de vuelo, cadete! Solo una cosa más... ¡No choques y te quemes! Jajaja, solo un poco de humor piloto."
 NPC_000104,Have fun out there and be safe! Don't forget to check your six!,¡Diviértete y mantente a salvo! ¡No olvides revisar tus seis!
@@ -292,7 +292,7 @@ NPC_000332,Everything is the Acrobat. The Acrobat is everything. Take a moment t
 NPC_000333,"My name is Pyre and I am the Acrobat Master. Nice to meet you. Ha ha ha I am in charge of helping the vagrants, who want to, become an Acrobat.","Mi nombre es Pyre y soy el Maestro Acrobat. Un placer conocerte. Jajaja yo me encargo de ayudar a los vagrant que quieran, a convertirse en Acrobat."
 NPC_000334,Good bye. Never forget the way of the Acrobat. Ha ha ha,Adiós. Nunca olvides el camino del Acrobat. Jajaja
 NPC_000335,"No one can stop you from jumping into it, even though you know that it is extremely hot.","Nadie puede evitar que te metas ahí, aunque ya sabes que hace mucho calor."
-NPC_000336,Cell,Cell
+NPC_000336,Cell,Celda
 NPC_000337,What? What do you want?,¿Qué? ¿Qué quieres?
 NPC_000338,I know you were here before. I believe you have the ability to overcome the dangers.,Sé que ya estuviste aquí antes. Creo que tienes la capacidad para superar los peligros.
 NPC_000339,Speaking to me is already dangerous as it is. What do you want?,Hablarme ya es bastante peligroso. ¿Qué es lo que quieres?
@@ -864,10 +864,10 @@ NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the ar
 NPC_001047,"In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties.","En la arena PvP, puedes luchar contra otros aventureros como tú. Si te encuentras en la circunstancia desafortunada de ser asesinado en la arena, no incurrirá en ninguna pena de muerte."
 NPC_001048,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.,Mi nombre es Lay y estoy a cargo de la arena PvP. Solo te dejaré entrar si has elegido tu primera clase.
 NPC_001049,Another one bites the dust!,¡Y otro que muerde el polvo!
-NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.
+NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,¿Por qué no te inscribes en un torneo de Madrigal ahora mismo? Demuestra que eres el mejor.
 NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!","Madrigal Tournament is about to begin. Hurry, to the arena!"
-NPC_001052,Would you like to take a bet on who will win this tournament?,Would you like to take a bet on who will win this tournament?
-NPC_001053,The odds have been released. Check the payout for the team you bet on.,The odds have been released. Check the payout for the team you bet on.
+NPC_001052,Would you like to take a bet on who will win this tournament?,¿Te gustaría apostar por quién ganará este torneo?
+NPC_001053,The odds have been released. Check the payout for the team you bet on.,Las cuotas han sido publicadas. Revisa la recompensa del equipo por el que apostaste.
 NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,¡Solo los Gremios más fuertes pueden lograr la victoria en la Sala Secreta!
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!","Si tu Gremio queda primero en la Sala secreta, ¡Recibirás recompensas semanales!"
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ","¡Hola, aventurero! Estoy a cargo de la Sala Secreta y la Torre Abandonada. Si tiene alguna pregunta sobre este heroico desafío, no dude en preguntar. "
@@ -1122,229 +1122,229 @@ NPC_100175,"The journey to uncover the island's arcane mysteries lies before you
 NPC_100176,My desire is to witness the revelation of Ultimate power in those who prove themselves worthy of such extraordinary gifts.,Mi deseo es presenciar la revelación del poder Supremo en aquellos que demuestran ser dignos de dones tan extraordinarios.
 NPC_100177,"Return to my side bearing the essence of Ultima, and in exchange, I shall bestow upon you a fragment of the unfathomable Ultimate power.","Regresa a mi lado llevando la esencia de Ultima y, a cambio, te otorgaré un fragmento del insondable poder Supremo."
 NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,¡Feliz año nuevo~!\n¡Que el nuevo año 2024 esté lleno de divertidas aventuras!
-NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?","Hi! I would like to ask you a favor, could you hear me out?"
-NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?","Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?"
+NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?","¡Hola! Me gustaría pedirte un favor, ¿podrías escucharme?"
+NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?","¿Te enteraste del rumor? ¡El rumor de que un herrero hizo un anillo de pareja pensando únicamente en su amada hasta que murió tras perderla en un accidente! Cuando los amantes se ponen el anillo de pareja y piensan en ir con su enamorado, vuelan hacia él en un instante. Es increíble, ¿no crees?"
 NPC_100181,Do you want to exit the dungeon?,¿Quieres salir de la mazmorra?
-NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you","Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you"
-NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...","It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history..."
-NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!","In order for me to give you a quest, all partners of your couple must be online!"
-NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!","I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!"
-NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.","Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me."
-NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.","Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it."
+NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you","¿Sabías que mientras más pules las conchas marinas en el mar, más hermosas se vuelven? Una vez vi unas conchas marinas que estaban muy pulidas. Eran hermosas.\nSé dónde puedo conseguir los materiales necesarios para pulir almejas. ¿Podrías ir a buscar el material allá y pulir las conchas? Es peligroso, pero podría ser como unas excelentes vacaciones para ti."
+NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...","¡Es el vigésimo aniversario de Flyff! ¿Cómo estás celebrando esta hermosa ocasión? Yo voy a estar recordando el pasado, leyendo todo tipo de historias..."
+NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!","¡Para poder darte una misión, todos los miembros de tu pareja deben estar conectados!"
+NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!","Soy Cupido, el mensajero del amor enviado desde los cielos. Vine para llenar a Madrigal de amor. Si hay alguien a quien ames, ¡no lo dudes y confiésale tus sentimientos usando un anillo!"
+NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.","Hola. ¿Disfrutas de tu vida en Madrigal? Si deseas expandir tus horizontes, ven a verme."
+NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.","Hablando de mí, soy un maestro de mil oficios. Hierbas, árboles, minerales, peces… cualquier cosa que no sepas sobre este mundo, pregúntame. Te lo contaré todo."
 NPC_100188,We reuse our food - of course joking!,"Reutilizamos nuestra comida. ¡Es broma, claro!"
-NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,Hello there! I may have something useful for you. Would you mind taking a look in my bag?
-NPC_100190,I'm just walking around and selling stuff.,I'm just walking around and selling stuff.
-NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","I don't know what items will be available when, so come back whenever you have time. Hehe"
-NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.","Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes."
-NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!","Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!"
-NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!","As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!"
-NPC_100195,"Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!","Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!"
-NPC_100196,"Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!","Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!"
-NPC_100197,"Uncover the secrets within the Revolutionary Journal, and great rewards await you","Uncover the secrets within the Revolutionary Journal, and great rewards await you"
-NPC_150001,"I mean… what could really happen in a place this quiet? A short break won’t hurt, right?","I mean… what could really happen in a place this quiet? A short break won’t hurt, right?"
-NPC_150002,"My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?","My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?"
-NPC_150003,"I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?","I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?"
-NPC_150004,"I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch.","I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch."
-NPC_150005,"Hey, look at those clouds. Doesn’t that one look like a cat’s face?","Hey, look at those clouds. Doesn’t that one look like a cat’s face?"
-NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?","Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?"
-NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?","This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?"
-NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.","I'm Karr. If you drop your guard during wartime, that moment might be your last."
-NPC_150009,…Do you need something?,…Do you need something?
-NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,My name’s Zerke. Keep your questions short. I’ll help if I can.
-NPC_150011,"It feels good to protect something, doesn’t it?","It feels good to protect something, doesn’t it?"
-NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,I'm Elin. My job is to make sure everyone coming through here stays safe.
-NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Protecting a village isn’t simple. All those lives rest on us.
-NPC_150014,I am Gard. I’m one of the guardians who protect this place.,I am Gard. I’m one of the guardians who protect this place.
-NPC_150015,"Hello! Beautiful morning, isn’t it? I’m Gard.","Hello! Beautiful morning, isn’t it? I’m Gard."
-NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.","Even cats need a break sometimes. Still, patrol never stops."
-NPC_150017,"I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.","I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe."
-NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,Why am I a guard? Because it’s cool. Simple as that.
-NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,War? I’m not afraid of it. I’ll fight until my last breath.
-NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.
-NPC_150021,Let’s make today a good one. Victory awaits.,Let’s make today a good one. Victory awaits.
-NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,Why don’t those dogs come near us? Easy. They’re scared of our claws.
-NPC_150023,Call me Kras. I protect this village.,Call me Kras. I protect this village.
-NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,I used to be an adventurer like you… until I took an arrow to the knee.
-NPC_150025,A new face. I hope we stay on friendly terms.,A new face. I hope we stay on friendly terms.
-NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.","I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win."
-NPC_150027,You’re not ready.,You’re not ready.
-NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Great day for patrol. Is there even such a thing as bad weather? Not for me.
-NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.
-NPC_150030,"Go, adventurer… go.","Go, adventurer… go."
-NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?","It’s wonderful seeing everyone living in peace, isn’t it?"
-NPC_150032,I’m Raon! No one loves this village more than me.,I’m Raon! No one loves this village more than me.
-NPC_150033,You can’t pass.,You can’t pass.
-NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","Stay calm. If the soldiers panic, who will the villagers rely on?"
-NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village."
-NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?
-NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","You’ve made it this far… but from here on, things might get dangerous."
-NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","I’m Merk, head of scouting. Seen any Lycan activity?"
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Quiet. Scouting only works if we stay hidden.
-NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs."
-NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off."
-NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,The Lycans are growing bolder. Keep your weapon ready.
-NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.
-NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?","I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?"
-NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Welcome to Eillun Village. I hope you enjoy your stay.
-NPC_150046,A new visitor… Let’s hope that’s a good sign.,A new visitor… Let’s hope that’s a good sign.
-NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.","I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change."
-NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.
-NPC_150049,Do you always trust what you see? Think it through.,Do you always trust what you see? Think it through.
-NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?","I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?"
-NPC_150051,We’re not like the Khajiit… not like them at all.,We’re not like the Khajiit… not like them at all.
-NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.","Sometimes protecting the village requires sacrifice. It’s harsh, but true."
-NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.","I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you."
-NPC_150054,It’s dangerous to go alone.,It’s dangerous to go alone.
-NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,How long are we going to sit around? We need to strike back and show them who we are.
-NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.
-NPC_150057,We have a great communicator here… want to guess who?,We have a great communicator here… want to guess who?
-NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.","Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you."
-NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.","I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t."
-NPC_150060,"Time is a strange thing, isn’t it?","Time is a strange thing, isn’t it?"
-NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Stock up on supplies before you leave. Better to have too much than too little.
-NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.","I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need."
-NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.","Hand over the Penya peacefully, and no one gets hurt."
-NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,Look at this gemstone! It’s not just jewelry—it’s art.
-NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.","I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you."
-NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.
-NPC_150067,Good armor is like having a second life.,Good armor is like having a second life.
-NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.
-NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.
-NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,A good weapon never betrays its wielder. Find one that suits you.
-NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.","Name’s Domir. Swords, axes, bows—whatever you need, I can forge it."
-NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.
-NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.","Attacking is important, but if you can’t defend yourself, you won’t last a battle."
-NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.","I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy."
-NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.","That shield won’t last long out here. Lucky for you, I’ve got a sturdier one."
-NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?
-NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.","I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere."
-NPC_150078,Fresh goods from the forest! Stock up before you travel.,Fresh goods from the forest! Stock up before you travel.
-NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,A staff or wand is just a tool. The real magic depends on the person holding it.
-NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.","I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power."
-NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.","Interested in magic? I’ve got wands, staves, robes—take a look."
-NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Color carries emotion. The flowers around here create shades no dye can match.
-NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.
-NPC_150084,Take a look.,Take a look.
-NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Wounds heal with time… but the right treatment helps a lot.
-NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.","I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting."
-NPC_150087,"Time is money, friend.","Time is money, friend."
-NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit."
-NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.
-NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.","If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly."
-NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,The stars reveal many things. Tonight’s constellations hint at change.
-NPC_150092,"I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.","I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say."
-NPC_150093,But I do believe you’re strong enough to face whatever comes.,But I do believe you’re strong enough to face whatever comes.
-NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,Hunting isn’t just catching prey—it’s understanding nature.
-NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.","I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job."
-NPC_150096,Wanna communicate with mother Nature? Follow me!,Wanna communicate with mother Nature? Follow me!
-NPC_150097,Trees are alive. I just help shape their lives into new forms.,Trees are alive. I just help shape their lives into new forms.
-NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.
-NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.","To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael."
-NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Dreams send messages from within. Understanding them can reveal the truth.
-NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?
-NPC_150102,Let me show you… a world of dreams and imagination.,Let me show you… a world of dreams and imagination.
-NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,The stars hold the stories of our ancestors. Their wisdom still guides us.
-NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.","I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack."
-NPC_150105,May the ancestors watch over you.,May the ancestors watch over you.
-NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.
-NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.","I’m Selin, a maker of perfumes. I wonder which scent suits you best."
-NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,The same fragrance smells different on everyone. That’s the magic of it.
-NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,Hey! Don’t tell the adults you saw me here. Seriously—don’t.
-NPC_150110,"I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.","I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself."
-NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,Grown-ups love saying “no.” It’s the one word I can’t stand.
-NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,Every event carries a lesson. A good story makes it easier to hear.
-NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,I’m Livia. I collect and share our people’s stories. Want to share yours?
-NPC_150114,Old legends always hide clues—ways to survive today.,Old legends always hide clues—ways to survive today.
-NPC_150115,"One day… I’ll earn their respect, no matter what it takes.","One day… I’ll earn their respect, no matter what it takes."
-NPC_150116,"I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.","I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more."
-NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.","If I say it out loud, I feel like everything might fall apart. So it stays a secret."
-NPC_150118,What are you doing here? Most people don’t even know this place exists.,What are you doing here? Most people don’t even know this place exists.
-NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.
-NPC_150120,Turn back. You’re not qualified.,Turn back. You’re not qualified.
-NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","Where did we go so wrong!? It’s good they aren’t attacking, but still…"
-NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.","I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly."
-NPC_150123,People—! A person is here! Help!,People—! A person is here! Help!
-NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Keeping watch here isn’t easy. You never know what might creep out of the darkness.
-NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.
-NPC_150126,Feeling brave today? Just remember—I warned you.,Feeling brave today? Just remember—I warned you.
-NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.","If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane."
-NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Earn 2 random Statue Effects (buffs or debuffs).
-NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Earn 1 Statue Buff (buff only).
-NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Change your current statue buff at random.
-NPC_150128,Just… leave me alone. I need to rest my eyes.,Just… leave me alone. I need to rest my eyes.
-NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.
-NPC_150130,Alone… I didn't stand a chance.,Alone… I didn't stand a chance.
-NPC_150131,Very well. What do you need?,Very well. What do you need?
-NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Stay vigilant. In wartime, a moment's carelessness can be fatal."
-NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Come see me if you're hurt. Proper treatment makes all the difference.
-NPC_150134,Safety is my responsibility here. I take that duty seriously.,Safety is my responsibility here. I take that duty seriously.
-NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","This place is quiet, but that doesn't mean we can let our guard down completely."
-NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,A soldier's watch must never fail. We protect this place with our lives.
-NPC_150137,I hope your visit brings good fortune to our village.,I hope your visit brings good fortune to our village.
-NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching."
-NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.","The ship left without me, but I can't dwell on that. Life goes on, and so must I."
-NPC_150140,Quick question—can you handle a task for me?,Quick question—can you handle a task for me?
-NPC_150141,I need someone reliable. Think you're up for it?,I need someone reliable. Think you're up for it?
-NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,I've got injured people piling up. Could you help me gather some supplies?
-NPC_150143,There's something dangerous out there. I need someone to investigate.,There's something dangerous out there. I need someone to investigate.
-NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,Bored of guard duty yet? I've got something more interesting if you're interested.
-NPC_150145,We've spotted suspicious activity. I need someone to check it out.,We've spotted suspicious activity. I need someone to check it out.
-NPC_150146,A visitor like you might be able to help with something the locals can't.,A visitor like you might be able to help with something the locals can't.
-NPC_150147,I overheard something important. Want to help me follow up on it?,I overheard something important. Want to help me follow up on it?
-NPC_150148,"I'm stuck here, but maybe you could help me with something back home?","I'm stuck here, but maybe you could help me with something back home?"
-NPC_150149,Our supplies are running low. Could you help me gather what we need?,Our supplies are running low. Could you help me gather what we need?
-NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,That shield you're carrying looks weak. I've got a job that might earn you a better one.
-NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","I've found some interesting gems, but I need help appraising them properly."
-NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","There's something I need to tell you… but first, can you help me with a small task?"
-NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Those Lycans are getting bolder. I need someone to help me track their movements.
-NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,I'm looking for a real fight. Think you can point me toward something challenging?
-NPC_150155,I've been working on some new colors. Want to help me test them out?,I've been working on some new colors. Want to help me test them out?
-NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,I've been hearing strange things in people's dreams lately. Can you help me investigate?
-NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,More wounded keep coming in. I could really use some help gathering medical supplies.
-NPC_150158,"I love this village, but there's something I need help protecting.","I love this village, but there's something I need help protecting."
-NPC_150159,The trees have been whispering. They want me to find something. Will you help?,The trees have been whispering. They want me to find something. Will you help?
-NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.","I've got some powerful magic tools, but I need help testing them safely."
-NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,You shouldn't be here. But since you are… maybe you can help me with something.
-NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,I've spotted some unusual Lycan movements. Want to help me scout the area?
-NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,I've been fighting for so long. Maybe you can help me finish this once and for all.
-NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,I've been having strange dreams about you. Want to help me understand what they mean?
-NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?","I collect stories, and I think yours might be worth hearing. But first, help me with something?"
-NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?","Those dogs won't come near us, but something else might. Want to help me keep watch?"
-NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?","I'm on patrol, but I spotted something that needs investigating. Care to join me?"
-NPC_150168,The stars are telling me something important. I need your help to understand it.,The stars are telling me something important. I need your help to understand it.
-NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?","I've got fresh food ready, but I need help delivering it to some people. Interested?"
-NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Hey, don't tell anyone you saw me, but I could use your help with something."
-NPC_150171,This village has secrets. I might share one if you help me with a task.,This village has secrets. I might share one if you help me with a task.
-NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.","I've been watching the constellations. Something's coming, and I need help preparing."
-NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,I've got injured soldiers who need better armor. Can you help me gather materials?
-NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","I thought I could handle it alone, but I was wrong. Can you help me finish what I started?"
-NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","The stars have shown me something about you. Help me, and I'll tell you what I saw."
-NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Good armor saves lives. I need help getting materials to make more. Can you assist?
-NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?","I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?"
-NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.","I've lived too long in one place. Help me with this, and maybe I can finally move on."
-NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?","I've been teaching the young ones, but there's something I need to learn myself. Can you help?"
-NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","I forge weapons, but I need rare materials. Think you can help me find them?"
-NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?","The village needs protection, and I need someone I can trust. Are you that person?"
-NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.","I'm an elder, and I've seen many things. Help me with this, and I'll share what I know."
+NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,¡Hola! Puede que tenga algo útil para ti. ¿Te importaría echar un vistazo a mi bolsa?
+NPC_100190,I'm just walking around and selling stuff.,Solo estoy caminando por aquí y vendiendo cosas.
+NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","No sé qué objetos estarán disponibles ni cuándo, así que regresa cuando tengas tiempo. Jeje."
+NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.","¡Arrr, tienes esa mirada en los ojos! Me recuerdas a cuando era un joven grumete, apenas con edad suficiente para amarrarme las botas. Ahí estaba yo, cara a cara con una tormenta que podría hundir al barco más feroz. ¡Pero aquí estoy, todavía respirando! Se necesita un poco de agallas para sobrevivir aquí fuera, pero creo que tienes lo necesario."
+NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!","¡Ahoy! ¡Soy el Capitán Sovann, el terror de los mares de Madrigal! He cruzado espadas y cañones en incontables batallas, y más de una de ellas fue contra las mismísimas fuerzas oscuras de Shade. ¡No hay muchos que puedan presumir de haber sobrevivido a tales encuentros! Si hay peligro que enfrentar o tesoro que saquear, ¡puedes apostar a que el viejo Sovann ha estado ahí!"
+NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!","Mientras te embarcas en tu viaje por estas aguas traicioneras y tierras encantadas, recuerda que la belleza de Madrigal es tan mortal como fascinante. ¡Mantén los ojos abiertos, audaz viajero, porque la aventura puede llamar, pero el peligro acecha bajo cada ola! ¡Que te vaya bien, y que las mareas te favorezcan hasta que nuestros caminos se vuelvan a cruzar!"
+NPC_100195,"Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!","¡Ahoy! Rostros nuevos como el tuyo traen un nuevo fuego a estas viejas velas. ¡Con un camarada como tú, podría encontrar la chispa para mi próxima gran aventura en alta mar!"
+NPC_100196,"Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!","Navegar por alta mar es más que una simple prueba de fuerza: es un arte, una mezcla de coraje, ingenio y el llamado de lo desconocido. Si tu corazón anhela la emoción del descubrimiento y el choque del acero, ¡sabe que estaré aquí, listo para darte la bienvenida en aventuras salvajes y grandiosas!"
+NPC_100197,"Uncover the secrets within the Revolutionary Journal, and great rewards await you",Descubre los secretos que oculta el Diario Revolucionario y te aguardarán grandes recompensas.
+NPC_150001,"I mean… what could really happen in a place this quiet? A short break won’t hurt, right?","Quiero decir… ¿qué podría pasar realmente en un lugar tan tranquilo? Un pequeño descanso no le hará daño a nadie, ¿verdad?"
+NPC_150002,"My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?","Mi nombre es Doran. Soy guardia de la estación de vuelo… aunque para ser honesto, es más aburrido de lo que esperaba. Vienes del otro lado del mar, ¿verdad? ¿Has visto algo interesante?"
+NPC_150003,"I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?","No reconozco a ninguno de ustedes. ¿Quiénes son? No serán de esos lobos, ¿verdad?"
+NPC_150004,"I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch.","Soy Chiron, un soldado estacionado aquí. Podemos perdonar a un anciano por fallar en una misión, pero no por descuidar su guardia."
+NPC_150005,"Hey, look at those clouds. Doesn’t that one look like a cat’s face?","Oye, mira esas nubes. ¿Acaso esa no se parece a la cara de un gato?"
+NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?","¡Hola, soy Bran! A veces escuchar es más importante que hacer guardia… ¿no crees?"
+NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?","Esta estación de vuelo se siente segura, ¿verdad? ¿Pero alguna vez has visto caer fuego del cielo en un lugar donde te creías a salvo?"
+NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.","Soy Karr. Si bajas la guardia en tiempos de guerra, ese momento podría ser el último."
+NPC_150009,…Do you need something?,…¿Necesitas algo?
+NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,Mi nombre es Zerke. Haz tus preguntas cortas. Ayudaré si puedo.
+NPC_150011,"It feels good to protect something, doesn’t it?","Se siente bien proteger algo, ¿no?"
+NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,Soy Elin. Mi trabajo es asegurarme de que todos los que pasen por aquí estén a salvo.
+NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Proteger una aldea no es sencillo. Todas esas vidas dependen de nosotros.
+NPC_150014,I am Gard. I’m one of the guardians who protect this place.,Soy Gard. Soy uno de los guardianes que protegen este lugar.
+NPC_150015,"Hello! Beautiful morning, isn’t it? I’m Gard.","¡Hola! Hermosa mañana, ¿verdad? Soy Gard."
+NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.","Incluso los gatos necesitan un descanso a veces. Aun así, el patrullaje nunca se detiene."
+NPC_150017,"I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.","Soy Liont. Si mis chistes se vuelven viejos, tenme paciencia. Mantendré a salvo esta aldea."
+NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,¿Por qué soy guardia? Porque es genial. Tan simple como eso.
+NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,¿La guerra? No le tengo miedo. Lucharé hasta mi último aliento.
+NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,Soy Serkan. ¿Necesitas una razón para luchar? Yo no. Solo disfruto enfrentar a enemigos fuertes.
+NPC_150021,Let’s make today a good one. Victory awaits.,Hagamos que hoy sea un buen día. La victoria nos aguarda.
+NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,¿Por qué esos perros no se nos acercan? Fácil. Le temen a nuestras garras.
+NPC_150023,Call me Kras. I protect this village.,Llamame Kras. Yo protejo esta aldea.
+NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,Yo solía ser un aventurero como tú… hasta que recibí una flecha en la rodilla.
+NPC_150025,A new face. I hope we stay on friendly terms.,Una cara nueva. Espero que mantengamos una relación amistosa.
+NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.",Soy Maeron. He luchado durante mucho tiempo y seguiré luchando hasta que ganemos.
+NPC_150027,You’re not ready.,No estás listo.
+NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Un gran día para patrullar. ¿Acaso existe el mal clima? Para mí no.
+NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,Mi nombre es Kerion. Estoy en patrullaje avísame si detectas algo extraño.
+NPC_150030,"Go, adventurer… go.","Ve, aventurero… ve."
+NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?","Es maravilloso ver a todos viviendo en paz, ¿verdad?"
+NPC_150032,I’m Raon! No one loves this village more than me.,¡Soy Raon! Nadie ama esta aldea más que yo.
+NPC_150033,You can’t pass.,No puedes pasar.
+NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","Mantén la calma. Si los soldados entran en pánico, ¿en quién confiarán los aldeanos?"
+NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","Soy Dreon, la leal mano derecha del Capitán Baron. Todo lo que hago es por esta aldea."
+NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,¿El tipo que está a mi lado? Tiene contactos. Dice que es amigo de alguien llamado Waldo.\n¿Sabes quién es?
+NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","Has llegado muy lejos… pero de aquí en adelante, las cosas podrían ponerse peligrosas."
+NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","Soy Merk, jefe de exploración. ¿Has visto alguna actividad de Licántropos?"
+NPC_150039,Quiet. Scouting only works if we stay hidden.,Silencio. El reconocimiento solo funciona si nos mantenemos ocultos.
+NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Proteger la aldea es un honor, pero nunca es fácil—especialmente cuando esas bestias allá afuera no dejan de mostrar los colmillos."
+NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","Soy Baron, capitán de los guardias de Eillun. Como el escudo y la espada de este lugar, no permitiré ninguna amenaza cerca de nuestra gente. Bajo mi mando, nadie se relaja."
+NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,Los Lycans se están volviendo más audaces. Mantén tu arma lista.
+NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,Esta aldea tiene una larga historia… una muy larga. Pero no necesitas saberlo todo. A veces el conocimiento se convierte en una carga.
+NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?","Soy Gaurang, el Jarl. He protegido esta aldea durante décadas. Mis huesos duelen por la edad, pero el más allá todavía se niega a llevarme. Extraño, ¿no?"
+NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Bienvenido a la Aldea Eillun. Espero que disfrutes tu estadía.
+NPC_150046,A new visitor… Let’s hope that’s a good sign.,Un nuevo visitante… Esperemos que sea una buena señal.
+NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.","Soy Ayr, uno de los ancianos. He ayudado a mantener en pie esta aldea durante mucho tiempo. Aunque últimamente ha sido más difícil. Quizás tú traigas el cambio."
+NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,*suspiro* El jarl me arrojó su trabajo encima otra vez hoy…\nSoy demasiado viejo para esto. Ni siquiera puedo retirarme en paz.
+NPC_150049,Do you always trust what you see? Think it through.,¿Siempre confías en lo que ves? Piénsalo bien.
+NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?","Soy el Anciano Traitus, encargado de los suministros. Ahora bien… ¿cómo se supone que voy a encontrar suficiente para hoy?"
+NPC_150051,We’re not like the Khajiit… not like them at all.,No somos como los Khajiit… no nos parecemos en nada.
+NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.","A veces, proteger la aldea requiere sacrificios. Es duro, pero es la verdad."
+NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.","Soy Melak, responsable de la seguridad junto con Baron. Las cosas empeoran cada día. Por favor, no me des otra razón para preocuparme. Te estaré vigilando."
+NPC_150054,It’s dangerous to go alone.,Es peligroso ir solo.
+NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,¿Cuánto tiempo vamos a quedarnos sentados? Tenemos que contraatacar y demostrarles quiénes somos.
+NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,Soy Silar. Hay una sola forma de proteger esta aldea: hacer que nuestros enemigos nos teman más de lo que nosotros les tememos a ellos.
+NPC_150057,We have a great communicator here… want to guess who?,Tenemos a un gran comunicador aquí… ¿quieres adivinar quién es?
+NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.","¿Es una bendición tener una vida larga? Quédate demasiado tiempo en un lugar del que debías irte, y el suelo empezará a sentirse como si se hundiera bajo tus pies."
+NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.","Soy Ebron, solo un viejo con demasiado tiempo libre. Vive lo suficiente y empezarás a notar cosas que los demás pasan por alto."
+NPC_150060,"Time is a strange thing, isn’t it?","El tiempo es algo extraño, ¿no crees?"
+NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Abastécete de suministros antes de irte. Es mejor tener demasiado que muy poco.
+NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.","Soy Liana, dueña de la tienda de artículos generales. Ya seas viajero o aldeano, me aseguraré de que consigas lo que necesitas."
+NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",Entrega el Penya pacíficamente y nadie saldrá herido.
+NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,¡Mira esta gema! No es solo joyería—es arte.
+NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.","Soy Teron. Cuando se trata de gemas, mis ojos son más afilados que los de cualquiera. Puedo encontrar la perfecta para ti."
+NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,¡Las joyas son arte! ¿Aprecias el arte? Entrena tu vista—tus habilidades podrían mejorar junto con ella.
+NPC_150067,Good armor is like having a second life.,Una buena armadura es como tener una segunda vida.
+NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,Soy Haret. Elegir una armadura no es cuestión de preferencia—es supervivencia. ¿Crees que encontrarás mejor calidad en otro lado? Lo dudo.
+NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,No encontrarás una armadura como esta en ningún otro lado. Compra hoy y hasta te haré un pequeño descuento.
+NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,Un buen arma nunca traiciona a su portador. Encuentra una que se adapte a ti.
+NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.","Mi nombre es Domir. Espadas, hachas, arcos… lo que necesites, puedo forjarlo."
+NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,¿Seguro que estás conforme con esa arma? Te mereces algo mejor. Déjame mostrarte algo bueno.
+NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.","Atacar es importante, pero si no puedes defenderte, no durarás ni una batalla."
+NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.","Soy Toran, el mejor fabricante de escudos de la aldea. Si necesitas que te forjen un escudo, soy tu hombre."
+NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.","Ese escudo no durará mucho aquí fuera. Por suerte para ti, tengo uno más resistente."
+NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,¡Recién salido del fuego! Incluso tengo una olla de sopa caliente. ¿Quieres un tazón?
+NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.","Soy Karen, la mejor cocinera de la aldea. Y no, mis recetas secretas no irán a ninguna parte."
+NPC_150078,Fresh goods from the forest! Stock up before you travel.,¡Productos frescos del bosque! Abastécete antes de viajar.
+NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,Un bastón o una varita es solo una herramienta. La verdadera magia depende de la persona que la sostiene.
+NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.","Soy Nebrah, vendedora de herramientas mágicas. Si sabes cómo usarlas correctamente, te traerán un gran poder."
+NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.","¿Te interesa la magia? Tengo varitas, bastones, túnicas… echa un vistazo."
+NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,El color transmite emociones. Las flores de por aquí crean tonos que ningún tinte puede igualar.
+NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,Soy Sena. Tiño telas con flores y plantas. Tu ropa se vería hermosa con mis colores.
+NPC_150084,Take a look.,Echa un vistazo.
+NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Las heridas sanan con el tiempo… pero el tratamiento adecuado ayuda mucho.
+NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.","Soy Rohan. Atiendo a los heridos. Solía ser un trabajo pacífico, pero últimamente ha sido agotador."
+NPC_150087,"Time is money, friend.","El tiempo es oro, amigo."
+NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","El conocimiento es el arma más fuerte. Esas bestias luchan con dientes, pero nosotros las derrotamos con ingenio."
+NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,Soy Belia. Les enseño a los jóvenes Myurans nuestra historia y sabiduría. El aprendizaje nunca termina.
+NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.","Si quieres compartir conocimientos con nosotros, más vale que te aprendas nuestro sistema de unidades. La Ley YP es genial, honestamente."
+NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,Las estrellas revelan muchas cosas. Las constelaciones de esta noche sugieren cambios.
+NPC_150092,"I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.","Soy Kerin. Leo las estrellas para vislumbrar el futuro. Tu destino… bueno, se supone que no debo decirlo."
+NPC_150093,But I do believe you’re strong enough to face whatever comes.,Pero creo firmemente que eres lo suficientemente fuerte como para enfrentar lo que venga.
+NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,Cazar no es solo atrapar a la presa—es entender la naturaleza.
+NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.","Soy Artin, el cazador de la aldea. Yo traigo la carne fresca. Esos perros lo han hecho más difícil últimamente, pero sigue siendo mi trabajo."
+NPC_150096,Wanna communicate with mother Nature? Follow me!,¿Quieres comunicarte con la madre Naturaleza? ¡Sígueme!
+NPC_150097,Trees are alive. I just help shape their lives into new forms.,Los árboles están vivos. Yo solo ayudo a moldear sus vidas en nuevas formas.
+NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,Soy Pael. Tallo las ramas caídas del gran árbol de la ciudad. Sus recuerdos viven a través de mi trabajo.
+NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.","Para hablar con los árboles vivos, debes usar tu verdadero nombre y poner tu corazón en ello. Yo soy Pael. Yo soy Pael."
+NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Los sueños envían mensajes desde el interior. Entenderlos puede revelar la verdad.
+NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,Soy Lumi. Escucho los sueños de las personas y las ayudo a encontrar su significado. ¿Has tenido alguno extraño últimamente?
+NPC_150102,Let me show you… a world of dreams and imagination.,Déjame mostrarte… un mundo de sueños e imaginación.
+NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,Las estrellas albergan las historias de nuestros ancestros. Su sabiduría aún nos guía.
+NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.","Soy Ivelyn. Estudio las constelaciones. Si aprendo lo suficiente, incluso podría predecir cuándo atacarán esos perros."
+NPC_150105,May the ancestors watch over you.,Que los ancestros velen por ti.
+NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,Un aroma puede guardar un recuerdo. Una gota de mi perfume podría traer de vuelta algo largamente olvidado.
+NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.","Soy Selin, creadora de perfumes. Me pregunto qué aroma se adaptará mejor a ti."
+NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,La misma fragancia huele diferente en cada persona. Esa es la magia de esto.
+NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,¡Oye! No les digas a los adultos que me viste aquí. En serio—no lo hagas.
+NPC_150110,"I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.","Soy Kaela. ¿Ir de regreso a casa? Ni hablar. Con lobos o sin ellos, puedo cuidarme sola."
+NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,"A los adultos les encanta decir ""no"". Es la única palabra que no soporto."
+NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,Cada evento trae una lección. Una buena historia hace que sea más fácil escucharla.
+NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,Soy Livia. Recopilo y comparto las historias de nuestra gente. ¿Quieres compartir la tuya?
+NPC_150114,Old legends always hide clues—ways to survive today.,Las viejas leyendas siempre esconden maneras de sobrevivir hoy.
+NPC_150115,"One day… I’ll earn their respect, no matter what it takes.","Un día… me ganaré su respeto, sin importar lo que cueste."
+NPC_150116,"I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.","Soy Taila. Es un secreto, pero en realidad soy la—… no, no debería decir más."
+NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.","Si lo digo en voz alta, siento que todo podría desmoronarse. Así que se queda en secreto."
+NPC_150118,What are you doing here? Most people don’t even know this place exists.,¿Qué estás haciendo aquí? La mayoría de la gente ni siquiera sabe que este lugar existe.
+NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,No estás listo para saber la verdad. Pero si te vuelves más fuerte… tal vez eso cambie.
+NPC_150120,Turn back. You’re not qualified.,Regresa. No estás calificado.
+NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","¿¡En qué nos equivocamos tanto!? Es bueno que no estén atacando, pero aun así…"
+NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.","Soy Beck, de Ciudad de Saint. Me uní a la Expedición del Nuevo Mundo y terminé varado aquí. Por desgracia, se me pasó el barco de regreso a casa."
+NPC_150123,People—! A person is here! Help!,¡Gente…! ¡Hay una persona aquí! ¡Ayuda!
+NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Mantener la vigilancia aquí no es fácil. Nunca sabes qué podría salir arrastrándose de la oscuridad.
+NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,¿Yo? Soy el guardián del Asilo de Ankou. Alguien tiene que asegurarse de que las pesadillas se queden adentro.
+NPC_150126,Feeling brave today? Just remember—I warned you.,¿Te sientes valiente hoy? Solo recuerda: te lo advertí.
+NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.","Si logras salir de la locura de Ankou, ven a buscarme. Me encantaría escuchar tu historia… asumiendo que sigas cuerdo."
+NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Obtén 2 efectos de estatua al azar (beneficios o perjuicios).
+NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Obtén 1 mejora de estatua (solo beneficio).
+NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Cambia tu mejora de estatua actual al azar.
+NPC_150128,Just… leave me alone. I need to rest my eyes.,Solo… déjame en paz. Necesito descansar los ojos.
+NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,Pensé que podría enfrentarlo solo… pero era mucho más fuerte de lo que esperaba. Por favor prepárate si planeas luchar contra él.
+NPC_150130,Alone… I didn't stand a chance.,Solo… no tuve ninguna oportunidad.
+NPC_150131,Very well. What do you need?,Muy bien. ¿Qué necesitas?
+NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Mantente alerta. En tiempos de guerra, un momento de descuido puede ser fatal."
+NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Ven a verme si estás herido. Un tratamiento adecuado marca la diferencia.
+NPC_150134,Safety is my responsibility here. I take that duty seriously.,La seguridad aquí es mi responsabilidad. Me tomo ese deber muy en serio.
+NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","Este lugar es tranquilo, pero eso no significa que podamos bajar la guardia por completo."
+NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,La guardia de un soldado nunca debe fallar. Protegemos este lugar con nuestras vidas.
+NPC_150137,I hope your visit brings good fortune to our village.,Espero que tu visita traiga buena fortuna a nuestra aldea.
+NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Presta atención a lo que escuchas. A veces, la información más importante llega cuando estás escuchando, no mirando."
+NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.","El barco se fue sin mí, pero no puedo estancarme en eso. La vida sigue, y yo también debo hacerlo."
+NPC_150140,Quick question—can you handle a task for me?,Una pregunta rápida—¿puedes encargarte de una tarea por mí?
+NPC_150141,I need someone reliable. Think you're up for it?,Necesito a alguien confiable. ¿Crees estar listo para el trabajo?
+NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,Se me están acumulando los heridos. ¿Podrías ayudarme a recolectar algunos suministros?
+NPC_150143,There's something dangerous out there. I need someone to investigate.,Hay algo peligroso allá afuera. Necesito a alguien que investigue.
+NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,¿Ya te aburrió el servicio de guardia? Tengo algo más interesante si te llama la atención.
+NPC_150145,We've spotted suspicious activity. I need someone to check it out.,Hemos detectado actividad sospechosa. Necesito a alguien que vaya a echar un vistazo.
+NPC_150146,A visitor like you might be able to help with something the locals can't.,Un visitante como tú podría ayudar con algo que los lugareños no pueden resolver.
+NPC_150147,I overheard something important. Want to help me follow up on it?,Escuché algo importante por ahí. ¿Quieres ayudarme a investigar al respecto?
+NPC_150148,"I'm stuck here, but maybe you could help me with something back home?","Estoy atrapado aquí, pero ¿tal vez podrías ayudarme con algo de mi hogar?"
+NPC_150149,Our supplies are running low. Could you help me gather what we need?,Nuestros suministros se están agotando. ¿Podrías ayudarte a recolectar lo que necesitamos?
+NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,Ese escudo que llevas parece débil. Tengo un trabajo con el que podrías conseguir uno mejor.
+NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","Encontré algunas gemas interesantes, pero necesito ayuda para tasarlas correctamente."
+NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","Hay algo que necesito decirte… pero primero, ¿puedes ayudarme con una pequeña tarea?"
+NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Esos Lycans se están volviendo más audaces. Necesito a alguien que me ayude a rastrear sus movimientos.
+NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,Busco una pelea de verdad. ¿Crees que puedas indicarme dónde encontrar algo desafiante?
+NPC_150155,I've been working on some new colors. Want to help me test them out?,He estado trabajando en algunos colores nuevos. ¿Quieres ayudarme a probarlos?
+NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,He estado escuchando cosas extrañas en los sueños de la gente últimamente. ¿Puedes ayudarme a investigar?
+NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,Siguen llegando más heridos. Realmente me vendría bien algo de ayuda para recolectar suministros médicos.
+NPC_150158,"I love this village, but there's something I need help protecting.","Amo esta aldea, pero hay algo en que necesito ayuda para proteger."
+NPC_150159,The trees have been whispering. They want me to find something. Will you help?,Los árboles han estado susurrando. Quieren que encuentre algo. ¿Me ayudarás?
+NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.","Tengo algunas herramientas mágicas poderosas, pero necesito ayuda para probarlas de forma segura."
+NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,No deberías estar aquí. Pero ya que estás… tal vez puedas ayudarme con algo.
+NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,He detectado algunos movimientos inusuales de los Lycans. ¿Quieres ayudarme a explorar la zona?
+NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,He estado luchando durante tanto tiempo. Tal vez puedas ayudarme a terminar con esto de una vez por todas.
+NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,He estado teniendo sueños extraños contigo. ¿Quieres ayudarme a entender qué significan?
+NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?","Colecciono historias y creo que valdría la pena escuchar la tuya. Pero primero, ¿me ayudas con algo?"
+NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?","Esos perros no se nos acercarán, pero algo más podría hacerlo. ¿Quieres ayudarme a vigilar?"
+NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?","Estoy de patrulla, pero divisé algo que necesita ser investigado. ¿Te interesa acompañarme?"
+NPC_150168,The stars are telling me something important. I need your help to understand it.,Las estrellas me están diciendo algo importante. Necesito tu ayuda para entenderlo.
+NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?","Tengo comida fresca lista, pero necesito ayuda para entregársela a algunas personas. ¿Te interesa?"
+NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Oye, no le digas a nadie que me viste, pero me vendría bien tu ayuda con algo."
+NPC_150171,This village has secrets. I might share one if you help me with a task.,Esta aldea tiene secretos. Podría compartir uno si me ayudas con una tarea.
+NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.",He estado observando las constelaciones. Algo se acerca y necesito ayuda para prepararme.
+NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,Tengo soldados heridos que necesitan mejor armadura. ¿Puedes ayudarme a recolectar materiales?
+NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","Pensé que podría manejarlo solo, pero me equivoqué. ¿Puedes ayudarme a terminar lo que empecé?"
+NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.",Las estrellas me han mostrado algo sobre ti. Ayúdame y te diré lo que vi.
+NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Una buena armadura salva vidas. Necesito ayuda para conseguir materiales y hacer más. ¿Puedes asistirme?
+NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?","Soy leal al Capitán Baron, pero hay algo que debo manejar personalmente. ¿Me ayudarías?"
+NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.",He vivido demasiado tiempo en un solo lugar. Ayúdame con esto y tal vez finalmente pueda seguir adelante.
+NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?","He estado enseñando a los más jóvenes, pero hay algo que yo mismo necesito aprender. ¿Puedes ayudarme?"
+NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","Forjo armas, pero necesito materiales raros. ¿Crees que puedas ayudarme a encontrarlos?"
+NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?",La aldea necesita protección y yo necesito a alguien en quien pueda confiar. ¿Eres tú esa persona?
+NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.",Soy un anciano y he visto muchas cosas. Ayúdame con esto y compartiré contigo lo que sé.
 NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,Las pesadillas se están intensificando. Necesito a alguien lo suficientemente valiente como para ayudarme a controlarlas.
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Últimamente la caza ha sido difícil. Necesito ayuda para rastrear alguna presa.
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,La seguridad empeora cada día. Necesito ayuda para investigar una amenaza.
 NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,¡Bienvenido a la #b#cffff0000Oficina de Misiones de Eillun#nc#nb! ¿Buscando algo de trabajo? Puede que tenga un trabajo para ti...
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,"¡Bienvenido a la Oficina de Misiones! Los ciudadanos locales han emitido las siguientes misiones. De la siguiente lista, selecciona la misión que deseas realizar."
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ","Mis disculpas, no hay misiones disponibles para un aventurero de tu talento y habilidad en este momento."
-NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
+NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","Mi nombre es Miorang y soy la encargada de la Oficina de Misiones de Eillun. Cuando nuestros ciudadanos publican una orden de caza u otra tarea, mi trabajo es encontrar al candidato adecuado para el puesto. ¡Vuelve de vez en cuando para ver si tengo algo disponible!"
 NPC_150190,Farewell!,¡Adiós!
 NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Bienvenido a la #b#cffff0000Oficina#nc#nb de Eillun. ¿Cómo te puedo ayudar?
 NPC_150192,"So what can you do for me, huh?","¿Entonces qué puedes hacer por mí, eh?"
-NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
+NPC_150193,Ugh... maybe next time.,Uf... tal vez la próxima vez.
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,Mi nombre es Cheirang y administro la Oficina de Eillun. ¿En qué puedo ayudarte hoy?
 NPC_150195,Farewell!,¡Adiós!
 NPC_150196,"Welcome to Eillun! Please, enjoy your stay!","¡Bienvenido a Eillun! ¡Por favor, disfruta tu estancia!"
 NPC_150197,"Hello, traveler. I have some missions for you!","Hola, viajero. ¡Tengo algunas misiones para ti!"
-NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
+NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun es el corazón del espíritu floreciente de Madrigal. Puede que nuestros árboles se eleven hasta los cielos, pero nuestra hospitalidad siempre llega más lejos. Si alguna vez necesitas guía, búscame bajo el Gran Florecimiento."
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,Soy el alcalde de Eillun. Lo que más valoro es la armonía de nuestras flores y de nuestra gente. ¿Cómo puedo asistirte hoy bajo nuestros grandes árboles?
 NPC_150200,Farewell!,¡Adiós!
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,He detectado un problema de seguridad que requiere atención inmediata. ¿Puedes solucionarlo?
-NPC_100198,Let luck do its thing.,Let luck do its thing.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
-NPC_100200,Wanna test your luck?,Wanna test your luck?
+NPC_100198,Let luck do its thing.,Deja que la suerte haga lo suyo.
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,Comercio con piezas y fortuna.\n¿Te gustaría probar tu suerte?
+NPC_100200,Wanna test your luck?,¿Quieres probar tu suerte?

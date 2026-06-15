@@ -200,7 +200,7 @@ CLIENT_HELP_INC_000198,Flurry,Ráfaga
 CLIENT_HELP_INC_000199,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.,Un ataque rápido de puñaladas que sigue a Golpe Limpio en la Barra de Combo. Esta habilidad está disponible al Nivel 5 para los Jugadores que tengan al menos 3 Puntos de Habilidad en Golpe Limpio y se puede usar con cualquier Arma Cuerpo a cuerpo.
 CLIENT_HELP_INC_000200,Over Cutter,Corte Final
 CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,Este ataque reúne todo el poder que tiene el Vagrant y lo desata en un fuerte golpe final hacia arriba. Corte Final completa el combo después de Ráfaga en la Barra de Combo. Esta habilidad está disponible al Nivel 10 para los Jugadores que tienen al menos 3 Puntos de Habilidad en Ráfaga y se puede usar con cualquier Arma Cuerpo a cuerpo.
-CLIENT_HELP_INC_000202,Mercenary,Mercenary
+CLIENT_HELP_INC_000202,Mercenary,Mercenario
 CLIENT_HELP_INC_000203,"Mercenaries prefer to partake in close range combat. The main characteristics of this particular class involve physical strength, and a strong body that is able to withstand attacks.",Los Mercenarys prefieren participar en combates cuerpo a cuerpo. Las principales características de esta clase en particular son la fuerza física y un cuerpo fuerte capaz de resistir los ataques.
 CLIENT_HELP_INC_000204,"Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight.","Potente y testarudo, el mercenario tiene fuerza tanto interior como física. Los mercenarios se convertirán en Cuchilla o Caballero."
 CLIENT_HELP_INC_000205,PH2,Cuchillada
@@ -233,7 +233,7 @@ CLIENT_HELP_INC_000231,Blazing Sword,Espada Llameante
 CLIENT_HELP_INC_000232,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.,Aumenta el nivel de ataque y la precisión de una Espada. Esta habilidad está disponible al Nivel 25 para los Jugadores que tengan al menos 4 Puntos de Habilidad en Arma Imbuida y se puede usar con cualquier Espada.
 CLIENT_HELP_INC_000233,Sword Mastery,Dominio de la Espada
 CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.,Aumenta el nivel de ataque de una Espada. Esta habilidad está disponible al Nivel 30 para los Jugadores que tengan al menos 9 Puntos de Habilidad en Espada Llameante y se puede usar con cualquier Espada.
-CLIENT_HELP_INC_000235,Acrobat,Acrobat
+CLIENT_HELP_INC_000235,Acrobat,Acróbata
 CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.","Los Acrobats empuñan principalmente armas de larga distancia como Arcos o Yo-Yos. Usando tácticas basadas en la velocidad y la precisión, generalmente pueden derrotar a cualquiera que tenga la suficiente voluntad para luchar contra ellos. Astuto e ingenioso, el Acrobat es un gran embaucador."
 CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.","Los Acrobats usan MP para las Habilidades de Arco y FP para las Habilidades de Yo-Yo. Para Habilidades universales como Ilusión Oscura, usan FP. Un Acrobat se convertirá en Jester o en Ranger. "
 CLIENT_HELP_INC_000238,Pulling,Estirón
@@ -268,7 +268,7 @@ CLIENT_HELP_INC_000266,Aimed Shot,Disparo Preciso
 CLIENT_HELP_INC_000267,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.,Un disparo minuciosamente dirigido que tiene la posibilidad de causar el doble de daño al objetivo. Esta habilidad está disponible al Nivel 35 para los Jugadores que tengan al menos 5 Puntos de Habilidad en Dominio del Arco y se puede usar con cualquier Arco.
 CLIENT_HELP_INC_000268,Arrow Rain,Lluvia de Flechas
 CLIENT_HELP_INC_000269,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.,Una lluvia de flechas que cae sobre todos los enemigos en un amplio círculo alrededor del objetivo. Esta habilidad está disponible al Nivel 50 para los Jugadores que tengan al menos 5 Puntos de Habilidad en Disparo Preciso y se puede usar con cualquier Arco.
-CLIENT_HELP_INC_000270,Assist,Assist
+CLIENT_HELP_INC_000270,Assist,Asistente
 CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.",El Assist es el sacerdote o médico de Flyff. Las dos builds principales para esta clase son un sanador de apoyo completo o un guerrero. Ambos tienen las mismas habilidades para elegir. El Sanador necesitará un compañero para subir de nivel y el Guerrero puede mejorarse a sí mismo con buffs y luchar solo.
 CLIENT_HELP_INC_000272,The Assist may chose from Ringmaster or Billposter when the times comes to progress into a second Job.,El Assist puede escoger entre Ringmaster y Billposter cuando llega el momento de progresar a la segunda Clase.
 CLIENT_HELP_INC_000273,Heal,Cura
@@ -305,7 +305,7 @@ CLIENT_HELP_INC_000303,Burst Crack,Estallido de Grietas
 CLIENT_HELP_INC_000304,Smashes the ground and inflicts damage to enemies within the surrounding area. This skill is available at Level 28 to Players who have at least 4 Skill Points in Stone Hand and can be used with any Knuckle.,Golpea el suelo e inflige daño a los enemigos dentro del área circundante. Esta habilidad está disponible al Nivel 28 para los Jugadores que tengan al menos 4 Puntos de Habilidad en Mano de Piedra y se puede usar con cualquier arma de Nudillos.
 CLIENT_HELP_INC_000305,Power Fist,Puñetazo Poderoso
 CLIENT_HELP_INC_000306,A concentrated powerful strike. This skill is available at Level 35 to Players who have at least 4 Skill Points in Burst Crack and can be used with any Knuckle.,Un poderoso golpe concentrado. Esta habilidad está disponible al Nivel 35 para los Jugadores que tienen al menos 4 Puntos de Habilidad en Estallido de Grietas y se puede usar con cualquier arma de Nudillos.
-CLIENT_HELP_INC_000307,Magician,Magician
+CLIENT_HELP_INC_000307,Magician,Mago
 CLIENT_HELP_INC_000308,Magicians control powerful elemental magic with the use of wands or staves. Magicians benefit from high intelligence.,Los Magicians controlan una poderosa magia elemental con el uso de varitas o bastones. Los Magicians se benefician de un alto nivel de inteligencia.
 CLIENT_HELP_INC_000309,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.,Un Magician podrá avanzar en su Clase para convertirse en Elementor o en Psykeeper.
 CLIENT_HELP_INC_000310,Mental Strike,Golpe Mental
@@ -380,7 +380,7 @@ CLIENT_HELP_INC_000378,Cross Strike,Golpe Cruzado
 CLIENT_HELP_INC_000379,A strong attack is dealt to the enemy with both weapons at once. This skill is available at Level 75 to Players who have at least 7 Skill Points in Sonic Blade and can be used with a one handed Sword or Axe.,Lanza un fuerte ataque al enemigo con ambas armas a la vez. Esta habilidad está disponible al Nivel 75 para los Jugadores que tienen al menos 7 Puntos de Habilidad en Hoja Sónica y se puede usar con una Espada o Hacha de una mano.
 CLIENT_HELP_INC_000380,Jester,Jester
 CLIENT_HELP_INC_000381,"The first job class for Acrobats, they specialize in strong attacks made with a Yo-yo.","Una segunda clase para los Acrobats, se especializan en ataques fuertes hechos con Yo-Yos."
-CLIENT_HELP_INC_000382,placholder 31,placholder 31
+CLIENT_HELP_INC_000382,placholder 31,marcador de posición 31
 CLIENT_HELP_INC_000383,Critical swing,Oscilación Crítica
 CLIENT_HELP_INC_000384,Increase the probability of a critical strike.,Incrementa la probabilidad de golpe critico.
 CLIENT_HELP_INC_000385,Enchant Poison,Encantamiento de Veneno
@@ -399,7 +399,7 @@ CLIENT_HELP_INC_000397,Vital Stab,Puñalada Vital
 CLIENT_HELP_INC_000398,"While using Dark Illusion, allows for a sudden attack from the shadows.","Bajo el efecto de Ilusión Oscura, permite atacar desde las sombras."
 CLIENT_HELP_INC_000399,Ranger,Ranger
 CLIENT_HELP_INC_000400,"The second job class for Acrobats, they specialize in long distance attacks, mainly with a bow.","Una segunda clase para los Acrobats, se especializan en ataques a larga distancia, principalmente con arcos."
-CLIENT_HELP_INC_000401,placholder 32,placholder 32
+CLIENT_HELP_INC_000401,placholder 32,marcador de posición 32
 CLIENT_HELP_INC_000402,Critical Shot,Disparo Crítico
 CLIENT_HELP_INC_000403,This skill increases Critical Hit for a limited time.,Aumenta la Probabilidad de Golpes Críticos por un tiempo limitado.
 CLIENT_HELP_INC_000404,Ice Arrow,Flecha Congelada
@@ -518,10 +518,10 @@ CLIENT_HELP_INC_000516,Job,Clase
 CLIENT_HELP_INC_000517,This shows the job/class that the player has chosen for his character.,Muestra la clase que el jugador a elegido para su personaje.
 CLIENT_HELP_INC_000518,Level,Nivel
 CLIENT_HELP_INC_000519,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.,Esto aumentará a medida que acumules experiencia. Ganarás nuevos Puntos de Estadística y de Habilidad al alcanzar un nuevo nivel.
-CLIENT_HELP_INC_000520,placholder 33,placholder 33
-CLIENT_HELP_INC_000521,placholder 34,placholder 34
-CLIENT_HELP_INC_000522,placholder 35,placholder 35
-CLIENT_HELP_INC_000523,placholder 36,placholder 36
+CLIENT_HELP_INC_000520,placholder 33,marcador de posición 33
+CLIENT_HELP_INC_000521,placholder 34,marcador de posición 34
+CLIENT_HELP_INC_000522,placholder 35,marcador de posición 35
+CLIENT_HELP_INC_000523,placholder 36,marcador de posición 36
 CLIENT_HELP_INC_000524,Strength,Fuerza
 CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,Incrementa el poder de ataque de las armas excepto de las Varitas y los Arcos.
 CLIENT_HELP_INC_000526,Stamina,Aguante
@@ -584,16 +584,16 @@ CLIENT_HELP_INC_000582,General Upgrade,Mejora General
 CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice are required to upgrade, there are 5 types of Power Dice, 4, 6, 8, 10 and 12.","Mejora normal significa que es una mejora no elemental. Los Dados de Poder son necesarios para la mejora, hay 5 tipos, 4, 6, 8, 10 y 12."
 CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,Mejora a Arma Ultimate
 CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.","Puedes hacer un Arma Definitiva con un arma única mejorada a +10 usando la Mejora de Arma Definitiva. La mejora máxima para un arma definitiva es de hasta +10, igual que cualquier otra mejora de objeto, pero necesitas 'Orikalkum Brillante'. La mejora Definitiva está disponible solo para armas, y el objeto se destruye en caso de fallar. A partir de +6 puedes engarzar tu arma."
-CLIENT_HELP_INC_000586,placholder 39,placholder 39
-CLIENT_HELP_INC_000587,placholder 40,placholder 40
-CLIENT_HELP_INC_000588,placholder 41,placholder 41
-CLIENT_HELP_INC_000589,placholder 42,placholder 42
-CLIENT_HELP_INC_000590,placholder 43,placholder 43
-CLIENT_HELP_INC_000591,placholder 44,placholder 44
-CLIENT_HELP_INC_000592,placholder 45,placholder 45
-CLIENT_HELP_INC_000593,placholder 46,placholder 46
-CLIENT_HELP_INC_000594,placholder 47,placholder 47
-CLIENT_HELP_INC_000595,placholder 48,placholder 48
+CLIENT_HELP_INC_000586,placholder 39,marcador de posición 39
+CLIENT_HELP_INC_000587,placholder 40,marcador de posición 40
+CLIENT_HELP_INC_000588,placholder 41,marcador de posición 41
+CLIENT_HELP_INC_000589,placholder 42,marcador de posición 42
+CLIENT_HELP_INC_000590,placholder 43,marcador de posición 43
+CLIENT_HELP_INC_000591,placholder 44,marcador de posición 44
+CLIENT_HELP_INC_000592,placholder 45,marcador de posición 45
+CLIENT_HELP_INC_000593,placholder 46,marcador de posición 46
+CLIENT_HELP_INC_000594,placholder 47,marcador de posición 47
+CLIENT_HELP_INC_000595,placholder 48,marcador de posición 48
 CLIENT_HELP_INC_000596,Building,Edificios
 CLIENT_HELP_INC_000597,Information about the buildings that provide services.,Información sobre los edificios que prestan servicios.
 CLIENT_HELP_INC_000598,Lodestar,Estrella de Vida
@@ -663,63 +663,63 @@ CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you w
 CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.","En caso de que seas el líder de tu guild y hagas clic en otro líder de guild, podéis hacer un duelo de guilds, si el otro líder lo acepta."
 CLIENT_HELP_INC_000663,The result of PVP and Fame,El resultado de PvP y Fama
 CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,Los puntos y fama PvP cambian de acuerdo a tu rendimiento PvP.
-CLIENT_HELP_INC_000665,placholder 49,placholder 49
-CLIENT_HELP_INC_000666,placholder 50,placholder 50
-CLIENT_HELP_INC_000667,placholder 51,placholder 51
-CLIENT_HELP_INC_000668,placholder 52,placholder 52
-CLIENT_HELP_INC_000669,placholder 53,placholder 53
-CLIENT_HELP_INC_000670,placholder 54,placholder 54
-CLIENT_HELP_INC_000671,placholder 55,placholder 55
-CLIENT_HELP_INC_000672,placholder 56,placholder 56
-CLIENT_HELP_INC_000673,placholder 57,placholder 57
-CLIENT_HELP_INC_000674,placholder 58,placholder 58
-CLIENT_HELP_INC_000675,placholder 59,placholder 59
-CLIENT_HELP_INC_000676,placholder 60,placholder 60
-CLIENT_HELP_INC_000677,placholder 61,placholder 61
-CLIENT_HELP_INC_000678,placholder 62,placholder 62
-CLIENT_HELP_INC_000679,placholder 63,placholder 63
-CLIENT_HELP_INC_000680,placholder 64,placholder 64
-CLIENT_HELP_INC_000681,placholder 65,placholder 65
-CLIENT_HELP_INC_000682,placholder 66,placholder 66
+CLIENT_HELP_INC_000665,placholder 49,marcador de posición 49
+CLIENT_HELP_INC_000666,placholder 50,marcador de posición 50
+CLIENT_HELP_INC_000667,placholder 51,marcador de posición 51
+CLIENT_HELP_INC_000668,placholder 52,marcador de posición 52
+CLIENT_HELP_INC_000669,placholder 53,marcador de posición 53
+CLIENT_HELP_INC_000670,placholder 54,marcador de posición 54
+CLIENT_HELP_INC_000671,placholder 55,marcador de posición 55
+CLIENT_HELP_INC_000672,placholder 56,marcador de posición 56
+CLIENT_HELP_INC_000673,placholder 57,marcador de posición 57
+CLIENT_HELP_INC_000674,placholder 58,marcador de posición 58
+CLIENT_HELP_INC_000675,placholder 59,marcador de posición 59
+CLIENT_HELP_INC_000676,placholder 60,marcador de posición 60
+CLIENT_HELP_INC_000677,placholder 61,marcador de posición 61
+CLIENT_HELP_INC_000678,placholder 62,marcador de posición 62
+CLIENT_HELP_INC_000679,placholder 63,marcador de posición 63
+CLIENT_HELP_INC_000680,placholder 64,marcador de posición 64
+CLIENT_HELP_INC_000681,placholder 65,marcador de posición 65
+CLIENT_HELP_INC_000682,placholder 66,marcador de posición 66
 CLIENT_HELP_INC_000683,Server,Servidor
 CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,El Almacén de la Guild y las Batallas de Guilds solo están disponibles en el servidor 1.
-CLIENT_HELP_INC_000685,placholder 67,placholder 67
-CLIENT_HELP_INC_000686,placholder 68,placholder 68
-CLIENT_HELP_INC_000687,placholder 69,placholder 69
-CLIENT_HELP_INC_000688,placholder 70,placholder 70
-CLIENT_HELP_INC_000689,placholder 71,placholder 71
-CLIENT_HELP_INC_000690,placholder 72,placholder 72
-CLIENT_HELP_INC_000691,placholder 73,placholder 73
-CLIENT_HELP_INC_000692,placholder 74,placholder 74
-CLIENT_HELP_INC_000693,placholder 75,placholder 75
-CLIENT_HELP_INC_000694,placholder 76,placholder 76
-CLIENT_HELP_INC_000695,placholder 77,placholder 77
-CLIENT_HELP_INC_000696,placholder 78,placholder 78
-CLIENT_HELP_INC_000697,placholder 79,placholder 79
-CLIENT_HELP_INC_000698,placholder 80,placholder 80
-CLIENT_HELP_INC_000699,placholder 81,placholder 81
-CLIENT_HELP_INC_000700,placholder 82,placholder 82
-CLIENT_HELP_INC_000701,placholder 83,placholder 83
-CLIENT_HELP_INC_000702,placholder 84,placholder 84
-CLIENT_HELP_INC_000703,placholder 85,placholder 85
+CLIENT_HELP_INC_000685,placholder 67,marcador de posición 67
+CLIENT_HELP_INC_000686,placholder 68,marcador de posición 68
+CLIENT_HELP_INC_000687,placholder 69,marcador de posición 69
+CLIENT_HELP_INC_000688,placholder 70,marcador de posición 70
+CLIENT_HELP_INC_000689,placholder 71,marcador de posición 71
+CLIENT_HELP_INC_000690,placholder 72,marcador de posición 72
+CLIENT_HELP_INC_000691,placholder 73,marcador de posición 73
+CLIENT_HELP_INC_000692,placholder 74,marcador de posición 74
+CLIENT_HELP_INC_000693,placholder 75,marcador de posición 75
+CLIENT_HELP_INC_000694,placholder 76,marcador de posición 76
+CLIENT_HELP_INC_000695,placholder 77,marcador de posición 77
+CLIENT_HELP_INC_000696,placholder 78,marcador de posición 78
+CLIENT_HELP_INC_000697,placholder 79,marcador de posición 79
+CLIENT_HELP_INC_000698,placholder 80,marcador de posición 80
+CLIENT_HELP_INC_000699,placholder 81,marcador de posición 81
+CLIENT_HELP_INC_000700,placholder 82,marcador de posición 82
+CLIENT_HELP_INC_000701,placholder 83,marcador de posición 83
+CLIENT_HELP_INC_000702,placholder 84,marcador de posición 84
+CLIENT_HELP_INC_000703,placholder 85,marcador de posición 85
 CLIENT_HELP_INC_100000,Achievements,Logros
 CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!","Hay muchos tipos de misiones: Misiones Diarias, Eventos con Tiempo Limitado, Logros de Cuenta Compartidos, etc. ¡Complétalas para conseguir distintas recompensas como Objetos, Títulos, Bonus de Ataque, Penya o fCoins Bonus!"
 CLIENT_HELP_INC_100002,Flyff Pass,Pase de batalla
 CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Flyff Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.","¡Completa misiones diarias, semanales y de temporada para recibir recompensas!\n\nNo olvides reclamar tus recompensas antes de que finalice la temporada del Pase de Batalla.\n\nLos puntos ganados a través de las misiones de temporada no están incluidos en el límite semanal."
-CLIENT_HELP_INC_100004,Equipment Switch,Interruptor de Equipo
+CLIENT_HELP_INC_100004,Equipment Switch,Cambiador de Equipo
 CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.","Crea ajustes preestablecidos de equipos, lo que te permitirá tener tus conjuntos, armas y accesorios disponibles. Con un simple atajo, puedes usarlos sin esfuerzo ni problema."
 CLIENT_HELP_INC_100006,Create ultimate weapon,Crea Arma Definitiva
-CLIENT_HELP_INC_100007,Kalgas Assault Revival,Kalgas Assault Revival
-CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Flyff Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Flyff Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20)."
-CLIENT_HELP_INC_100009,Couple Menu,Couple Menu
-CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled."
-CLIENT_HELP_INC_100011,Life,Life
-CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time."
-CLIENT_HELP_INC_100013,Fishing Menu,Fishing Menu
-CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button."
-CLIENT_HELP_INC_100015,Pet Training,Pet Training
-CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
-CLIENT_HELP_INC_100017,Housing Objects,Housing Objects
+CLIENT_HELP_INC_100007,Kalgas Assault Revival,Reanimación de Asalto de Kalgas
+CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Flyff Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","En el Asalto de Kalgas, cada resurrección tras morir toma una cierta cantidad de tiempo y aumenta según el número de muertes (hasta un máximo de 1 minuto).\nUsar Monedas de Kalgas te permitirá resucitar sin tiempo de espera; este objeto se puede comprar en la Tienda Flyff.\nLas Monedas de Plata de Kalgas solo se pueden usar una vez, mientras que las Monedas de Oro de Kalgas ofrecen resurrecciones ilimitadas.\n*Las Monedas de Oro de Kalgas requieren una cantidad mayor cada vez que se utilizan (hasta un máximo de 20)."
+CLIENT_HELP_INC_100009,Couple Menu,Menú de pareja
+CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","Esta ventana gestiona tu sistema de pareja. A través de ella, puedes revisar la información de tu pareja y utilizar las funciones disponibles para ambos. Cualquiera de los dos miembros puede usar todas las funciones. Los límites de uso diario para 'Teletransporte' y 'Animar' se restablecen todos los días a las 00:00. \n\nSi haces clic en el botón 'Romper', le enviarás una solicitud de ruptura a tu pareja. Si la solicitud es rechazada o no se recibe respuesta, podrás notificar la ruptura de forma directa tras un periodo de espera. Por favor, ten mucho cuidado: al romper con tu pareja, el anillo de pareja, los regalos de aniversario y todos los objetos guardados en el Almacén se eliminarán por completo, y las funciones de pareja quedarán desactivadas."
+CLIENT_HELP_INC_100011,Life,Vida
+CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","Esta ventana proporciona información sobre tus Habilidades de vida y te permite utilizar sus funciones relacionadas.\n\nHaz clic en el botón 'Establecer como experto' en la parte inferior para especializarte en una Habilidad de vida específica durante un periodo de tiempo determinado. Se aplicará un efecto de bonificación cuando elijas tu área de especialización.\n\nTen en cuenta que una vez establecida tu especialización, no podrás cambiarla durante un tiempo."
+CLIENT_HELP_INC_100013,Fishing Menu,Menú de pesca
+CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","Si tienes una caña de pescar y cebo, puedes pescar en cualquier orilla de Madrigal.\nAntes de empezar a pescar, selecciona el cebo que quieras usar desde tu inventario y regístralo en la ventana emergente, luego haz clic en el botón de inicio para comenzar.\nUna vez que hayas lanzado el sedal, tendrás que esperar a que piquen.\nCuando piquen, jugarás un minijuego para capturar al pez. Tus probabilidades de pescar aumentan a medida que aciertas la dirección del movimiento del pez.\nSi no juegas al minijuego dentro del límite de tiempo, se considerará como intento fallido.\nAl final del minijuego, podrás ver si lograste pescar algo o no.\nMientras esperas a que piquen, puedes saltarte el minijuego marcando 'Omitir minijuego', y ver cuánto has pescado hasta el momento pulsando el botón 'Estado de pesca'."
+CLIENT_HELP_INC_100015,Pet Training,Entrenamiento de mascota
+CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","Puedes entrenar a una Mascota de crianza que tengas en tu inventario o en el inventario de la casa. Cada NPC cuidador tiene diferentes horarios e intervalos de alimentación.\n\nUna vez que hayas seleccionado la Mascota de crianza que deseas confiar al cuidador, #bya sea haciendo doble clic o arrastrándola y soltándola#nb, simplemente presiona el botón 'Listo' para iniciar el entrenamiento.\n\n#cffff0000Si decides cambiar de Mascota de crianza, el próximo horario de alimentación se restablecerá.#nc"
+CLIENT_HELP_INC_100017,Housing Objects,Objetos de vivienda
 CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Selecciona qué modelo de decoración quieres usar y haz clic en colocar. Luego sigue las instrucciones: \n\n- Clic izquierdo para colocar\n- Rueda del ratón para girar\n- Presione la rueda del ratón y el ratón hacia la izquierda/derecha para cambiar el tamaño.
-CLIENT_HELP_INC_100019,Production,Production
-CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"
+CLIENT_HELP_INC_100019,Production,Producción
+CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","Puedes proceder con la fabricación a través de esta ventana. Si seleccionas una receta de los filtros, verás la información de la misma y solo podrás fabricar los objetos que coincidan con ella.\nSi no seleccionas ninguna receta, puedes intentar fabricar combinando tus propios materiales para descubrir recetas ocultas.\nPuedes obtener Fichas de maestro mediante la fabricación aleatoria y al lograr un Gran éxito.\nObtendrás objetos de mejor calidad cuando consigas un Gran éxito."
